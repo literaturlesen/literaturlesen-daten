@@ -1,0 +1,105 @@
+<!DOCTYPE html><html dir="ltr" lang="de-DE"><head><meta charset="utf-8"><title>literaturlesen - Dokumentation</title></head><body></body>
+
+    
+
+            <div id="c714" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Open Data
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <h2>Über die Daten</h2>
+<p>Im Zentrum des Forschungsprojekts steht die anonymisierte Sammlung von Daten zum Leseverhalten der NutzerInnen, dem sogenannten Lesetagebuch. Die erfassten Daten werden in Form von Formulardaten (survey), Protokolldaten (log), als auch durch Abfrage der NutzerInnen während des Lesens, erfasst. Durch die technische Struktur der Daten wird eine Anonymisierung gewährleistet.</p>
+<h2>Erhebung</h2>
+<p>Die Daten wurden während der Nutzung der literaturlesen-App mit dem Einverständnis der Nutzer*innen gewonnen und stehen zur allgemeinen Nutzung und Beforschung zur Verfügung (MIT Lizenz).</p>
+<h2>Forschungsfragen</h2>
+<p>Folgende Forschungsfragen soll das Projekt beantworten.</p><table cellspacing="0" style="border-collapse:collapse" class="contenttable"> 	<tbody> 		<tr> 			<td><p> </p></td> 			<td><p><strong>Forschungsfrage</strong></p></td> 			<td><p><strong>Ergebnisse/Aussagen</strong></p></td> 		</tr> 		<tr> 			<td><p><strong>1</strong></p></td> 			<td><p>Wann lesen die NutzerInnen?</p></td> 			<td><p>Uhrzeiten, Wochentage</p></td> 		</tr> 		<tr> 			<td><p><strong>2</strong></p></td> 			<td><p>Wieviel lesen die NutzerInnen?</p></td> 			<td><p>Anzahl an Werken, Anzahl an Seiten, Reihenfolge der Texte, Linearität des Lesens, Vollständigkeit der gelesenen Texte</p></td> 		</tr> 		<tr> 			<td><p><strong>3</strong></p></td> 			<td><p>Wie lange lesen die NutzerInnen?</p></td> 			<td><p>pro Tag, pro Woche, …</p></td> 		</tr> 		<tr> 			<td><p><strong>4</strong></p></td> 			<td><p>Wie schnell lesen die NutzerInnen?</p></td> 			<td><p>Wörter pro Minute</p></td> 		</tr> 		<tr> 			<td><p><strong>5</strong></p></td> 			<td><p>Was lesen die NutzerInnen?</p></td> 			<td><p>Texte, Gattung, Wiederholungen, Textpassagen</p></td> 		</tr> 		<tr> 			<td><p><strong>6</strong></p></td> 			<td><p>Wie annotieren die NutzerInnen?</p></td> 			<td><p>Anzahl, Art, Annotationshäufigkeit nach Text oder Gattung</p></td> 		</tr> 		<tr> 			<td><p><strong>7</strong></p></td> 			<td><p>Nach was suchen die NutzerInnen?</p></td> 			<td><p>Suchbegriffe</p></td> 		</tr> 		<tr> 			<td><p><strong>8</strong></p></td> 			<td><p>Wo lesen die NutzerInnen?</p></td> 			<td><p>Anzahl an und Art der Leseorte</p></td> 		</tr> 	</tbody> </table><h2>Bereitgestellte Datenformate</h2>
+<p>Die erhobenen Daten stehen in drei Formaten für verschiedene Anwendungszwecke zur Verfügung.</p>
+<h3>JSON</h3>
+<p>Das JSON-Format ist besonders für Webanwendungen geeignet und ermöglicht die Darstellung der Daten in Objekt-Form. Die Datenstruktur ist auf verschiedene Dateien verteilt. Für die Log-Daten (log-YYYY-MM-DD.json) wird ein täglicher Datensatz abgelegt.</p>
+<h3>CSV</h3>
+<p>CSV ist perfekt geeignet tabellarische Daten auf einfache Art als Textdateien abzubilden und daher hoch kompatibel. Dabei werden Tabellenzeilen durch Zeilenumbrüche im Dokument gekennzeichnet und Spalten durch ein Symbol voneinander geteilt. Im Fall der literaturlesen-Daten ist dieser Separator ein Komma ",". Die Datenstruktur des Projekts ist in verschiedene CSV-Einzeldateien aufgeteilt. Die Log-Daten werden zudem täglich als Datei abgelegt (YYYY-MM-DD_literaturlesen.csv).</p>
+<h3>SQL</h3>
+<p>SQL ist die bekannteste Datenbankformat schlecht hin. Organisiert in Tabellen können vielfältige Strukturen abgebildet werden. Auch die literaturlesen-App erfasst ihre Daten in Form einer SQL-Tabelle. In doppelt anonymisierter Form können diese Daten heruntergeladen werden.</p>
+<h2>Struktur der Daten</h2>
+<p>Die Forschungsdaten werden bei der Erfassung in verschiedene Tabellen aufgeteilt und unterteilen sich in statische Daten und Nutzer*innendaten. Statische Daten sind Referenzen auf die gelesenen Texte (texts.json, SQL-Tabelle texte, texte_literaturlesen.csv) und die dazugehörigen Text-Elemente wie Absätze und Zeilen (textelements.json, SQL-Tabelle textelements, textelements_literaturlesen.csv). Die enthaltenen Daten haben ihren Ursprung in der Text-Grid-Datenbank und sind in der erfassten Form ohne Annotationen oder Meta-Daten gemeinfrei (<a href="https://www.textgrid.de/Digitale-Bibliothek" target="_blank" rel="noreferrer">https://www.textgrid.de/Digitale-Bibliothek)</a>.</p>
+<p>Die anonymisierten Nutzer*innendaten stellen den eigentlichen Schatz des Projekts dar und unterteilen sich in Umfragedaten (survey.json, SQL-Tabelle survey, survey_literaturlesen.csv) und Log- bzw. Protokolldaten (log-YYYY-MM-DD.json, YYYY-MM-DD_literaturlesen.csv, SQL Tabelle log und log_details).</p>
+<h3>Schema der Protokolldatenbank (log)</h3>
+<p>Die Forschungsdatenbank speichert Interaktionen der NutzerInnen mit der App und den Leseinhalten. Die Datenbank ist so gestaltet, dass sie sich in ihren Aktionen und Funktionen auch während des Projektverlaufs erweitern lässt.</p><table cellspacing="0" class="contenttable" style="border-collapse:collapse"> 	<tbody> 		<tr> 			<td><p><strong>Spalte</strong></p></td> 			<td><p><strong>Datenart</strong></p></td> 			<td><p><strong>Beispielwert(e)</strong></p></td> 			<td><p><strong>Beschreibung</strong></p></td> 		</tr> 		<tr> 			<td><p><strong>id</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>56</p></td> 			<td><p>Unique ID des Datenbankeintrags</p></td> 		</tr> 		<tr> 			<td><p><strong>time</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>1620127363511</p></td> 			<td><p>Unix-Timecode: Anzahl an Millisekunden seit 1.1.1970. Der Wert wird innerhalb der App generiert und nicht beim Eintrag in die Datenbank. Selektionen nach NutzerInnen müssen nach der Zeit sortiert werden, um eine Chronologie zu gewährleisten. Zeiten zwischen zwei Ereignissen lassen die Aussage über die Dauer der Aktion zu.</p></td> 		</tr> 		<tr> 			<td><p><strong>appid</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>365922d4df0fab5de253657b1590b5d3</p></td> 			<td><p>Zufälliger und einzigartiger Wert, welcher einmalig zum erstmaligen Start der App generiert wird. Alle Einträge mit derselben App-ID gehören zur selben NutzerIn. Die App-ID verknüpft Protokoll- und Formulardatenbank. In der öffentlichen Forschungsdatenbank wurde die randomisierte App-ID zusätzlich gehashed.</p></td> 		</tr> 		<tr> 			<td><p><strong>session</strong></p></td> 			<td><p>Alphanumerisch,</p> 			<p>Zeichenkette</p></td> 			<td><p>kmk224a</p></td> 			<td><p>Die Session wird für jede Sitzung erneut innerhalb der App erzeugt. Eine Änderung der Session findet auch statt, wenn die App aus dem Hintergrund erneut geöffnet wird. Folgen von Aktionen lassen sich so optimal abgrenzen und ermöglichen Aussagen über die Kontinuität des mobilen Lesens.</p></td> 		</tr> 		<tr> 			<td><p><strong>bereich</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>faust1, desknabenwunderhorn, impressum</p></td> 			<td><p>Seiten, Screens oder Texte der App als Wert codiert.</p></td> 		</tr> 		<tr> 			<td><p><strong>item</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>page1</p></td> 			<td><p>Das Item spezifiziert ggf. einen Bereich. Bei Texten sind es zum Beispiel die Seiten. Eine Codeliste wird erstellt und während des Projekts ergänzt.</p></td> 		</tr> 		<tr> 			<td><p><strong>action</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>Enter, EmojiOpen, EmojiConfirm, …</p></td> 			<td><p>Aktionen beschreiben in codierter Form, was die NutzerIn ggf. gerade mit dem Item in dem spezifischen Bereich macht. Z.B. beschreibt die Aktion „Enter“ immer das Betreten eines Bereichs. Aktionen und deren Bedeutung werden in einer Codeliste gepflegt.</p></td> 		</tr> 		<tr> 			<td><p><strong>value</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>Kommentar, 0.32111</p></td> 			<td><p>Das Value spezifiziert ggf. die Aktion und gibt z.B. bei einer Annotations-Aktion an, welche Art der Annotation erfolgte. Das Value ist demnach direkt von der Aktion abhängig. Bei einer Seitenangabe als Item spezifiziert das Value die genaue prozentuale Textposition oder einen Bezug auf eine Normseiten-Position. Auch komplexere Values können mittels Kommaseparierung oder Serialisierung enthalten sein.</p></td> 		</tr> 		<tr> 			<td><p><strong>words</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>400</p></td> 			<td><p>Gilt nur für Textfortschritte und zeigt an, wie viele Wörter auf der aktiven Seite betrachtet werden.</p></td> 		</tr> 	</tbody> </table><h3>Hilfsdatenbank: log_details</h3>
+<p>Die Log-Details erweitern und präzisieren die Log-Einträge vorallem beim Lesen. Dabei werden für jeden Lese-Protokollaufruf (log) die aufgerufenen Text-Elemente wie Absätze, Verse oder Zeilen notiert. Als Referenzen dienen Elemente aus der Tabelle textelements.</p><table cellspacing="0" style="border-collapse:collapse" class="contenttable"> 	<tbody> 		<tr> 			<td><p><strong>Spalte</strong></p></td> 			<td><p><strong>Datenart</strong></p></td> 			<td><p><strong>Beispielwert(e)</strong></p></td> 			<td><p><strong>Beschreibung</strong></p></td> 		</tr> 		<tr> 			<td><p><strong>id</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>56</p></td> 			<td><p>Unique ID des Datenbankeintrags</p></td> 		</tr> 		<tr> 			<td><p><strong>logid</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>21605</p></td> 			<td><p>Referenz auf den Wert log.id</p></td> 		</tr> 		<tr> 			<td><p><strong>elementid</strong></p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>effibriest-1-2-1-46</p></td> 			<td><p>Referenz auf das Text-Element textelements.elementid</p></td> 		</tr> 	</tbody> </table><h3>Schema der Formulardatenbank (survey)</h3>
+<p>Nach dem erstmaligen Öffnen der App können Nutzer*innen freiwillig demografische Daten beisteuern, welche den Datenstamm erweitern.</p><table cellspacing="0" style="border-collapse:collapse" class="contenttable"> 	<tbody> 		<tr> 			<td><p><strong>Spalte</strong></p></td> 			<td><p><strong>Datenart</strong></p></td> 			<td><p><strong>Beispielwert(e)</strong></p></td> 			<td><p><strong>Beschreibung</strong></p></td> 		</tr> 		<tr> 			<td><p><strong>id</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>56</p></td> 			<td><p>Unique ID des Datenbankeintrags</p></td> 		</tr> 		<tr> 			<td><p><strong>time</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>1620127363511</p></td> 			<td><p>Unix-Timecode: Anzahl an Millisekunden seit 1.1.1970. Der Wert wird innerhalb der App generiert und nicht beim Eintrag in die Datenbank. Selektionen nach NutzerInnen müssen nach der Zeit sortiert werden, um eine Chronologie zu gewährleisten. Zeiten zwischen zwei Ereignissen lassen die Aussage über die Dauer der Aktion zu.</p></td> 		</tr> 		<tr> 			<td><p><strong>appid</strong></p></td> 			<td><p>Alphanumerisch, Zeichenkette</p></td> 			<td><p>Fj3m652a031Q</p></td> 			<td><p>Zufälliger und einzigartiger Wert, welcher einmalig zum erstmaligen Start der App generiert wird. Alle Einträge mit derselben App-ID gehören zur selben NutzerIn. Die App-ID verknüpft Protokoll- und Formulardatenbank.</p></td> 		</tr> 		<tr> 			<td><p><strong>age</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>25</p></td> 			<td><p>Alter der NutzerIn.</p></td> 		</tr> 		<tr> 			<td><p><strong>gender</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>d, w, m</p></td> 			<td><p>Codiertes Geschlecht: d=divers, w=weiblich, m=männlich</p></td> 		</tr> 		<tr> 			<td><p><strong>language</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>deutsch, bilingual, other</p></td> 			<td><p>deutsch=Deutsch als Muttersprache, bilingual=zweisprachig, other=anders</p></td> 		</tr> 		<tr> 			<td><p><strong>beruflich</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>0/1</p></td> 			<td><p>Codierte Antwort: 0=Nein, 1=Ja</p></td> 		</tr> 		<tr> 			<td><p><strong>buecher</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>500</p></td> 			<td><p>Anzahl an Büchern analog und digital oder ggf. Codierte Antworten für eine Auswahloption.</p></td> 		</tr> 	</tbody> </table><h3>Statische Hilfstabelle: Texte-Datenbank (texte)</h3>
+<p>Die Texte-Datenbank (texte) ist eine Hilfsdatenbank und gibt eine Übersicht der 50 gemeinfreien, importierten Texte des Text-Grid-Projekts. Bei jedem Text-Update werden alle Einträge gelöscht und die Datenbank neu aufgebaut - weswegen die texte.id nicht statisch sind.</p><table cellspacing="0" style="border-collapse:collapse" class="contenttable"> 	<tbody> 		<tr> 			<td><p><strong>Spalte</strong></p></td> 			<td><p><strong>Datenart</strong></p></td> 			<td><p><strong>Beispielwert(e)</strong></p></td> 			<td><p><strong>Beschreibung</strong></p></td> 		</tr> 		<tr> 			<td><p><strong>id</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>1769</p></td> 			<td><p>Unique ID des Datenbankeintrags, welche bei jedem Update erneuert werden.</p></td> 		</tr> 		<tr> 			<td><p><strong>textid</strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>textgrid:pvts.0</p></td> 			<td><p>Textgrid-ID der zugrunde liegenden TEI-Datei</p></td> 		</tr> 		<tr> 			<td><p><strong>title</strong></p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>Ardinghello und die glückseligen Inseln</p></td> 			<td><p>Titel des Textes</p></td> 		</tr> 		<tr> 			<td><p><strong>type</strong></p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>prose</p></td> 			<td><p>Text-Typ: prose, verse, drama, other</p></td> 		</tr> 		<tr> 			<td><p><strong>shortname</strong></p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>ardinghellounddieglckseligeninseln</p></td> 			<td><p>Lesbarer, urlsicherer-Kurzname</p></td> 		</tr> 		<tr> 			<td><p><strong>author</strong></p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>Heinse, Wilhelm</p></td> 			<td><p>Name und Vorname des Autors</p></td> 		</tr> 	</tbody> </table><h3>Statische Hilfstabelle: Text-Elemente-Datenbank (textelements)</h3>
+<p>Die Texte-Elemente Datenbank (textelements) ist auch eine Hilfsdatenbank und beinhaltet die Text-Elemente (Verse, Absätze) aller Texte und deren Wortlänge.</p><table cellspacing="0" style="border-collapse:collapse" class="contenttable"> 	<tbody> 		<tr> 			<td><p><strong>Spalte</strong></p></td> 			<td><p><strong>Datenart</strong></p></td> 			<td><p><strong>Beispielwert(e)</strong></p></td> 			<td><p><strong>Beschreibung</strong></p></td> 		</tr> 		<tr> 			<td><p>id<strong> </strong></p></td> 			<td><p>Numerisch</p></td> 			<td><p>5667567</p></td> 			<td><p>Unique ID des Datenbankeintrags, welche bei jedem Update erneuert werden.</p></td> 		</tr> 		<tr> 			<td><p>elementid</p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>buntesteine-1-1-72</p></td> 			<td><p>Textgrid-ID der zugrunde liegenden TEI-Datei</p></td> 		</tr> 		<tr> 			<td><p>textid</p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>textgrid:pvts.0</p></td> 			<td><p>Textgrid-ID des TEI-Textes</p></td> 		</tr> 		<tr> 			<td><p>text</p></td> 			<td><p>Zeichenkette</p></td> 			<td><p>»Alfred,« sagte ich, »was ist dir denn?«</p></td> 			<td><p>Textinhalt des Text-Elements</p></td> 		</tr> 		<tr> 			<td><p>words</p></td> 			<td><p>Numerisch</p></td> 			<td><p>7</p></td> 			<td><p>Anzahl an Wörtern</p></td> 		</tr> 	</tbody> </table><p> </p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+
+
+
+</html>
