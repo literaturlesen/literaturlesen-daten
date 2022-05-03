@@ -1,1 +1,5645 @@
-[]
+[
+    {
+        "id": "7488",
+        "time": "1647746378732",
+        "appid": "4adfd7cb5adfcad42ad414458a6f9eeb",
+        "session": "l2txO",
+        "bereich": "reader_dermessias",
+        "item": "",
+        "action": "enter",
+        "value": "dermessias",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7489",
+        "time": "1647746377892",
+        "appid": "4adfd7cb5adfcad42ad414458a6f9eeb",
+        "session": "l2txO",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7490",
+        "time": "1647748778123",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "vqir7",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7491",
+        "time": "1647748913866",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "aq13E",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7492",
+        "time": "1647749432606",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7493",
+        "time": "1647749526447",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7494",
+        "time": "1647751226646",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7495",
+        "time": "1647751342518",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7496",
+        "time": "1647751359121",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7497",
+        "time": "1647751370984",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7498",
+        "time": "1647751379477",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "oZN3G",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7499",
+        "time": "1647776865894",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "rLBvN",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7500",
+        "time": "1647776866019",
+        "appid": "8d601e333979b9d4095ac1969907670e",
+        "session": "rLBvN",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7501",
+        "time": "1647778793041",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7502",
+        "time": "1647778799053",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7503",
+        "time": "1647778810360",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7504",
+        "time": "1647778837266",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7505",
+        "time": "1647778839683",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7506",
+        "time": "1647778910363",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7507",
+        "time": "1647778919346",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7508",
+        "time": "1647778921885",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7509",
+        "time": "1647778922161",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.315",
+        "words": "4810",
+        "elementids": [
+            "briefandenvater-0-1-1-1",
+            "briefandenvater-0-1-1-10",
+            "briefandenvater-0-1-1-12",
+            "briefandenvater-0-1-1-13",
+            "briefandenvater-0-1-1-14",
+            "briefandenvater-0-1-1-15",
+            "briefandenvater-0-1-1-16",
+            "briefandenvater-0-1-1-17",
+            "briefandenvater-0-1-1-18",
+            "briefandenvater-0-1-1-19",
+            "briefandenvater-0-1-1-2",
+            "briefandenvater-0-1-1-20",
+            "briefandenvater-0-1-1-21",
+            "briefandenvater-0-1-1-22",
+            "briefandenvater-0-1-1-23",
+            "briefandenvater-0-1-1-24",
+            "briefandenvater-0-1-1-25",
+            "briefandenvater-0-1-1-26",
+            "briefandenvater-0-1-1-27",
+            "briefandenvater-0-1-1-3",
+            "briefandenvater-0-1-1-4",
+            "briefandenvater-0-1-1-6",
+            "briefandenvater-0-1-1-7",
+            "briefandenvater-0-1-1-8",
+            "briefandenvater-0-1-1-9"
+        ]
+    },
+    {
+        "id": "7510",
+        "time": "1647778925884",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7511",
+        "time": "1647778928715",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7512",
+        "time": "1647778929193",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0171",
+        "words": "393",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0-1-1-1-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-3",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-4",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-3",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-4"
+        ]
+    },
+    {
+        "id": "7513",
+        "time": "1647778941270",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7514",
+        "time": "1647778960077",
+        "appid": "2bbd3e89e3a04a4485ec994d32b261ba",
+        "session": "NAeok",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0171",
+        "words": "389",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0-1-2-1-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-3",
+            "ausdemlebeneinestaugenichts-0-1-2-1-3-4",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-1",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-2",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-3",
+            "ausdemlebeneinestaugenichts-0-1-2-1-4-4"
+        ]
+    },
+    {
+        "id": "7515",
+        "time": "1647780374446",
+        "appid": "634ed47a93e63616d96166c5d7788b84",
+        "session": "8mOel",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7516",
+        "time": "1647780374428",
+        "appid": "634ed47a93e63616d96166c5d7788b84",
+        "session": "8mOel",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7517",
+        "time": "1647780400059",
+        "appid": "634ed47a93e63616d96166c5d7788b84",
+        "session": "g4nk2",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7518",
+        "time": "1647780400075",
+        "appid": "634ed47a93e63616d96166c5d7788b84",
+        "session": "g4nk2",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7519",
+        "time": "1647780587290",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "kunok",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7520",
+        "time": "1647780591072",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "kunok",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7521",
+        "time": "1647780599954",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "kunok",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7522",
+        "time": "1647780641727",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "kunok",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7523",
+        "time": "1647780996536",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7524",
+        "time": "1647780996563",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7525",
+        "time": "1647781006217",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7526",
+        "time": "1647781019034",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "9",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2"
+        ]
+    },
+    {
+        "id": "7527",
+        "time": "1647781029169",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7528",
+        "time": "1647781030127",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "499",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-3",
+            "dergrneheinrich-0-1-2-2-1-4"
+        ]
+    },
+    {
+        "id": "7529",
+        "time": "1647781030500",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "294",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-5"
+        ]
+    },
+    {
+        "id": "7530",
+        "time": "1647781030949",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "257",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-6"
+        ]
+    },
+    {
+        "id": "7531",
+        "time": "1647781031827",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "221",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5",
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7532",
+        "time": "1647781032195",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "811",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-6",
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7533",
+        "time": "1647781032517",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "757",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7534",
+        "time": "1647781034308",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "785",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7535",
+        "time": "1647781034680",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.007",
+        "words": "920",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7536",
+        "time": "1647781035056",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0074",
+        "words": "293",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7537",
+        "time": "1647781035429",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "278",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-11"
+        ]
+    },
+    {
+        "id": "7538",
+        "time": "1647781035779",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0083",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7539",
+        "time": "1647781036136",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0087",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7540",
+        "time": "1647781036881",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0096",
+        "words": "700",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3",
+            "dergrneheinrich-0-1-3-2-1-4"
+        ]
+    },
+    {
+        "id": "7541",
+        "time": "1647781037196",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0101",
+        "words": "336",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7542",
+        "time": "1647781038306",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0114",
+        "words": "100",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5"
+        ]
+    },
+    {
+        "id": "7543",
+        "time": "1647781038745",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "787",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-4",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7544",
+        "time": "1647781040364",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0122",
+        "words": "523",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7545",
+        "time": "1647781043418",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7546",
+        "time": "1647781045754",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0131",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7547",
+        "time": "1647781046806",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0135",
+        "words": "423",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7548",
+        "time": "1647781050622",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0144",
+        "words": "677",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7549",
+        "time": "1647781053256",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0149",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7550",
+        "time": "1647781074636",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.017",
+        "words": "263",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7551",
+        "time": "1647781091898",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0175",
+        "words": "940",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7552",
+        "time": "1647781093455",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.017",
+        "words": "677",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7553",
+        "time": "1647781094911",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0175",
+        "words": "940",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7554",
+        "time": "1647781097042",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.0184",
+        "words": "494",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7555",
+        "time": "1647781107878",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.0188",
+        "words": "231",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10"
+        ]
+    },
+    {
+        "id": "7556",
+        "time": "1647781111281",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0192",
+        "words": "527",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7557",
+        "time": "1647781115701",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page44",
+        "action": "enter",
+        "value": "0.0197",
+        "words": "296",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7558",
+        "time": "1647781116432",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0201",
+        "words": "178",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7559",
+        "time": "1647781121253",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0205",
+        "words": "474",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11",
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7560",
+        "time": "1647781142738",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.021",
+        "words": "64",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2"
+        ]
+    },
+    {
+        "id": "7561",
+        "time": "1647781162273",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0214",
+        "words": "551",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12",
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2",
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7562",
+        "time": "1647781166275",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.0219",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7563",
+        "time": "1647781166991",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0223",
+        "words": "1018",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7564",
+        "time": "1647781167445",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7565",
+        "time": "1647781213744",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "39",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7566",
+        "time": "1647781214249",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "c6T40",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7567",
+        "time": "1647781278881",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7568",
+        "time": "1647781278905",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7569",
+        "time": "1647781288481",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7570",
+        "time": "1647781288645",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "303",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-5"
+        ]
+    },
+    {
+        "id": "7571",
+        "time": "1647781288755",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "91",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5"
+        ]
+    },
+    {
+        "id": "7572",
+        "time": "1647781290928",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7573",
+        "time": "1647781291426",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "257",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-6"
+        ]
+    },
+    {
+        "id": "7574",
+        "time": "1647781291798",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "221",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5",
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7575",
+        "time": "1647781292147",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "811",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-6",
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7576",
+        "time": "1647781292495",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "757",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7577",
+        "time": "1647781294278",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "158",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7578",
+        "time": "1647781294644",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.007",
+        "words": "920",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7579",
+        "time": "1647781294986",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0074",
+        "words": "293",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7580",
+        "time": "1647781295346",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "278",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-11"
+        ]
+    },
+    {
+        "id": "7581",
+        "time": "1647781295671",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0083",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7582",
+        "time": "1647781296023",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0087",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7583",
+        "time": "1647781296779",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0096",
+        "words": "700",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3",
+            "dergrneheinrich-0-1-3-2-1-4"
+        ]
+    },
+    {
+        "id": "7584",
+        "time": "1647781297155",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0101",
+        "words": "336",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7585",
+        "time": "1647781298301",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0114",
+        "words": "100",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5"
+        ]
+    },
+    {
+        "id": "7586",
+        "time": "1647781298678",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "787",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-4",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7587",
+        "time": "1647781299067",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0122",
+        "words": "523",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7588",
+        "time": "1647781299788",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0131",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7589",
+        "time": "1647781300137",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0135",
+        "words": "423",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7590",
+        "time": "1647781300839",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0144",
+        "words": "677",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7591",
+        "time": "1647781301183",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0149",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7592",
+        "time": "1647781303423",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.017",
+        "words": "263",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7593",
+        "time": "1647781303797",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0175",
+        "words": "940",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7594",
+        "time": "1647781306462",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7595",
+        "time": "1647781316200",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.0184",
+        "words": "494",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7596",
+        "time": "1647781316652",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.0188",
+        "words": "231",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10"
+        ]
+    },
+    {
+        "id": "7597",
+        "time": "1647781317616",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0192",
+        "words": "527",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7598",
+        "time": "1647781318125",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page44",
+        "action": "enter",
+        "value": "0.0197",
+        "words": "296",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7599",
+        "time": "1647781318936",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0201",
+        "words": "178",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7600",
+        "time": "1647781321659",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0205",
+        "words": "474",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11",
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7601",
+        "time": "1647781323914",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.021",
+        "words": "64",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2"
+        ]
+    },
+    {
+        "id": "7602",
+        "time": "1647781324359",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0214",
+        "words": "551",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12",
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2",
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7603",
+        "time": "1647781324916",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.0219",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7604",
+        "time": "1647781325537",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0223",
+        "words": "1018",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7605",
+        "time": "1647781328099",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.0219",
+        "words": "1018",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7606",
+        "time": "1647781329112",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0223",
+        "words": "1018",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7607",
+        "time": "1647781329515",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7608",
+        "time": "1647781343476",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "39",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7609",
+        "time": "1647781343948",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7610",
+        "time": "1647781362800",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7611",
+        "time": "1647781387374",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page65",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7612",
+        "time": "1647781409727",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7613",
+        "time": "1647781442501",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0297",
+        "words": "776",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7614",
+        "time": "1647781640200",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "77Dsa",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page671",
+        "action": "lesezeichen",
+        "value": "28",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7615",
+        "time": "1647781654735",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7616",
+        "time": "1647781654713",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7617",
+        "time": "1647781664226",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "1081",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7618",
+        "time": "1647781667192",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7619",
+        "time": "1647781674832",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "1057",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7620",
+        "time": "1647781679573",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.0258",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7621",
+        "time": "1647781681171",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "39",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7622",
+        "time": "1647781681652",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7623",
+        "time": "1647781686896",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7624",
+        "time": "1647781687774",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0297",
+        "words": "776",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7625",
+        "time": "1647781724774",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7626",
+        "time": "1647781747830",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7627",
+        "time": "1647781753184",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "literaturmuseum_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7628",
+        "time": "1647781767040",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7629",
+        "time": "1647781771005",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "annotation",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7630",
+        "time": "1647781775651",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich, share, VlwMOekqbTqeb1eIhZqb5GfJw",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7631",
+        "time": "1647781805093",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7632",
+        "time": "1647781807513",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "annotation",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7633",
+        "time": "1647781808652",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "Qx5u2",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich, share, VlwMOekqbTqeb1eIhZqb5GfJw",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7634",
+        "time": "1647781824040",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7635",
+        "time": "1647781824019",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7636",
+        "time": "1647781833593",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7637",
+        "time": "1647781834154",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "9",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2"
+        ]
+    },
+    {
+        "id": "7638",
+        "time": "1647781836557",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7639",
+        "time": "1647781837585",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "499",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-3",
+            "dergrneheinrich-0-1-2-2-1-4"
+        ]
+    },
+    {
+        "id": "7640",
+        "time": "1647781837909",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "91",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5"
+        ]
+    },
+    {
+        "id": "7641",
+        "time": "1647781838218",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "257",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-6"
+        ]
+    },
+    {
+        "id": "7642",
+        "time": "1647781838493",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "221",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5",
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7643",
+        "time": "1647781838792",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "811",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-6",
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7644",
+        "time": "1647781839066",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "130",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7645",
+        "time": "1647781840531",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "785",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7646",
+        "time": "1647781840808",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.007",
+        "words": "920",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7647",
+        "time": "1647781841082",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0074",
+        "words": "293",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7648",
+        "time": "1647781841414",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "621",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7649",
+        "time": "1647781841714",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0083",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7650",
+        "time": "1647781842016",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0087",
+        "words": "150",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2"
+        ]
+    },
+    {
+        "id": "7651",
+        "time": "1647781843928",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7652",
+        "time": "1647781845054",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0096",
+        "words": "700",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3",
+            "dergrneheinrich-0-1-3-2-1-4"
+        ]
+    },
+    {
+        "id": "7653",
+        "time": "1647781845372",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0101",
+        "words": "336",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7654",
+        "time": "1647781846359",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0114",
+        "words": "100",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5"
+        ]
+    },
+    {
+        "id": "7655",
+        "time": "1647781846626",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "787",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-4",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7656",
+        "time": "1647781846908",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0122",
+        "words": "523",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7657",
+        "time": "1647781847515",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0131",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7658",
+        "time": "1647781847812",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0135",
+        "words": "423",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7659",
+        "time": "1647781848763",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0144",
+        "words": "947",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7",
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7660",
+        "time": "1647781849091",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0149",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7661",
+        "time": "1647781850610",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.017",
+        "words": "263",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7662",
+        "time": "1647781850933",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0175",
+        "words": "677",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7663",
+        "time": "1647781851265",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.0179",
+        "words": "494",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7664",
+        "time": "1647781851542",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.0184",
+        "words": "494",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7665",
+        "time": "1647781852258",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.0188",
+        "words": "231",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10"
+        ]
+    },
+    {
+        "id": "7666",
+        "time": "1647781852630",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0192",
+        "words": "527",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7667",
+        "time": "1647781853380",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0201",
+        "words": "178",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7668",
+        "time": "1647781853771",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0205",
+        "words": "474",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11",
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7669",
+        "time": "1647781854086",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.021",
+        "words": "64",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2"
+        ]
+    },
+    {
+        "id": "7670",
+        "time": "1647781854479",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0214",
+        "words": "551",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12",
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2",
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7671",
+        "time": "1647781855273",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0223",
+        "words": "1327",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3",
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7672",
+        "time": "1647781855649",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7673",
+        "time": "1647781858938",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "39",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7674",
+        "time": "1647781859358",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7675",
+        "time": "1647781862314",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7676",
+        "time": "1647781863022",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0297",
+        "words": "776",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7677",
+        "time": "1647781880033",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "296",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7678",
+        "time": "1647781890830",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "499",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-3",
+            "dergrneheinrich-0-1-2-2-1-4"
+        ]
+    },
+    {
+        "id": "7679",
+        "time": "1647781891115",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "91",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5"
+        ]
+    },
+    {
+        "id": "7680",
+        "time": "1647781891469",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "257",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-4",
+            "dergrneheinrich-0-1-2-2-1-6"
+        ]
+    },
+    {
+        "id": "7681",
+        "time": "1647781891789",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "221",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-5",
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7682",
+        "time": "1647781892132",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "811",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-6",
+            "dergrneheinrich-0-1-2-2-1-7",
+            "dergrneheinrich-0-1-2-2-1-8"
+        ]
+    },
+    {
+        "id": "7683",
+        "time": "1647781892839",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "130",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-7"
+        ]
+    },
+    {
+        "id": "7684",
+        "time": "1647781894180",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0061",
+        "words": "158",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7685",
+        "time": "1647781894404",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "785",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7686",
+        "time": "1647781894676",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.007",
+        "words": "920",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-8",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7687",
+        "time": "1647781894951",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0074",
+        "words": "436",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-2-2-1-9"
+        ]
+    },
+    {
+        "id": "7688",
+        "time": "1647781895233",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "621",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-10",
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7689",
+        "time": "1647781895489",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0083",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7690",
+        "time": "1647781895692",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0087",
+        "words": "486",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-11",
+            "dergrneheinrich-0-1-3-1-1-1",
+            "dergrneheinrich-0-1-3-2-1-1",
+            "dergrneheinrich-0-1-3-2-1-2",
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7691",
+        "time": "1647781896411",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0096",
+        "words": "700",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3",
+            "dergrneheinrich-0-1-3-2-1-4"
+        ]
+    },
+    {
+        "id": "7692",
+        "time": "1647781896672",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0101",
+        "words": "336",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-3"
+        ]
+    },
+    {
+        "id": "7693",
+        "time": "1647781897480",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0114",
+        "words": "100",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5"
+        ]
+    },
+    {
+        "id": "7694",
+        "time": "1647781897787",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "787",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-4",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7695",
+        "time": "1647781898092",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0122",
+        "words": "523",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-5",
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7696",
+        "time": "1647781898340",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0127",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7697",
+        "time": "1647781898593",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0131",
+        "words": "693",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-6",
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7698",
+        "time": "1647781898811",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0135",
+        "words": "423",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-6"
+        ]
+    },
+    {
+        "id": "7699",
+        "time": "1647781899396",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0144",
+        "words": "677",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8"
+        ]
+    },
+    {
+        "id": "7700",
+        "time": "1647781899636",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0149",
+        "words": "270",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-7"
+        ]
+    },
+    {
+        "id": "7701",
+        "time": "1647781901117",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.017",
+        "words": "263",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7702",
+        "time": "1647781901383",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0175",
+        "words": "940",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-8",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7703",
+        "time": "1647781901708",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.0179",
+        "words": "263",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7704",
+        "time": "1647781901982",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.0184",
+        "words": "494",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-9"
+        ]
+    },
+    {
+        "id": "7705",
+        "time": "1647781902275",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.0188",
+        "words": "231",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10"
+        ]
+    },
+    {
+        "id": "7706",
+        "time": "1647781902577",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0192",
+        "words": "527",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-10",
+            "dergrneheinrich-0-1-3-2-1-11"
+        ]
+    },
+    {
+        "id": "7707",
+        "time": "1647781903130",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0201",
+        "words": "178",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7708",
+        "time": "1647781903401",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0205",
+        "words": "474",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-11",
+            "dergrneheinrich-0-1-3-2-1-12"
+        ]
+    },
+    {
+        "id": "7709",
+        "time": "1647781903704",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.021",
+        "words": "551",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12",
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2",
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7710",
+        "time": "1647781903957",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0214",
+        "words": "551",
+        "elementids": [
+            "dergrneheinrich-0-1-3-2-1-12",
+            "dergrneheinrich-0-1-3-2-1-13",
+            "dergrneheinrich-0-1-4-1-1-1",
+            "dergrneheinrich-0-1-4-2-1-1",
+            "dergrneheinrich-0-1-4-2-1-2",
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7711",
+        "time": "1647781904480",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0223",
+        "words": "1018",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4"
+        ]
+    },
+    {
+        "id": "7712",
+        "time": "1647781904696",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "309",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-3"
+        ]
+    },
+    {
+        "id": "7713",
+        "time": "1647781906711",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0262",
+        "words": "39",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-5"
+        ]
+    },
+    {
+        "id": "7714",
+        "time": "1647781906993",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "1833",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-4",
+            "dergrneheinrich-0-1-4-2-1-5",
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7715",
+        "time": "1647781908471",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7716",
+        "time": "1647781908775",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0297",
+        "words": "776",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-6"
+        ]
+    },
+    {
+        "id": "7717",
+        "time": "1647781910437",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0315",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7718",
+        "time": "1647781910710",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.031",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7719",
+        "time": "1647781911128",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0306",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7720",
+        "time": "1647781967398",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page701",
+        "action": "lesezeichen",
+        "value": "28",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7721",
+        "time": "1647781977064",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.031",
+        "words": "545",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7"
+        ]
+    },
+    {
+        "id": "7722",
+        "time": "1647781977752",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0315",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7723",
+        "time": "1647781978460",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.031",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7724",
+        "time": "1647781983959",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0315",
+        "words": "317",
+        "elementids": [
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7725",
+        "time": "1647782015383",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0319",
+        "words": "862",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7",
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7726",
+        "time": "1647782018535",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "8jli6",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0315",
+        "words": "556",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7",
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2"
+        ]
+    },
+    {
+        "id": "7727",
+        "time": "1647782070815",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7728",
+        "time": "1647782070838",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7729",
+        "time": "1647782080346",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "1167",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3",
+            "dergrneheinrich-0-1-4-2-1-7",
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2",
+            "dergrneheinrich-0-1-5-2-1-3"
+        ]
+    },
+    {
+        "id": "7730",
+        "time": "1647782082858",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7731",
+        "time": "1647782116184",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page711",
+        "action": "anstreichen",
+        "value": "28",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7732",
+        "time": "1647782124792",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "2OQki",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0319",
+        "words": "556",
+        "elementids": [
+            "dergrneheinrich-0-1-4-2-1-7",
+            "dergrneheinrich-0-1-5-1-1-1",
+            "dergrneheinrich-0-1-5-2-1-1",
+            "dergrneheinrich-0-1-5-2-1-2"
+        ]
+    },
+    {
+        "id": "7733",
+        "time": "1647782840079",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7734",
+        "time": "1647782847201",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7735",
+        "time": "1647782857572",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7736",
+        "time": "1647782858772",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7737",
+        "time": "1647782859741",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7738",
+        "time": "1647782899589",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7739",
+        "time": "1647782914570",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7740",
+        "time": "1647782923112",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "titelblatt_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7741",
+        "time": "1647782929068",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "warum-lesen-wir_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7742",
+        "time": "1647782991146",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "titelblatt_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7743",
+        "time": "1647782993359",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "literaturmuseum_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7744",
+        "time": "1647783231462",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "titelblatt_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7745",
+        "time": "1647783242817",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7746",
+        "time": "1647783269574",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "titelblatt_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7747",
+        "time": "1647783270991",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7748",
+        "time": "1647783302518",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_derprozess",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0075",
+        "words": "1244",
+        "elementids": [
+            "derprozess-0-1-1-1-1",
+            "derprozess-0-1-2-1-1",
+            "derprozess-0-1-2-1-3"
+        ]
+    },
+    {
+        "id": "7749",
+        "time": "1647783314016",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_derprozess",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7750",
+        "time": "1647783319436",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "titelblatt_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7751",
+        "time": "1647783320773",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7752",
+        "time": "1647783371475",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7753",
+        "time": "1647783374504",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7754",
+        "time": "1647783388118",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "",
+        "action": "enter",
+        "value": "dermessias",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7755",
+        "time": "1647783389961",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0094",
+        "words": "1240",
+        "elementids": [
+            "derprozess-0-1-2-1-3"
+        ]
+    },
+    {
+        "id": "7756",
+        "time": "1647783410608",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.004",
+        "words": "575",
+        "elementids": [
+            "dermessias-0-1-1-1",
+            "dermessias-0-1-1-2-1",
+            "dermessias-0-1-1-2-10",
+            "dermessias-0-1-1-2-11",
+            "dermessias-0-1-1-2-2",
+            "dermessias-0-1-1-2-3",
+            "dermessias-0-1-1-2-4",
+            "dermessias-0-1-1-2-5",
+            "dermessias-0-1-1-2-6",
+            "dermessias-0-1-1-2-7",
+            "dermessias-0-1-1-2-8",
+            "dermessias-0-1-1-2-9",
+            "dermessias-1-1-1-2-10",
+            "dermessias-1-1-1-2-11",
+            "dermessias-1-1-1-2-12",
+            "dermessias-1-1-1-2-13",
+            "dermessias-1-1-1-2-14",
+            "dermessias-1-1-1-2-15",
+            "dermessias-1-1-1-2-16",
+            "dermessias-1-1-1-2-17",
+            "dermessias-1-1-1-2-5",
+            "dermessias-1-1-1-2-6",
+            "dermessias-1-1-1-2-7",
+            "dermessias-1-1-1-2-8",
+            "dermessias-1-1-1-2-9",
+            "dermessias-5-1-1-2-402",
+            "dermessias-5-1-1-2-403",
+            "dermessias-5-1-1-2-404",
+            "dermessias-5-1-1-2-405",
+            "dermessias-5-1-1-2-406",
+            "dermessias-5-1-1-2-407",
+            "dermessias-5-1-1-2-408",
+            "dermessias-5-1-1-2-409",
+            "dermessias-5-1-1-2-410",
+            "dermessias-5-1-1-2-411",
+            "dermessias-5-1-1-2-412",
+            "dermessias-5-1-1-2-413",
+            "dermessias-5-1-1-2-414",
+            "dermessias-5-1-1-2-415",
+            "dermessias-5-1-1-2-416",
+            "dermessias-5-1-1-2-417",
+            "dermessias-5-1-1-2-418",
+            "dermessias-5-1-1-2-419",
+            "dermessias-5-1-1-2-420",
+            "dermessias-5-1-1-2-421",
+            "dermessias-5-1-1-2-422",
+            "dermessias-5-1-1-2-423",
+            "dermessias-5-1-1-2-424",
+            "dermessias-5-1-1-2-425",
+            "dermessias-5-1-1-2-426",
+            "dermessias-5-1-1-2-427",
+            "dermessias-5-1-1-2-428",
+            "dermessias-5-1-1-2-429",
+            "dermessias-5-1-1-2-430",
+            "dermessias-5-1-1-2-431",
+            "dermessias-5-1-1-2-432",
+            "dermessias-5-1-1-2-433",
+            "dermessias-5-1-1-2-434",
+            "dermessias-5-1-1-2-435",
+            "dermessias-5-1-1-2-436",
+            "dermessias-5-1-1-2-437",
+            "dermessias-5-1-1-2-438",
+            "dermessias-5-1-1-2-439",
+            "dermessias-5-1-1-2-440"
+        ]
+    },
+    {
+        "id": "7757",
+        "time": "1647783413255",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7758",
+        "time": "1647783415980",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0033",
+        "words": "209",
+        "elementids": [
+            "dermessias-0-1-1-2-41",
+            "dermessias-0-1-1-2-42",
+            "dermessias-0-1-1-2-43",
+            "dermessias-0-1-1-2-44",
+            "dermessias-0-1-1-2-45",
+            "dermessias-0-1-1-2-46",
+            "dermessias-0-1-1-2-47",
+            "dermessias-0-1-1-2-48",
+            "dermessias-1-1-1-1",
+            "dermessias-1-1-1-2-1",
+            "dermessias-1-1-1-2-10",
+            "dermessias-1-1-1-2-11",
+            "dermessias-1-1-1-2-12",
+            "dermessias-1-1-1-2-13",
+            "dermessias-1-1-1-2-14",
+            "dermessias-1-1-1-2-15",
+            "dermessias-1-1-1-2-16",
+            "dermessias-1-1-1-2-2",
+            "dermessias-1-1-1-2-3",
+            "dermessias-1-1-1-2-4",
+            "dermessias-1-1-1-2-5",
+            "dermessias-1-1-1-2-6",
+            "dermessias-1-1-1-2-7",
+            "dermessias-1-1-1-2-8",
+            "dermessias-1-1-1-2-9"
+        ]
+    },
+    {
+        "id": "7759",
+        "time": "1647783416478",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "209",
+        "elementids": [
+            "dermessias-0-1-1-2-26",
+            "dermessias-0-1-1-2-27",
+            "dermessias-0-1-1-2-28",
+            "dermessias-0-1-1-2-29",
+            "dermessias-0-1-1-2-30",
+            "dermessias-0-1-1-2-31",
+            "dermessias-0-1-1-2-32",
+            "dermessias-0-1-1-2-33",
+            "dermessias-0-1-1-2-34",
+            "dermessias-0-1-1-2-35",
+            "dermessias-0-1-1-2-36",
+            "dermessias-0-1-1-2-37",
+            "dermessias-0-1-1-2-38",
+            "dermessias-0-1-1-2-39",
+            "dermessias-0-1-1-2-40",
+            "dermessias-0-1-1-2-41",
+            "dermessias-0-1-1-2-42",
+            "dermessias-0-1-1-2-43",
+            "dermessias-0-1-1-2-44",
+            "dermessias-0-1-1-2-45",
+            "dermessias-0-1-1-2-46",
+            "dermessias-0-1-1-2-47",
+            "dermessias-0-1-1-2-48",
+            "dermessias-1-1-1-1",
+            "dermessias-1-1-1-2-1",
+            "dermessias-1-1-1-2-2",
+            "dermessias-1-1-1-2-3",
+            "dermessias-1-1-1-2-4"
+        ]
+    },
+    {
+        "id": "7760",
+        "time": "1647783416992",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.002",
+        "words": "213",
+        "elementids": [
+            "dermessias-0-1-1-2-12",
+            "dermessias-0-1-1-2-13",
+            "dermessias-0-1-1-2-14",
+            "dermessias-0-1-1-2-15",
+            "dermessias-0-1-1-2-16",
+            "dermessias-0-1-1-2-17",
+            "dermessias-0-1-1-2-18",
+            "dermessias-0-1-1-2-19",
+            "dermessias-0-1-1-2-20",
+            "dermessias-0-1-1-2-21",
+            "dermessias-0-1-1-2-22",
+            "dermessias-0-1-1-2-23",
+            "dermessias-0-1-1-2-24",
+            "dermessias-0-1-1-2-25",
+            "dermessias-0-1-1-2-26",
+            "dermessias-0-1-1-2-27",
+            "dermessias-0-1-1-2-28",
+            "dermessias-0-1-1-2-29",
+            "dermessias-0-1-1-2-30",
+            "dermessias-0-1-1-2-31",
+            "dermessias-0-1-1-2-32",
+            "dermessias-0-1-1-2-33",
+            "dermessias-0-1-1-2-34",
+            "dermessias-0-1-1-2-35",
+            "dermessias-0-1-1-2-36",
+            "dermessias-0-1-1-2-37",
+            "dermessias-0-1-1-2-38",
+            "dermessias-0-1-1-2-39",
+            "dermessias-0-1-1-2-40"
+        ]
+    },
+    {
+        "id": "7761",
+        "time": "1647783417948",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "192",
+        "elementids": [
+            "dermessias-0-1-1-1",
+            "dermessias-0-1-1-2-1",
+            "dermessias-0-1-1-2-10",
+            "dermessias-0-1-1-2-11",
+            "dermessias-0-1-1-2-12",
+            "dermessias-0-1-1-2-13",
+            "dermessias-0-1-1-2-14",
+            "dermessias-0-1-1-2-15",
+            "dermessias-0-1-1-2-16",
+            "dermessias-0-1-1-2-17",
+            "dermessias-0-1-1-2-18",
+            "dermessias-0-1-1-2-19",
+            "dermessias-0-1-1-2-2",
+            "dermessias-0-1-1-2-20",
+            "dermessias-0-1-1-2-21",
+            "dermessias-0-1-1-2-22",
+            "dermessias-0-1-1-2-23",
+            "dermessias-0-1-1-2-24",
+            "dermessias-0-1-1-2-25",
+            "dermessias-0-1-1-2-3",
+            "dermessias-0-1-1-2-4",
+            "dermessias-0-1-1-2-5",
+            "dermessias-0-1-1-2-6",
+            "dermessias-0-1-1-2-7",
+            "dermessias-0-1-1-2-8",
+            "dermessias-0-1-1-2-9"
+        ]
+    },
+    {
+        "id": "7762",
+        "time": "1647783421402",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.002",
+        "words": "192",
+        "elementids": [
+            "dermessias-0-1-1-1",
+            "dermessias-0-1-1-2-1",
+            "dermessias-0-1-1-2-10",
+            "dermessias-0-1-1-2-11",
+            "dermessias-0-1-1-2-12",
+            "dermessias-0-1-1-2-13",
+            "dermessias-0-1-1-2-14",
+            "dermessias-0-1-1-2-15",
+            "dermessias-0-1-1-2-16",
+            "dermessias-0-1-1-2-17",
+            "dermessias-0-1-1-2-18",
+            "dermessias-0-1-1-2-19",
+            "dermessias-0-1-1-2-2",
+            "dermessias-0-1-1-2-20",
+            "dermessias-0-1-1-2-21",
+            "dermessias-0-1-1-2-22",
+            "dermessias-0-1-1-2-23",
+            "dermessias-0-1-1-2-24",
+            "dermessias-0-1-1-2-25",
+            "dermessias-0-1-1-2-3",
+            "dermessias-0-1-1-2-4",
+            "dermessias-0-1-1-2-5",
+            "dermessias-0-1-1-2-6",
+            "dermessias-0-1-1-2-7",
+            "dermessias-0-1-1-2-8",
+            "dermessias-0-1-1-2-9"
+        ]
+    },
+    {
+        "id": "7763",
+        "time": "1647783421928",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "213",
+        "elementids": [
+            "dermessias-0-1-1-2-12",
+            "dermessias-0-1-1-2-13",
+            "dermessias-0-1-1-2-14",
+            "dermessias-0-1-1-2-15",
+            "dermessias-0-1-1-2-16",
+            "dermessias-0-1-1-2-17",
+            "dermessias-0-1-1-2-18",
+            "dermessias-0-1-1-2-19",
+            "dermessias-0-1-1-2-20",
+            "dermessias-0-1-1-2-21",
+            "dermessias-0-1-1-2-22",
+            "dermessias-0-1-1-2-23",
+            "dermessias-0-1-1-2-24",
+            "dermessias-0-1-1-2-25",
+            "dermessias-0-1-1-2-26",
+            "dermessias-0-1-1-2-27",
+            "dermessias-0-1-1-2-28",
+            "dermessias-0-1-1-2-29",
+            "dermessias-0-1-1-2-30",
+            "dermessias-0-1-1-2-31",
+            "dermessias-0-1-1-2-32",
+            "dermessias-0-1-1-2-33",
+            "dermessias-0-1-1-2-34",
+            "dermessias-0-1-1-2-35",
+            "dermessias-0-1-1-2-36",
+            "dermessias-0-1-1-2-37",
+            "dermessias-0-1-1-2-38",
+            "dermessias-0-1-1-2-39",
+            "dermessias-0-1-1-2-40"
+        ]
+    },
+    {
+        "id": "7764",
+        "time": "1647783422397",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_dermessias",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0033",
+        "words": "209",
+        "elementids": [
+            "dermessias-0-1-1-2-26",
+            "dermessias-0-1-1-2-27",
+            "dermessias-0-1-1-2-28",
+            "dermessias-0-1-1-2-29",
+            "dermessias-0-1-1-2-30",
+            "dermessias-0-1-1-2-31",
+            "dermessias-0-1-1-2-32",
+            "dermessias-0-1-1-2-33",
+            "dermessias-0-1-1-2-34",
+            "dermessias-0-1-1-2-35",
+            "dermessias-0-1-1-2-36",
+            "dermessias-0-1-1-2-37",
+            "dermessias-0-1-1-2-38",
+            "dermessias-0-1-1-2-39",
+            "dermessias-0-1-1-2-40",
+            "dermessias-0-1-1-2-41",
+            "dermessias-0-1-1-2-42",
+            "dermessias-0-1-1-2-43",
+            "dermessias-0-1-1-2-44",
+            "dermessias-0-1-1-2-45",
+            "dermessias-0-1-1-2-46",
+            "dermessias-0-1-1-2-47",
+            "dermessias-0-1-1-2-48",
+            "dermessias-1-1-1-1",
+            "dermessias-1-1-1-2-1",
+            "dermessias-1-1-1-2-2",
+            "dermessias-1-1-1-2-3",
+            "dermessias-1-1-1-2-4"
+        ]
+    },
+    {
+        "id": "7765",
+        "time": "1647783422632",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7766",
+        "time": "1647783436718",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7767",
+        "time": "1647783452428",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_effibriest",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0033",
+        "words": "100",
+        "elementids": [
+            "dermessias-0-1-1-2-41",
+            "dermessias-0-1-1-2-42",
+            "dermessias-0-1-1-2-43",
+            "dermessias-0-1-1-2-44",
+            "dermessias-0-1-1-2-45",
+            "dermessias-0-1-1-2-46",
+            "dermessias-0-1-1-2-47",
+            "dermessias-0-1-1-2-48",
+            "dermessias-1-1-1-1",
+            "dermessias-1-1-1-2-1",
+            "dermessias-1-1-1-2-2",
+            "dermessias-1-1-1-2-3",
+            "dermessias-1-1-1-2-4"
+        ]
+    },
+    {
+        "id": "7768",
+        "time": "1647783456588",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_effibriest",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "287",
+        "elementids": [
+            "effibriest-0-1-1-1-1",
+            "effibriest-0-1-2-1-1",
+            "effibriest-0-1-2-1-2",
+            "effibriest-0-1-2-1-60",
+            "effibriest-0-1-2-1-61",
+            "effibriest-0-1-2-1-62",
+            "effibriest-0-1-2-1-63",
+            "effibriest-0-1-2-1-64",
+            "effibriest-0-2-1-1-1"
+        ]
+    },
+    {
+        "id": "7769",
+        "time": "1647783464031",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7770",
+        "time": "1647783480838",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7771",
+        "time": "1647783483957",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7772",
+        "time": "1647783488570",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7773",
+        "time": "1647783505791",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7774",
+        "time": "1647783539038",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7775",
+        "time": "1647783542229",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "98",
+        "elementids": [
+            "effibriest-0-1-2-1-60",
+            "effibriest-0-1-2-1-61",
+            "effibriest-0-1-2-1-62",
+            "effibriest-0-1-2-1-63",
+            "effibriest-0-1-2-1-64",
+            "effibriest-0-2-1-1-1"
+        ]
+    },
+    {
+        "id": "7776",
+        "time": "1647783550725",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1733",
+        "action": "enter",
+        "value": "0.9564",
+        "words": "385",
+        "elementids": [
+            "kinderundhausmrchen-0-1-1-1",
+            "kinderundhausmrchen-0-1-1-2",
+            "kinderundhausmrchen-197-1-1-7",
+            "kinderundhausmrchen-197-1-1-8-1",
+            "kinderundhausmrchen-197-1-1-8-2"
+        ]
+    },
+    {
+        "id": "7777",
+        "time": "1647783554117",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7778",
+        "time": "1647783557784",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1734",
+        "action": "enter",
+        "value": "0.957",
+        "words": "391",
+        "elementids": [
+            "kinderundhausmrchen-197-1-1-10",
+            "kinderundhausmrchen-197-1-1-7",
+            "kinderundhausmrchen-197-1-1-8-1",
+            "kinderundhausmrchen-197-1-1-8-2",
+            "kinderundhausmrchen-197-1-1-8-3",
+            "kinderundhausmrchen-197-1-1-8-4",
+            "kinderundhausmrchen-197-1-1-8-5",
+            "kinderundhausmrchen-197-1-1-8-6",
+            "kinderundhausmrchen-197-1-1-9"
+        ]
+    },
+    {
+        "id": "7779",
+        "time": "1647783558355",
+        "appid": "91ec4b3ccf4fe2b3d09245c6e70c75da",
+        "session": "mFqqi",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1733",
+        "action": "enter",
+        "value": "0.9564",
+        "words": "391",
+        "elementids": [
+            "kinderundhausmrchen-197-1-1-10",
+            "kinderundhausmrchen-197-1-1-7",
+            "kinderundhausmrchen-197-1-1-8-1",
+            "kinderundhausmrchen-197-1-1-8-2",
+            "kinderundhausmrchen-197-1-1-8-3",
+            "kinderundhausmrchen-197-1-1-8-4",
+            "kinderundhausmrchen-197-1-1-8-5",
+            "kinderundhausmrchen-197-1-1-8-6",
+            "kinderundhausmrchen-197-1-1-9"
+        ]
+    },
+    {
+        "id": "7780",
+        "time": "1647785895150",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7781",
+        "time": "1647785897530",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7782",
+        "time": "1647785907553",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7783",
+        "time": "1647785923320",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "reader_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7784",
+        "time": "1647785925960",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "reader_penthesilea",
+        "item": "page279",
+        "action": "enter",
+        "value": "0.473",
+        "words": "86",
+        "elementids": [
+            "penthesilea-0-1-1-1-1",
+            "penthesilea-0-1-2-1-1-1",
+            "penthesilea-0-1-2-1-1-2-1",
+            "penthesilea-0-1-2-1-1-2-10",
+            "penthesilea-0-1-2-1-1-2-2",
+            "penthesilea-0-1-2-1-1-2-3",
+            "penthesilea-0-1-2-1-1-2-4",
+            "penthesilea-0-1-2-1-1-2-5",
+            "penthesilea-0-1-2-1-1-2-6",
+            "penthesilea-0-1-2-1-1-2-7",
+            "penthesilea-0-1-2-1-1-2-8",
+            "penthesilea-0-1-2-1-1-2-9",
+            "penthesilea-0-14-2-1-6-2-1",
+            "penthesilea-0-14-2-1-6-2-2",
+            "penthesilea-0-14-2-1-6-2-3",
+            "penthesilea-0-14-2-1-6-2-4",
+            "penthesilea-0-14-2-1-6-2-5",
+            "penthesilea-0-14-2-1-6-2-6",
+            "penthesilea-0-14-2-1-6-2-7",
+            "penthesilea-0-14-2-1-6-2-8",
+            "penthesilea-0-14-2-1-6-2-9"
+        ]
+    },
+    {
+        "id": "7785",
+        "time": "1647786054294",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "reader_penthesilea",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7786",
+        "time": "1647786070540",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7787",
+        "time": "1647786079290",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "warum-lesen-wir_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7788",
+        "time": "1647786102428",
+        "appid": "4f99c0446ce10cf36f08079b43b6cab2",
+        "session": "FwpKQ",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7789",
+        "time": "1647786102352",
+        "appid": "4f99c0446ce10cf36f08079b43b6cab2",
+        "session": "FwpKQ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7790",
+        "time": "1647786130185",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "cwhCX",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7791",
+        "time": "1647786319926",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "UcKi2",
+        "bereich": "reader_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7792",
+        "time": "1647786320168",
+        "appid": "ea6cecdc365efb1ceebf24a7f09719dd",
+        "session": "UcKi2",
+        "bereich": "reader_penthesilea",
+        "item": "page279",
+        "action": "enter",
+        "value": "0.473",
+        "words": "60",
+        "elementids": [
+            "penthesilea-0-14-2-1-6-2-1",
+            "penthesilea-0-14-2-1-6-2-2",
+            "penthesilea-0-14-2-1-6-2-3",
+            "penthesilea-0-14-2-1-6-2-4",
+            "penthesilea-0-14-2-1-6-2-5",
+            "penthesilea-0-14-2-1-6-2-6",
+            "penthesilea-0-14-2-1-6-2-7",
+            "penthesilea-0-14-2-1-6-2-8",
+            "penthesilea-0-14-2-1-6-2-9"
+        ]
+    },
+    {
+        "id": "7793",
+        "time": "1647791266859",
+        "appid": "345814d1e21ab77df27d54ab39b7b962",
+        "session": "AI908",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7794",
+        "time": "1647792625285",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7795",
+        "time": "1647792625308",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7796",
+        "time": "1647792634882",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7797",
+        "time": "1647792660716",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7798",
+        "time": "1647792660830",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "second-menu",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "296",
+        "elementids": [
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7799",
+        "time": "1647792663371",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "second-menu",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7800",
+        "time": "1647792667166",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "annotation",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7801",
+        "time": "1647792669468",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "km1Qe",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich, share, i2uTHcLCntbwOzKyVI0hDxyWz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7802",
+        "time": "1647792804792",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7803",
+        "time": "1647792804815",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7804",
+        "time": "1647792814307",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "305",
+        "elementids": [
+            "dergrneheinrich-0-1-1-1-1",
+            "dergrneheinrich-0-1-2-1-1-1",
+            "dergrneheinrich-0-1-2-2-1-1",
+            "dergrneheinrich-0-1-2-2-1-2",
+            "dergrneheinrich-0-1-2-2-1-3"
+        ]
+    },
+    {
+        "id": "7805",
+        "time": "1647792820376",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7806",
+        "time": "1647792825975",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "annotation",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7807",
+        "time": "1647792828146",
+        "appid": "03ba9594bb3f840a6859320cf96b3811",
+        "session": "tzl1o",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich, share, i2uTHcLCntbwOzKyVI0hDxyWz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7808",
+        "time": "1647793827634",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7809",
+        "time": "1647793832703",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7810",
+        "time": "1647793836269",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7811",
+        "time": "1647793842125",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7812",
+        "time": "1647793849557",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7813",
+        "time": "1647793859926",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7814",
+        "time": "1647793865929",
+        "appid": "266f37863a53aaa23646e75630a67928",
+        "session": "eI4Hs",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7815",
+        "time": "1647808142535",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "l4S3Z",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7816",
+        "time": "1647808145339",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "l4S3Z",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7817",
+        "time": "1647808150096",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "l4S3Z",
+        "bereich": "datenschutz",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7818",
+        "time": "1647808160039",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7819",
+        "time": "1647808161482",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7820",
+        "time": "1647808165837",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7821",
+        "time": "1647808170360",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7822",
+        "time": "1647808174565",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7823",
+        "time": "1647808178413",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7824",
+        "time": "1647808200733",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7825",
+        "time": "1647808204288",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7826",
+        "time": "1647808207970",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "titelblatt_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7827",
+        "time": "1647808210338",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7828",
+        "time": "1647808231518",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "pagenull1",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7829",
+        "time": "1647808234543",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7830",
+        "time": "1647808236717",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7831",
+        "time": "1647808240862",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7832",
+        "time": "1647808245706",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7833",
+        "time": "1647808253400",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7834",
+        "time": "1647808257435",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "nK8J1",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "anstreichen",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7835",
+        "time": "1647808266936",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7836",
+        "time": "1647808269015",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7837",
+        "time": "1647808277419",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7838",
+        "time": "1647808278287",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7839",
+        "time": "1647808282686",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "titelblatt_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7840",
+        "time": "1647808312129",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "titelblatt_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7841",
+        "time": "1647808284325",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7842",
+        "time": "1647808314047",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7843",
+        "time": "1647808315804",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "titelblatt_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7844",
+        "time": "1647808316013",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7845",
+        "time": "1647808316147",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7846",
+        "time": "1647808317434",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7847",
+        "time": "1647808318335",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7848",
+        "time": "1647808318956",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7849",
+        "time": "1647808318977",
+        "appid": "23219495fad6a907442c7495489f57c3",
+        "session": "QhoVM",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7850",
+        "time": "1647812668373",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7851",
+        "time": "1647812668355",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7852",
+        "time": "1647812673610",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "projektpartner",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7853",
+        "time": "1647812677346",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "ueber-textauswahl",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7854",
+        "time": "1647812692882",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "faq-glossar",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7855",
+        "time": "1647812706740",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7856",
+        "time": "1647812780033",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7857",
+        "time": "1647812781175",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7858",
+        "time": "1647812781961",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7859",
+        "time": "1647812783801",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7860",
+        "time": "1647812786130",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "warum-lesen-wir_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7861",
+        "time": "1647812788610",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7862",
+        "time": "1647812789791",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "YHvEV",
+        "bereich": "literaturmuseum_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7863",
+        "time": "1647812924282",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "kTSBE",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7864",
+        "time": "1647812928009",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "kTSBE",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7865",
+        "time": "1647812939525",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "kTSBE",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7866",
+        "time": "1647812943849",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "kTSBE",
+        "bereich": "literaturmuseum_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7867",
+        "time": "1647813023028",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "literaturmuseum_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7868",
+        "time": "1647813118004",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7869",
+        "time": "1647813122493",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7870",
+        "time": "1647813139815",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "projektpartner",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7871",
+        "time": "1647813145057",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "faq-glossar",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7872",
+        "time": "1647813170481",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "impressum",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "7873",
+        "time": "1647813179083",
+        "appid": "6e5bdd75f0d7dbd9e149f2b286d3a061",
+        "session": "h3IpD",
+        "bereich": "profileinstellungen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
