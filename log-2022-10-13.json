@@ -1,0 +1,3684 @@
+[
+    {
+        "id": "79667",
+        "time": "1665648046170",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79668",
+        "time": "1665648046193",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79669",
+        "time": "1665648048197",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page88",
+        "action": "enter",
+        "value": "0.0612",
+        "words": "93",
+        "elementids": [
+            "antonreiser-1c226",
+            "antonreiser-8dde2",
+            "antonreiser-e11d7"
+        ]
+    },
+    {
+        "id": "79670",
+        "time": "1665648085859",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page89",
+        "action": "enter",
+        "value": "0.0619",
+        "words": "88",
+        "elementids": [
+            "antonreiser-081c4",
+            "antonreiser-0f75e",
+            "antonreiser-1c226",
+            "antonreiser-85421",
+            "antonreiser-a0f95",
+            "antonreiser-aa4bc",
+            "antonreiser-dc009"
+        ]
+    },
+    {
+        "id": "79671",
+        "time": "1665648090846",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79672",
+        "time": "1665648123997",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page90",
+        "action": "enter",
+        "value": "0.0626",
+        "words": "92",
+        "elementids": [
+            "antonreiser-0a19c",
+            "antonreiser-0f75e",
+            "antonreiser-38ea6",
+            "antonreiser-719ab",
+            "antonreiser-c27ae"
+        ]
+    },
+    {
+        "id": "79673",
+        "time": "1665648170563",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.0633",
+        "words": "88",
+        "elementids": [
+            "antonreiser-2d878",
+            "antonreiser-719ab",
+            "antonreiser-72f38",
+            "antonreiser-84e76"
+        ]
+    },
+    {
+        "id": "79674",
+        "time": "1665648198802",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page92",
+        "action": "enter",
+        "value": "0.064",
+        "words": "92",
+        "elementids": [
+            "antonreiser-2d878",
+            "antonreiser-55bd7"
+        ]
+    },
+    {
+        "id": "79675",
+        "time": "1665648207502",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "D5dos",
+        "bereich": "reader_antonreiser",
+        "item": "page93",
+        "action": "leave",
+        "value": "0.0633",
+        "words": "92",
+        "elementids": [
+            "antonreiser-2d878",
+            "antonreiser-55bd7"
+        ]
+    },
+    {
+        "id": "79676",
+        "time": "1665648803622",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page93",
+        "action": "reenter",
+        "value": "0.0633",
+        "words": "92",
+        "elementids": [
+            "antonreiser-2d878",
+            "antonreiser-55bd7"
+        ]
+    },
+    {
+        "id": "79677",
+        "time": "1665648815036",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79678",
+        "time": "1665648849445",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page93",
+        "action": "enter",
+        "value": "0.0646",
+        "words": "87",
+        "elementids": [
+            "antonreiser-400d1",
+            "antonreiser-4d5f3",
+            "antonreiser-55bd7",
+            "antonreiser-b24fc"
+        ]
+    },
+    {
+        "id": "79679",
+        "time": "1665648882093",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page94",
+        "action": "enter",
+        "value": "0.0653",
+        "words": "90",
+        "elementids": [
+            "antonreiser-4d5f3",
+            "antonreiser-7f50c",
+            "antonreiser-f68d8",
+            "antonreiser-f96e8"
+        ]
+    },
+    {
+        "id": "79680",
+        "time": "1665648908936",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page95",
+        "action": "enter",
+        "value": "0.066",
+        "words": "87",
+        "elementids": [
+            "antonreiser-1a1e0",
+            "antonreiser-280d3",
+            "antonreiser-5bb1e",
+            "antonreiser-96cba"
+        ]
+    },
+    {
+        "id": "79681",
+        "time": "1665648934487",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page96",
+        "action": "enter",
+        "value": "0.0667",
+        "words": "96",
+        "elementids": [
+            "antonreiser-2a5ae",
+            "antonreiser-5bb1e",
+            "antonreiser-9baef"
+        ]
+    },
+    {
+        "id": "79682",
+        "time": "1665648962029",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page97",
+        "action": "enter",
+        "value": "0.0674",
+        "words": "98",
+        "elementids": [
+            "antonreiser-5743f",
+            "antonreiser-5b7ce",
+            "antonreiser-63622",
+            "antonreiser-9baef",
+            "antonreiser-d7b69"
+        ]
+    },
+    {
+        "id": "79683",
+        "time": "1665648988351",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page98",
+        "action": "enter",
+        "value": "0.0681",
+        "words": "83",
+        "elementids": [
+            "antonreiser-43720",
+            "antonreiser-63622",
+            "antonreiser-893b2"
+        ]
+    },
+    {
+        "id": "79684",
+        "time": "1665649014446",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page99",
+        "action": "enter",
+        "value": "0.0688",
+        "words": "86",
+        "elementids": [
+            "antonreiser-02f7c",
+            "antonreiser-43720",
+            "antonreiser-8043c",
+            "antonreiser-b70f8",
+            "antonreiser-ca63f"
+        ]
+    },
+    {
+        "id": "79685",
+        "time": "1665649043137",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page100",
+        "action": "enter",
+        "value": "0.0695",
+        "words": "88",
+        "elementids": [
+            "antonreiser-40f2d",
+            "antonreiser-88f9f",
+            "antonreiser-ca63f",
+            "antonreiser-de81e"
+        ]
+    },
+    {
+        "id": "79686",
+        "time": "1665649069455",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page101",
+        "action": "enter",
+        "value": "0.0702",
+        "words": "92",
+        "elementids": [
+            "antonreiser-0eb32",
+            "antonreiser-40f2d",
+            "antonreiser-6d715",
+            "antonreiser-c42df"
+        ]
+    },
+    {
+        "id": "79687",
+        "time": "1665649103419",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page102",
+        "action": "enter",
+        "value": "0.0708",
+        "words": "92",
+        "elementids": [
+            "antonreiser-4ddee",
+            "antonreiser-c42df"
+        ]
+    },
+    {
+        "id": "79688",
+        "time": "1665649114342",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "Ro54n",
+        "bereich": "reader_antonreiser",
+        "item": "page103",
+        "action": "leave",
+        "value": "0.0702",
+        "words": "92",
+        "elementids": [
+            "antonreiser-4ddee",
+            "antonreiser-c42df"
+        ]
+    },
+    {
+        "id": "79689",
+        "time": "1665649281593",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "SoL6m",
+        "bereich": "reader_antonreiser",
+        "item": "page103",
+        "action": "reenter",
+        "value": "0.0702",
+        "words": "92",
+        "elementids": [
+            "antonreiser-4ddee",
+            "antonreiser-c42df"
+        ]
+    },
+    {
+        "id": "79690",
+        "time": "1665649284817",
+        "appid": "cd0573e415cc00407089846cf21e09c0",
+        "session": "SoL6m",
+        "bereich": "reader_antonreiser",
+        "item": "page103",
+        "action": "leave",
+        "value": "0.0702",
+        "words": "92",
+        "elementids": [
+            "antonreiser-4ddee",
+            "antonreiser-c42df"
+        ]
+    },
+    {
+        "id": "79691",
+        "time": "1665653771258",
+        "appid": "bab2947bb39e7bd4df0889341378e3ea",
+        "session": "u2fMo",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79692",
+        "time": "1665653771332",
+        "appid": "bab2947bb39e7bd4df0889341378e3ea",
+        "session": "u2fMo",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79693",
+        "time": "1665653779973",
+        "appid": "bab2947bb39e7bd4df0889341378e3ea",
+        "session": "u2fMo",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79694",
+        "time": "1665664231758",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79695",
+        "time": "1665664231790",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79696",
+        "time": "1665664240782",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0111",
+        "words": "97",
+        "elementids": [
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-877c2",
+            "dieleidendesjungenwerthers-a7f74"
+        ]
+    },
+    {
+        "id": "79697",
+        "time": "1665664241825",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0088",
+        "words": "81",
+        "elementids": [
+            "dieleidendesjungenwerthers-06359",
+            "dieleidendesjungenwerthers-193c9",
+            "dieleidendesjungenwerthers-27dce",
+            "dieleidendesjungenwerthers-61fd3",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-82952",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-ad1a9",
+            "dieleidendesjungenwerthers-b151f",
+            "dieleidendesjungenwerthers-cdfca",
+            "dieleidendesjungenwerthers-f44bb"
+        ]
+    },
+    {
+        "id": "79698",
+        "time": "1665664246469",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "7",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c"
+        ]
+    },
+    {
+        "id": "79699",
+        "time": "1665664245397",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79700",
+        "time": "1665664247088",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "81",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    },
+    {
+        "id": "79701",
+        "time": "1665664331594",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0111",
+        "words": "97",
+        "elementids": [
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-877c2",
+            "dieleidendesjungenwerthers-a7f74"
+        ]
+    },
+    {
+        "id": "79702",
+        "time": "1665664284175",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "7",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c"
+        ]
+    },
+    {
+        "id": "79703",
+        "time": "1665664286816",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0088",
+        "words": "81",
+        "elementids": [
+            "dieleidendesjungenwerthers-06359",
+            "dieleidendesjungenwerthers-193c9",
+            "dieleidendesjungenwerthers-27dce",
+            "dieleidendesjungenwerthers-61fd3",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-82952",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-ad1a9",
+            "dieleidendesjungenwerthers-b151f",
+            "dieleidendesjungenwerthers-cdfca",
+            "dieleidendesjungenwerthers-f44bb"
+        ]
+    },
+    {
+        "id": "79704",
+        "time": "1665664332289",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0088",
+        "words": "81",
+        "elementids": [
+            "dieleidendesjungenwerthers-06359",
+            "dieleidendesjungenwerthers-193c9",
+            "dieleidendesjungenwerthers-27dce",
+            "dieleidendesjungenwerthers-61fd3",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-82952",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-ad1a9",
+            "dieleidendesjungenwerthers-b151f",
+            "dieleidendesjungenwerthers-cdfca",
+            "dieleidendesjungenwerthers-f44bb"
+        ]
+    },
+    {
+        "id": "79705",
+        "time": "1665664340462",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0111",
+        "words": "97",
+        "elementids": [
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-877c2",
+            "dieleidendesjungenwerthers-a7f74"
+        ]
+    },
+    {
+        "id": "79706",
+        "time": "1665664384128",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0133",
+        "words": "81",
+        "elementids": [
+            "dieleidendesjungenwerthers-01379",
+            "dieleidendesjungenwerthers-4b976",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-96ecc",
+            "dieleidendesjungenwerthers-ffd84"
+        ]
+    },
+    {
+        "id": "79707",
+        "time": "1665664431857",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page51",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79708",
+        "time": "1665664454279",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79709",
+        "time": "1665664526209",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0155",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-75a34"
+        ]
+    },
+    {
+        "id": "79710",
+        "time": "1665664563845",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0177",
+        "words": "80",
+        "elementids": [
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-6ab75",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-783e4",
+            "dieleidendesjungenwerthers-8c908",
+            "dieleidendesjungenwerthers-e58d9"
+        ]
+    },
+    {
+        "id": "79711",
+        "time": "1665664566049",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0155",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-75a34"
+        ]
+    },
+    {
+        "id": "79712",
+        "time": "1665664569418",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0177",
+        "words": "80",
+        "elementids": [
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-6ab75",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-783e4",
+            "dieleidendesjungenwerthers-8c908",
+            "dieleidendesjungenwerthers-e58d9"
+        ]
+    },
+    {
+        "id": "79713",
+        "time": "1665664631744",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79714",
+        "time": "1665664645020",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0199",
+        "words": "86",
+        "elementids": [
+            "dieleidendesjungenwerthers-65347",
+            "dieleidendesjungenwerthers-7bfba",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-e58d9",
+            "dieleidendesjungenwerthers-ffb2e"
+        ]
+    },
+    {
+        "id": "79715",
+        "time": "1665664645971",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0177",
+        "words": "80",
+        "elementids": [
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-6ab75",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-783e4",
+            "dieleidendesjungenwerthers-8c908",
+            "dieleidendesjungenwerthers-e58d9"
+        ]
+    },
+    {
+        "id": "79716",
+        "time": "1665664647187",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0199",
+        "words": "86",
+        "elementids": [
+            "dieleidendesjungenwerthers-65347",
+            "dieleidendesjungenwerthers-7bfba",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-e58d9",
+            "dieleidendesjungenwerthers-ffb2e"
+        ]
+    },
+    {
+        "id": "79717",
+        "time": "1665664678198",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0221",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-46263",
+            "dieleidendesjungenwerthers-61ac3",
+            "dieleidendesjungenwerthers-6fd4d",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-8a97a",
+            "dieleidendesjungenwerthers-b7cce",
+            "dieleidendesjungenwerthers-fee5e"
+        ]
+    },
+    {
+        "id": "79718",
+        "time": "1665664836405",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "reenter",
+        "value": "0.0199",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-46263",
+            "dieleidendesjungenwerthers-61ac3",
+            "dieleidendesjungenwerthers-6fd4d",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-8a97a",
+            "dieleidendesjungenwerthers-b7cce",
+            "dieleidendesjungenwerthers-fee5e"
+        ]
+    },
+    {
+        "id": "79719",
+        "time": "1665664699012",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "lEqND",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "leave",
+        "value": "0.0199",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-46263",
+            "dieleidendesjungenwerthers-61ac3",
+            "dieleidendesjungenwerthers-6fd4d",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-8a97a",
+            "dieleidendesjungenwerthers-b7cce",
+            "dieleidendesjungenwerthers-fee5e"
+        ]
+    },
+    {
+        "id": "79720",
+        "time": "1665664839558",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close_second",
+        "value": "depends",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79721",
+        "time": "1665664884491",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0243",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "79722",
+        "time": "1665664926378",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79723",
+        "time": "1665664926983",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0243",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "79724",
+        "time": "1665664928154",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79725",
+        "time": "1665664982238",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79726",
+        "time": "1665664987068",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79727",
+        "time": "1665664991857",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79728",
+        "time": "1665664992883",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.031",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-10d91",
+            "dieleidendesjungenwerthers-289f3",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-47dd3",
+            "dieleidendesjungenwerthers-a5106"
+        ]
+    },
+    {
+        "id": "79729",
+        "time": "1665664995159",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79730",
+        "time": "1665664996117",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79731",
+        "time": "1665664997290",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0243",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "79732",
+        "time": "1665665000573",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79733",
+        "time": "1665665004736",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79734",
+        "time": "1665665026184",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0243",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "79735",
+        "time": "1665665035917",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79736",
+        "time": "1665665036419",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79737",
+        "time": "1665665036509",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79738",
+        "time": "1665665041536",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0243",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "79739",
+        "time": "1665665042566",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79740",
+        "time": "1665665050071",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page111",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79741",
+        "time": "1665665051116",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79742",
+        "time": "1665665053029",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0265",
+        "words": "102",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "79743",
+        "time": "1665665053921",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79744",
+        "time": "1665665070201",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "U17Dh",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page121",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79745",
+        "time": "1665665508025",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "FHJoZ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79746",
+        "time": "1665665528885",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79747",
+        "time": "1665665530937",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79748",
+        "time": "1665665534788",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79749",
+        "time": "1665665538549",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79750",
+        "time": "1665665542260",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79751",
+        "time": "1665665543539",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "reader_antonreiser",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0612",
+        "words": "540",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-271ae",
+            "antonreiser-2edac",
+            "antonreiser-4ef0d",
+            "antonreiser-6d284",
+            "antonreiser-76091",
+            "antonreiser-8b3d4",
+            "antonreiser-a9a44",
+            "antonreiser-b4791",
+            "antonreiser-ba282",
+            "antonreiser-bc660",
+            "antonreiser-d7912",
+            "antonreiser-ddee3",
+            "antonreiser-f78e6"
+        ]
+    },
+    {
+        "id": "79752",
+        "time": "1665665543814",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "reader_antonreiser",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0653",
+        "words": "501",
+        "elementids": [
+            "antonreiser-045ef",
+            "antonreiser-08151",
+            "antonreiser-0cf71",
+            "antonreiser-1eedf",
+            "antonreiser-1f3b4",
+            "antonreiser-23871",
+            "antonreiser-2b1e2",
+            "antonreiser-6a19e",
+            "antonreiser-777f7",
+            "antonreiser-8f1d0",
+            "antonreiser-91a8c",
+            "antonreiser-b68f5",
+            "antonreiser-c1b5f",
+            "antonreiser-e4938",
+            "antonreiser-fd173"
+        ]
+    },
+    {
+        "id": "79753",
+        "time": "1665665552333",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79754",
+        "time": "1665665571592",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79755",
+        "time": "1665665574466",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79756",
+        "time": "1665665591718",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "titelblatt_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79757",
+        "time": "1665665593773",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "warum-lesen-wir_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79758",
+        "time": "1665665615953",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "titelblatt_penthesilea",
+        "item": "",
+        "action": "enter",
+        "value": "penthesilea",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79759",
+        "time": "1665665617005",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79760",
+        "time": "1665665620102",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79761",
+        "time": "1665665622286",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "warum-lesen-wir_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79762",
+        "time": "1665665625382",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "titelblatt_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79763",
+        "time": "1665665626419",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "rnJtR",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79764",
+        "time": "1665665648334",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79765",
+        "time": "1665665649965",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79766",
+        "time": "1665665657386",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79767",
+        "time": "1665665658335",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79768",
+        "time": "1665665666664",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79769",
+        "time": "1665665668165",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79770",
+        "time": "1665665683536",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79771",
+        "time": "1665665684478",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79772",
+        "time": "1665665689496",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79773",
+        "time": "1665665690067",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79774",
+        "time": "1665665694823",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_fausti",
+        "item": "",
+        "action": "enter",
+        "value": "fausti",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79775",
+        "time": "1665665696101",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_fausti",
+        "item": "",
+        "action": "enter",
+        "value": "fausti",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79776",
+        "time": "1665665699551",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_fausti",
+        "item": "",
+        "action": "enter",
+        "value": "fausti",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79777",
+        "time": "1665665700211",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79778",
+        "time": "1665665709840",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_lenz",
+        "item": "",
+        "action": "enter",
+        "value": "lenz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79779",
+        "time": "1665665710982",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_lenz",
+        "item": "",
+        "action": "enter",
+        "value": "lenz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79780",
+        "time": "1665665742951",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_lenz",
+        "item": "",
+        "action": "enter",
+        "value": "lenz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79781",
+        "time": "1665665744666",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79782",
+        "time": "1665665749823",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_wallensteinslager",
+        "item": "",
+        "action": "enter",
+        "value": "wallensteinslager",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79783",
+        "time": "1665665751918",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_wallensteinslager",
+        "item": "",
+        "action": "enter",
+        "value": "wallensteinslager",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79784",
+        "time": "1665665765648",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_wallensteinslager",
+        "item": "",
+        "action": "enter",
+        "value": "wallensteinslager",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79785",
+        "time": "1665665767499",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79786",
+        "time": "1665665771576",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79787",
+        "time": "1665665772694",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79788",
+        "time": "1665665791737",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79789",
+        "time": "1665665792460",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79790",
+        "time": "1665665800807",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79791",
+        "time": "1665665801806",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "warum-lesen-wir_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79792",
+        "time": "1665665823584",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "titelblatt_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79793",
+        "time": "1665665823788",
+        "appid": "f7f0163284c04ada5f8d03ea01fdaab6",
+        "session": "m7B1E",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79794",
+        "time": "1665680598959",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79795",
+        "time": "1665680598930",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79796",
+        "time": "1665680607948",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0288",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-aede5",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "79797",
+        "time": "1665680648523",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.031",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-10d91",
+            "dieleidendesjungenwerthers-289f3",
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-47dd3",
+            "dieleidendesjungenwerthers-a5106"
+        ]
+    },
+    {
+        "id": "79798",
+        "time": "1665680651786",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79799",
+        "time": "1665680689626",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0332",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0401c",
+            "dieleidendesjungenwerthers-19b8b",
+            "dieleidendesjungenwerthers-289f3",
+            "dieleidendesjungenwerthers-43dd3",
+            "dieleidendesjungenwerthers-56c79",
+            "dieleidendesjungenwerthers-6335b",
+            "dieleidendesjungenwerthers-84261",
+            "dieleidendesjungenwerthers-af4cd"
+        ]
+    },
+    {
+        "id": "79800",
+        "time": "1665680751922",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79801",
+        "time": "1665680770361",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0354",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-19b8b",
+            "dieleidendesjungenwerthers-1aa30",
+            "dieleidendesjungenwerthers-5cfce",
+            "dieleidendesjungenwerthers-6678d",
+            "dieleidendesjungenwerthers-83b9e",
+            "dieleidendesjungenwerthers-ce18e",
+            "dieleidendesjungenwerthers-d7266",
+            "dieleidendesjungenwerthers-f0f67"
+        ]
+    },
+    {
+        "id": "79802",
+        "time": "1665680831847",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79803",
+        "time": "1665680832860",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0376",
+        "words": "93",
+        "elementids": [
+            "dieleidendesjungenwerthers-6678d",
+            "dieleidendesjungenwerthers-97797",
+            "dieleidendesjungenwerthers-9a461",
+            "dieleidendesjungenwerthers-9bbbe",
+            "dieleidendesjungenwerthers-f5925"
+        ]
+    },
+    {
+        "id": "79804",
+        "time": "1665680869252",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0398",
+        "words": "86",
+        "elementids": [
+            "dieleidendesjungenwerthers-6d8e8",
+            "dieleidendesjungenwerthers-9bbbe",
+            "dieleidendesjungenwerthers-a292b"
+        ]
+    },
+    {
+        "id": "79805",
+        "time": "1665680870383",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0376",
+        "words": "93",
+        "elementids": [
+            "dieleidendesjungenwerthers-6678d",
+            "dieleidendesjungenwerthers-97797",
+            "dieleidendesjungenwerthers-9a461",
+            "dieleidendesjungenwerthers-9bbbe",
+            "dieleidendesjungenwerthers-f5925"
+        ]
+    },
+    {
+        "id": "79806",
+        "time": "1665680886296",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0398",
+        "words": "86",
+        "elementids": [
+            "dieleidendesjungenwerthers-6d8e8",
+            "dieleidendesjungenwerthers-9bbbe",
+            "dieleidendesjungenwerthers-a292b"
+        ]
+    },
+    {
+        "id": "79807",
+        "time": "1665680944255",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.042",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "79808",
+        "time": "1665681212740",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "reenter",
+        "value": "0.0398",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "79809",
+        "time": "1665680980970",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "7wK1H",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "leave",
+        "value": "0.0398",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "79810",
+        "time": "1665681214275",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79811",
+        "time": "1665681254319",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0442",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "79812",
+        "time": "1665681278609",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.042",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "79813",
+        "time": "1665681279642",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0442",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "79814",
+        "time": "1665681281279",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.042",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "79815",
+        "time": "1665681281398",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0442",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "79816",
+        "time": "1665681292607",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page191",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79817",
+        "time": "1665681298180",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79818",
+        "time": "1665681299007",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0442",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "79819",
+        "time": "1665681316847",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79820",
+        "time": "1665681374171",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0442",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "79821",
+        "time": "1665681375432",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79822",
+        "time": "1665681387806",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page201",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79823",
+        "time": "1665681399405",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79824",
+        "time": "1665681461168",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79825",
+        "time": "1665681466210",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "8fyON",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "leave",
+        "value": "0.0465",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79826",
+        "time": "1665681474613",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "reenter",
+        "value": "0.0465",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79827",
+        "time": "1665681603191",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79828",
+        "time": "1665681603213",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79829",
+        "time": "1665681603302",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "79830",
+        "time": "1665681624528",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79831",
+        "time": "1665681624522",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79832",
+        "time": "1665681632484",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "79833",
+        "time": "1665681644073",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page221",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79834",
+        "time": "1665681647662",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-56521",
+            "dieleidendesjungenwerthers-c4143"
+        ]
+    },
+    {
+        "id": "79835",
+        "time": "1665681647888",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "79836",
+        "time": "1665681668657",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79837",
+        "time": "1665681669350",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79838",
+        "time": "1665681671277",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79839",
+        "time": "1665681671753",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79840",
+        "time": "1665681673860",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79841",
+        "time": "1665681674258",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "79842",
+        "time": "1665681675107",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79843",
+        "time": "1665681675884",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0465",
+        "words": "82",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "79844",
+        "time": "1665681677327",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "101",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "79845",
+        "time": "1665681677747",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "79846",
+        "time": "1665681693865",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-56521",
+            "dieleidendesjungenwerthers-c4143"
+        ]
+    },
+    {
+        "id": "79847",
+        "time": "1665681737121",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0553",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-96f65",
+            "dieleidendesjungenwerthers-abe15",
+            "dieleidendesjungenwerthers-ace4e",
+            "dieleidendesjungenwerthers-afa9c",
+            "dieleidendesjungenwerthers-cf1f9",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79848",
+        "time": "1665681744142",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79849",
+        "time": "1665681746549",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-56521",
+            "dieleidendesjungenwerthers-c4143"
+        ]
+    },
+    {
+        "id": "79850",
+        "time": "1665681748430",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0553",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-96f65",
+            "dieleidendesjungenwerthers-abe15",
+            "dieleidendesjungenwerthers-ace4e",
+            "dieleidendesjungenwerthers-afa9c",
+            "dieleidendesjungenwerthers-cf1f9",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79851",
+        "time": "1665681751637",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-56521",
+            "dieleidendesjungenwerthers-c4143"
+        ]
+    },
+    {
+        "id": "79852",
+        "time": "1665681761415",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0553",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-96f65",
+            "dieleidendesjungenwerthers-abe15",
+            "dieleidendesjungenwerthers-ace4e",
+            "dieleidendesjungenwerthers-afa9c",
+            "dieleidendesjungenwerthers-cf1f9",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79853",
+        "time": "1665681803190",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0575",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79854",
+        "time": "1665681813257",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AnZai",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "leave",
+        "value": "0.0553",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79855",
+        "time": "1665681898807",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "hQv2y",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "reenter",
+        "value": "0.0553",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79856",
+        "time": "1665681907619",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "hQv2y",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79857",
+        "time": "1665681960216",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "reenter",
+        "value": "0.0553",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79858",
+        "time": "1665681912194",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "hQv2y",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "leave",
+        "value": "0.0553",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79859",
+        "time": "1665681994035",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0575",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79860",
+        "time": "1665682008764",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0597",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-527dd",
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-88064",
+            "dieleidendesjungenwerthers-a43b7",
+            "dieleidendesjungenwerthers-d277f"
+        ]
+    },
+    {
+        "id": "79861",
+        "time": "1665682058010",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0575",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79862",
+        "time": "1665682058874",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0597",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-527dd",
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-88064",
+            "dieleidendesjungenwerthers-a43b7",
+            "dieleidendesjungenwerthers-d277f"
+        ]
+    },
+    {
+        "id": "79863",
+        "time": "1665682071965",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page261",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79864",
+        "time": "1665682072606",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0575",
+        "words": "74",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "79865",
+        "time": "1665682092205",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page251",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79866",
+        "time": "1665682093078",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0597",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-527dd",
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-88064",
+            "dieleidendesjungenwerthers-a43b7",
+            "dieleidendesjungenwerthers-d277f"
+        ]
+    },
+    {
+        "id": "79867",
+        "time": "1665682114893",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0619",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-f1ac3"
+        ]
+    },
+    {
+        "id": "79868",
+        "time": "1665682116992",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0597",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-527dd",
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-88064",
+            "dieleidendesjungenwerthers-a43b7",
+            "dieleidendesjungenwerthers-d277f"
+        ]
+    },
+    {
+        "id": "79869",
+        "time": "1665682121478",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0619",
+        "words": "83",
+        "elementids": [
+            "dieleidendesjungenwerthers-597a0",
+            "dieleidendesjungenwerthers-f1ac3"
+        ]
+    },
+    {
+        "id": "79870",
+        "time": "1665682161055",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0642",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-10218",
+            "dieleidendesjungenwerthers-2b78c",
+            "dieleidendesjungenwerthers-2d60c",
+            "dieleidendesjungenwerthers-c96a8",
+            "dieleidendesjungenwerthers-f1ac3",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79871",
+        "time": "1665682223858",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79872",
+        "time": "1665682243534",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0664",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-31962",
+            "dieleidendesjungenwerthers-386c3",
+            "dieleidendesjungenwerthers-ab471",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79873",
+        "time": "1665682265943",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0642",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-10218",
+            "dieleidendesjungenwerthers-2b78c",
+            "dieleidendesjungenwerthers-2d60c",
+            "dieleidendesjungenwerthers-c96a8",
+            "dieleidendesjungenwerthers-f1ac3",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79874",
+        "time": "1665682289842",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0664",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-31962",
+            "dieleidendesjungenwerthers-386c3",
+            "dieleidendesjungenwerthers-ab471",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79875",
+        "time": "1665682328388",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0664",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-31962",
+            "dieleidendesjungenwerthers-386c3",
+            "dieleidendesjungenwerthers-ab471",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79876",
+        "time": "1665682328089",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0686",
+        "words": "90",
+        "elementids": [
+            "dieleidendesjungenwerthers-16b25",
+            "dieleidendesjungenwerthers-1d6f0",
+            "dieleidendesjungenwerthers-3050b",
+            "dieleidendesjungenwerthers-42d53",
+            "dieleidendesjungenwerthers-a9650",
+            "dieleidendesjungenwerthers-e9ecf"
+        ]
+    },
+    {
+        "id": "79877",
+        "time": "1665682626259",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page30",
+        "action": "reenter",
+        "value": "0.0642",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-31962",
+            "dieleidendesjungenwerthers-386c3",
+            "dieleidendesjungenwerthers-ab471",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79878",
+        "time": "1665682330163",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "RRssW",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page30",
+        "action": "leave",
+        "value": "0.0642",
+        "words": "89",
+        "elementids": [
+            "dieleidendesjungenwerthers-31962",
+            "dieleidendesjungenwerthers-386c3",
+            "dieleidendesjungenwerthers-ab471",
+            "dieleidendesjungenwerthers-facb4"
+        ]
+    },
+    {
+        "id": "79879",
+        "time": "1665682627949",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79880",
+        "time": "1665682629743",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0686",
+        "words": "90",
+        "elementids": [
+            "dieleidendesjungenwerthers-16b25",
+            "dieleidendesjungenwerthers-1d6f0",
+            "dieleidendesjungenwerthers-3050b",
+            "dieleidendesjungenwerthers-42d53",
+            "dieleidendesjungenwerthers-a9650",
+            "dieleidendesjungenwerthers-e9ecf"
+        ]
+    },
+    {
+        "id": "79881",
+        "time": "1665682678905",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0708",
+        "words": "92",
+        "elementids": [
+            "dieleidendesjungenwerthers-16b25",
+            "dieleidendesjungenwerthers-8acb9",
+            "dieleidendesjungenwerthers-9bf7e",
+            "dieleidendesjungenwerthers-e76e5",
+            "dieleidendesjungenwerthers-f2803"
+        ]
+    },
+    {
+        "id": "79882",
+        "time": "1665682740647",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79883",
+        "time": "1665682745509",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.073",
+        "words": "88",
+        "elementids": [
+            "dieleidendesjungenwerthers-077bb",
+            "dieleidendesjungenwerthers-90fb7",
+            "dieleidendesjungenwerthers-f2803"
+        ]
+    },
+    {
+        "id": "79884",
+        "time": "1665682783746",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0752",
+        "words": "88",
+        "elementids": [
+            "dieleidendesjungenwerthers-440de",
+            "dieleidendesjungenwerthers-56fa8",
+            "dieleidendesjungenwerthers-74d97",
+            "dieleidendesjungenwerthers-90fb7",
+            "dieleidendesjungenwerthers-f8382"
+        ]
+    },
+    {
+        "id": "79885",
+        "time": "1665682813570",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page331",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79886",
+        "time": "1665682845734",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79887",
+        "time": "1665682878911",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.0774",
+        "words": "95",
+        "elementids": [
+            "dieleidendesjungenwerthers-16a0d",
+            "dieleidendesjungenwerthers-3e454",
+            "dieleidendesjungenwerthers-56fa8",
+            "dieleidendesjungenwerthers-9981d",
+            "dieleidendesjungenwerthers-edc94",
+            "dieleidendesjungenwerthers-f7081"
+        ]
+    },
+    {
+        "id": "79888",
+        "time": "1665682908843",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page341",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79889",
+        "time": "1665682934126",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.0796",
+        "words": "96",
+        "elementids": [
+            "dieleidendesjungenwerthers-1ea29",
+            "dieleidendesjungenwerthers-6ebe0",
+            "dieleidendesjungenwerthers-87b35",
+            "dieleidendesjungenwerthers-8ea13",
+            "dieleidendesjungenwerthers-a6026",
+            "dieleidendesjungenwerthers-b28a7",
+            "dieleidendesjungenwerthers-f7081"
+        ]
+    },
+    {
+        "id": "79890",
+        "time": "1665682957535",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page351",
+        "action": "markierung",
+        "value": "15",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "79891",
+        "time": "1665682974674",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0819",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-1ca25",
+            "dieleidendesjungenwerthers-8242a",
+            "dieleidendesjungenwerthers-8ea13",
+            "dieleidendesjungenwerthers-9311f"
+        ]
+    },
+    {
+        "id": "79892",
+        "time": "1665682975786",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.0841",
+        "words": "88",
+        "elementids": [
+            "dieleidendesjungenwerthers-07c3b",
+            "dieleidendesjungenwerthers-1f241",
+            "dieleidendesjungenwerthers-3b672",
+            "dieleidendesjungenwerthers-56f7a",
+            "dieleidendesjungenwerthers-615ed",
+            "dieleidendesjungenwerthers-c41db"
+        ]
+    },
+    {
+        "id": "79893",
+        "time": "1665682975992",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0819",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-1ca25",
+            "dieleidendesjungenwerthers-8242a",
+            "dieleidendesjungenwerthers-8ea13",
+            "dieleidendesjungenwerthers-9311f"
+        ]
+    },
+    {
+        "id": "79894",
+        "time": "1665682976553",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.0796",
+        "words": "96",
+        "elementids": [
+            "dieleidendesjungenwerthers-1ea29",
+            "dieleidendesjungenwerthers-6ebe0",
+            "dieleidendesjungenwerthers-87b35",
+            "dieleidendesjungenwerthers-8ea13",
+            "dieleidendesjungenwerthers-a6026",
+            "dieleidendesjungenwerthers-b28a7",
+            "dieleidendesjungenwerthers-f7081"
+        ]
+    },
+    {
+        "id": "79895",
+        "time": "1665683004600",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "AbRSd",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0819",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-1ca25",
+            "dieleidendesjungenwerthers-8242a",
+            "dieleidendesjungenwerthers-8ea13",
+            "dieleidendesjungenwerthers-9311f"
+        ]
+    }
+]
