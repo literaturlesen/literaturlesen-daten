@@ -1,0 +1,49 @@
+[
+    {
+        "id": "80918",
+        "time": "1666692756316",
+        "appid": "0c7010e58d7d9c2b1629f602a83ef170",
+        "session": "42jkF",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "80919",
+        "time": "1666692782444",
+        "appid": "0c7010e58d7d9c2b1629f602a83ef170",
+        "session": "42jkF",
+        "bereich": "reader_derprozess",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0034",
+        "words": "90",
+        "elementids": [
+            "derprozess-03eea",
+            "derprozess-273d1",
+            "derprozess-288ba",
+            "derprozess-8d386",
+            "derprozess-9841b",
+            "derprozess-a747e",
+            "derprozess-a7652",
+            "derprozess-cdfdd",
+            "derprozess-f1cf1",
+            "derprozess-fa411"
+        ]
+    },
+    {
+        "id": "80920",
+        "time": "1666727824303",
+        "appid": "3e2baabeff1cc4f6621ea66248e7cc69",
+        "session": "HpZIM",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
