@@ -1,0 +1,154 @@
+[
+    {
+        "id": "95162",
+        "time": "1675959615942",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "zP7O7",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "95163",
+        "time": "1675959615954",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "zP7O7",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "",
+        "action": "enter",
+        "value": "geschichtedesagathon",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "95164",
+        "time": "1675959617641",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "zP7O7",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page289",
+        "action": "enter",
+        "value": "0.2381",
+        "words": "146",
+        "elementids": [
+            "geschichtedesagathon-19ca2",
+            "geschichtedesagathon-584cf",
+            "geschichtedesagathon-d3aaf"
+        ]
+    },
+    {
+        "id": "95165",
+        "time": "1675959956201",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "rPSv1",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page290",
+        "action": "reenter",
+        "value": "0.2373",
+        "words": "146",
+        "elementids": [
+            "geschichtedesagathon-19ca2",
+            "geschichtedesagathon-584cf",
+            "geschichtedesagathon-d3aaf"
+        ]
+    },
+    {
+        "id": "95166",
+        "time": "1675959637906",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "zP7O7",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page290",
+        "action": "leave",
+        "value": "0.2373",
+        "words": "146",
+        "elementids": [
+            "geschichtedesagathon-19ca2",
+            "geschichtedesagathon-584cf",
+            "geschichtedesagathon-d3aaf"
+        ]
+    },
+    {
+        "id": "95167",
+        "time": "1675959957774",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "rPSv1",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page290",
+        "action": "leave",
+        "value": "0.2373",
+        "words": "146",
+        "elementids": [
+            "geschichtedesagathon-19ca2",
+            "geschichtedesagathon-584cf",
+            "geschichtedesagathon-d3aaf"
+        ]
+    },
+    {
+        "id": "95168",
+        "time": "1675981275908",
+        "appid": "e47bd51eea22437e6757ea598efc1e2c",
+        "session": "MfwnW",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "95169",
+        "time": "1675981275962",
+        "appid": "e47bd51eea22437e6757ea598efc1e2c",
+        "session": "MfwnW",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "95170",
+        "time": "1675981279352",
+        "appid": "e47bd51eea22437e6757ea598efc1e2c",
+        "session": "MfwnW",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0008",
+        "words": "77",
+        "elementids": [
+            "dergrneheinrich-03206",
+            "dergrneheinrich-44e9b",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b8aa9",
+            "dergrneheinrich-ba650",
+            "dergrneheinrich-ccdb9",
+            "dergrneheinrich-e2be4"
+        ]
+    },
+    {
+        "id": "95171",
+        "time": "1675981285469",
+        "appid": "e47bd51eea22437e6757ea598efc1e2c",
+        "session": "MfwnW",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0004",
+        "words": "77",
+        "elementids": [
+            "dergrneheinrich-03206",
+            "dergrneheinrich-44e9b",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b8aa9",
+            "dergrneheinrich-ba650",
+            "dergrneheinrich-ccdb9",
+            "dergrneheinrich-e2be4"
+        ]
+    }
+]
