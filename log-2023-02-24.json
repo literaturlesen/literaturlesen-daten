@@ -1,0 +1,2047 @@
+[
+    {
+        "id": "98580",
+        "time": "1677216700375",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "",
+        "action": "enter",
+        "value": "diegeschichtedesfruleinsvonsternheim",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98581",
+        "time": "1677216701520",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page658",
+        "action": "enter",
+        "value": "0.7681",
+        "words": "85",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-17c40",
+            "diegeschichtedesfruleinsvonsternheim-b33f2",
+            "diegeschichtedesfruleinsvonsternheim-c5f90",
+            "diegeschichtedesfruleinsvonsternheim-c7e7a"
+        ]
+    },
+    {
+        "id": "98582",
+        "time": "1677216703407",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page657",
+        "action": "enter",
+        "value": "0.7669",
+        "words": "112",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-17c40",
+            "diegeschichtedesfruleinsvonsternheim-38c54",
+            "diegeschichtedesfruleinsvonsternheim-7f276",
+            "diegeschichtedesfruleinsvonsternheim-af5d7",
+            "diegeschichtedesfruleinsvonsternheim-da787"
+        ]
+    },
+    {
+        "id": "98583",
+        "time": "1677216709501",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98584",
+        "time": "1677216710738",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page656",
+        "action": "enter",
+        "value": "0.7657",
+        "words": "17",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-8edf2"
+        ]
+    },
+    {
+        "id": "98585",
+        "time": "1677216711137",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page655",
+        "action": "enter",
+        "value": "0.7646",
+        "words": "122",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-174bc",
+            "diegeschichtedesfruleinsvonsternheim-54a20",
+            "diegeschichtedesfruleinsvonsternheim-8c912",
+            "diegeschichtedesfruleinsvonsternheim-8db41",
+            "diegeschichtedesfruleinsvonsternheim-8edf2",
+            "diegeschichtedesfruleinsvonsternheim-9ee82",
+            "diegeschichtedesfruleinsvonsternheim-e12fd",
+            "diegeschichtedesfruleinsvonsternheim-f718b"
+        ]
+    },
+    {
+        "id": "98586",
+        "time": "1677216711437",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page654",
+        "action": "enter",
+        "value": "0.7634",
+        "words": "120",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-81619",
+            "diegeschichtedesfruleinsvonsternheim-a92ee",
+            "diegeschichtedesfruleinsvonsternheim-e12fd",
+            "diegeschichtedesfruleinsvonsternheim-f698d"
+        ]
+    },
+    {
+        "id": "98587",
+        "time": "1677216712108",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page653",
+        "action": "enter",
+        "value": "0.7622",
+        "words": "108",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-26f0b",
+            "diegeschichtedesfruleinsvonsternheim-2c3a3",
+            "diegeschichtedesfruleinsvonsternheim-4a923",
+            "diegeschichtedesfruleinsvonsternheim-7a9a3",
+            "diegeschichtedesfruleinsvonsternheim-81619"
+        ]
+    },
+    {
+        "id": "98588",
+        "time": "1677216712436",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page652",
+        "action": "enter",
+        "value": "0.7611",
+        "words": "115",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-07fd5",
+            "diegeschichtedesfruleinsvonsternheim-4a923",
+            "diegeschichtedesfruleinsvonsternheim-7595d",
+            "diegeschichtedesfruleinsvonsternheim-a65d6"
+        ]
+    },
+    {
+        "id": "98589",
+        "time": "1677216712739",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page651",
+        "action": "enter",
+        "value": "0.7599",
+        "words": "108",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-07fd5",
+            "diegeschichtedesfruleinsvonsternheim-2fe5d",
+            "diegeschichtedesfruleinsvonsternheim-3c6c7",
+            "diegeschichtedesfruleinsvonsternheim-47f0d",
+            "diegeschichtedesfruleinsvonsternheim-7f19d",
+            "diegeschichtedesfruleinsvonsternheim-a4932",
+            "diegeschichtedesfruleinsvonsternheim-ae6cf",
+            "diegeschichtedesfruleinsvonsternheim-c06fc",
+            "diegeschichtedesfruleinsvonsternheim-d2146"
+        ]
+    },
+    {
+        "id": "98590",
+        "time": "1677216713058",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page650",
+        "action": "enter",
+        "value": "0.7587",
+        "words": "110",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-33d7a",
+            "diegeschichtedesfruleinsvonsternheim-5b7b2",
+            "diegeschichtedesfruleinsvonsternheim-6a264",
+            "diegeschichtedesfruleinsvonsternheim-ae6cf",
+            "diegeschichtedesfruleinsvonsternheim-e64c6",
+            "diegeschichtedesfruleinsvonsternheim-eb8a6",
+            "diegeschichtedesfruleinsvonsternheim-edacf"
+        ]
+    },
+    {
+        "id": "98591",
+        "time": "1677216713709",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page649",
+        "action": "enter",
+        "value": "0.7576",
+        "words": "115",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-0fbf7",
+            "diegeschichtedesfruleinsvonsternheim-90d45",
+            "diegeschichtedesfruleinsvonsternheim-e2d62",
+            "diegeschichtedesfruleinsvonsternheim-eb8a6"
+        ]
+    },
+    {
+        "id": "98592",
+        "time": "1677216714058",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page648",
+        "action": "enter",
+        "value": "0.7564",
+        "words": "120",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-90588",
+            "diegeschichtedesfruleinsvonsternheim-a01ef",
+            "diegeschichtedesfruleinsvonsternheim-f4966",
+            "diegeschichtedesfruleinsvonsternheim-f77ce"
+        ]
+    },
+    {
+        "id": "98593",
+        "time": "1677216714603",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page647",
+        "action": "enter",
+        "value": "0.7552",
+        "words": "120",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-05330",
+            "diegeschichtedesfruleinsvonsternheim-78710",
+            "diegeschichtedesfruleinsvonsternheim-957bd",
+            "diegeschichtedesfruleinsvonsternheim-bfac2",
+            "diegeschichtedesfruleinsvonsternheim-de7fa",
+            "diegeschichtedesfruleinsvonsternheim-f3a31",
+            "diegeschichtedesfruleinsvonsternheim-f77ce"
+        ]
+    },
+    {
+        "id": "98594",
+        "time": "1677216715103",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page646",
+        "action": "enter",
+        "value": "0.7541",
+        "words": "105",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-05330",
+            "diegeschichtedesfruleinsvonsternheim-1102b",
+            "diegeschichtedesfruleinsvonsternheim-992b0",
+            "diegeschichtedesfruleinsvonsternheim-9a260"
+        ]
+    },
+    {
+        "id": "98595",
+        "time": "1677216715570",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.7529",
+        "words": "116",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-5d88b",
+            "diegeschichtedesfruleinsvonsternheim-838e7",
+            "diegeschichtedesfruleinsvonsternheim-992b0",
+            "diegeschichtedesfruleinsvonsternheim-bd35e",
+            "diegeschichtedesfruleinsvonsternheim-c4cfc",
+            "diegeschichtedesfruleinsvonsternheim-c8ff0"
+        ]
+    },
+    {
+        "id": "98596",
+        "time": "1677216716569",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page644",
+        "action": "enter",
+        "value": "0.7517",
+        "words": "121",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-0a077",
+            "diegeschichtedesfruleinsvonsternheim-47033",
+            "diegeschichtedesfruleinsvonsternheim-86f13",
+            "diegeschichtedesfruleinsvonsternheim-8d18c",
+            "diegeschichtedesfruleinsvonsternheim-c8ff0",
+            "diegeschichtedesfruleinsvonsternheim-ca07a"
+        ]
+    },
+    {
+        "id": "98597",
+        "time": "1677216716920",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page643",
+        "action": "enter",
+        "value": "0.7506",
+        "words": "106",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-47033",
+            "diegeschichtedesfruleinsvonsternheim-6ceee",
+            "diegeschichtedesfruleinsvonsternheim-ab6f9",
+            "diegeschichtedesfruleinsvonsternheim-b824a",
+            "diegeschichtedesfruleinsvonsternheim-d742b",
+            "diegeschichtedesfruleinsvonsternheim-ed665",
+            "diegeschichtedesfruleinsvonsternheim-f6152"
+        ]
+    },
+    {
+        "id": "98598",
+        "time": "1677216717270",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page642",
+        "action": "enter",
+        "value": "0.7494",
+        "words": "117",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-5024c",
+            "diegeschichtedesfruleinsvonsternheim-6de4a",
+            "diegeschichtedesfruleinsvonsternheim-97189",
+            "diegeschichtedesfruleinsvonsternheim-ab6f9",
+            "diegeschichtedesfruleinsvonsternheim-f9e97"
+        ]
+    },
+    {
+        "id": "98599",
+        "time": "1677216717558",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page641",
+        "action": "enter",
+        "value": "0.7483",
+        "words": "111",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-460e7",
+            "diegeschichtedesfruleinsvonsternheim-6623f",
+            "diegeschichtedesfruleinsvonsternheim-801ac",
+            "diegeschichtedesfruleinsvonsternheim-8fe8e",
+            "diegeschichtedesfruleinsvonsternheim-94d0c",
+            "diegeschichtedesfruleinsvonsternheim-fc1c6"
+        ]
+    },
+    {
+        "id": "98600",
+        "time": "1677216717903",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page640",
+        "action": "enter",
+        "value": "0.7471",
+        "words": "118",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-6637d",
+            "diegeschichtedesfruleinsvonsternheim-69d57",
+            "diegeschichtedesfruleinsvonsternheim-ab02e"
+        ]
+    },
+    {
+        "id": "98601",
+        "time": "1677216718720",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page639",
+        "action": "enter",
+        "value": "0.7459",
+        "words": "99",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-28f77",
+            "diegeschichtedesfruleinsvonsternheim-5e5bf",
+            "diegeschichtedesfruleinsvonsternheim-602c2",
+            "diegeschichtedesfruleinsvonsternheim-69d57",
+            "diegeschichtedesfruleinsvonsternheim-be148",
+            "diegeschichtedesfruleinsvonsternheim-ddbc8"
+        ]
+    },
+    {
+        "id": "98602",
+        "time": "1677216719070",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page638",
+        "action": "enter",
+        "value": "0.7448",
+        "words": "119",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-12e31",
+            "diegeschichtedesfruleinsvonsternheim-1ba00",
+            "diegeschichtedesfruleinsvonsternheim-ddbc8",
+            "diegeschichtedesfruleinsvonsternheim-e00c4",
+            "diegeschichtedesfruleinsvonsternheim-ed408",
+            "diegeschichtedesfruleinsvonsternheim-fb8b2"
+        ]
+    },
+    {
+        "id": "98603",
+        "time": "1677216719470",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page637",
+        "action": "enter",
+        "value": "0.7436",
+        "words": "70",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-64c28",
+            "diegeschichtedesfruleinsvonsternheim-c96ac",
+            "diegeschichtedesfruleinsvonsternheim-d1122",
+            "diegeschichtedesfruleinsvonsternheim-f6c81"
+        ]
+    },
+    {
+        "id": "98604",
+        "time": "1677216719854",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page636",
+        "action": "enter",
+        "value": "0.7424",
+        "words": "113",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-077c4",
+            "diegeschichtedesfruleinsvonsternheim-2b53b",
+            "diegeschichtedesfruleinsvonsternheim-3a269",
+            "diegeschichtedesfruleinsvonsternheim-8fb1a",
+            "diegeschichtedesfruleinsvonsternheim-aa55a",
+            "diegeschichtedesfruleinsvonsternheim-ab20b",
+            "diegeschichtedesfruleinsvonsternheim-c96ac"
+        ]
+    },
+    {
+        "id": "98605",
+        "time": "1677216720220",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page635",
+        "action": "enter",
+        "value": "0.7413",
+        "words": "123",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-42310",
+            "diegeschichtedesfruleinsvonsternheim-abafd",
+            "diegeschichtedesfruleinsvonsternheim-c97dd",
+            "diegeschichtedesfruleinsvonsternheim-c9818",
+            "diegeschichtedesfruleinsvonsternheim-d5d97",
+            "diegeschichtedesfruleinsvonsternheim-d7ae9"
+        ]
+    },
+    {
+        "id": "98606",
+        "time": "1677216720553",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page634",
+        "action": "enter",
+        "value": "0.7401",
+        "words": "110",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-06820",
+            "diegeschichtedesfruleinsvonsternheim-20fed",
+            "diegeschichtedesfruleinsvonsternheim-55b2b",
+            "diegeschichtedesfruleinsvonsternheim-87036",
+            "diegeschichtedesfruleinsvonsternheim-b0f57",
+            "diegeschichtedesfruleinsvonsternheim-b6f42",
+            "diegeschichtedesfruleinsvonsternheim-d7ae9",
+            "diegeschichtedesfruleinsvonsternheim-f4e45"
+        ]
+    },
+    {
+        "id": "98607",
+        "time": "1677216721003",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page633",
+        "action": "enter",
+        "value": "0.7389",
+        "words": "48",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-b17a5"
+        ]
+    },
+    {
+        "id": "98608",
+        "time": "1677216721386",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page632",
+        "action": "enter",
+        "value": "0.7378",
+        "words": "128",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-73d42",
+            "diegeschichtedesfruleinsvonsternheim-7419f",
+            "diegeschichtedesfruleinsvonsternheim-789fa",
+            "diegeschichtedesfruleinsvonsternheim-a3412",
+            "diegeschichtedesfruleinsvonsternheim-b84a4",
+            "diegeschichtedesfruleinsvonsternheim-eab0f"
+        ]
+    },
+    {
+        "id": "98609",
+        "time": "1677216721736",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page631",
+        "action": "enter",
+        "value": "0.7366",
+        "words": "119",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-2abad",
+            "diegeschichtedesfruleinsvonsternheim-67d52",
+            "diegeschichtedesfruleinsvonsternheim-a3412"
+        ]
+    },
+    {
+        "id": "98610",
+        "time": "1677216722120",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page630",
+        "action": "enter",
+        "value": "0.7354",
+        "words": "121",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-2abad",
+            "diegeschichtedesfruleinsvonsternheim-37c68",
+            "diegeschichtedesfruleinsvonsternheim-459e8",
+            "diegeschichtedesfruleinsvonsternheim-4933c",
+            "diegeschichtedesfruleinsvonsternheim-88361",
+            "diegeschichtedesfruleinsvonsternheim-9e30c",
+            "diegeschichtedesfruleinsvonsternheim-d1fbd",
+            "diegeschichtedesfruleinsvonsternheim-f8588"
+        ]
+    },
+    {
+        "id": "98611",
+        "time": "1677216722504",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page629",
+        "action": "enter",
+        "value": "0.7343",
+        "words": "112",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-3a4e7",
+            "diegeschichtedesfruleinsvonsternheim-43940",
+            "diegeschichtedesfruleinsvonsternheim-4933c",
+            "diegeschichtedesfruleinsvonsternheim-6424c",
+            "diegeschichtedesfruleinsvonsternheim-a3069",
+            "diegeschichtedesfruleinsvonsternheim-b412d"
+        ]
+    },
+    {
+        "id": "98612",
+        "time": "1677216722742",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page630",
+        "action": "enter",
+        "value": "0.7354",
+        "words": "121",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-2abad",
+            "diegeschichtedesfruleinsvonsternheim-37c68",
+            "diegeschichtedesfruleinsvonsternheim-459e8",
+            "diegeschichtedesfruleinsvonsternheim-4933c",
+            "diegeschichtedesfruleinsvonsternheim-88361",
+            "diegeschichtedesfruleinsvonsternheim-9e30c",
+            "diegeschichtedesfruleinsvonsternheim-d1fbd",
+            "diegeschichtedesfruleinsvonsternheim-f8588"
+        ]
+    },
+    {
+        "id": "98613",
+        "time": "1677216722852",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page629",
+        "action": "enter",
+        "value": "0.7343",
+        "words": "112",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-3a4e7",
+            "diegeschichtedesfruleinsvonsternheim-43940",
+            "diegeschichtedesfruleinsvonsternheim-4933c",
+            "diegeschichtedesfruleinsvonsternheim-6424c",
+            "diegeschichtedesfruleinsvonsternheim-a3069",
+            "diegeschichtedesfruleinsvonsternheim-b412d"
+        ]
+    },
+    {
+        "id": "98614",
+        "time": "1677216723302",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page628",
+        "action": "enter",
+        "value": "0.7331",
+        "words": "127",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-12387",
+            "diegeschichtedesfruleinsvonsternheim-19a3e",
+            "diegeschichtedesfruleinsvonsternheim-50a2a",
+            "diegeschichtedesfruleinsvonsternheim-a3069",
+            "diegeschichtedesfruleinsvonsternheim-d19e5"
+        ]
+    },
+    {
+        "id": "98615",
+        "time": "1677216723620",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page627",
+        "action": "enter",
+        "value": "0.7319",
+        "words": "130",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-29e4e",
+            "diegeschichtedesfruleinsvonsternheim-419f6",
+            "diegeschichtedesfruleinsvonsternheim-b67fc",
+            "diegeschichtedesfruleinsvonsternheim-d19e5"
+        ]
+    },
+    {
+        "id": "98616",
+        "time": "1677216723969",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page626",
+        "action": "enter",
+        "value": "0.7308",
+        "words": "124",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-03eb3",
+            "diegeschichtedesfruleinsvonsternheim-04796",
+            "diegeschichtedesfruleinsvonsternheim-a6764",
+            "diegeschichtedesfruleinsvonsternheim-b67fc"
+        ]
+    },
+    {
+        "id": "98617",
+        "time": "1677216724303",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page625",
+        "action": "enter",
+        "value": "0.7296",
+        "words": "133",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-03eb3",
+            "diegeschichtedesfruleinsvonsternheim-18fed",
+            "diegeschichtedesfruleinsvonsternheim-4d6ea"
+        ]
+    },
+    {
+        "id": "98618",
+        "time": "1677216724690",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page624",
+        "action": "enter",
+        "value": "0.7284",
+        "words": "113",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-09705",
+            "diegeschichtedesfruleinsvonsternheim-18fed",
+            "diegeschichtedesfruleinsvonsternheim-a1318",
+            "diegeschichtedesfruleinsvonsternheim-b6342",
+            "diegeschichtedesfruleinsvonsternheim-dfc2d",
+            "diegeschichtedesfruleinsvonsternheim-ef5e8",
+            "diegeschichtedesfruleinsvonsternheim-fd0bc"
+        ]
+    },
+    {
+        "id": "98619",
+        "time": "1677216733002",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-2",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98620",
+        "time": "1677216738702",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page623",
+        "action": "enter",
+        "value": "0.7273",
+        "words": "108",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-1194f",
+            "diegeschichtedesfruleinsvonsternheim-27700",
+            "diegeschichtedesfruleinsvonsternheim-32012",
+            "diegeschichtedesfruleinsvonsternheim-380ae",
+            "diegeschichtedesfruleinsvonsternheim-c7775",
+            "diegeschichtedesfruleinsvonsternheim-dd08c",
+            "diegeschichtedesfruleinsvonsternheim-fd0bc"
+        ]
+    },
+    {
+        "id": "98621",
+        "time": "1677216739072",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page622",
+        "action": "enter",
+        "value": "0.7261",
+        "words": "148",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-1049f",
+            "diegeschichtedesfruleinsvonsternheim-27700",
+            "diegeschichtedesfruleinsvonsternheim-5a697",
+            "diegeschichtedesfruleinsvonsternheim-8cb05",
+            "diegeschichtedesfruleinsvonsternheim-b88ac"
+        ]
+    },
+    {
+        "id": "98622",
+        "time": "1677216739420",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page621",
+        "action": "enter",
+        "value": "0.7249",
+        "words": "125",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-56591",
+            "diegeschichtedesfruleinsvonsternheim-61fab",
+            "diegeschichtedesfruleinsvonsternheim-919ac",
+            "diegeschichtedesfruleinsvonsternheim-b88ac",
+            "diegeschichtedesfruleinsvonsternheim-cb6db"
+        ]
+    },
+    {
+        "id": "98623",
+        "time": "1677216739752",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page620",
+        "action": "enter",
+        "value": "0.7238",
+        "words": "111",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-19ea2",
+            "diegeschichtedesfruleinsvonsternheim-56591",
+            "diegeschichtedesfruleinsvonsternheim-5b277",
+            "diegeschichtedesfruleinsvonsternheim-78443",
+            "diegeschichtedesfruleinsvonsternheim-d1a7f"
+        ]
+    },
+    {
+        "id": "98624",
+        "time": "1677216740035",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page619",
+        "action": "enter",
+        "value": "0.7226",
+        "words": "133",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-479e7",
+            "diegeschichtedesfruleinsvonsternheim-9e0b6",
+            "diegeschichtedesfruleinsvonsternheim-9f0f8",
+            "diegeschichtedesfruleinsvonsternheim-d1a7f"
+        ]
+    },
+    {
+        "id": "98625",
+        "time": "1677216740519",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page618",
+        "action": "enter",
+        "value": "0.7214",
+        "words": "123",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-180f4",
+            "diegeschichtedesfruleinsvonsternheim-65373",
+            "diegeschichtedesfruleinsvonsternheim-7f3b6",
+            "diegeschichtedesfruleinsvonsternheim-8b077",
+            "diegeschichtedesfruleinsvonsternheim-9f0f8",
+            "diegeschichtedesfruleinsvonsternheim-d1189",
+            "diegeschichtedesfruleinsvonsternheim-e7bc8",
+            "diegeschichtedesfruleinsvonsternheim-f881b"
+        ]
+    },
+    {
+        "id": "98626",
+        "time": "1677216740819",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page617",
+        "action": "enter",
+        "value": "0.7203",
+        "words": "3",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-fe8c5"
+        ]
+    },
+    {
+        "id": "98627",
+        "time": "1677216741069",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page616",
+        "action": "enter",
+        "value": "0.7191",
+        "words": "109",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-5bc7d",
+            "diegeschichtedesfruleinsvonsternheim-9c924-2",
+            "diegeschichtedesfruleinsvonsternheim-dcb82",
+            "diegeschichtedesfruleinsvonsternheim-fe8c5"
+        ]
+    },
+    {
+        "id": "98628",
+        "time": "1677216741369",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page615",
+        "action": "enter",
+        "value": "0.7179",
+        "words": "121",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-22778",
+            "diegeschichtedesfruleinsvonsternheim-786a5",
+            "diegeschichtedesfruleinsvonsternheim-dcb82",
+            "diegeschichtedesfruleinsvonsternheim-e71ac"
+        ]
+    },
+    {
+        "id": "98629",
+        "time": "1677216741657",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page614",
+        "action": "enter",
+        "value": "0.7168",
+        "words": "127",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-0115a",
+            "diegeschichtedesfruleinsvonsternheim-3b33b",
+            "diegeschichtedesfruleinsvonsternheim-786a5",
+            "diegeschichtedesfruleinsvonsternheim-ffefc"
+        ]
+    },
+    {
+        "id": "98630",
+        "time": "1677216741935",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page613",
+        "action": "enter",
+        "value": "0.7156",
+        "words": "116",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-229c7",
+            "diegeschichtedesfruleinsvonsternheim-3b33b",
+            "diegeschichtedesfruleinsvonsternheim-51509"
+        ]
+    },
+    {
+        "id": "98631",
+        "time": "1677216742440",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page612",
+        "action": "enter",
+        "value": "0.7145",
+        "words": "103",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-1b835",
+            "diegeschichtedesfruleinsvonsternheim-51509",
+            "diegeschichtedesfruleinsvonsternheim-5c996",
+            "diegeschichtedesfruleinsvonsternheim-ad647",
+            "diegeschichtedesfruleinsvonsternheim-ce93a"
+        ]
+    },
+    {
+        "id": "98632",
+        "time": "1677216742706",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page611",
+        "action": "enter",
+        "value": "0.7133",
+        "words": "99",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-2cbc2",
+            "diegeschichtedesfruleinsvonsternheim-4277f",
+            "diegeschichtedesfruleinsvonsternheim-700db",
+            "diegeschichtedesfruleinsvonsternheim-703ac",
+            "diegeschichtedesfruleinsvonsternheim-70b8e",
+            "diegeschichtedesfruleinsvonsternheim-debad"
+        ]
+    },
+    {
+        "id": "98633",
+        "time": "1677216742968",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page610",
+        "action": "enter",
+        "value": "0.7121",
+        "words": "100",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-70b8e",
+            "diegeschichtedesfruleinsvonsternheim-b656d",
+            "diegeschichtedesfruleinsvonsternheim-d0a6b",
+            "diegeschichtedesfruleinsvonsternheim-d9057"
+        ]
+    },
+    {
+        "id": "98634",
+        "time": "1677216743238",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page609",
+        "action": "enter",
+        "value": "0.711",
+        "words": "87",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-42742",
+            "diegeschichtedesfruleinsvonsternheim-59534",
+            "diegeschichtedesfruleinsvonsternheim-5f6a8",
+            "diegeschichtedesfruleinsvonsternheim-a81bc",
+            "diegeschichtedesfruleinsvonsternheim-b8616",
+            "diegeschichtedesfruleinsvonsternheim-b91d5",
+            "diegeschichtedesfruleinsvonsternheim-e4fed"
+        ]
+    },
+    {
+        "id": "98635",
+        "time": "1677216744605",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page608",
+        "action": "enter",
+        "value": "0.7098",
+        "words": "115",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-5881a",
+            "diegeschichtedesfruleinsvonsternheim-8ba96",
+            "diegeschichtedesfruleinsvonsternheim-8e0bb",
+            "diegeschichtedesfruleinsvonsternheim-e4fed"
+        ]
+    },
+    {
+        "id": "98636",
+        "time": "1677216745052",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page607",
+        "action": "enter",
+        "value": "0.7086",
+        "words": "91",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-0c1b9",
+            "diegeschichtedesfruleinsvonsternheim-86299",
+            "diegeschichtedesfruleinsvonsternheim-8ebb9",
+            "diegeschichtedesfruleinsvonsternheim-99db1",
+            "diegeschichtedesfruleinsvonsternheim-c6d2b",
+            "diegeschichtedesfruleinsvonsternheim-e570c"
+        ]
+    },
+    {
+        "id": "98637",
+        "time": "1677216745485",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page606",
+        "action": "enter",
+        "value": "0.7075",
+        "words": "98",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-2c959",
+            "diegeschichtedesfruleinsvonsternheim-66ce7",
+            "diegeschichtedesfruleinsvonsternheim-6f986",
+            "diegeschichtedesfruleinsvonsternheim-99db1",
+            "diegeschichtedesfruleinsvonsternheim-cf1e6",
+            "diegeschichtedesfruleinsvonsternheim-d5689"
+        ]
+    },
+    {
+        "id": "98638",
+        "time": "1677216768351",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page605",
+        "action": "enter",
+        "value": "0.7063",
+        "words": "104",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-3bf0f",
+            "diegeschichtedesfruleinsvonsternheim-51616",
+            "diegeschichtedesfruleinsvonsternheim-85e6d",
+            "diegeschichtedesfruleinsvonsternheim-a17be",
+            "diegeschichtedesfruleinsvonsternheim-d5689"
+        ]
+    },
+    {
+        "id": "98639",
+        "time": "1677216770496",
+        "appid": "c5aa493d43ef3adf3a7ae0c57a114695",
+        "session": "6FAF1",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page606",
+        "action": "leave",
+        "value": "0.7051",
+        "words": "104",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-3bf0f",
+            "diegeschichtedesfruleinsvonsternheim-51616",
+            "diegeschichtedesfruleinsvonsternheim-85e6d",
+            "diegeschichtedesfruleinsvonsternheim-a17be",
+            "diegeschichtedesfruleinsvonsternheim-d5689"
+        ]
+    },
+    {
+        "id": "98640",
+        "time": "1677229769769",
+        "appid": "22b6a679241798abf9cee5a1e7ead207",
+        "session": "Iqfj7",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98641",
+        "time": "1677229769799",
+        "appid": "22b6a679241798abf9cee5a1e7ead207",
+        "session": "Iqfj7",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98642",
+        "time": "1677229771006",
+        "appid": "22b6a679241798abf9cee5a1e7ead207",
+        "session": "Iqfj7",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0306",
+        "words": "245",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-01806",
+            "ausdemlebeneinestaugenichts-05f6a",
+            "ausdemlebeneinestaugenichts-14a61",
+            "ausdemlebeneinestaugenichts-18ce9",
+            "ausdemlebeneinestaugenichts-25a05",
+            "ausdemlebeneinestaugenichts-2b2bc",
+            "ausdemlebeneinestaugenichts-349ad",
+            "ausdemlebeneinestaugenichts-45731",
+            "ausdemlebeneinestaugenichts-49d80",
+            "ausdemlebeneinestaugenichts-5c7a3",
+            "ausdemlebeneinestaugenichts-5cfe5",
+            "ausdemlebeneinestaugenichts-5d2e4",
+            "ausdemlebeneinestaugenichts-6c46c",
+            "ausdemlebeneinestaugenichts-87057",
+            "ausdemlebeneinestaugenichts-9393e",
+            "ausdemlebeneinestaugenichts-a1cda",
+            "ausdemlebeneinestaugenichts-a546f",
+            "ausdemlebeneinestaugenichts-aa933",
+            "ausdemlebeneinestaugenichts-abafd",
+            "ausdemlebeneinestaugenichts-b7884",
+            "ausdemlebeneinestaugenichts-c9990",
+            "ausdemlebeneinestaugenichts-d42df",
+            "ausdemlebeneinestaugenichts-e721d",
+            "ausdemlebeneinestaugenichts-f90c3"
+        ]
+    },
+    {
+        "id": "98643",
+        "time": "1677229783986",
+        "appid": "22b6a679241798abf9cee5a1e7ead207",
+        "session": "Iqfj7",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0204",
+        "words": "245",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-01806",
+            "ausdemlebeneinestaugenichts-05f6a",
+            "ausdemlebeneinestaugenichts-14a61",
+            "ausdemlebeneinestaugenichts-18ce9",
+            "ausdemlebeneinestaugenichts-25a05",
+            "ausdemlebeneinestaugenichts-2b2bc",
+            "ausdemlebeneinestaugenichts-349ad",
+            "ausdemlebeneinestaugenichts-45731",
+            "ausdemlebeneinestaugenichts-49d80",
+            "ausdemlebeneinestaugenichts-5c7a3",
+            "ausdemlebeneinestaugenichts-5cfe5",
+            "ausdemlebeneinestaugenichts-5d2e4",
+            "ausdemlebeneinestaugenichts-6c46c",
+            "ausdemlebeneinestaugenichts-87057",
+            "ausdemlebeneinestaugenichts-9393e",
+            "ausdemlebeneinestaugenichts-a1cda",
+            "ausdemlebeneinestaugenichts-a546f",
+            "ausdemlebeneinestaugenichts-aa933",
+            "ausdemlebeneinestaugenichts-abafd",
+            "ausdemlebeneinestaugenichts-b7884",
+            "ausdemlebeneinestaugenichts-c9990",
+            "ausdemlebeneinestaugenichts-d42df",
+            "ausdemlebeneinestaugenichts-e721d",
+            "ausdemlebeneinestaugenichts-f90c3"
+        ]
+    },
+    {
+        "id": "98644",
+        "time": "1677247533489",
+        "appid": "71be5674b8043abaf0a25542e7162305",
+        "session": "L4p3T",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98645",
+        "time": "1677264822997",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98646",
+        "time": "1677264823010",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98647",
+        "time": "1677264825545",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page531",
+        "action": "enter",
+        "value": "0.4176",
+        "words": "83",
+        "elementids": [
+            "effibriest-6a426",
+            "effibriest-80fcc"
+        ]
+    },
+    {
+        "id": "98648",
+        "time": "1677264833020",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page530",
+        "action": "enter",
+        "value": "0.4168",
+        "words": "78",
+        "elementids": [
+            "effibriest-312d0",
+            "effibriest-69977",
+            "effibriest-6a426",
+            "effibriest-7bc78"
+        ]
+    },
+    {
+        "id": "98649",
+        "time": "1677264836113",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98650",
+        "time": "1677264845153",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page529",
+        "action": "enter",
+        "value": "0.416",
+        "words": "44",
+        "elementids": [
+            "effibriest-05f2c",
+            "effibriest-0c18d",
+            "effibriest-72509",
+            "effibriest-86b2a"
+        ]
+    },
+    {
+        "id": "98651",
+        "time": "1677264851518",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page530",
+        "action": "enter",
+        "value": "0.4168",
+        "words": "78",
+        "elementids": [
+            "effibriest-312d0",
+            "effibriest-69977",
+            "effibriest-6a426",
+            "effibriest-7bc78"
+        ]
+    },
+    {
+        "id": "98652",
+        "time": "1677264874285",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page531",
+        "action": "enter",
+        "value": "0.4176",
+        "words": "83",
+        "elementids": [
+            "effibriest-6a426",
+            "effibriest-80fcc"
+        ]
+    },
+    {
+        "id": "98653",
+        "time": "1677264899737",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page532",
+        "action": "enter",
+        "value": "0.4184",
+        "words": "88",
+        "elementids": [
+            "effibriest-3a7e8",
+            "effibriest-427e8",
+            "effibriest-80fcc",
+            "effibriest-8b0f5"
+        ]
+    },
+    {
+        "id": "98654",
+        "time": "1677264927505",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page533",
+        "action": "enter",
+        "value": "0.4192",
+        "words": "84",
+        "elementids": [
+            "effibriest-0633e",
+            "effibriest-14825",
+            "effibriest-4f9bf",
+            "effibriest-8b0f5",
+            "effibriest-fb665"
+        ]
+    },
+    {
+        "id": "98655",
+        "time": "1677264962872",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page534",
+        "action": "enter",
+        "value": "0.4199",
+        "words": "72",
+        "elementids": [
+            "effibriest-14825"
+        ]
+    },
+    {
+        "id": "98656",
+        "time": "1677265000540",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page535",
+        "action": "enter",
+        "value": "0.4207",
+        "words": "78",
+        "elementids": [
+            "effibriest-bce2e",
+            "effibriest-d9edc"
+        ]
+    },
+    {
+        "id": "98657",
+        "time": "1677265035475",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page536",
+        "action": "enter",
+        "value": "0.4215",
+        "words": "81",
+        "elementids": [
+            "effibriest-16dc2",
+            "effibriest-8578f",
+            "effibriest-a8775",
+            "effibriest-d9edc",
+            "effibriest-fb661"
+        ]
+    },
+    {
+        "id": "98658",
+        "time": "1677265063355",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page537",
+        "action": "enter",
+        "value": "0.4223",
+        "words": "84",
+        "elementids": [
+            "effibriest-6cdb1",
+            "effibriest-fb661"
+        ]
+    },
+    {
+        "id": "98659",
+        "time": "1677265092859",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page538",
+        "action": "enter",
+        "value": "0.4231",
+        "words": "71",
+        "elementids": [
+            "effibriest-6cdb1",
+            "effibriest-7c44f",
+            "effibriest-a1d65",
+            "effibriest-f175b"
+        ]
+    },
+    {
+        "id": "98660",
+        "time": "1677265115844",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page539",
+        "action": "enter",
+        "value": "0.4239",
+        "words": "55",
+        "elementids": [
+            "effibriest-0194c",
+            "effibriest-24254",
+            "effibriest-4b439",
+            "effibriest-4d44f",
+            "effibriest-676a0",
+            "effibriest-694c9",
+            "effibriest-aea52",
+            "effibriest-bbf7b"
+        ]
+    },
+    {
+        "id": "98661",
+        "time": "1677265137895",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page540",
+        "action": "enter",
+        "value": "0.4246",
+        "words": "71",
+        "elementids": [
+            "effibriest-2b1a7",
+            "effibriest-4b439",
+            "effibriest-87c6a",
+            "effibriest-91505",
+            "effibriest-aea67",
+            "effibriest-c696f"
+        ]
+    },
+    {
+        "id": "98662",
+        "time": "1677265161095",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page541",
+        "action": "enter",
+        "value": "0.4254",
+        "words": "69",
+        "elementids": [
+            "effibriest-6dbbf",
+            "effibriest-8c78f",
+            "effibriest-aea67",
+            "effibriest-b344a",
+            "effibriest-e384c",
+            "effibriest-eca69"
+        ]
+    },
+    {
+        "id": "98663",
+        "time": "1677265182929",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page542",
+        "action": "enter",
+        "value": "0.4262",
+        "words": "69",
+        "elementids": [
+            "effibriest-2693e",
+            "effibriest-3ec54",
+            "effibriest-75f2f",
+            "effibriest-83cd7",
+            "effibriest-8c78f",
+            "effibriest-9ebb9",
+            "effibriest-a4276",
+            "effibriest-dc1c4",
+            "effibriest-e7651"
+        ]
+    },
+    {
+        "id": "98664",
+        "time": "1677265210230",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page543",
+        "action": "enter",
+        "value": "0.427",
+        "words": "67",
+        "elementids": [
+            "effibriest-282cb",
+            "effibriest-52ae7",
+            "effibriest-6b102",
+            "effibriest-92ef5",
+            "effibriest-9ebb9",
+            "effibriest-c2808"
+        ]
+    },
+    {
+        "id": "98665",
+        "time": "1677265234315",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page544",
+        "action": "enter",
+        "value": "0.4278",
+        "words": "75",
+        "elementids": [
+            "effibriest-ac1ad",
+            "effibriest-b8a40",
+            "effibriest-f8de2"
+        ]
+    },
+    {
+        "id": "98666",
+        "time": "1677265242725",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page543",
+        "action": "enter",
+        "value": "0.427",
+        "words": "67",
+        "elementids": [
+            "effibriest-282cb",
+            "effibriest-52ae7",
+            "effibriest-6b102",
+            "effibriest-92ef5",
+            "effibriest-9ebb9",
+            "effibriest-c2808"
+        ]
+    },
+    {
+        "id": "98667",
+        "time": "1677265243441",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page542",
+        "action": "enter",
+        "value": "0.4262",
+        "words": "69",
+        "elementids": [
+            "effibriest-2693e",
+            "effibriest-3ec54",
+            "effibriest-75f2f",
+            "effibriest-83cd7",
+            "effibriest-8c78f",
+            "effibriest-9ebb9",
+            "effibriest-a4276",
+            "effibriest-dc1c4",
+            "effibriest-e7651"
+        ]
+    },
+    {
+        "id": "98668",
+        "time": "1677265264734",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page5421",
+        "action": "anstreichen",
+        "value": "7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98669",
+        "time": "1677265271938",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98670",
+        "time": "1677265274020",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98671",
+        "time": "1677265274059",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page542",
+        "action": "enter",
+        "value": "0.4262",
+        "words": "69",
+        "elementids": [
+            "effibriest-2693e",
+            "effibriest-3ec54",
+            "effibriest-75f2f",
+            "effibriest-83cd7",
+            "effibriest-8c78f",
+            "effibriest-9ebb9",
+            "effibriest-a4276",
+            "effibriest-dc1c4",
+            "effibriest-e7651"
+        ]
+    },
+    {
+        "id": "98672",
+        "time": "1677265275766",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page543",
+        "action": "enter",
+        "value": "0.427",
+        "words": "67",
+        "elementids": [
+            "effibriest-282cb",
+            "effibriest-52ae7",
+            "effibriest-6b102",
+            "effibriest-92ef5",
+            "effibriest-9ebb9",
+            "effibriest-c2808"
+        ]
+    },
+    {
+        "id": "98673",
+        "time": "1677265282581",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page544",
+        "action": "enter",
+        "value": "0.4278",
+        "words": "75",
+        "elementids": [
+            "effibriest-ac1ad",
+            "effibriest-b8a40",
+            "effibriest-f8de2"
+        ]
+    },
+    {
+        "id": "98674",
+        "time": "1677265310616",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page545",
+        "action": "enter",
+        "value": "0.4286",
+        "words": "89",
+        "elementids": [
+            "effibriest-77f96",
+            "effibriest-9bdae",
+            "effibriest-ac1ad"
+        ]
+    },
+    {
+        "id": "98675",
+        "time": "1677265339701",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page546",
+        "action": "enter",
+        "value": "0.4294",
+        "words": "70",
+        "elementids": [
+            "effibriest-01e8d",
+            "effibriest-77f96",
+            "effibriest-96cd8",
+            "effibriest-99563"
+        ]
+    },
+    {
+        "id": "98676",
+        "time": "1677265365218",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page547",
+        "action": "enter",
+        "value": "0.4301",
+        "words": "74",
+        "elementids": [
+            "effibriest-559c2",
+            "effibriest-70f70",
+            "effibriest-7cad7",
+            "effibriest-99563",
+            "effibriest-c4358"
+        ]
+    },
+    {
+        "id": "98677",
+        "time": "1677265400719",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page548",
+        "action": "enter",
+        "value": "0.4309",
+        "words": "71",
+        "elementids": [
+            "effibriest-03db5",
+            "effibriest-08884",
+            "effibriest-6e3b0",
+            "effibriest-70f70",
+            "effibriest-8785f",
+            "effibriest-9bd30",
+            "effibriest-b199e",
+            "effibriest-b5284",
+            "effibriest-cf745",
+            "effibriest-d8a7c",
+            "effibriest-fbb29"
+        ]
+    },
+    {
+        "id": "98678",
+        "time": "1677265434903",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page549",
+        "action": "enter",
+        "value": "0.4317",
+        "words": "70",
+        "elementids": [
+            "effibriest-1c654",
+            "effibriest-58299",
+            "effibriest-5deca",
+            "effibriest-65329",
+            "effibriest-a4825",
+            "effibriest-c5cfa",
+            "effibriest-c87ba",
+            "effibriest-fbb29"
+        ]
+    },
+    {
+        "id": "98679",
+        "time": "1677265458371",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page550",
+        "action": "enter",
+        "value": "0.4325",
+        "words": "90",
+        "elementids": [
+            "effibriest-27254",
+            "effibriest-33a58",
+            "effibriest-553ff",
+            "effibriest-58299",
+            "effibriest-90653",
+            "effibriest-955aa",
+            "effibriest-eeb68",
+            "effibriest-fa61e"
+        ]
+    },
+    {
+        "id": "98680",
+        "time": "1677265483371",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page551",
+        "action": "enter",
+        "value": "0.4333",
+        "words": "57",
+        "elementids": [
+            "effibriest-06799",
+            "effibriest-0c1cb",
+            "effibriest-568a3",
+            "effibriest-d8b3d",
+            "effibriest-f69b6",
+            "effibriest-fa61e"
+        ]
+    },
+    {
+        "id": "98681",
+        "time": "1677265505252",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page552",
+        "action": "enter",
+        "value": "0.4341",
+        "words": "82",
+        "elementids": [
+            "effibriest-06062",
+            "effibriest-0cae9",
+            "effibriest-18e08",
+            "effibriest-83572",
+            "effibriest-85ea7",
+            "effibriest-bf50a",
+            "effibriest-d99fb"
+        ]
+    },
+    {
+        "id": "98682",
+        "time": "1677265529923",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page553",
+        "action": "enter",
+        "value": "0.4349",
+        "words": "85",
+        "elementids": [
+            "effibriest-06062",
+            "effibriest-229cd",
+            "effibriest-3c629",
+            "effibriest-b6143",
+            "effibriest-db0f0"
+        ]
+    },
+    {
+        "id": "98683",
+        "time": "1677265560063",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page554",
+        "action": "enter",
+        "value": "0.4356",
+        "words": "62",
+        "elementids": [
+            "effibriest-229cd",
+            "effibriest-2fcd2",
+            "effibriest-37239",
+            "effibriest-4fe57",
+            "effibriest-81140",
+            "effibriest-93360",
+            "effibriest-9c428",
+            "effibriest-cb515",
+            "effibriest-f1e27",
+            "effibriest-fd914"
+        ]
+    },
+    {
+        "id": "98684",
+        "time": "1677265561765",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98685",
+        "time": "1677265585475",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page555",
+        "action": "enter",
+        "value": "0.4364",
+        "words": "75",
+        "elementids": [
+            "effibriest-05fa7",
+            "effibriest-1d140",
+            "effibriest-20b47",
+            "effibriest-37239",
+            "effibriest-44d40",
+            "effibriest-503ab",
+            "effibriest-6903f",
+            "effibriest-a2497",
+            "effibriest-e6f14"
+        ]
+    },
+    {
+        "id": "98686",
+        "time": "1677265613958",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page556",
+        "action": "enter",
+        "value": "0.4372",
+        "words": "63",
+        "elementids": [
+            "effibriest-28b6c",
+            "effibriest-386e7",
+            "effibriest-743ee",
+            "effibriest-98120",
+            "effibriest-c2ae1",
+            "effibriest-d0d9a",
+            "effibriest-e6f14"
+        ]
+    },
+    {
+        "id": "98687",
+        "time": "1677265635608",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page557",
+        "action": "enter",
+        "value": "0.438",
+        "words": "69",
+        "elementids": [
+            "effibriest-0b6f0",
+            "effibriest-4a1a9",
+            "effibriest-4d9d6",
+            "effibriest-549ab",
+            "effibriest-608c1",
+            "effibriest-98120"
+        ]
+    },
+    {
+        "id": "98688",
+        "time": "1677265664651",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page558",
+        "action": "enter",
+        "value": "0.4388",
+        "words": "63",
+        "elementids": [
+            "effibriest-5c3ac",
+            "effibriest-702f5",
+            "effibriest-7d99a",
+            "effibriest-8082a",
+            "effibriest-acb0a",
+            "effibriest-c90ac",
+            "effibriest-d4a72",
+            "effibriest-e06ae"
+        ]
+    },
+    {
+        "id": "98689",
+        "time": "1677265681302",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page559",
+        "action": "enter",
+        "value": "0.4396",
+        "words": "59",
+        "elementids": [
+            "effibriest-26294",
+            "effibriest-2f26b",
+            "effibriest-39edc",
+            "effibriest-9673f",
+            "effibriest-c4aeb",
+            "effibriest-c90ac"
+        ]
+    },
+    {
+        "id": "98690",
+        "time": "1677265703919",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page560",
+        "action": "enter",
+        "value": "0.4403",
+        "words": "67",
+        "elementids": [
+            "effibriest-2f26b",
+            "effibriest-2fa53-2",
+            "effibriest-6bae7",
+            "effibriest-74a68",
+            "effibriest-a4478",
+            "effibriest-af97e",
+            "effibriest-b7f2f",
+            "effibriest-da471",
+            "effibriest-df573"
+        ]
+    },
+    {
+        "id": "98691",
+        "time": "1677265727404",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page561",
+        "action": "enter",
+        "value": "0.4411",
+        "words": "24",
+        "elementids": [
+            "effibriest-df573"
+        ]
+    },
+    {
+        "id": "98692",
+        "time": "1677265736238",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page562",
+        "action": "enter",
+        "value": "0.4419",
+        "words": "77",
+        "elementids": [
+            "effibriest-44ed5",
+            "effibriest-94617",
+            "effibriest-bb695",
+            "effibriest-d59d8",
+            "effibriest-f4acc"
+        ]
+    },
+    {
+        "id": "98693",
+        "time": "1677265742542",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "hb7bb",
+        "bereich": "reader_effibriest",
+        "item": "page563",
+        "action": "leave",
+        "value": "0.4411",
+        "words": "77",
+        "elementids": [
+            "effibriest-44ed5",
+            "effibriest-94617",
+            "effibriest-bb695",
+            "effibriest-d59d8",
+            "effibriest-f4acc"
+        ]
+    }
+]
