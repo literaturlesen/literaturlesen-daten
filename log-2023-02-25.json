@@ -1,0 +1,5637 @@
+[
+    {
+        "id": "98694",
+        "time": "1677306481889",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98695",
+        "time": "1677306486121",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98696",
+        "time": "1677306489033",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98697",
+        "time": "1677306495624",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98698",
+        "time": "1677306499740",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98699",
+        "time": "1677306505685",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98700",
+        "time": "1677306507261",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0546",
+        "words": "101",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-a9a44"
+        ]
+    },
+    {
+        "id": "98701",
+        "time": "1677306507585",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.0554",
+        "words": "84",
+        "elementids": [
+            "antonreiser-045ef",
+            "antonreiser-1f3b4",
+            "antonreiser-2b1e2",
+            "antonreiser-c1b5f"
+        ]
+    },
+    {
+        "id": "98702",
+        "time": "1677306517487",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98703",
+        "time": "1677306518734",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0546",
+        "words": "101",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-a9a44"
+        ]
+    },
+    {
+        "id": "98704",
+        "time": "1677306519546",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0539",
+        "words": "102",
+        "elementids": [
+            "antonreiser-8b3d4",
+            "antonreiser-a9a44",
+            "antonreiser-b4791"
+        ]
+    },
+    {
+        "id": "98705",
+        "time": "1677306520061",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "98",
+        "elementids": [
+            "antonreiser-4ef0d",
+            "antonreiser-b4791"
+        ]
+    },
+    {
+        "id": "98706",
+        "time": "1677306520666",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0524",
+        "words": "91",
+        "elementids": [
+            "antonreiser-2edac",
+            "antonreiser-6d284",
+            "antonreiser-d7912"
+        ]
+    },
+    {
+        "id": "98707",
+        "time": "1677306521359",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0517",
+        "words": "95",
+        "elementids": [
+            "antonreiser-76091",
+            "antonreiser-bc660",
+            "antonreiser-d7912",
+            "antonreiser-ddee3",
+            "antonreiser-f78e6"
+        ]
+    },
+    {
+        "id": "98708",
+        "time": "1677306522926",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page68",
+        "action": "enter",
+        "value": "0.0509",
+        "words": "95",
+        "elementids": [
+            "antonreiser-271ae",
+            "antonreiser-2c1c6",
+            "antonreiser-ba282",
+            "antonreiser-ddee3"
+        ]
+    },
+    {
+        "id": "98709",
+        "time": "1677306524170",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0502",
+        "words": "100",
+        "elementids": [
+            "antonreiser-2c1c6",
+            "antonreiser-34ee3",
+            "antonreiser-4181b",
+            "antonreiser-50723",
+            "antonreiser-5d8b4"
+        ]
+    },
+    {
+        "id": "98710",
+        "time": "1677306524681",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0494",
+        "words": "105",
+        "elementids": [
+            "antonreiser-23c7f",
+            "antonreiser-50723",
+            "antonreiser-511f2",
+            "antonreiser-b6329",
+            "antonreiser-fcd12"
+        ]
+    },
+    {
+        "id": "98711",
+        "time": "1677306526234",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98712",
+        "time": "1677306545705",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98713",
+        "time": "1677306548142",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98714",
+        "time": "1677306556637",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98715",
+        "time": "1677306568362",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "",
+        "action": "enter",
+        "value": "weststlicherdivan",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98716",
+        "time": "1677306569875",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page195",
+        "action": "enter",
+        "value": "0.235",
+        "words": "48",
+        "elementids": [
+            "weststlicherdivan-1a7cd",
+            "weststlicherdivan-21aac",
+            "weststlicherdivan-3b968",
+            "weststlicherdivan-459df",
+            "weststlicherdivan-460a5",
+            "weststlicherdivan-611a3",
+            "weststlicherdivan-783e5",
+            "weststlicherdivan-86d14",
+            "weststlicherdivan-8dd64",
+            "weststlicherdivan-a0db9",
+            "weststlicherdivan-aba09",
+            "weststlicherdivan-ad50e",
+            "weststlicherdivan-b45dd"
+        ]
+    },
+    {
+        "id": "98717",
+        "time": "1677306570193",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page196",
+        "action": "enter",
+        "value": "0.2362",
+        "words": "63",
+        "elementids": [
+            "weststlicherdivan-29302",
+            "weststlicherdivan-33821",
+            "weststlicherdivan-4ca4a",
+            "weststlicherdivan-72b0a",
+            "weststlicherdivan-77004",
+            "weststlicherdivan-89643",
+            "weststlicherdivan-91cc8",
+            "weststlicherdivan-98908",
+            "weststlicherdivan-98e88",
+            "weststlicherdivan-9cfeb",
+            "weststlicherdivan-be913",
+            "weststlicherdivan-c88e1",
+            "weststlicherdivan-d6f8d",
+            "weststlicherdivan-d771f",
+            "weststlicherdivan-f10bb",
+            "weststlicherdivan-fdefc"
+        ]
+    },
+    {
+        "id": "98718",
+        "time": "1677306572455",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98719",
+        "time": "1677306575586",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page195",
+        "action": "enter",
+        "value": "0.235",
+        "words": "48",
+        "elementids": [
+            "weststlicherdivan-1a7cd",
+            "weststlicherdivan-21aac",
+            "weststlicherdivan-3b968",
+            "weststlicherdivan-459df",
+            "weststlicherdivan-460a5",
+            "weststlicherdivan-611a3",
+            "weststlicherdivan-783e5",
+            "weststlicherdivan-86d14",
+            "weststlicherdivan-8dd64",
+            "weststlicherdivan-a0db9",
+            "weststlicherdivan-aba09",
+            "weststlicherdivan-ad50e",
+            "weststlicherdivan-b45dd"
+        ]
+    },
+    {
+        "id": "98720",
+        "time": "1677306577660",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page196",
+        "action": "enter",
+        "value": "0.2362",
+        "words": "63",
+        "elementids": [
+            "weststlicherdivan-29302",
+            "weststlicherdivan-33821",
+            "weststlicherdivan-4ca4a",
+            "weststlicherdivan-72b0a",
+            "weststlicherdivan-77004",
+            "weststlicherdivan-89643",
+            "weststlicherdivan-91cc8",
+            "weststlicherdivan-98908",
+            "weststlicherdivan-98e88",
+            "weststlicherdivan-9cfeb",
+            "weststlicherdivan-be913",
+            "weststlicherdivan-c88e1",
+            "weststlicherdivan-d6f8d",
+            "weststlicherdivan-d771f",
+            "weststlicherdivan-f10bb",
+            "weststlicherdivan-fdefc"
+        ]
+    },
+    {
+        "id": "98721",
+        "time": "1677306579272",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98722",
+        "time": "1677306581324",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98723",
+        "time": "1677306582257",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98724",
+        "time": "1677306583483",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98725",
+        "time": "1677306584576",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98726",
+        "time": "1677306585426",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0546",
+        "words": "101",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-a9a44"
+        ]
+    },
+    {
+        "id": "98727",
+        "time": "1677306585741",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.0554",
+        "words": "84",
+        "elementids": [
+            "antonreiser-045ef",
+            "antonreiser-1f3b4",
+            "antonreiser-2b1e2",
+            "antonreiser-c1b5f"
+        ]
+    },
+    {
+        "id": "98728",
+        "time": "1677306590325",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0546",
+        "words": "101",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-a9a44"
+        ]
+    },
+    {
+        "id": "98729",
+        "time": "1677306590901",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0539",
+        "words": "102",
+        "elementids": [
+            "antonreiser-8b3d4",
+            "antonreiser-a9a44",
+            "antonreiser-b4791"
+        ]
+    },
+    {
+        "id": "98730",
+        "time": "1677306591383",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0531",
+        "words": "98",
+        "elementids": [
+            "antonreiser-4ef0d",
+            "antonreiser-b4791"
+        ]
+    },
+    {
+        "id": "98731",
+        "time": "1677306591915",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0524",
+        "words": "91",
+        "elementids": [
+            "antonreiser-2edac",
+            "antonreiser-6d284",
+            "antonreiser-d7912"
+        ]
+    },
+    {
+        "id": "98732",
+        "time": "1677306592717",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_antonreiser",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0517",
+        "words": "95",
+        "elementids": [
+            "antonreiser-76091",
+            "antonreiser-bc660",
+            "antonreiser-d7912",
+            "antonreiser-ddee3",
+            "antonreiser-f78e6"
+        ]
+    },
+    {
+        "id": "98733",
+        "time": "1677306595604",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98734",
+        "time": "1677306597697",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98735",
+        "time": "1677306605003",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "titelblatt_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98736",
+        "time": "1677306610972",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98737",
+        "time": "1677306663479",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0012",
+        "words": "95",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b731a"
+        ]
+    },
+    {
+        "id": "98738",
+        "time": "1677306671460",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_dergrneheinrich",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98739",
+        "time": "1677306705216",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0015",
+        "words": "104",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-7b9d0",
+            "dergrneheinrich-84411",
+            "dergrneheinrich-dbd59"
+        ]
+    },
+    {
+        "id": "98740",
+        "time": "1677306716141",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "reader_dergrneheinrich",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98741",
+        "time": "1677306724201",
+        "appid": "95d1d26a76cafc21b2b114608c560d74",
+        "session": "N73iy",
+        "bereich": "titelblatt_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98742",
+        "time": "1677307030657",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98743",
+        "time": "1677307031874",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page562",
+        "action": "enter",
+        "value": "0.4419",
+        "words": "77",
+        "elementids": [
+            "effibriest-44ed5",
+            "effibriest-94617",
+            "effibriest-bb695",
+            "effibriest-d59d8",
+            "effibriest-f4acc"
+        ]
+    },
+    {
+        "id": "98744",
+        "time": "1677307034028",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page561",
+        "action": "enter",
+        "value": "0.4411",
+        "words": "24",
+        "elementids": [
+            "effibriest-df573"
+        ]
+    },
+    {
+        "id": "98745",
+        "time": "1677307036056",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98746",
+        "time": "1677307041389",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page562",
+        "action": "enter",
+        "value": "0.4419",
+        "words": "77",
+        "elementids": [
+            "effibriest-44ed5",
+            "effibriest-94617",
+            "effibriest-bb695",
+            "effibriest-d59d8",
+            "effibriest-f4acc"
+        ]
+    },
+    {
+        "id": "98747",
+        "time": "1677307070301",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page563",
+        "action": "enter",
+        "value": "0.4427",
+        "words": "84",
+        "elementids": [
+            "effibriest-1c6e9",
+            "effibriest-3c0fb",
+            "effibriest-890d7",
+            "effibriest-8ba2a",
+            "effibriest-94617",
+            "effibriest-d4f1a"
+        ]
+    },
+    {
+        "id": "98748",
+        "time": "1677307071111",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page562",
+        "action": "enter",
+        "value": "0.4419",
+        "words": "77",
+        "elementids": [
+            "effibriest-44ed5",
+            "effibriest-94617",
+            "effibriest-bb695",
+            "effibriest-d59d8",
+            "effibriest-f4acc"
+        ]
+    },
+    {
+        "id": "98749",
+        "time": "1677307072527",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page563",
+        "action": "enter",
+        "value": "0.4427",
+        "words": "84",
+        "elementids": [
+            "effibriest-1c6e9",
+            "effibriest-3c0fb",
+            "effibriest-890d7",
+            "effibriest-8ba2a",
+            "effibriest-94617",
+            "effibriest-d4f1a"
+        ]
+    },
+    {
+        "id": "98750",
+        "time": "1677307100068",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page564",
+        "action": "enter",
+        "value": "0.4435",
+        "words": "75",
+        "elementids": [
+            "effibriest-3c0fb",
+            "effibriest-6e025",
+            "effibriest-94d47",
+            "effibriest-bf8f7",
+            "effibriest-c608e",
+            "effibriest-f366c"
+        ]
+    },
+    {
+        "id": "98751",
+        "time": "1677307121852",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page565",
+        "action": "enter",
+        "value": "0.4443",
+        "words": "63",
+        "elementids": [
+            "effibriest-91aec",
+            "effibriest-bf8f7",
+            "effibriest-e95c1"
+        ]
+    },
+    {
+        "id": "98752",
+        "time": "1677307164538",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page566",
+        "action": "enter",
+        "value": "0.4451",
+        "words": "83",
+        "elementids": [
+            "effibriest-4288d",
+            "effibriest-91aec",
+            "effibriest-a44c6",
+            "effibriest-b995b"
+        ]
+    },
+    {
+        "id": "98753",
+        "time": "1677307190205",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page567",
+        "action": "enter",
+        "value": "0.4458",
+        "words": "82",
+        "elementids": [
+            "effibriest-516e4",
+            "effibriest-68784",
+            "effibriest-b995b"
+        ]
+    },
+    {
+        "id": "98754",
+        "time": "1677307215090",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page568",
+        "action": "enter",
+        "value": "0.4466",
+        "words": "73",
+        "elementids": [
+            "effibriest-31f9b",
+            "effibriest-516e4",
+            "effibriest-72b9d",
+            "effibriest-9a1c7",
+            "effibriest-b188a"
+        ]
+    },
+    {
+        "id": "98755",
+        "time": "1677307247324",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page569",
+        "action": "enter",
+        "value": "0.4474",
+        "words": "57",
+        "elementids": [
+            "effibriest-0550b",
+            "effibriest-1e1d3",
+            "effibriest-2d306",
+            "effibriest-3232b",
+            "effibriest-4609f",
+            "effibriest-49721",
+            "effibriest-74afa",
+            "effibriest-82876",
+            "effibriest-876f5",
+            "effibriest-e3a91",
+            "effibriest-e838c"
+        ]
+    },
+    {
+        "id": "98756",
+        "time": "1677307275926",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page570",
+        "action": "enter",
+        "value": "0.4482",
+        "words": "40",
+        "elementids": [
+            "effibriest-1eae7",
+            "effibriest-2feb2",
+            "effibriest-5d275",
+            "effibriest-b7c7c",
+            "effibriest-c0831",
+            "effibriest-ce601",
+            "effibriest-eae68",
+            "effibriest-f0e16"
+        ]
+    },
+    {
+        "id": "98757",
+        "time": "1677307289672",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page571",
+        "action": "enter",
+        "value": "0.449",
+        "words": "59",
+        "elementids": [
+            "effibriest-010df",
+            "effibriest-127e3",
+            "effibriest-235da",
+            "effibriest-3c666",
+            "effibriest-5b712",
+            "effibriest-6b84a",
+            "effibriest-d189b",
+            "effibriest-d5d61",
+            "effibriest-d9631",
+            "effibriest-de809",
+            "effibriest-eae68"
+        ]
+    },
+    {
+        "id": "98758",
+        "time": "1677307316162",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page572",
+        "action": "enter",
+        "value": "0.4498",
+        "words": "50",
+        "elementids": [
+            "effibriest-0fe21",
+            "effibriest-1fd02",
+            "effibriest-3800e",
+            "effibriest-9f257",
+            "effibriest-cf1e3",
+            "effibriest-d0706",
+            "effibriest-e0f4d",
+            "effibriest-eec28",
+            "effibriest-fdd60"
+        ]
+    },
+    {
+        "id": "98759",
+        "time": "1677307342162",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page571",
+        "action": "enter",
+        "value": "0.449",
+        "words": "59",
+        "elementids": [
+            "effibriest-010df",
+            "effibriest-127e3",
+            "effibriest-235da",
+            "effibriest-3c666",
+            "effibriest-5b712",
+            "effibriest-6b84a",
+            "effibriest-d189b",
+            "effibriest-d5d61",
+            "effibriest-d9631",
+            "effibriest-de809",
+            "effibriest-eae68"
+        ]
+    },
+    {
+        "id": "98760",
+        "time": "1677307343256",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page570",
+        "action": "enter",
+        "value": "0.4482",
+        "words": "40",
+        "elementids": [
+            "effibriest-1eae7",
+            "effibriest-2feb2",
+            "effibriest-5d275",
+            "effibriest-b7c7c",
+            "effibriest-c0831",
+            "effibriest-ce601",
+            "effibriest-eae68",
+            "effibriest-f0e16"
+        ]
+    },
+    {
+        "id": "98761",
+        "time": "1677307344644",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page569",
+        "action": "enter",
+        "value": "0.4474",
+        "words": "57",
+        "elementids": [
+            "effibriest-0550b",
+            "effibriest-1e1d3",
+            "effibriest-2d306",
+            "effibriest-3232b",
+            "effibriest-4609f",
+            "effibriest-49721",
+            "effibriest-74afa",
+            "effibriest-82876",
+            "effibriest-876f5",
+            "effibriest-e3a91",
+            "effibriest-e838c"
+        ]
+    },
+    {
+        "id": "98762",
+        "time": "1677307359796",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page570",
+        "action": "enter",
+        "value": "0.4482",
+        "words": "40",
+        "elementids": [
+            "effibriest-1eae7",
+            "effibriest-2feb2",
+            "effibriest-5d275",
+            "effibriest-b7c7c",
+            "effibriest-c0831",
+            "effibriest-ce601",
+            "effibriest-eae68",
+            "effibriest-f0e16"
+        ]
+    },
+    {
+        "id": "98763",
+        "time": "1677307376279",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page571",
+        "action": "enter",
+        "value": "0.449",
+        "words": "59",
+        "elementids": [
+            "effibriest-010df",
+            "effibriest-127e3",
+            "effibriest-235da",
+            "effibriest-3c666",
+            "effibriest-5b712",
+            "effibriest-6b84a",
+            "effibriest-d189b",
+            "effibriest-d5d61",
+            "effibriest-d9631",
+            "effibriest-de809",
+            "effibriest-eae68"
+        ]
+    },
+    {
+        "id": "98764",
+        "time": "1677307380129",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page572",
+        "action": "enter",
+        "value": "0.4498",
+        "words": "50",
+        "elementids": [
+            "effibriest-0fe21",
+            "effibriest-1fd02",
+            "effibriest-3800e",
+            "effibriest-9f257",
+            "effibriest-cf1e3",
+            "effibriest-d0706",
+            "effibriest-e0f4d",
+            "effibriest-eec28",
+            "effibriest-fdd60"
+        ]
+    },
+    {
+        "id": "98765",
+        "time": "1677307386531",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page573",
+        "action": "enter",
+        "value": "0.4505",
+        "words": "68",
+        "elementids": [
+            "effibriest-3d6d5",
+            "effibriest-44200",
+            "effibriest-68b68",
+            "effibriest-af402",
+            "effibriest-b81b3",
+            "effibriest-b8ec4",
+            "effibriest-c2207",
+            "effibriest-c726e",
+            "effibriest-f4ad7"
+        ]
+    },
+    {
+        "id": "98766",
+        "time": "1677307412132",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page574",
+        "action": "enter",
+        "value": "0.4513",
+        "words": "67",
+        "elementids": [
+            "effibriest-2c4e4",
+            "effibriest-396aa",
+            "effibriest-524d6",
+            "effibriest-91d24",
+            "effibriest-c2207",
+            "effibriest-c3641",
+            "effibriest-dc338",
+            "effibriest-e6835",
+            "effibriest-ee075"
+        ]
+    },
+    {
+        "id": "98767",
+        "time": "1677307442320",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page575",
+        "action": "enter",
+        "value": "0.4521",
+        "words": "75",
+        "elementids": [
+            "effibriest-3e6a4",
+            "effibriest-6dadf",
+            "effibriest-8d30e",
+            "effibriest-a1309",
+            "effibriest-bbd87",
+            "effibriest-c365f",
+            "effibriest-c84b0"
+        ]
+    },
+    {
+        "id": "98768",
+        "time": "1677307476719",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page576",
+        "action": "enter",
+        "value": "0.4529",
+        "words": "84",
+        "elementids": [
+            "effibriest-3e6a4",
+            "effibriest-69826",
+            "effibriest-cbd0c",
+            "effibriest-d656b",
+            "effibriest-dfcc0",
+            "effibriest-fcd2f"
+        ]
+    },
+    {
+        "id": "98769",
+        "time": "1677307504954",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page577",
+        "action": "enter",
+        "value": "0.4537",
+        "words": "70",
+        "elementids": [
+            "effibriest-36051",
+            "effibriest-4132b",
+            "effibriest-61f5a",
+            "effibriest-942ad",
+            "effibriest-dfcc0"
+        ]
+    },
+    {
+        "id": "98770",
+        "time": "1677307532871",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page578",
+        "action": "enter",
+        "value": "0.4545",
+        "words": "61",
+        "elementids": [
+            "effibriest-1a96b",
+            "effibriest-4132b",
+            "effibriest-4a5cc",
+            "effibriest-795b4",
+            "effibriest-89885",
+            "effibriest-d0f01",
+            "effibriest-dae4b"
+        ]
+    },
+    {
+        "id": "98771",
+        "time": "1677307552872",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page579",
+        "action": "enter",
+        "value": "0.4553",
+        "words": "82",
+        "elementids": [
+            "effibriest-1a96b",
+            "effibriest-2b66e",
+            "effibriest-b1d3b",
+            "effibriest-e0383",
+            "effibriest-e4bd9"
+        ]
+    },
+    {
+        "id": "98772",
+        "time": "1677307585157",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page580",
+        "action": "enter",
+        "value": "0.456",
+        "words": "62",
+        "elementids": [
+            "effibriest-11949",
+            "effibriest-1683c",
+            "effibriest-17c04",
+            "effibriest-50049",
+            "effibriest-53b90",
+            "effibriest-5dc69",
+            "effibriest-d21cb"
+        ]
+    },
+    {
+        "id": "98773",
+        "time": "1677307609759",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page581",
+        "action": "enter",
+        "value": "0.4568",
+        "words": "64",
+        "elementids": [
+            "effibriest-11949",
+            "effibriest-9e47e",
+            "effibriest-fb9b9",
+            "effibriest-fd111"
+        ]
+    },
+    {
+        "id": "98774",
+        "time": "1677307628942",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page582",
+        "action": "enter",
+        "value": "0.4576",
+        "words": "72",
+        "elementids": [
+            "effibriest-32586",
+            "effibriest-7c4c1",
+            "effibriest-fb9b9"
+        ]
+    },
+    {
+        "id": "98775",
+        "time": "1677307651388",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page581",
+        "action": "enter",
+        "value": "0.4568",
+        "words": "64",
+        "elementids": [
+            "effibriest-11949",
+            "effibriest-9e47e",
+            "effibriest-fb9b9",
+            "effibriest-fd111"
+        ]
+    },
+    {
+        "id": "98776",
+        "time": "1677307652496",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page580",
+        "action": "enter",
+        "value": "0.456",
+        "words": "62",
+        "elementids": [
+            "effibriest-11949",
+            "effibriest-1683c",
+            "effibriest-17c04",
+            "effibriest-50049",
+            "effibriest-53b90",
+            "effibriest-5dc69",
+            "effibriest-d21cb"
+        ]
+    },
+    {
+        "id": "98777",
+        "time": "1677307658003",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "emotion",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98778",
+        "time": "1677307660459",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page581",
+        "action": "enter",
+        "value": "0.4568",
+        "words": "64",
+        "elementids": [
+            "effibriest-11949",
+            "effibriest-9e47e",
+            "effibriest-fb9b9",
+            "effibriest-fd111"
+        ]
+    },
+    {
+        "id": "98779",
+        "time": "1677307664308",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page582",
+        "action": "enter",
+        "value": "0.4576",
+        "words": "72",
+        "elementids": [
+            "effibriest-32586",
+            "effibriest-7c4c1",
+            "effibriest-fb9b9"
+        ]
+    },
+    {
+        "id": "98780",
+        "time": "1677307677200",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page583",
+        "action": "enter",
+        "value": "0.4584",
+        "words": "77",
+        "elementids": [
+            "effibriest-0ea48",
+            "effibriest-32586",
+            "effibriest-55741",
+            "effibriest-bef52",
+            "effibriest-bf19c"
+        ]
+    },
+    {
+        "id": "98781",
+        "time": "1677307706463",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page584",
+        "action": "enter",
+        "value": "0.4592",
+        "words": "62",
+        "elementids": [
+            "effibriest-0143b",
+            "effibriest-2c1eb",
+            "effibriest-472b9",
+            "effibriest-4c18c",
+            "effibriest-7378d",
+            "effibriest-804dc",
+            "effibriest-9a452",
+            "effibriest-bef52",
+            "effibriest-c079e",
+            "effibriest-ca783"
+        ]
+    },
+    {
+        "id": "98782",
+        "time": "1677307729480",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page585",
+        "action": "enter",
+        "value": "0.46",
+        "words": "64",
+        "elementids": [
+            "effibriest-03000",
+            "effibriest-16589",
+            "effibriest-1cf57",
+            "effibriest-63018",
+            "effibriest-9334e",
+            "effibriest-dff58",
+            "effibriest-e4721",
+            "effibriest-ef519",
+            "effibriest-fe494"
+        ]
+    },
+    {
+        "id": "98783",
+        "time": "1677307734278",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page584",
+        "action": "enter",
+        "value": "0.4592",
+        "words": "62",
+        "elementids": [
+            "effibriest-0143b",
+            "effibriest-2c1eb",
+            "effibriest-472b9",
+            "effibriest-4c18c",
+            "effibriest-7378d",
+            "effibriest-804dc",
+            "effibriest-9a452",
+            "effibriest-bef52",
+            "effibriest-c079e",
+            "effibriest-ca783"
+        ]
+    },
+    {
+        "id": "98784",
+        "time": "1677307735578",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page585",
+        "action": "enter",
+        "value": "0.46",
+        "words": "64",
+        "elementids": [
+            "effibriest-03000",
+            "effibriest-16589",
+            "effibriest-1cf57",
+            "effibriest-63018",
+            "effibriest-9334e",
+            "effibriest-dff58",
+            "effibriest-e4721",
+            "effibriest-ef519",
+            "effibriest-fe494"
+        ]
+    },
+    {
+        "id": "98785",
+        "time": "1677307759701",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page586",
+        "action": "enter",
+        "value": "0.4608",
+        "words": "79",
+        "elementids": [
+            "effibriest-1b693",
+            "effibriest-43727",
+            "effibriest-44f7b",
+            "effibriest-45acb",
+            "effibriest-cb723",
+            "effibriest-ef519"
+        ]
+    },
+    {
+        "id": "98786",
+        "time": "1677307766747",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page585",
+        "action": "enter",
+        "value": "0.46",
+        "words": "64",
+        "elementids": [
+            "effibriest-03000",
+            "effibriest-16589",
+            "effibriest-1cf57",
+            "effibriest-63018",
+            "effibriest-9334e",
+            "effibriest-dff58",
+            "effibriest-e4721",
+            "effibriest-ef519",
+            "effibriest-fe494"
+        ]
+    },
+    {
+        "id": "98787",
+        "time": "1677307769113",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page586",
+        "action": "enter",
+        "value": "0.4608",
+        "words": "79",
+        "elementids": [
+            "effibriest-1b693",
+            "effibriest-43727",
+            "effibriest-44f7b",
+            "effibriest-45acb",
+            "effibriest-cb723",
+            "effibriest-ef519"
+        ]
+    },
+    {
+        "id": "98788",
+        "time": "1677307796864",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page587",
+        "action": "enter",
+        "value": "0.4615",
+        "words": "60",
+        "elementids": [
+            "effibriest-067d5",
+            "effibriest-7516d",
+            "effibriest-c472a",
+            "effibriest-cad51",
+            "effibriest-ed604"
+        ]
+    },
+    {
+        "id": "98789",
+        "time": "1677307820170",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page588",
+        "action": "enter",
+        "value": "0.4623",
+        "words": "73",
+        "elementids": [
+            "effibriest-1ad60",
+            "effibriest-928e9",
+            "effibriest-a2384",
+            "effibriest-d5955",
+            "effibriest-f7366",
+            "effibriest-fabdf"
+        ]
+    },
+    {
+        "id": "98790",
+        "time": "1677307847035",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page589",
+        "action": "enter",
+        "value": "0.4631",
+        "words": "68",
+        "elementids": [
+            "effibriest-62e23",
+            "effibriest-8bdfa",
+            "effibriest-f7366"
+        ]
+    },
+    {
+        "id": "98791",
+        "time": "1677307879104",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page590",
+        "action": "enter",
+        "value": "0.4639",
+        "words": "94",
+        "elementids": [
+            "effibriest-41512",
+            "effibriest-8bdfa",
+            "effibriest-9ea1b",
+            "effibriest-b343e",
+            "effibriest-d4540",
+            "effibriest-ee51f",
+            "effibriest-fffdd"
+        ]
+    },
+    {
+        "id": "98792",
+        "time": "1677307910221",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page591",
+        "action": "enter",
+        "value": "0.4647",
+        "words": "70",
+        "elementids": [
+            "effibriest-b343e",
+            "effibriest-bba03",
+            "effibriest-ed0c1"
+        ]
+    },
+    {
+        "id": "98793",
+        "time": "1677307931464",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page592",
+        "action": "enter",
+        "value": "0.4655",
+        "words": "86",
+        "elementids": [
+            "effibriest-341a9",
+            "effibriest-bba03",
+            "effibriest-d8c28"
+        ]
+    },
+    {
+        "id": "98794",
+        "time": "1677307965030",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page593",
+        "action": "enter",
+        "value": "0.4662",
+        "words": "84",
+        "elementids": [
+            "effibriest-01d69",
+            "effibriest-038f8",
+            "effibriest-0e5f3",
+            "effibriest-0fc1e",
+            "effibriest-458d1",
+            "effibriest-7ea93",
+            "effibriest-7ec8c",
+            "effibriest-d8c28",
+            "effibriest-dbd5e",
+            "effibriest-f77a0"
+        ]
+    },
+    {
+        "id": "98795",
+        "time": "1677307998947",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page594",
+        "action": "enter",
+        "value": "0.467",
+        "words": "69",
+        "elementids": [
+            "effibriest-1cac3",
+            "effibriest-458d1",
+            "effibriest-6ca3a",
+            "effibriest-72f6e",
+            "effibriest-9ba9f",
+            "effibriest-b5ce7",
+            "effibriest-cde14",
+            "effibriest-e388e"
+        ]
+    },
+    {
+        "id": "98796",
+        "time": "1677308020782",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page595",
+        "action": "enter",
+        "value": "0.4678",
+        "words": "66",
+        "elementids": [
+            "effibriest-16a2c",
+            "effibriest-38ce2",
+            "effibriest-70f58",
+            "effibriest-7a1d8",
+            "effibriest-8474e",
+            "effibriest-f2182",
+            "effibriest-f919a"
+        ]
+    },
+    {
+        "id": "98797",
+        "time": "1677308042665",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page596",
+        "action": "enter",
+        "value": "0.4686",
+        "words": "81",
+        "elementids": [
+            "effibriest-29789",
+            "effibriest-3bd56",
+            "effibriest-5396a",
+            "effibriest-980a2",
+            "effibriest-b736d",
+            "effibriest-b8bb4",
+            "effibriest-da34f",
+            "effibriest-df56e",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98798",
+        "time": "1677308101353",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page597",
+        "action": "enter",
+        "value": "0.4694",
+        "words": "57",
+        "elementids": [
+            "effibriest-06659",
+            "effibriest-0c97f",
+            "effibriest-7e33c",
+            "effibriest-a4288",
+            "effibriest-acc9f",
+            "effibriest-c1070",
+            "effibriest-e1ee5",
+            "effibriest-f6986",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98799",
+        "time": "1677308113027",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page596",
+        "action": "enter",
+        "value": "0.4686",
+        "words": "81",
+        "elementids": [
+            "effibriest-29789",
+            "effibriest-3bd56",
+            "effibriest-5396a",
+            "effibriest-980a2",
+            "effibriest-b736d",
+            "effibriest-b8bb4",
+            "effibriest-da34f",
+            "effibriest-df56e",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98800",
+        "time": "1677308116549",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page595",
+        "action": "enter",
+        "value": "0.4678",
+        "words": "66",
+        "elementids": [
+            "effibriest-16a2c",
+            "effibriest-38ce2",
+            "effibriest-70f58",
+            "effibriest-7a1d8",
+            "effibriest-8474e",
+            "effibriest-f2182",
+            "effibriest-f919a"
+        ]
+    },
+    {
+        "id": "98801",
+        "time": "1677308121349",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page596",
+        "action": "enter",
+        "value": "0.4686",
+        "words": "81",
+        "elementids": [
+            "effibriest-29789",
+            "effibriest-3bd56",
+            "effibriest-5396a",
+            "effibriest-980a2",
+            "effibriest-b736d",
+            "effibriest-b8bb4",
+            "effibriest-da34f",
+            "effibriest-df56e",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98802",
+        "time": "1677308153451",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page595",
+        "action": "enter",
+        "value": "0.4678",
+        "words": "66",
+        "elementids": [
+            "effibriest-16a2c",
+            "effibriest-38ce2",
+            "effibriest-70f58",
+            "effibriest-7a1d8",
+            "effibriest-8474e",
+            "effibriest-f2182",
+            "effibriest-f919a"
+        ]
+    },
+    {
+        "id": "98803",
+        "time": "1677308153983",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page594",
+        "action": "enter",
+        "value": "0.467",
+        "words": "69",
+        "elementids": [
+            "effibriest-1cac3",
+            "effibriest-458d1",
+            "effibriest-6ca3a",
+            "effibriest-72f6e",
+            "effibriest-9ba9f",
+            "effibriest-b5ce7",
+            "effibriest-cde14",
+            "effibriest-e388e"
+        ]
+    },
+    {
+        "id": "98804",
+        "time": "1677308155316",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page593",
+        "action": "enter",
+        "value": "0.4662",
+        "words": "84",
+        "elementids": [
+            "effibriest-01d69",
+            "effibriest-038f8",
+            "effibriest-0e5f3",
+            "effibriest-0fc1e",
+            "effibriest-458d1",
+            "effibriest-7ea93",
+            "effibriest-7ec8c",
+            "effibriest-d8c28",
+            "effibriest-dbd5e",
+            "effibriest-f77a0"
+        ]
+    },
+    {
+        "id": "98805",
+        "time": "1677308157462",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page592",
+        "action": "enter",
+        "value": "0.4655",
+        "words": "86",
+        "elementids": [
+            "effibriest-341a9",
+            "effibriest-bba03",
+            "effibriest-d8c28"
+        ]
+    },
+    {
+        "id": "98806",
+        "time": "1677308159045",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page591",
+        "action": "enter",
+        "value": "0.4647",
+        "words": "70",
+        "elementids": [
+            "effibriest-b343e",
+            "effibriest-bba03",
+            "effibriest-ed0c1"
+        ]
+    },
+    {
+        "id": "98807",
+        "time": "1677308161145",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page590",
+        "action": "enter",
+        "value": "0.4639",
+        "words": "94",
+        "elementids": [
+            "effibriest-41512",
+            "effibriest-8bdfa",
+            "effibriest-9ea1b",
+            "effibriest-b343e",
+            "effibriest-d4540",
+            "effibriest-ee51f",
+            "effibriest-fffdd"
+        ]
+    },
+    {
+        "id": "98808",
+        "time": "1677308162067",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page589",
+        "action": "enter",
+        "value": "0.4631",
+        "words": "68",
+        "elementids": [
+            "effibriest-62e23",
+            "effibriest-8bdfa",
+            "effibriest-f7366"
+        ]
+    },
+    {
+        "id": "98809",
+        "time": "1677308165826",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page590",
+        "action": "enter",
+        "value": "0.4639",
+        "words": "94",
+        "elementids": [
+            "effibriest-41512",
+            "effibriest-8bdfa",
+            "effibriest-9ea1b",
+            "effibriest-b343e",
+            "effibriest-d4540",
+            "effibriest-ee51f",
+            "effibriest-fffdd"
+        ]
+    },
+    {
+        "id": "98810",
+        "time": "1677308166200",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page591",
+        "action": "enter",
+        "value": "0.4647",
+        "words": "70",
+        "elementids": [
+            "effibriest-b343e",
+            "effibriest-bba03",
+            "effibriest-ed0c1"
+        ]
+    },
+    {
+        "id": "98811",
+        "time": "1677308168238",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98812",
+        "time": "1677308170834",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page592",
+        "action": "enter",
+        "value": "0.4655",
+        "words": "86",
+        "elementids": [
+            "effibriest-341a9",
+            "effibriest-bba03",
+            "effibriest-d8c28"
+        ]
+    },
+    {
+        "id": "98813",
+        "time": "1677308171750",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page593",
+        "action": "enter",
+        "value": "0.4662",
+        "words": "84",
+        "elementids": [
+            "effibriest-01d69",
+            "effibriest-038f8",
+            "effibriest-0e5f3",
+            "effibriest-0fc1e",
+            "effibriest-458d1",
+            "effibriest-7ea93",
+            "effibriest-7ec8c",
+            "effibriest-d8c28",
+            "effibriest-dbd5e",
+            "effibriest-f77a0"
+        ]
+    },
+    {
+        "id": "98814",
+        "time": "1677308172833",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page594",
+        "action": "enter",
+        "value": "0.467",
+        "words": "69",
+        "elementids": [
+            "effibriest-1cac3",
+            "effibriest-458d1",
+            "effibriest-6ca3a",
+            "effibriest-72f6e",
+            "effibriest-9ba9f",
+            "effibriest-b5ce7",
+            "effibriest-cde14",
+            "effibriest-e388e"
+        ]
+    },
+    {
+        "id": "98815",
+        "time": "1677308174117",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page595",
+        "action": "enter",
+        "value": "0.4678",
+        "words": "66",
+        "elementids": [
+            "effibriest-16a2c",
+            "effibriest-38ce2",
+            "effibriest-70f58",
+            "effibriest-7a1d8",
+            "effibriest-8474e",
+            "effibriest-f2182",
+            "effibriest-f919a"
+        ]
+    },
+    {
+        "id": "98816",
+        "time": "1677308175017",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page596",
+        "action": "enter",
+        "value": "0.4686",
+        "words": "81",
+        "elementids": [
+            "effibriest-29789",
+            "effibriest-3bd56",
+            "effibriest-5396a",
+            "effibriest-980a2",
+            "effibriest-b736d",
+            "effibriest-b8bb4",
+            "effibriest-da34f",
+            "effibriest-df56e",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98817",
+        "time": "1677308185301",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page597",
+        "action": "enter",
+        "value": "0.4694",
+        "words": "57",
+        "elementids": [
+            "effibriest-06659",
+            "effibriest-0c97f",
+            "effibriest-7e33c",
+            "effibriest-a4288",
+            "effibriest-acc9f",
+            "effibriest-c1070",
+            "effibriest-e1ee5",
+            "effibriest-f6986",
+            "effibriest-f7e7d"
+        ]
+    },
+    {
+        "id": "98818",
+        "time": "1677308202456",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page598",
+        "action": "enter",
+        "value": "0.4702",
+        "words": "19",
+        "elementids": [
+            "effibriest-5b5e3",
+            "effibriest-e0e8a"
+        ]
+    },
+    {
+        "id": "98819",
+        "time": "1677308213370",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page599",
+        "action": "enter",
+        "value": "0.471",
+        "words": "75",
+        "elementids": [
+            "effibriest-2374c",
+            "effibriest-57c67",
+            "effibriest-b46b3",
+            "effibriest-de3a3"
+        ]
+    },
+    {
+        "id": "98820",
+        "time": "1677308215089",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "CzW4P",
+        "bereich": "reader_effibriest",
+        "item": "page600",
+        "action": "leave",
+        "value": "0.4702",
+        "words": "75",
+        "elementids": [
+            "effibriest-2374c",
+            "effibriest-57c67",
+            "effibriest-b46b3",
+            "effibriest-de3a3"
+        ]
+    },
+    {
+        "id": "98821",
+        "time": "1677325570588",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98822",
+        "time": "1677325570606",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98823",
+        "time": "1677325571633",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page599",
+        "action": "enter",
+        "value": "0.471",
+        "words": "75",
+        "elementids": [
+            "effibriest-2374c",
+            "effibriest-57c67",
+            "effibriest-b46b3",
+            "effibriest-de3a3"
+        ]
+    },
+    {
+        "id": "98824",
+        "time": "1677325578798",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98825",
+        "time": "1677325601324",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page600",
+        "action": "enter",
+        "value": "0.4717",
+        "words": "76",
+        "elementids": [
+            "effibriest-5a55d",
+            "effibriest-de3a3",
+            "effibriest-e914f"
+        ]
+    },
+    {
+        "id": "98826",
+        "time": "1677325628808",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page601",
+        "action": "enter",
+        "value": "0.4725",
+        "words": "81",
+        "elementids": [
+            "effibriest-2a567",
+            "effibriest-b2b9c",
+            "effibriest-ded70",
+            "effibriest-e914f"
+        ]
+    },
+    {
+        "id": "98827",
+        "time": "1677325654706",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page602",
+        "action": "enter",
+        "value": "0.4733",
+        "words": "88",
+        "elementids": [
+            "effibriest-1dd21",
+            "effibriest-b2b9c"
+        ]
+    },
+    {
+        "id": "98828",
+        "time": "1677325678375",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page603",
+        "action": "enter",
+        "value": "0.4741",
+        "words": "73",
+        "elementids": [
+            "effibriest-1dd21",
+            "effibriest-4ead5",
+            "effibriest-765e5"
+        ]
+    },
+    {
+        "id": "98829",
+        "time": "1677325699414",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page604",
+        "action": "enter",
+        "value": "0.4749",
+        "words": "79",
+        "elementids": [
+            "effibriest-4ead5",
+            "effibriest-c89e8",
+            "effibriest-ddda8"
+        ]
+    },
+    {
+        "id": "98830",
+        "time": "1677325723015",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page605",
+        "action": "enter",
+        "value": "0.4757",
+        "words": "71",
+        "elementids": [
+            "effibriest-6fdd5",
+            "effibriest-c65d5",
+            "effibriest-c89e8"
+        ]
+    },
+    {
+        "id": "98831",
+        "time": "1677325746634",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page606",
+        "action": "enter",
+        "value": "0.4765",
+        "words": "70",
+        "elementids": [
+            "effibriest-17d0b",
+            "effibriest-7027d",
+            "effibriest-c65d5",
+            "effibriest-e38f8"
+        ]
+    },
+    {
+        "id": "98832",
+        "time": "1677325790887",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page607",
+        "action": "enter",
+        "value": "0.4772",
+        "words": "66",
+        "elementids": [
+            "effibriest-0c7f8",
+            "effibriest-17d0b",
+            "effibriest-37eb1",
+            "effibriest-6eada",
+            "effibriest-7a162",
+            "effibriest-c26d4",
+            "effibriest-e6d20"
+        ]
+    },
+    {
+        "id": "98833",
+        "time": "1677325810573",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page608",
+        "action": "enter",
+        "value": "0.478",
+        "words": "64",
+        "elementids": [
+            "effibriest-0ae65",
+            "effibriest-3f9fe",
+            "effibriest-4d95d",
+            "effibriest-5bcc0",
+            "effibriest-74629",
+            "effibriest-8a8c5",
+            "effibriest-b6d9d",
+            "effibriest-b9836",
+            "effibriest-c1108"
+        ]
+    },
+    {
+        "id": "98834",
+        "time": "1677325829557",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page609",
+        "action": "enter",
+        "value": "0.4788",
+        "words": "71",
+        "elementids": [
+            "effibriest-0ce20",
+            "effibriest-3b2f2",
+            "effibriest-673ad",
+            "effibriest-8a8c5",
+            "effibriest-f2a8c"
+        ]
+    },
+    {
+        "id": "98835",
+        "time": "1677325846008",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page610",
+        "action": "enter",
+        "value": "0.4796",
+        "words": "80",
+        "elementids": [
+            "effibriest-673ad",
+            "effibriest-a9c11",
+            "effibriest-ba8b5",
+            "effibriest-c8d14"
+        ]
+    },
+    {
+        "id": "98836",
+        "time": "1677325876611",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page611",
+        "action": "enter",
+        "value": "0.4804",
+        "words": "82",
+        "elementids": [
+            "effibriest-094ce",
+            "effibriest-9fdc7",
+            "effibriest-a9c11",
+            "effibriest-e1756"
+        ]
+    },
+    {
+        "id": "98837",
+        "time": "1677325900763",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page612",
+        "action": "enter",
+        "value": "0.4812",
+        "words": "77",
+        "elementids": [
+            "effibriest-03748",
+            "effibriest-094ce",
+            "effibriest-34bf2",
+            "effibriest-92221",
+            "effibriest-939c9",
+            "effibriest-a5ebb",
+            "effibriest-a5fb9"
+        ]
+    },
+    {
+        "id": "98838",
+        "time": "1677325926181",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page613",
+        "action": "enter",
+        "value": "0.4819",
+        "words": "60",
+        "elementids": [
+            "effibriest-24e97",
+            "effibriest-393bd",
+            "effibriest-7c69f",
+            "effibriest-a5fb9",
+            "effibriest-a740c",
+            "effibriest-c0d67",
+            "effibriest-e0214",
+            "effibriest-eb9d4"
+        ]
+    },
+    {
+        "id": "98839",
+        "time": "1677325945099",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page614",
+        "action": "enter",
+        "value": "0.4827",
+        "words": "68",
+        "elementids": [
+            "effibriest-3ca87",
+            "effibriest-3e707",
+            "effibriest-4e8d0",
+            "effibriest-7ecf1",
+            "effibriest-92a8b",
+            "effibriest-b63b9",
+            "effibriest-c0003",
+            "effibriest-d7fe0",
+            "effibriest-dc6b1",
+            "effibriest-e0314"
+        ]
+    },
+    {
+        "id": "98840",
+        "time": "1677325964268",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page615",
+        "action": "enter",
+        "value": "0.4835",
+        "words": "87",
+        "elementids": [
+            "effibriest-00087",
+            "effibriest-1041e",
+            "effibriest-4e8d0",
+            "effibriest-56ea7",
+            "effibriest-8d54a",
+            "effibriest-94a17",
+            "effibriest-f3236",
+            "effibriest-fcc73"
+        ]
+    },
+    {
+        "id": "98841",
+        "time": "1677325986036",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page616",
+        "action": "enter",
+        "value": "0.4843",
+        "words": "80",
+        "elementids": [
+            "effibriest-00087",
+            "effibriest-17d99",
+            "effibriest-2b36e",
+            "effibriest-566d0",
+            "effibriest-852d3",
+            "effibriest-9976a",
+            "effibriest-e9f81"
+        ]
+    },
+    {
+        "id": "98842",
+        "time": "1677326007821",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page617",
+        "action": "enter",
+        "value": "0.4851",
+        "words": "90",
+        "elementids": [
+            "effibriest-27520",
+            "effibriest-37a6e",
+            "effibriest-6e329",
+            "effibriest-9976a",
+            "effibriest-df518",
+            "effibriest-f1527"
+        ]
+    },
+    {
+        "id": "98843",
+        "time": "1677326029656",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page618",
+        "action": "enter",
+        "value": "0.4859",
+        "words": "61",
+        "elementids": [
+            "effibriest-287c2",
+            "effibriest-3a1a3",
+            "effibriest-52dbc",
+            "effibriest-800a0",
+            "effibriest-86958",
+            "effibriest-8c576",
+            "effibriest-addf5",
+            "effibriest-b39ab"
+        ]
+    },
+    {
+        "id": "98844",
+        "time": "1677326047842",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page619",
+        "action": "enter",
+        "value": "0.4867",
+        "words": "76",
+        "elementids": [
+            "effibriest-4afbe",
+            "effibriest-60b58",
+            "effibriest-6e24e",
+            "effibriest-72de5",
+            "effibriest-e09d6",
+            "effibriest-ed465",
+            "effibriest-f0acf",
+            "effibriest-f97d9"
+        ]
+    },
+    {
+        "id": "98845",
+        "time": "1677326067775",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page620",
+        "action": "enter",
+        "value": "0.4874",
+        "words": "67",
+        "elementids": [
+            "effibriest-2bbfa",
+            "effibriest-4afbe",
+            "effibriest-570b2",
+            "effibriest-65ee5",
+            "effibriest-a5069",
+            "effibriest-d4a1a",
+            "effibriest-d7c27",
+            "effibriest-e0587"
+        ]
+    },
+    {
+        "id": "98846",
+        "time": "1677326087510",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page621",
+        "action": "enter",
+        "value": "0.4882",
+        "words": "79",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-6631a",
+            "effibriest-75465",
+            "effibriest-95717",
+            "effibriest-bce49",
+            "effibriest-c1d29",
+            "effibriest-d4a1a",
+            "effibriest-e4ac5"
+        ]
+    },
+    {
+        "id": "98847",
+        "time": "1677326172972",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "bXxJ9",
+        "bereich": "reader_effibriest",
+        "item": "page622",
+        "action": "leave",
+        "value": "0.4874",
+        "words": "79",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-6631a",
+            "effibriest-75465",
+            "effibriest-95717",
+            "effibriest-bce49",
+            "effibriest-c1d29",
+            "effibriest-d4a1a",
+            "effibriest-e4ac5"
+        ]
+    },
+    {
+        "id": "98848",
+        "time": "1677326179975",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page622",
+        "action": "reenter",
+        "value": "0.4874",
+        "words": "79",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-6631a",
+            "effibriest-75465",
+            "effibriest-95717",
+            "effibriest-bce49",
+            "effibriest-c1d29",
+            "effibriest-d4a1a",
+            "effibriest-e4ac5"
+        ]
+    },
+    {
+        "id": "98849",
+        "time": "1677326187362",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98850",
+        "time": "1677326201968",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page622",
+        "action": "enter",
+        "value": "0.489",
+        "words": "74",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-154b6-2",
+            "effibriest-1a963",
+            "effibriest-4cb08",
+            "effibriest-6684e",
+            "effibriest-69aa5",
+            "effibriest-6d72b",
+            "effibriest-6e447",
+            "effibriest-acf6e",
+            "effibriest-bd736"
+        ]
+    },
+    {
+        "id": "98851",
+        "time": "1677326202301",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page621",
+        "action": "enter",
+        "value": "0.4882",
+        "words": "79",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-6631a",
+            "effibriest-75465",
+            "effibriest-95717",
+            "effibriest-bce49",
+            "effibriest-c1d29",
+            "effibriest-d4a1a",
+            "effibriest-e4ac5"
+        ]
+    },
+    {
+        "id": "98852",
+        "time": "1677326203319",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page622",
+        "action": "enter",
+        "value": "0.489",
+        "words": "74",
+        "elementids": [
+            "effibriest-0834a",
+            "effibriest-154b6-2",
+            "effibriest-1a963",
+            "effibriest-4cb08",
+            "effibriest-6684e",
+            "effibriest-69aa5",
+            "effibriest-6d72b",
+            "effibriest-6e447",
+            "effibriest-acf6e",
+            "effibriest-bd736"
+        ]
+    },
+    {
+        "id": "98853",
+        "time": "1677326219185",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page623",
+        "action": "enter",
+        "value": "0.4898",
+        "words": "73",
+        "elementids": [
+            "effibriest-b1201",
+            "effibriest-b70b2",
+            "effibriest-fb8af"
+        ]
+    },
+    {
+        "id": "98854",
+        "time": "1677326242093",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page624",
+        "action": "enter",
+        "value": "0.4906",
+        "words": "83",
+        "elementids": [
+            "effibriest-887e6",
+            "effibriest-a923c",
+            "effibriest-ae8e6",
+            "effibriest-b70b2",
+            "effibriest-ccc91",
+            "effibriest-ccd4c"
+        ]
+    },
+    {
+        "id": "98855",
+        "time": "1677326244032",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-2",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98856",
+        "time": "1677326265891",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page625",
+        "action": "enter",
+        "value": "0.4914",
+        "words": "68",
+        "elementids": [
+            "effibriest-3328c",
+            "effibriest-46f55",
+            "effibriest-47296",
+            "effibriest-92ad3-2",
+            "effibriest-ccc91",
+            "effibriest-edc21"
+        ]
+    },
+    {
+        "id": "98857",
+        "time": "1677326280476",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "c2Y6k",
+        "bereich": "reader_effibriest",
+        "item": "page626",
+        "action": "leave",
+        "value": "0.4906",
+        "words": "68",
+        "elementids": [
+            "effibriest-3328c",
+            "effibriest-46f55",
+            "effibriest-47296",
+            "effibriest-92ad3-2",
+            "effibriest-ccc91",
+            "effibriest-edc21"
+        ]
+    },
+    {
+        "id": "98858",
+        "time": "1677326460717",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "cBYjj",
+        "bereich": "reader_effibriest",
+        "item": "page626",
+        "action": "reenter",
+        "value": "0.4906",
+        "words": "68",
+        "elementids": [
+            "effibriest-3328c",
+            "effibriest-46f55",
+            "effibriest-47296",
+            "effibriest-92ad3-2",
+            "effibriest-ccc91",
+            "effibriest-edc21"
+        ]
+    },
+    {
+        "id": "98859",
+        "time": "1677326462593",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "cBYjj",
+        "bereich": "reader_effibriest",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98860",
+        "time": "1677326474186",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "cBYjj",
+        "bereich": "reader_effibriest",
+        "item": "page626",
+        "action": "enter",
+        "value": "0.4922",
+        "words": "68",
+        "elementids": [
+            "effibriest-10db8",
+            "effibriest-47296",
+            "effibriest-474d5",
+            "effibriest-7f4b1",
+            "effibriest-fbfa8"
+        ]
+    },
+    {
+        "id": "98861",
+        "time": "1677326502460",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "cBYjj",
+        "bereich": "reader_effibriest",
+        "item": "page627",
+        "action": "enter",
+        "value": "0.4929",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98862",
+        "time": "1677326503578",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "cBYjj",
+        "bereich": "reader_effibriest",
+        "item": "page628",
+        "action": "leave",
+        "value": "0.4922",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98863",
+        "time": "1677326529251",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "D3Y25",
+        "bereich": "reader_effibriest",
+        "item": "page628",
+        "action": "reenter",
+        "value": "0.4922",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98864",
+        "time": "1677326531565",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "D3Y25",
+        "bereich": "reader_effibriest",
+        "item": "page626",
+        "action": "enter",
+        "value": "0.4922",
+        "words": "68",
+        "elementids": [
+            "effibriest-10db8",
+            "effibriest-47296",
+            "effibriest-474d5",
+            "effibriest-7f4b1",
+            "effibriest-fbfa8"
+        ]
+    },
+    {
+        "id": "98865",
+        "time": "1677326532861",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "D3Y25",
+        "bereich": "reader_effibriest",
+        "item": "page627",
+        "action": "enter",
+        "value": "0.4929",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98866",
+        "time": "1677326557605",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "D3Y25",
+        "bereich": "reader_effibriest",
+        "item": "page628",
+        "action": "leave",
+        "value": "0.4922",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98867",
+        "time": "1677327440428",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page628",
+        "action": "reenter",
+        "value": "0.4922",
+        "words": "75",
+        "elementids": [
+            "effibriest-0e8b4",
+            "effibriest-2abe4",
+            "effibriest-474d5"
+        ]
+    },
+    {
+        "id": "98868",
+        "time": "1677327446045",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98869",
+        "time": "1677327469718",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page628",
+        "action": "enter",
+        "value": "0.4937",
+        "words": "68",
+        "elementids": [
+            "effibriest-2abe4",
+            "effibriest-8010a",
+            "effibriest-cd232"
+        ]
+    },
+    {
+        "id": "98870",
+        "time": "1677327494743",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page629",
+        "action": "enter",
+        "value": "0.4945",
+        "words": "67",
+        "elementids": [
+            "effibriest-61645",
+            "effibriest-616e5",
+            "effibriest-8010a",
+            "effibriest-83f77",
+            "effibriest-a63c8"
+        ]
+    },
+    {
+        "id": "98871",
+        "time": "1677327525796",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page630",
+        "action": "enter",
+        "value": "0.4953",
+        "words": "79",
+        "elementids": [
+            "effibriest-1b835",
+            "effibriest-5fdb1",
+            "effibriest-c1ef9",
+            "effibriest-d4ecb"
+        ]
+    },
+    {
+        "id": "98872",
+        "time": "1677327556765",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page631",
+        "action": "enter",
+        "value": "0.4961",
+        "words": "66",
+        "elementids": [
+            "effibriest-05161",
+            "effibriest-29253",
+            "effibriest-7b45e",
+            "effibriest-c1ef9",
+            "effibriest-f41b1"
+        ]
+    },
+    {
+        "id": "98873",
+        "time": "1677327585979",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page632",
+        "action": "enter",
+        "value": "0.4969",
+        "words": "77",
+        "elementids": [
+            "effibriest-05161",
+            "effibriest-98f75"
+        ]
+    },
+    {
+        "id": "98874",
+        "time": "1677327613828",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page633",
+        "action": "enter",
+        "value": "0.4976",
+        "words": "74",
+        "elementids": [
+            "effibriest-98f75",
+            "effibriest-a00a4",
+            "effibriest-b6798",
+            "effibriest-c234e"
+        ]
+    },
+    {
+        "id": "98875",
+        "time": "1677327641064",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page634",
+        "action": "enter",
+        "value": "0.4984",
+        "words": "64",
+        "elementids": [
+            "effibriest-270aa",
+            "effibriest-a00a4",
+            "effibriest-afa02",
+            "effibriest-c49ed",
+            "effibriest-cf202"
+        ]
+    },
+    {
+        "id": "98876",
+        "time": "1677327661314",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page635",
+        "action": "enter",
+        "value": "0.4992",
+        "words": "72",
+        "elementids": [
+            "effibriest-0e220",
+            "effibriest-2f0ae",
+            "effibriest-49858",
+            "effibriest-5079a",
+            "effibriest-58d7e",
+            "effibriest-66689",
+            "effibriest-85180",
+            "effibriest-f48f2"
+        ]
+    },
+    {
+        "id": "98877",
+        "time": "1677327684798",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page636",
+        "action": "enter",
+        "value": "0.5",
+        "words": "90",
+        "elementids": [
+            "effibriest-41435",
+            "effibriest-41c0f",
+            "effibriest-85180",
+            "effibriest-a5423",
+            "effibriest-ac424",
+            "effibriest-e3e48",
+            "effibriest-f79d1"
+        ]
+    },
+    {
+        "id": "98878",
+        "time": "1677327710733",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page637",
+        "action": "enter",
+        "value": "0.5008",
+        "words": "78",
+        "elementids": [
+            "effibriest-1b7e7",
+            "effibriest-59723",
+            "effibriest-78c1a",
+            "effibriest-7b4fd",
+            "effibriest-ac424",
+            "effibriest-dc73b"
+        ]
+    },
+    {
+        "id": "98879",
+        "time": "1677327732185",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page638",
+        "action": "enter",
+        "value": "0.5016",
+        "words": "64",
+        "elementids": [
+            "effibriest-7b34d",
+            "effibriest-7b4fd",
+            "effibriest-83c0d",
+            "effibriest-acdda",
+            "effibriest-cb51b"
+        ]
+    },
+    {
+        "id": "98880",
+        "time": "1677327752269",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page639",
+        "action": "enter",
+        "value": "0.5024",
+        "words": "68",
+        "elementids": [
+            "effibriest-3d706",
+            "effibriest-5b8bb",
+            "effibriest-7b34d",
+            "effibriest-85fa1",
+            "effibriest-a3498",
+            "effibriest-db4bb"
+        ]
+    },
+    {
+        "id": "98881",
+        "time": "1677327772101",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page638",
+        "action": "enter",
+        "value": "0.5016",
+        "words": "64",
+        "elementids": [
+            "effibriest-7b34d",
+            "effibriest-7b4fd",
+            "effibriest-83c0d",
+            "effibriest-acdda",
+            "effibriest-cb51b"
+        ]
+    },
+    {
+        "id": "98882",
+        "time": "1677327777801",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page639",
+        "action": "enter",
+        "value": "0.5024",
+        "words": "68",
+        "elementids": [
+            "effibriest-3d706",
+            "effibriest-5b8bb",
+            "effibriest-7b34d",
+            "effibriest-85fa1",
+            "effibriest-a3498",
+            "effibriest-db4bb"
+        ]
+    },
+    {
+        "id": "98883",
+        "time": "1677327781085",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page640",
+        "action": "enter",
+        "value": "0.5031",
+        "words": "71",
+        "elementids": [
+            "effibriest-0dfba",
+            "effibriest-213a9",
+            "effibriest-5c341",
+            "effibriest-5d74d",
+            "effibriest-dbc72"
+        ]
+    },
+    {
+        "id": "98884",
+        "time": "1677327799920",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page641",
+        "action": "enter",
+        "value": "0.5039",
+        "words": "65",
+        "elementids": [
+            "effibriest-3d35d",
+            "effibriest-ad968",
+            "effibriest-d56a4",
+            "effibriest-ff6ec"
+        ]
+    },
+    {
+        "id": "98885",
+        "time": "1677327807453",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98886",
+        "time": "1677327817826",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "notiz_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98887",
+        "time": "1677327818647",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98888",
+        "time": "1677327820365",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "annotation",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98889",
+        "time": "1677327837112",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98890",
+        "time": "1677327838765",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98891",
+        "time": "1677327838813",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page641",
+        "action": "enter",
+        "value": "0.5039",
+        "words": "65",
+        "elementids": [
+            "effibriest-3d35d",
+            "effibriest-ad968",
+            "effibriest-d56a4",
+            "effibriest-ff6ec"
+        ]
+    },
+    {
+        "id": "98892",
+        "time": "1677327879690",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page642",
+        "action": "enter",
+        "value": "0.5047",
+        "words": "77",
+        "elementids": [
+            "effibriest-11f92",
+            "effibriest-3d35d",
+            "effibriest-8c37c",
+            "effibriest-f7027"
+        ]
+    },
+    {
+        "id": "98893",
+        "time": "1677327907408",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page643",
+        "action": "enter",
+        "value": "0.5055",
+        "words": "65",
+        "elementids": [
+            "effibriest-11f92",
+            "effibriest-23716",
+            "effibriest-48183",
+            "effibriest-5dd13",
+            "effibriest-d721f"
+        ]
+    },
+    {
+        "id": "98894",
+        "time": "1677327936110",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page644",
+        "action": "enter",
+        "value": "0.5063",
+        "words": "79",
+        "elementids": [
+            "effibriest-27c53",
+            "effibriest-63088",
+            "effibriest-780e5",
+            "effibriest-95086",
+            "effibriest-acbf3",
+            "effibriest-d721f",
+            "effibriest-e30be"
+        ]
+    },
+    {
+        "id": "98895",
+        "time": "1677327960527",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.5071",
+        "words": "67",
+        "elementids": [
+            "effibriest-2243e",
+            "effibriest-27c53",
+            "effibriest-30f36",
+            "effibriest-9ecf9",
+            "effibriest-c9207",
+            "effibriest-fbaf3"
+        ]
+    },
+    {
+        "id": "98896",
+        "time": "1677327980228",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page646",
+        "action": "enter",
+        "value": "0.5078",
+        "words": "70",
+        "elementids": [
+            "effibriest-7b5e6",
+            "effibriest-88fcb",
+            "effibriest-896cc",
+            "effibriest-8e847",
+            "effibriest-c2f5f"
+        ]
+    },
+    {
+        "id": "98897",
+        "time": "1677328002932",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page647",
+        "action": "enter",
+        "value": "0.5086",
+        "words": "76",
+        "elementids": [
+            "effibriest-08357",
+            "effibriest-4ff27",
+            "effibriest-58fb4",
+            "effibriest-615af",
+            "effibriest-6f540",
+            "effibriest-7b5e6",
+            "effibriest-9917c",
+            "effibriest-a74f2",
+            "effibriest-b9a06",
+            "effibriest-de511",
+            "effibriest-ee2d9",
+            "effibriest-efef4",
+            "effibriest-f07ba"
+        ]
+    },
+    {
+        "id": "98898",
+        "time": "1677328036977",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "5XRkK",
+        "bereich": "reader_effibriest",
+        "item": "page648",
+        "action": "leave",
+        "value": "0.5078",
+        "words": "76",
+        "elementids": [
+            "effibriest-08357",
+            "effibriest-4ff27",
+            "effibriest-58fb4",
+            "effibriest-615af",
+            "effibriest-6f540",
+            "effibriest-7b5e6",
+            "effibriest-9917c",
+            "effibriest-a74f2",
+            "effibriest-b9a06",
+            "effibriest-de511",
+            "effibriest-ee2d9",
+            "effibriest-efef4",
+            "effibriest-f07ba"
+        ]
+    },
+    {
+        "id": "98899",
+        "time": "1677328285145",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "3ZI5x",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98900",
+        "time": "1677328285174",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "3ZI5x",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98901",
+        "time": "1677328286653",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "3ZI5x",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.3429",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-5fa6d",
+            "dieleidendesjungenwerthers-8e356",
+            "dieleidendesjungenwerthers-9054c"
+        ]
+    },
+    {
+        "id": "98902",
+        "time": "1677328288513",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "3ZI5x",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page155",
+        "action": "leave",
+        "value": "0.3407",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-5fa6d",
+            "dieleidendesjungenwerthers-8e356",
+            "dieleidendesjungenwerthers-9054c"
+        ]
+    },
+    {
+        "id": "98903",
+        "time": "1677328294756",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "LuZar",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98904",
+        "time": "1677328294780",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "LuZar",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98905",
+        "time": "1677328296792",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "LuZar",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.3429",
+        "words": "85",
+        "elementids": [
+            "dieleidendesjungenwerthers-5fa6d",
+            "dieleidendesjungenwerthers-8e356",
+            "dieleidendesjungenwerthers-9054c"
+        ]
+    },
+    {
+        "id": "98906",
+        "time": "1677328297242",
+        "appid": "0b8fea55d75805553984054f58a248b9",
+        "session": "LuZar",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98907",
+        "time": "1677332275194",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98908",
+        "time": "1677332275184",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98909",
+        "time": "1677332289705",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page647",
+        "action": "enter",
+        "value": "0.5086",
+        "words": "76",
+        "elementids": [
+            "effibriest-08357",
+            "effibriest-4ff27",
+            "effibriest-58fb4",
+            "effibriest-615af",
+            "effibriest-6f540",
+            "effibriest-7b5e6",
+            "effibriest-9917c",
+            "effibriest-a74f2",
+            "effibriest-b9a06",
+            "effibriest-de511",
+            "effibriest-ee2d9",
+            "effibriest-efef4",
+            "effibriest-f07ba"
+        ]
+    },
+    {
+        "id": "98910",
+        "time": "1677332294810",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page646",
+        "action": "enter",
+        "value": "0.5078",
+        "words": "70",
+        "elementids": [
+            "effibriest-7b5e6",
+            "effibriest-88fcb",
+            "effibriest-896cc",
+            "effibriest-8e847",
+            "effibriest-c2f5f"
+        ]
+    },
+    {
+        "id": "98911",
+        "time": "1677332298353",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98912",
+        "time": "1677332300894",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page647",
+        "action": "enter",
+        "value": "0.5086",
+        "words": "76",
+        "elementids": [
+            "effibriest-08357",
+            "effibriest-4ff27",
+            "effibriest-58fb4",
+            "effibriest-615af",
+            "effibriest-6f540",
+            "effibriest-7b5e6",
+            "effibriest-9917c",
+            "effibriest-a74f2",
+            "effibriest-b9a06",
+            "effibriest-de511",
+            "effibriest-ee2d9",
+            "effibriest-efef4",
+            "effibriest-f07ba"
+        ]
+    },
+    {
+        "id": "98913",
+        "time": "1677332320698",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page648",
+        "action": "enter",
+        "value": "0.5094",
+        "words": "84",
+        "elementids": [
+            "effibriest-18913",
+            "effibriest-5dba1",
+            "effibriest-81c93",
+            "effibriest-b20c5"
+        ]
+    },
+    {
+        "id": "98914",
+        "time": "1677332349047",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page649",
+        "action": "enter",
+        "value": "0.5102",
+        "words": "68",
+        "elementids": [
+            "effibriest-0046d",
+            "effibriest-42b25",
+            "effibriest-56777",
+            "effibriest-81c93",
+            "effibriest-c4b37",
+            "effibriest-c5fca",
+            "effibriest-ccb32"
+        ]
+    },
+    {
+        "id": "98915",
+        "time": "1677332368675",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page650",
+        "action": "enter",
+        "value": "0.511",
+        "words": "67",
+        "elementids": [
+            "effibriest-c4b37",
+            "effibriest-e2279"
+        ]
+    },
+    {
+        "id": "98916",
+        "time": "1677332393410",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page651",
+        "action": "enter",
+        "value": "0.5118",
+        "words": "66",
+        "elementids": [
+            "effibriest-598e2",
+            "effibriest-c6766",
+            "effibriest-e2279"
+        ]
+    },
+    {
+        "id": "98917",
+        "time": "1677332423182",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page652",
+        "action": "enter",
+        "value": "0.5126",
+        "words": "77",
+        "elementids": [
+            "effibriest-1e8c6",
+            "effibriest-1ee35",
+            "effibriest-598e2",
+            "effibriest-81165"
+        ]
+    },
+    {
+        "id": "98918",
+        "time": "1677332448978",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page653",
+        "action": "enter",
+        "value": "0.5133",
+        "words": "71",
+        "elementids": [
+            "effibriest-7b75e",
+            "effibriest-81165",
+            "effibriest-9bd64",
+            "effibriest-a1a82",
+            "effibriest-ea32e"
+        ]
+    },
+    {
+        "id": "98919",
+        "time": "1677332477266",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page654",
+        "action": "enter",
+        "value": "0.5141",
+        "words": "79",
+        "elementids": [
+            "effibriest-0879e",
+            "effibriest-3db09",
+            "effibriest-9544d",
+            "effibriest-ed389",
+            "effibriest-f17cc",
+            "effibriest-fda79-2"
+        ]
+    },
+    {
+        "id": "98920",
+        "time": "1677332500301",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page655",
+        "action": "enter",
+        "value": "0.5149",
+        "words": "85",
+        "elementids": [
+            "effibriest-283f2",
+            "effibriest-2db38",
+            "effibriest-3db09",
+            "effibriest-57462",
+            "effibriest-7bfc8",
+            "effibriest-820b5",
+            "effibriest-b81ec",
+            "effibriest-c346f",
+            "effibriest-e2938",
+            "effibriest-eb2b5"
+        ]
+    },
+    {
+        "id": "98921",
+        "time": "1677332525035",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page656",
+        "action": "enter",
+        "value": "0.5157",
+        "words": "72",
+        "elementids": [
+            "effibriest-268f9",
+            "effibriest-6ba85",
+            "effibriest-7f8b1",
+            "effibriest-b81ec",
+            "effibriest-e9f00"
+        ]
+    },
+    {
+        "id": "98922",
+        "time": "1677332545536",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page657",
+        "action": "enter",
+        "value": "0.5165",
+        "words": "77",
+        "elementids": [
+            "effibriest-52dbc-2",
+            "effibriest-7fe89",
+            "effibriest-bee10",
+            "effibriest-daf8d",
+            "effibriest-e9f00"
+        ]
+    },
+    {
+        "id": "98923",
+        "time": "1677332563077",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page6571",
+        "action": "anstreichen",
+        "value": "7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98924",
+        "time": "1677332583519",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page658",
+        "action": "enter",
+        "value": "0.5173",
+        "words": "81",
+        "elementids": [
+            "effibriest-0a4a4",
+            "effibriest-198af",
+            "effibriest-52dbc-2",
+            "effibriest-cb016"
+        ]
+    },
+    {
+        "id": "98925",
+        "time": "1677332604840",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page659",
+        "action": "enter",
+        "value": "0.5181",
+        "words": "67",
+        "elementids": [
+            "effibriest-0a4a4",
+            "effibriest-2b13e",
+            "effibriest-8b20f",
+            "effibriest-b47d0"
+        ]
+    },
+    {
+        "id": "98926",
+        "time": "1677332625454",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page660",
+        "action": "enter",
+        "value": "0.5188",
+        "words": "73",
+        "elementids": [
+            "effibriest-2b13e",
+            "effibriest-64113",
+            "effibriest-75015",
+            "effibriest-c583c",
+            "effibriest-ff62b"
+        ]
+    },
+    {
+        "id": "98927",
+        "time": "1677332650505",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page661",
+        "action": "enter",
+        "value": "0.5196",
+        "words": "79",
+        "elementids": [
+            "effibriest-1e260",
+            "effibriest-22279",
+            "effibriest-2b360",
+            "effibriest-b33fe",
+            "effibriest-c31f5",
+            "effibriest-c583c",
+            "effibriest-ef8c4"
+        ]
+    },
+    {
+        "id": "98928",
+        "time": "1677332672938",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page662",
+        "action": "enter",
+        "value": "0.5204",
+        "words": "87",
+        "elementids": [
+            "effibriest-1e260"
+        ]
+    },
+    {
+        "id": "98929",
+        "time": "1677332696271",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page663",
+        "action": "enter",
+        "value": "0.5212",
+        "words": "88",
+        "elementids": [
+            "effibriest-1e260",
+            "effibriest-7e1d9",
+            "effibriest-d2b5c",
+            "effibriest-e8d8d",
+            "effibriest-eddaa"
+        ]
+    },
+    {
+        "id": "98930",
+        "time": "1677332723291",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page664",
+        "action": "enter",
+        "value": "0.522",
+        "words": "77",
+        "elementids": [
+            "effibriest-14dd2",
+            "effibriest-2d482",
+            "effibriest-70b10",
+            "effibriest-7e1d9",
+            "effibriest-fde4c",
+            "effibriest-fdf6e"
+        ]
+    },
+    {
+        "id": "98931",
+        "time": "1677332742073",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page665",
+        "action": "enter",
+        "value": "0.5228",
+        "words": "59",
+        "elementids": [
+            "effibriest-14dd2",
+            "effibriest-283ad",
+            "effibriest-5fcee",
+            "effibriest-90196",
+            "effibriest-b997f",
+            "effibriest-e09e1",
+            "effibriest-f8830",
+            "effibriest-fc77f"
+        ]
+    },
+    {
+        "id": "98932",
+        "time": "1677332760649",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page666",
+        "action": "enter",
+        "value": "0.5235",
+        "words": "60",
+        "elementids": [
+            "effibriest-22fa8",
+            "effibriest-28530",
+            "effibriest-3a9ff",
+            "effibriest-45f2c",
+            "effibriest-58b5e",
+            "effibriest-856d1",
+            "effibriest-969a2",
+            "effibriest-c3cbe",
+            "effibriest-c4453",
+            "effibriest-f2e90"
+        ]
+    },
+    {
+        "id": "98933",
+        "time": "1677332779125",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page667",
+        "action": "enter",
+        "value": "0.5243",
+        "words": "80",
+        "elementids": [
+            "effibriest-0aa22",
+            "effibriest-45f2c",
+            "effibriest-4ee37",
+            "effibriest-619f3",
+            "effibriest-7a863",
+            "effibriest-9b912",
+            "effibriest-b4627",
+            "effibriest-c5815",
+            "effibriest-f73e9"
+        ]
+    },
+    {
+        "id": "98934",
+        "time": "1677332802041",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page668",
+        "action": "enter",
+        "value": "0.5251",
+        "words": "87",
+        "elementids": [
+            "effibriest-12c46",
+            "effibriest-18a44",
+            "effibriest-30a6b",
+            "effibriest-3c12e",
+            "effibriest-78711",
+            "effibriest-7a863",
+            "effibriest-89d98",
+            "effibriest-b2a80",
+            "effibriest-b989f"
+        ]
+    },
+    {
+        "id": "98935",
+        "time": "1677332830042",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page669",
+        "action": "enter",
+        "value": "0.5259",
+        "words": "62",
+        "elementids": [
+            "effibriest-0f46d",
+            "effibriest-5c637",
+            "effibriest-68cb4",
+            "effibriest-6eb87",
+            "effibriest-8378a",
+            "effibriest-89d98",
+            "effibriest-bc42a",
+            "effibriest-f83a5"
+        ]
+    },
+    {
+        "id": "98936",
+        "time": "1677332856273",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page668",
+        "action": "enter",
+        "value": "0.5251",
+        "words": "87",
+        "elementids": [
+            "effibriest-12c46",
+            "effibriest-18a44",
+            "effibriest-30a6b",
+            "effibriest-3c12e",
+            "effibriest-78711",
+            "effibriest-7a863",
+            "effibriest-89d98",
+            "effibriest-b2a80",
+            "effibriest-b989f"
+        ]
+    },
+    {
+        "id": "98937",
+        "time": "1677332856707",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page667",
+        "action": "enter",
+        "value": "0.5243",
+        "words": "80",
+        "elementids": [
+            "effibriest-0aa22",
+            "effibriest-45f2c",
+            "effibriest-4ee37",
+            "effibriest-619f3",
+            "effibriest-7a863",
+            "effibriest-9b912",
+            "effibriest-b4627",
+            "effibriest-c5815",
+            "effibriest-f73e9"
+        ]
+    },
+    {
+        "id": "98938",
+        "time": "1677332865891",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page668",
+        "action": "enter",
+        "value": "0.5251",
+        "words": "87",
+        "elementids": [
+            "effibriest-12c46",
+            "effibriest-18a44",
+            "effibriest-30a6b",
+            "effibriest-3c12e",
+            "effibriest-78711",
+            "effibriest-7a863",
+            "effibriest-89d98",
+            "effibriest-b2a80",
+            "effibriest-b989f"
+        ]
+    },
+    {
+        "id": "98939",
+        "time": "1677332877325",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page669",
+        "action": "enter",
+        "value": "0.5259",
+        "words": "62",
+        "elementids": [
+            "effibriest-0f46d",
+            "effibriest-5c637",
+            "effibriest-68cb4",
+            "effibriest-6eb87",
+            "effibriest-8378a",
+            "effibriest-89d98",
+            "effibriest-bc42a",
+            "effibriest-f83a5"
+        ]
+    },
+    {
+        "id": "98940",
+        "time": "1677332891628",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page670",
+        "action": "enter",
+        "value": "0.5267",
+        "words": "80",
+        "elementids": [
+            "effibriest-3668f",
+            "effibriest-6009f",
+            "effibriest-7fe92",
+            "effibriest-c871e",
+            "effibriest-f462b",
+            "effibriest-f5956",
+            "effibriest-f83a5"
+        ]
+    },
+    {
+        "id": "98941",
+        "time": "1677332914580",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page671",
+        "action": "enter",
+        "value": "0.5275",
+        "words": "59",
+        "elementids": [
+            "effibriest-0296f",
+            "effibriest-5726b",
+            "effibriest-8bd78",
+            "effibriest-a0d03",
+            "effibriest-a470c",
+            "effibriest-c871e",
+            "effibriest-eeb1f",
+            "effibriest-ef4a3"
+        ]
+    },
+    {
+        "id": "98942",
+        "time": "1677332931940",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page672",
+        "action": "enter",
+        "value": "0.5283",
+        "words": "86",
+        "elementids": [
+            "effibriest-02396",
+            "effibriest-0e2a2",
+            "effibriest-3eb61",
+            "effibriest-84841",
+            "effibriest-9e1c3",
+            "effibriest-bc411",
+            "effibriest-eeb1f",
+            "effibriest-f0b6c"
+        ]
+    },
+    {
+        "id": "98943",
+        "time": "1677332965245",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page673",
+        "action": "enter",
+        "value": "0.529",
+        "words": "77",
+        "elementids": [
+            "effibriest-07d03",
+            "effibriest-0e2a2",
+            "effibriest-1aace",
+            "effibriest-49abb",
+            "effibriest-7163a",
+            "effibriest-c9a2e"
+        ]
+    },
+    {
+        "id": "98944",
+        "time": "1677332988129",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page674",
+        "action": "enter",
+        "value": "0.5298",
+        "words": "71",
+        "elementids": [
+            "effibriest-07d03",
+            "effibriest-2ec02",
+            "effibriest-6874e",
+            "effibriest-7716e",
+            "effibriest-77a9f",
+            "effibriest-88629",
+            "effibriest-af573",
+            "effibriest-e1e24"
+        ]
+    },
+    {
+        "id": "98945",
+        "time": "1677333011063",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page675",
+        "action": "enter",
+        "value": "0.5306",
+        "words": "90",
+        "elementids": [
+            "effibriest-843e5",
+            "effibriest-88629",
+            "effibriest-dc6b0",
+            "effibriest-f0447",
+            "effibriest-f1ce5"
+        ]
+    },
+    {
+        "id": "98946",
+        "time": "1677333013338",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "98947",
+        "time": "1677333043992",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page676",
+        "action": "enter",
+        "value": "0.5314",
+        "words": "74",
+        "elementids": [
+            "effibriest-3183a",
+            "effibriest-43bdf",
+            "effibriest-b2cf2",
+            "effibriest-d2631"
+        ]
+    },
+    {
+        "id": "98948",
+        "time": "1677333066251",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page677",
+        "action": "enter",
+        "value": "0.5322",
+        "words": "83",
+        "elementids": [
+            "effibriest-3183a",
+            "effibriest-87305",
+            "effibriest-a9abb",
+            "effibriest-ab598",
+            "effibriest-bdf43"
+        ]
+    },
+    {
+        "id": "98949",
+        "time": "1677333088665",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page678",
+        "action": "enter",
+        "value": "0.533",
+        "words": "72",
+        "elementids": [
+            "effibriest-88542",
+            "effibriest-8c84b",
+            "effibriest-bdf43"
+        ]
+    },
+    {
+        "id": "98950",
+        "time": "1677333113282",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page679",
+        "action": "enter",
+        "value": "0.5338",
+        "words": "72",
+        "elementids": [
+            "effibriest-42776",
+            "effibriest-9e298",
+            "effibriest-e9a33"
+        ]
+    },
+    {
+        "id": "98951",
+        "time": "1677333133866",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page680",
+        "action": "enter",
+        "value": "0.5345",
+        "words": "82",
+        "elementids": [
+            "effibriest-42776",
+            "effibriest-5c924",
+            "effibriest-b3529",
+            "effibriest-b355e"
+        ]
+    },
+    {
+        "id": "98952",
+        "time": "1677333159466",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page681",
+        "action": "enter",
+        "value": "0.5353",
+        "words": "80",
+        "elementids": [
+            "effibriest-4172f",
+            "effibriest-5c924",
+            "effibriest-a34dd",
+            "effibriest-bbcbd",
+            "effibriest-fad6a"
+        ]
+    },
+    {
+        "id": "98953",
+        "time": "1677333181734",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page682",
+        "action": "enter",
+        "value": "0.5361",
+        "words": "71",
+        "elementids": [
+            "effibriest-3377e",
+            "effibriest-5d404",
+            "effibriest-763be",
+            "effibriest-a34dd"
+        ]
+    },
+    {
+        "id": "98954",
+        "time": "1677333201135",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page683",
+        "action": "enter",
+        "value": "0.5369",
+        "words": "82",
+        "elementids": [
+            "effibriest-3e99f",
+            "effibriest-4c487",
+            "effibriest-4ece6",
+            "effibriest-593bb",
+            "effibriest-5d404",
+            "effibriest-96775"
+        ]
+    },
+    {
+        "id": "98955",
+        "time": "1677333227918",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page684",
+        "action": "enter",
+        "value": "0.5377",
+        "words": "87",
+        "elementids": [
+            "effibriest-23407",
+            "effibriest-56a7e",
+            "effibriest-7f8e6",
+            "effibriest-913d6",
+            "effibriest-919ed",
+            "effibriest-96775"
+        ]
+    },
+    {
+        "id": "98956",
+        "time": "1677333250435",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page685",
+        "action": "enter",
+        "value": "0.5385",
+        "words": "91",
+        "elementids": [
+            "effibriest-7f8e6",
+            "effibriest-850f0",
+            "effibriest-98a77",
+            "effibriest-c80f0",
+            "effibriest-cdd0c",
+            "effibriest-f9dbe"
+        ]
+    },
+    {
+        "id": "98957",
+        "time": "1677333276052",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page686",
+        "action": "enter",
+        "value": "0.5392",
+        "words": "77",
+        "elementids": [
+            "effibriest-42d12",
+            "effibriest-50184",
+            "effibriest-7b2bc",
+            "effibriest-98a77"
+        ]
+    },
+    {
+        "id": "98958",
+        "time": "1677333297203",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page687",
+        "action": "enter",
+        "value": "0.54",
+        "words": "16",
+        "elementids": [
+            "effibriest-713aa"
+        ]
+    },
+    {
+        "id": "98959",
+        "time": "1677333300702",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page688",
+        "action": "enter",
+        "value": "0.5408",
+        "words": "60",
+        "elementids": [
+            "effibriest-2feb7",
+            "effibriest-30581",
+            "effibriest-5cff4",
+            "effibriest-9f36a",
+            "effibriest-b4dd8",
+            "effibriest-ba774",
+            "effibriest-f11f9"
+        ]
+    },
+    {
+        "id": "98960",
+        "time": "1677333317919",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page689",
+        "action": "enter",
+        "value": "0.5416",
+        "words": "61",
+        "elementids": [
+            "effibriest-216ac",
+            "effibriest-26795",
+            "effibriest-2feb7",
+            "effibriest-37b47",
+            "effibriest-6367a",
+            "effibriest-82c55"
+        ]
+    },
+    {
+        "id": "98961",
+        "time": "1677333334087",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page690",
+        "action": "enter",
+        "value": "0.5424",
+        "words": "70",
+        "elementids": [
+            "effibriest-3c0ac",
+            "effibriest-51eb1",
+            "effibriest-552a7",
+            "effibriest-97c5c",
+            "effibriest-a53e5",
+            "effibriest-ff844"
+        ]
+    },
+    {
+        "id": "98962",
+        "time": "1677333356637",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page691",
+        "action": "enter",
+        "value": "0.5432",
+        "words": "59",
+        "elementids": [
+            "effibriest-100f8",
+            "effibriest-3b616",
+            "effibriest-8210b",
+            "effibriest-a228f",
+            "effibriest-a53e5",
+            "effibriest-c78fc"
+        ]
+    },
+    {
+        "id": "98963",
+        "time": "1677333371907",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page692",
+        "action": "enter",
+        "value": "0.544",
+        "words": "70",
+        "elementids": [
+            "effibriest-08ab1",
+            "effibriest-10794",
+            "effibriest-12cdd",
+            "effibriest-35ac7",
+            "effibriest-88f89",
+            "effibriest-ab3db",
+            "effibriest-c78fc",
+            "effibriest-f8692",
+            "effibriest-fa422"
+        ]
+    },
+    {
+        "id": "98964",
+        "time": "1677333388372",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page693",
+        "action": "enter",
+        "value": "0.5447",
+        "words": "69",
+        "elementids": [
+            "effibriest-339ab",
+            "effibriest-3d83f",
+            "effibriest-58fe7",
+            "effibriest-5ad33",
+            "effibriest-6d3be",
+            "effibriest-7bb6d",
+            "effibriest-86638",
+            "effibriest-88f89",
+            "effibriest-8c559",
+            "effibriest-cedf4",
+            "effibriest-e567a"
+        ]
+    },
+    {
+        "id": "98965",
+        "time": "1677333409525",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page694",
+        "action": "enter",
+        "value": "0.5455",
+        "words": "61",
+        "elementids": [
+            "effibriest-23af3",
+            "effibriest-387b4-2",
+            "effibriest-3cc4e",
+            "effibriest-58fe7",
+            "effibriest-82a23",
+            "effibriest-c0d12",
+            "effibriest-d5660",
+            "effibriest-dc430",
+            "effibriest-e8abf",
+            "effibriest-f9601"
+        ]
+    },
+    {
+        "id": "98966",
+        "time": "1677333431405",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page695",
+        "action": "enter",
+        "value": "0.5463",
+        "words": "70",
+        "elementids": [
+            "effibriest-61f4e",
+            "effibriest-7733f",
+            "effibriest-7c534",
+            "effibriest-7d49c",
+            "effibriest-82a23",
+            "effibriest-acb11"
+        ]
+    },
+    {
+        "id": "98967",
+        "time": "1677333455106",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page696",
+        "action": "enter",
+        "value": "0.5471",
+        "words": "62",
+        "elementids": [
+            "effibriest-0309d",
+            "effibriest-07c0b",
+            "effibriest-219c7",
+            "effibriest-55c4b",
+            "effibriest-61f4e",
+            "effibriest-eadb2",
+            "effibriest-f96f3",
+            "effibriest-fd348"
+        ]
+    },
+    {
+        "id": "98968",
+        "time": "1677333477874",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page697",
+        "action": "enter",
+        "value": "0.5479",
+        "words": "77",
+        "elementids": [
+            "effibriest-219c7",
+            "effibriest-4ff4a",
+            "effibriest-667af",
+            "effibriest-6956a",
+            "effibriest-ae0f7",
+            "effibriest-ca483"
+        ]
+    },
+    {
+        "id": "98969",
+        "time": "1677333504658",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page698",
+        "action": "enter",
+        "value": "0.5487",
+        "words": "54",
+        "elementids": [
+            "effibriest-1610d",
+            "effibriest-6c222",
+            "effibriest-9e13b",
+            "effibriest-baea4",
+            "effibriest-d3ce3",
+            "effibriest-e20ba",
+            "effibriest-ef5da"
+        ]
+    },
+    {
+        "id": "98970",
+        "time": "1677333518607",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page699",
+        "action": "enter",
+        "value": "0.5495",
+        "words": "70",
+        "elementids": [
+            "effibriest-07991",
+            "effibriest-6c222"
+        ]
+    },
+    {
+        "id": "98971",
+        "time": "1677333545221",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page700",
+        "action": "enter",
+        "value": "0.5502",
+        "words": "81",
+        "elementids": [
+            "effibriest-04207",
+            "effibriest-07991",
+            "effibriest-492b0"
+        ]
+    },
+    {
+        "id": "98972",
+        "time": "1677333577610",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page701",
+        "action": "enter",
+        "value": "0.551",
+        "words": "87",
+        "elementids": [
+            "effibriest-0ad22",
+            "effibriest-492b0"
+        ]
+    },
+    {
+        "id": "98973",
+        "time": "1677333609326",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page702",
+        "action": "enter",
+        "value": "0.5518",
+        "words": "51",
+        "elementids": [
+            "effibriest-02e1b",
+            "effibriest-0ad22",
+            "effibriest-2ad75",
+            "effibriest-59e65",
+            "effibriest-5d849",
+            "effibriest-7306c",
+            "effibriest-88591",
+            "effibriest-90205",
+            "effibriest-ac12f",
+            "effibriest-d0541"
+        ]
+    },
+    {
+        "id": "98974",
+        "time": "1677333636210",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page703",
+        "action": "enter",
+        "value": "0.5526",
+        "words": "81",
+        "elementids": [
+            "effibriest-2f3c6",
+            "effibriest-4ba10",
+            "effibriest-5c00c",
+            "effibriest-60933",
+            "effibriest-78d55",
+            "effibriest-a1459",
+            "effibriest-b973d",
+            "effibriest-d0541",
+            "effibriest-da2a8",
+            "effibriest-f4b68"
+        ]
+    },
+    {
+        "id": "98975",
+        "time": "1677333657028",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page704",
+        "action": "enter",
+        "value": "0.5534",
+        "words": "76",
+        "elementids": [
+            "effibriest-00688",
+            "effibriest-38442",
+            "effibriest-3b1c7",
+            "effibriest-65fdd",
+            "effibriest-8bc26",
+            "effibriest-b9e3e",
+            "effibriest-c54d4",
+            "effibriest-da2a8",
+            "effibriest-ebca0"
+        ]
+    },
+    {
+        "id": "98976",
+        "time": "1677333675129",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page705",
+        "action": "enter",
+        "value": "0.5542",
+        "words": "54",
+        "elementids": [
+            "effibriest-5c3d7",
+            "effibriest-a36cd",
+            "effibriest-be197",
+            "effibriest-c54d4",
+            "effibriest-e9728",
+            "effibriest-ea0b0"
+        ]
+    },
+    {
+        "id": "98977",
+        "time": "1677333692328",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page706",
+        "action": "enter",
+        "value": "0.5549",
+        "words": "73",
+        "elementids": [
+            "effibriest-03e96",
+            "effibriest-2153d",
+            "effibriest-4ebdd",
+            "effibriest-ab73f",
+            "effibriest-c7d7e"
+        ]
+    },
+    {
+        "id": "98978",
+        "time": "1677333713148",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page707",
+        "action": "enter",
+        "value": "0.5557",
+        "words": "66",
+        "elementids": [
+            "effibriest-2d164",
+            "effibriest-3cb8e",
+            "effibriest-ab73f",
+            "effibriest-e2b89",
+            "effibriest-f6d2c"
+        ]
+    },
+    {
+        "id": "98979",
+        "time": "1677333748380",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page708",
+        "action": "enter",
+        "value": "0.5565",
+        "words": "61",
+        "elementids": [
+            "effibriest-0bdcb",
+            "effibriest-1ec46",
+            "effibriest-2b70e",
+            "effibriest-31989",
+            "effibriest-cee94",
+            "effibriest-d3878",
+            "effibriest-e6aba",
+            "effibriest-f6d2c"
+        ]
+    },
+    {
+        "id": "98980",
+        "time": "1677333771864",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page709",
+        "action": "enter",
+        "value": "0.5573",
+        "words": "71",
+        "elementids": [
+            "effibriest-06289",
+            "effibriest-15b85",
+            "effibriest-1b7e8",
+            "effibriest-31989",
+            "effibriest-69b3d",
+            "effibriest-71479",
+            "effibriest-a5553",
+            "effibriest-c44e6"
+        ]
+    },
+    {
+        "id": "98981",
+        "time": "1677333795564",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page710",
+        "action": "enter",
+        "value": "0.5581",
+        "words": "84",
+        "elementids": [
+            "effibriest-1b7e8",
+            "effibriest-6d037",
+            "effibriest-d5db4"
+        ]
+    },
+    {
+        "id": "98982",
+        "time": "1677333821082",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page711",
+        "action": "enter",
+        "value": "0.5589",
+        "words": "78",
+        "elementids": [
+            "effibriest-6d037",
+            "effibriest-a7e09"
+        ]
+    },
+    {
+        "id": "98983",
+        "time": "1677333843331",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page712",
+        "action": "enter",
+        "value": "0.5597",
+        "words": "88",
+        "elementids": [
+            "effibriest-00e11",
+            "effibriest-78079"
+        ]
+    },
+    {
+        "id": "98984",
+        "time": "1677333878933",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page713",
+        "action": "enter",
+        "value": "0.5604",
+        "words": "87",
+        "elementids": [
+            "effibriest-00e11",
+            "effibriest-5d620",
+            "effibriest-958cb"
+        ]
+    },
+    {
+        "id": "98985",
+        "time": "1677333904350",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page714",
+        "action": "enter",
+        "value": "0.5612",
+        "words": "72",
+        "elementids": [
+            "effibriest-958cb",
+            "effibriest-c7518",
+            "effibriest-d5302",
+            "effibriest-d694a"
+        ]
+    },
+    {
+        "id": "98986",
+        "time": "1677333930351",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page715",
+        "action": "enter",
+        "value": "0.562",
+        "words": "79",
+        "elementids": [
+            "effibriest-2c4fc",
+            "effibriest-9cd0e",
+            "effibriest-9edf4",
+            "effibriest-b76bf",
+            "effibriest-d0f03",
+            "effibriest-d5302",
+            "effibriest-fdd16"
+        ]
+    },
+    {
+        "id": "98987",
+        "time": "1677333956518",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page716",
+        "action": "enter",
+        "value": "0.5628",
+        "words": "77",
+        "elementids": [
+            "effibriest-04b1f",
+            "effibriest-0bdc9",
+            "effibriest-4efba",
+            "effibriest-63b71",
+            "effibriest-84e07",
+            "effibriest-8d0f8",
+            "effibriest-f6474"
+        ]
+    },
+    {
+        "id": "98988",
+        "time": "1677333982918",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page717",
+        "action": "enter",
+        "value": "0.5636",
+        "words": "70",
+        "elementids": [
+            "effibriest-04b1f",
+            "effibriest-13ba8",
+            "effibriest-1f9c1",
+            "effibriest-25c2e",
+            "effibriest-ac6ec",
+            "effibriest-caef4",
+            "effibriest-de83f",
+            "effibriest-e2828"
+        ]
+    },
+    {
+        "id": "98989",
+        "time": "1677334007303",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page718",
+        "action": "enter",
+        "value": "0.5644",
+        "words": "80",
+        "elementids": [
+            "effibriest-1f9c1",
+            "effibriest-3c695",
+            "effibriest-67fd5",
+            "effibriest-d0386",
+            "effibriest-d6b04",
+            "effibriest-fadaa"
+        ]
+    },
+    {
+        "id": "98990",
+        "time": "1677334031154",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page719",
+        "action": "enter",
+        "value": "0.5651",
+        "words": "77",
+        "elementids": [
+            "effibriest-06542",
+            "effibriest-3c695",
+            "effibriest-490e2",
+            "effibriest-60545",
+            "effibriest-738dc",
+            "effibriest-88ab2",
+            "effibriest-a6da4"
+        ]
+    },
+    {
+        "id": "98991",
+        "time": "1677334065588",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page720",
+        "action": "enter",
+        "value": "0.5659",
+        "words": "91",
+        "elementids": [
+            "effibriest-1406b",
+            "effibriest-20102",
+            "effibriest-60545",
+            "effibriest-831da",
+            "effibriest-afc07",
+            "effibriest-c004d",
+            "effibriest-c9a6f",
+            "effibriest-e4105",
+            "effibriest-feead",
+            "effibriest-ff107"
+        ]
+    },
+    {
+        "id": "98992",
+        "time": "1677334066197",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page719",
+        "action": "enter",
+        "value": "0.5651",
+        "words": "77",
+        "elementids": [
+            "effibriest-06542",
+            "effibriest-3c695",
+            "effibriest-490e2",
+            "effibriest-60545",
+            "effibriest-738dc",
+            "effibriest-88ab2",
+            "effibriest-a6da4"
+        ]
+    },
+    {
+        "id": "98993",
+        "time": "1677334067685",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page720",
+        "action": "enter",
+        "value": "0.5659",
+        "words": "91",
+        "elementids": [
+            "effibriest-1406b",
+            "effibriest-20102",
+            "effibriest-60545",
+            "effibriest-831da",
+            "effibriest-afc07",
+            "effibriest-c004d",
+            "effibriest-c9a6f",
+            "effibriest-e4105",
+            "effibriest-feead",
+            "effibriest-ff107"
+        ]
+    },
+    {
+        "id": "98994",
+        "time": "1677334094154",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page721",
+        "action": "enter",
+        "value": "0.5667",
+        "words": "67",
+        "elementids": [
+            "effibriest-18813",
+            "effibriest-20102",
+            "effibriest-2f19d",
+            "effibriest-4d5ea",
+            "effibriest-5f7f6"
+        ]
+    },
+    {
+        "id": "98995",
+        "time": "1677334119837",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page722",
+        "action": "enter",
+        "value": "0.5675",
+        "words": "60",
+        "elementids": [
+            "effibriest-1715f",
+            "effibriest-18fd9",
+            "effibriest-26846",
+            "effibriest-4d5ea",
+            "effibriest-55754",
+            "effibriest-85cff",
+            "effibriest-97ace"
+        ]
+    },
+    {
+        "id": "98996",
+        "time": "1677334144972",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page723",
+        "action": "enter",
+        "value": "0.5683",
+        "words": "88",
+        "elementids": [
+            "effibriest-55754",
+            "effibriest-6a3eb",
+            "effibriest-6f728",
+            "effibriest-6fec2",
+            "effibriest-82743",
+            "effibriest-92844",
+            "effibriest-c0f32"
+        ]
+    },
+    {
+        "id": "98997",
+        "time": "1677334172772",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page724",
+        "action": "enter",
+        "value": "0.5691",
+        "words": "81",
+        "elementids": [
+            "effibriest-16807",
+            "effibriest-7cabe",
+            "effibriest-8859c",
+            "effibriest-ac6d1",
+            "effibriest-b610e",
+            "effibriest-f81f5"
+        ]
+    },
+    {
+        "id": "98998",
+        "time": "1677334195757",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page725",
+        "action": "enter",
+        "value": "0.5699",
+        "words": "84",
+        "elementids": [
+            "effibriest-16807",
+            "effibriest-8bf01",
+            "effibriest-8fc9e",
+            "effibriest-a6b90",
+            "effibriest-b3a54",
+            "effibriest-bbba9",
+            "effibriest-be273",
+            "effibriest-fc30d"
+        ]
+    },
+    {
+        "id": "98999",
+        "time": "1677334219490",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page726",
+        "action": "enter",
+        "value": "0.5706",
+        "words": "79",
+        "elementids": [
+            "effibriest-8fc9e",
+            "effibriest-9204e",
+            "effibriest-929ae",
+            "effibriest-95e2b"
+        ]
+    },
+    {
+        "id": "99000",
+        "time": "1677334241874",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page727",
+        "action": "enter",
+        "value": "0.5714",
+        "words": "82",
+        "elementids": [
+            "effibriest-04a0a",
+            "effibriest-115d4",
+            "effibriest-1a8ad",
+            "effibriest-1fa29",
+            "effibriest-893cf",
+            "effibriest-929ae",
+            "effibriest-cdd12"
+        ]
+    },
+    {
+        "id": "99001",
+        "time": "1677334261628",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page728",
+        "action": "enter",
+        "value": "0.5722",
+        "words": "77",
+        "elementids": [
+            "effibriest-115d4",
+            "effibriest-210b3",
+            "effibriest-27757",
+            "effibriest-8ffdf",
+            "effibriest-e4d0a",
+            "effibriest-f94c8"
+        ]
+    },
+    {
+        "id": "99002",
+        "time": "1677334283175",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page729",
+        "action": "enter",
+        "value": "0.573",
+        "words": "76",
+        "elementids": [
+            "effibriest-70650",
+            "effibriest-96664",
+            "effibriest-e4d0a"
+        ]
+    },
+    {
+        "id": "99003",
+        "time": "1677334307176",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page730",
+        "action": "enter",
+        "value": "0.5738",
+        "words": "67",
+        "elementids": [
+            "effibriest-02ed2",
+            "effibriest-5d1c3",
+            "effibriest-78d6e",
+            "effibriest-8dbcb",
+            "effibriest-96664",
+            "effibriest-bcbe6",
+            "effibriest-bcdf1",
+            "effibriest-dad0b",
+            "effibriest-f90e9"
+        ]
+    },
+    {
+        "id": "99004",
+        "time": "1677334340877",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page731",
+        "action": "enter",
+        "value": "0.5746",
+        "words": "81",
+        "elementids": [
+            "effibriest-04c24",
+            "effibriest-2a791",
+            "effibriest-39618",
+            "effibriest-4897d",
+            "effibriest-74912",
+            "effibriest-81faf",
+            "effibriest-cef10",
+            "effibriest-e93a3"
+        ]
+    },
+    {
+        "id": "99005",
+        "time": "1677334359227",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page732",
+        "action": "enter",
+        "value": "0.5754",
+        "words": "87",
+        "elementids": [
+            "effibriest-00e8e",
+            "effibriest-261e5",
+            "effibriest-2a791",
+            "effibriest-3c777",
+            "effibriest-53c66",
+            "effibriest-59dee",
+            "effibriest-b0d8c",
+            "effibriest-b3ecb",
+            "effibriest-e1c67",
+            "effibriest-ea47e"
+        ]
+    },
+    {
+        "id": "99006",
+        "time": "1677334384027",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page733",
+        "action": "enter",
+        "value": "0.5761",
+        "words": "26",
+        "elementids": [
+            "effibriest-01deb",
+            "effibriest-261e5",
+            "effibriest-e2518"
+        ]
+    },
+    {
+        "id": "99007",
+        "time": "1677334398121",
+        "appid": "14f4624e58e7a26e0ef4a7e950477f56",
+        "session": "WKcet",
+        "bereich": "reader_effibriest",
+        "item": "page734",
+        "action": "leave",
+        "value": "0.5754",
+        "words": "26",
+        "elementids": [
+            "effibriest-01deb",
+            "effibriest-261e5",
+            "effibriest-e2518"
+        ]
+    },
+    {
+        "id": "99008",
+        "time": "1677356650495",
+        "appid": "70685db90c1432103f15f87d1a8227ad",
+        "session": "Q00EH",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
