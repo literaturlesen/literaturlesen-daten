@@ -1,0 +1,80 @@
+[
+    {
+        "id": "102165",
+        "time": "1681328246518",
+        "appid": "63c3dab580fd6b1ead3686bbce1e616d",
+        "session": "g1FEn",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102166",
+        "time": "1681328246532",
+        "appid": "63c3dab580fd6b1ead3686bbce1e616d",
+        "session": "g1FEn",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102167",
+        "time": "1681328249922",
+        "appid": "63c3dab580fd6b1ead3686bbce1e616d",
+        "session": "g1FEn",
+        "bereich": "reader_antonreiser",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.004",
+        "words": "99",
+        "elementids": [
+            "antonreiser-08000",
+            "antonreiser-0b0e6",
+            "antonreiser-1510e",
+            "antonreiser-1defc",
+            "antonreiser-a190f"
+        ]
+    },
+    {
+        "id": "102168",
+        "time": "1681328252881",
+        "appid": "63c3dab580fd6b1ead3686bbce1e616d",
+        "session": "g1FEn",
+        "bereich": "reader_antonreiser",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0048",
+        "words": "104",
+        "elementids": [
+            "antonreiser-1510e",
+            "antonreiser-a81c5",
+            "antonreiser-b8881",
+            "antonreiser-c9ab3",
+            "antonreiser-ca695"
+        ]
+    },
+    {
+        "id": "102169",
+        "time": "1681328256468",
+        "appid": "63c3dab580fd6b1ead3686bbce1e616d",
+        "session": "g1FEn",
+        "bereich": "reader_antonreiser",
+        "item": "page6",
+        "action": "leave",
+        "value": "0.004",
+        "words": "104",
+        "elementids": [
+            "antonreiser-1510e",
+            "antonreiser-a81c5",
+            "antonreiser-b8881",
+            "antonreiser-c9ab3",
+            "antonreiser-ca695"
+        ]
+    }
+]
