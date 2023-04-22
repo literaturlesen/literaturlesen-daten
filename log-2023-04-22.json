@@ -1,0 +1,251 @@
+[
+    {
+        "id": "102780",
+        "time": "1682153391821",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "",
+        "action": "enter",
+        "value": "diemarquisevono",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102781",
+        "time": "1682153391755",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102782",
+        "time": "1682153392907",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0826",
+        "words": "125",
+        "elementids": [
+            "diemarquisevono-5aaa3",
+            "diemarquisevono-7e578",
+            "diemarquisevono-b7ce7",
+            "diemarquisevono-fe443"
+        ]
+    },
+    {
+        "id": "102783",
+        "time": "1682153438648",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0909",
+        "words": "112",
+        "elementids": [
+            "diemarquisevono-49f3e",
+            "diemarquisevono-6d080",
+            "diemarquisevono-75300",
+            "diemarquisevono-b7002",
+            "diemarquisevono-d6db3",
+            "diemarquisevono-fe443"
+        ]
+    },
+    {
+        "id": "102784",
+        "time": "1682153443488",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102785",
+        "time": "1682153510792",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102786",
+        "time": "1682153510828",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "",
+        "action": "enter",
+        "value": "diemarquisevono",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102787",
+        "time": "1682153510884",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0909",
+        "words": "112",
+        "elementids": [
+            "diemarquisevono-49f3e",
+            "diemarquisevono-6d080",
+            "diemarquisevono-75300",
+            "diemarquisevono-b7002",
+            "diemarquisevono-d6db3",
+            "diemarquisevono-fe443"
+        ]
+    },
+    {
+        "id": "102788",
+        "time": "1682153525509",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0992",
+        "words": "113",
+        "elementids": [
+            "diemarquisevono-00271",
+            "diemarquisevono-49f3e",
+            "diemarquisevono-5163b",
+            "diemarquisevono-523d8",
+            "diemarquisevono-6c6c0",
+            "diemarquisevono-c73d9",
+            "diemarquisevono-fdc5a"
+        ]
+    },
+    {
+        "id": "102789",
+        "time": "1682153535785",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "3UEjJ",
+        "bereich": "reader_diemarquisevono",
+        "item": "page12",
+        "action": "leave",
+        "value": "0.0909",
+        "words": "113",
+        "elementids": [
+            "diemarquisevono-00271",
+            "diemarquisevono-49f3e",
+            "diemarquisevono-5163b",
+            "diemarquisevono-523d8",
+            "diemarquisevono-6c6c0",
+            "diemarquisevono-c73d9",
+            "diemarquisevono-fdc5a"
+        ]
+    },
+    {
+        "id": "102790",
+        "time": "1682153585401",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "HMnED",
+        "bereich": "reader_diemarquisevono",
+        "item": "page12",
+        "action": "reenter",
+        "value": "0.0909",
+        "words": "113",
+        "elementids": [
+            "diemarquisevono-00271",
+            "diemarquisevono-49f3e",
+            "diemarquisevono-5163b",
+            "diemarquisevono-523d8",
+            "diemarquisevono-6c6c0",
+            "diemarquisevono-c73d9",
+            "diemarquisevono-fdc5a"
+        ]
+    },
+    {
+        "id": "102791",
+        "time": "1682153598020",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "HMnED",
+        "bereich": "reader_diemarquisevono",
+        "item": "mindwandering",
+        "action": "notdepends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102792",
+        "time": "1682153625936",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "HMnED",
+        "bereich": "reader_diemarquisevono",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.1074",
+        "words": "120",
+        "elementids": [
+            "diemarquisevono-26e28",
+            "diemarquisevono-31d5c",
+            "diemarquisevono-5163b",
+            "diemarquisevono-8a2fa",
+            "diemarquisevono-907b6",
+            "diemarquisevono-bd675"
+        ]
+    },
+    {
+        "id": "102793",
+        "time": "1682153636079",
+        "appid": "649affcd3ab5d9bf0d5e245ff727fef5",
+        "session": "HMnED",
+        "bereich": "reader_diemarquisevono",
+        "item": "page13",
+        "action": "leave",
+        "value": "0.0992",
+        "words": "120",
+        "elementids": [
+            "diemarquisevono-26e28",
+            "diemarquisevono-31d5c",
+            "diemarquisevono-5163b",
+            "diemarquisevono-8a2fa",
+            "diemarquisevono-907b6",
+            "diemarquisevono-bd675"
+        ]
+    },
+    {
+        "id": "102794",
+        "time": "1682160460043",
+        "appid": "c1ed361b932784530475e800be004acc",
+        "session": "6RT96",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "102795",
+        "time": "1682160464296",
+        "appid": "c1ed361b932784530475e800be004acc",
+        "session": "6RT96",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
