@@ -1,0 +1,2611 @@
+[
+    {
+        "id": "105583",
+        "time": "1685606208263",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105584",
+        "time": "1685606208326",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105585",
+        "time": "1685606209557",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.1832",
+        "words": "88",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1bf34",
+            "ausdemlebeneinestaugenichts-394ed",
+            "ausdemlebeneinestaugenichts-5fe2d",
+            "ausdemlebeneinestaugenichts-9a365",
+            "ausdemlebeneinestaugenichts-a31e7",
+            "ausdemlebeneinestaugenichts-f6404"
+        ]
+    },
+    {
+        "id": "105586",
+        "time": "1685606235734",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.1859",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-59826",
+            "ausdemlebeneinestaugenichts-8e5ec",
+            "ausdemlebeneinestaugenichts-9a365",
+            "ausdemlebeneinestaugenichts-9d643",
+            "ausdemlebeneinestaugenichts-a2540",
+            "ausdemlebeneinestaugenichts-d5e7d"
+        ]
+    },
+    {
+        "id": "105587",
+        "time": "1685606258080",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105588",
+        "time": "1685606312263",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "mindwandering",
+        "action": "notdepends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105589",
+        "time": "1685606320041",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.1885",
+        "words": "82",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-02f46",
+            "ausdemlebeneinestaugenichts-0d34c",
+            "ausdemlebeneinestaugenichts-0f5a3",
+            "ausdemlebeneinestaugenichts-29eb6",
+            "ausdemlebeneinestaugenichts-9d643",
+            "ausdemlebeneinestaugenichts-9daca",
+            "ausdemlebeneinestaugenichts-aaf17"
+        ]
+    },
+    {
+        "id": "105590",
+        "time": "1685606355499",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.1911",
+        "words": "88",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-02f46",
+            "ausdemlebeneinestaugenichts-0e8fd",
+            "ausdemlebeneinestaugenichts-81ad2",
+            "ausdemlebeneinestaugenichts-a3af4",
+            "ausdemlebeneinestaugenichts-c881a",
+            "ausdemlebeneinestaugenichts-dd833",
+            "ausdemlebeneinestaugenichts-f7e59"
+        ]
+    },
+    {
+        "id": "105591",
+        "time": "1685606382877",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.1937",
+        "words": "84",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-175e4",
+            "ausdemlebeneinestaugenichts-2ccd4",
+            "ausdemlebeneinestaugenichts-a91d8",
+            "ausdemlebeneinestaugenichts-aa701",
+            "ausdemlebeneinestaugenichts-c8f8d"
+        ]
+    },
+    {
+        "id": "105592",
+        "time": "1685606405527",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.1963",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-16306",
+            "ausdemlebeneinestaugenichts-7442d",
+            "ausdemlebeneinestaugenichts-905c4",
+            "ausdemlebeneinestaugenichts-9a831",
+            "ausdemlebeneinestaugenichts-eec81"
+        ]
+    },
+    {
+        "id": "105593",
+        "time": "1685606476420",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105594",
+        "time": "1685606488043",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page75",
+        "action": "enter",
+        "value": "0.199",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2e64f",
+            "ausdemlebeneinestaugenichts-53542",
+            "ausdemlebeneinestaugenichts-754c2",
+            "ausdemlebeneinestaugenichts-8c73a",
+            "ausdemlebeneinestaugenichts-9069d",
+            "ausdemlebeneinestaugenichts-c4bc0"
+        ]
+    },
+    {
+        "id": "105595",
+        "time": "1685606507927",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page76",
+        "action": "enter",
+        "value": "0.2016",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2e64f",
+            "ausdemlebeneinestaugenichts-d80c5"
+        ]
+    },
+    {
+        "id": "105596",
+        "time": "1685606534523",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page77",
+        "action": "enter",
+        "value": "0.2042",
+        "words": "71",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-257e9",
+            "ausdemlebeneinestaugenichts-4388c",
+            "ausdemlebeneinestaugenichts-b981c",
+            "ausdemlebeneinestaugenichts-d80c5",
+            "ausdemlebeneinestaugenichts-e3e6d"
+        ]
+    },
+    {
+        "id": "105597",
+        "time": "1685606564873",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page78",
+        "action": "enter",
+        "value": "0.2068",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-d49c4",
+            "ausdemlebeneinestaugenichts-dc48f",
+            "ausdemlebeneinestaugenichts-e3e6d",
+            "ausdemlebeneinestaugenichts-ed890"
+        ]
+    },
+    {
+        "id": "105598",
+        "time": "1685606586363",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.2094",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-5ea06",
+            "ausdemlebeneinestaugenichts-e028f",
+            "ausdemlebeneinestaugenichts-f7baa"
+        ]
+    },
+    {
+        "id": "105599",
+        "time": "1685606616989",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page78",
+        "action": "enter",
+        "value": "0.2068",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-d49c4",
+            "ausdemlebeneinestaugenichts-dc48f",
+            "ausdemlebeneinestaugenichts-e3e6d",
+            "ausdemlebeneinestaugenichts-ed890"
+        ]
+    },
+    {
+        "id": "105600",
+        "time": "1685606620727",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.2094",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-5ea06",
+            "ausdemlebeneinestaugenichts-e028f",
+            "ausdemlebeneinestaugenichts-f7baa"
+        ]
+    },
+    {
+        "id": "105601",
+        "time": "1685606622205",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page80",
+        "action": "enter",
+        "value": "0.212",
+        "words": "81",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0086f",
+            "ausdemlebeneinestaugenichts-ad50e",
+            "ausdemlebeneinestaugenichts-e028f"
+        ]
+    },
+    {
+        "id": "105602",
+        "time": "1685606643629",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page81",
+        "action": "enter",
+        "value": "0.2147",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0086f",
+            "ausdemlebeneinestaugenichts-17636",
+            "ausdemlebeneinestaugenichts-30520",
+            "ausdemlebeneinestaugenichts-58e7e",
+            "ausdemlebeneinestaugenichts-59cc7",
+            "ausdemlebeneinestaugenichts-ffd89"
+        ]
+    },
+    {
+        "id": "105603",
+        "time": "1685606670051",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page82",
+        "action": "enter",
+        "value": "0.2173",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-02703",
+            "ausdemlebeneinestaugenichts-1074f",
+            "ausdemlebeneinestaugenichts-59cc7"
+        ]
+    },
+    {
+        "id": "105604",
+        "time": "1685606695533",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page83",
+        "action": "enter",
+        "value": "0.2199",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-02703",
+            "ausdemlebeneinestaugenichts-37262",
+            "ausdemlebeneinestaugenichts-825a1",
+            "ausdemlebeneinestaugenichts-99ba2"
+        ]
+    },
+    {
+        "id": "105605",
+        "time": "1685606738833",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page84",
+        "action": "enter",
+        "value": "0.2225",
+        "words": "86",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-098e7",
+            "ausdemlebeneinestaugenichts-1fc85",
+            "ausdemlebeneinestaugenichts-37262",
+            "ausdemlebeneinestaugenichts-a0cf3"
+        ]
+    },
+    {
+        "id": "105606",
+        "time": "1685606760735",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page85",
+        "action": "enter",
+        "value": "0.2251",
+        "words": "82",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-49deb",
+            "ausdemlebeneinestaugenichts-55c0d",
+            "ausdemlebeneinestaugenichts-68b27",
+            "ausdemlebeneinestaugenichts-7e342",
+            "ausdemlebeneinestaugenichts-a13e2",
+            "ausdemlebeneinestaugenichts-a2cfa"
+        ]
+    },
+    {
+        "id": "105607",
+        "time": "1685606779876",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page86",
+        "action": "enter",
+        "value": "0.2277",
+        "words": "79",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-5b95b",
+            "ausdemlebeneinestaugenichts-ccc34",
+            "ausdemlebeneinestaugenichts-f086b"
+        ]
+    },
+    {
+        "id": "105608",
+        "time": "1685606807120",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page87",
+        "action": "enter",
+        "value": "0.2304",
+        "words": "64",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-5b95b",
+            "ausdemlebeneinestaugenichts-5d2e4-2",
+            "ausdemlebeneinestaugenichts-67b41",
+            "ausdemlebeneinestaugenichts-91b35",
+            "ausdemlebeneinestaugenichts-b4e20",
+            "ausdemlebeneinestaugenichts-ba7ae"
+        ]
+    },
+    {
+        "id": "105609",
+        "time": "1685606830715",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page88",
+        "action": "enter",
+        "value": "0.233",
+        "words": "1",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-91b35"
+        ]
+    },
+    {
+        "id": "105610",
+        "time": "1685606832412",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page89",
+        "action": "enter",
+        "value": "0.2356",
+        "words": "75",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-045ee",
+            "ausdemlebeneinestaugenichts-a0542",
+            "ausdemlebeneinestaugenichts-a8b4f",
+            "ausdemlebeneinestaugenichts-cdbbb"
+        ]
+    },
+    {
+        "id": "105611",
+        "time": "1685606851039",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page90",
+        "action": "enter",
+        "value": "0.2382",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1752d",
+            "ausdemlebeneinestaugenichts-c30ed",
+            "ausdemlebeneinestaugenichts-c5539"
+        ]
+    },
+    {
+        "id": "105612",
+        "time": "1685606896417",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.2408",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1fdae",
+            "ausdemlebeneinestaugenichts-264b1",
+            "ausdemlebeneinestaugenichts-4c47f",
+            "ausdemlebeneinestaugenichts-58a6b",
+            "ausdemlebeneinestaugenichts-817cd",
+            "ausdemlebeneinestaugenichts-9eb86",
+            "ausdemlebeneinestaugenichts-c30ed",
+            "ausdemlebeneinestaugenichts-cdbe3",
+            "ausdemlebeneinestaugenichts-ceb90",
+            "ausdemlebeneinestaugenichts-fc250"
+        ]
+    },
+    {
+        "id": "105613",
+        "time": "1685606923688",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page92",
+        "action": "enter",
+        "value": "0.2435",
+        "words": "81",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-17695",
+            "ausdemlebeneinestaugenichts-3d605",
+            "ausdemlebeneinestaugenichts-995ee",
+            "ausdemlebeneinestaugenichts-de97b",
+            "ausdemlebeneinestaugenichts-fc250"
+        ]
+    },
+    {
+        "id": "105614",
+        "time": "1685606947120",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page93",
+        "action": "enter",
+        "value": "0.2461",
+        "words": "79",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0e811",
+            "ausdemlebeneinestaugenichts-4240d",
+            "ausdemlebeneinestaugenichts-ce481",
+            "ausdemlebeneinestaugenichts-de97b"
+        ]
+    },
+    {
+        "id": "105615",
+        "time": "1685606965615",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page94",
+        "action": "enter",
+        "value": "0.2487",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0e811",
+            "ausdemlebeneinestaugenichts-603ac",
+            "ausdemlebeneinestaugenichts-fbf1f"
+        ]
+    },
+    {
+        "id": "105616",
+        "time": "1685606976025",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105617",
+        "time": "1685607002750",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page95",
+        "action": "enter",
+        "value": "0.2513",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-006f8",
+            "ausdemlebeneinestaugenichts-4d1cb",
+            "ausdemlebeneinestaugenichts-603ac",
+            "ausdemlebeneinestaugenichts-e15be"
+        ]
+    },
+    {
+        "id": "105618",
+        "time": "1685607069379",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105619",
+        "time": "1685607102310",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page96",
+        "action": "enter",
+        "value": "0.2539",
+        "words": "91",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-006f8",
+            "ausdemlebeneinestaugenichts-20950",
+            "ausdemlebeneinestaugenichts-d4ed0",
+            "ausdemlebeneinestaugenichts-f125f"
+        ]
+    },
+    {
+        "id": "105620",
+        "time": "1685607136564",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page97",
+        "action": "enter",
+        "value": "0.2565",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-20950",
+            "ausdemlebeneinestaugenichts-a760c"
+        ]
+    },
+    {
+        "id": "105621",
+        "time": "1685607160575",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page98",
+        "action": "enter",
+        "value": "0.2592",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-a760c",
+            "ausdemlebeneinestaugenichts-ae3ac",
+            "ausdemlebeneinestaugenichts-bc24c",
+            "ausdemlebeneinestaugenichts-d9c41",
+            "ausdemlebeneinestaugenichts-e246b"
+        ]
+    },
+    {
+        "id": "105622",
+        "time": "1685607180592",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page99",
+        "action": "enter",
+        "value": "0.2618",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-011c3",
+            "ausdemlebeneinestaugenichts-beb67",
+            "ausdemlebeneinestaugenichts-d9c41",
+            "ausdemlebeneinestaugenichts-f2437",
+            "ausdemlebeneinestaugenichts-f8371",
+            "ausdemlebeneinestaugenichts-ff9c1"
+        ]
+    },
+    {
+        "id": "105623",
+        "time": "1685607210739",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page100",
+        "action": "enter",
+        "value": "0.2644",
+        "words": "81",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-61c5d",
+            "ausdemlebeneinestaugenichts-933fa",
+            "ausdemlebeneinestaugenichts-9b2dd",
+            "ausdemlebeneinestaugenichts-beb67",
+            "ausdemlebeneinestaugenichts-def80"
+        ]
+    },
+    {
+        "id": "105624",
+        "time": "1685607228835",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page101",
+        "action": "enter",
+        "value": "0.267",
+        "words": "93",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1c710",
+            "ausdemlebeneinestaugenichts-8d3cb",
+            "ausdemlebeneinestaugenichts-933fa",
+            "ausdemlebeneinestaugenichts-c3c13",
+            "ausdemlebeneinestaugenichts-c94db",
+            "ausdemlebeneinestaugenichts-cecda"
+        ]
+    },
+    {
+        "id": "105625",
+        "time": "1685607252746",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page102",
+        "action": "enter",
+        "value": "0.2696",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1bc45",
+            "ausdemlebeneinestaugenichts-5ab3d",
+            "ausdemlebeneinestaugenichts-8d3cb",
+            "ausdemlebeneinestaugenichts-c67df",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105626",
+        "time": "1685607290734",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page103",
+        "action": "enter",
+        "value": "0.2723",
+        "words": "84",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0d0c5",
+            "ausdemlebeneinestaugenichts-47d84",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105627",
+        "time": "1685607290913",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page104",
+        "action": "enter",
+        "value": "0.2749",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-246ca",
+            "ausdemlebeneinestaugenichts-27d22",
+            "ausdemlebeneinestaugenichts-47d84",
+            "ausdemlebeneinestaugenichts-6c327",
+            "ausdemlebeneinestaugenichts-a1057",
+            "ausdemlebeneinestaugenichts-ceccc"
+        ]
+    },
+    {
+        "id": "105628",
+        "time": "1685607292670",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page103",
+        "action": "enter",
+        "value": "0.2723",
+        "words": "84",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0d0c5",
+            "ausdemlebeneinestaugenichts-47d84",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105629",
+        "time": "1685607296434",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page102",
+        "action": "enter",
+        "value": "0.2696",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1bc45",
+            "ausdemlebeneinestaugenichts-5ab3d",
+            "ausdemlebeneinestaugenichts-8d3cb",
+            "ausdemlebeneinestaugenichts-c67df",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105630",
+        "time": "1685607298982",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page101",
+        "action": "enter",
+        "value": "0.267",
+        "words": "93",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1c710",
+            "ausdemlebeneinestaugenichts-8d3cb",
+            "ausdemlebeneinestaugenichts-933fa",
+            "ausdemlebeneinestaugenichts-c3c13",
+            "ausdemlebeneinestaugenichts-c94db",
+            "ausdemlebeneinestaugenichts-cecda"
+        ]
+    },
+    {
+        "id": "105631",
+        "time": "1685607304664",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page102",
+        "action": "enter",
+        "value": "0.2696",
+        "words": "83",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1bc45",
+            "ausdemlebeneinestaugenichts-5ab3d",
+            "ausdemlebeneinestaugenichts-8d3cb",
+            "ausdemlebeneinestaugenichts-c67df",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105632",
+        "time": "1685607327525",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page103",
+        "action": "enter",
+        "value": "0.2723",
+        "words": "84",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0d0c5",
+            "ausdemlebeneinestaugenichts-47d84",
+            "ausdemlebeneinestaugenichts-de563"
+        ]
+    },
+    {
+        "id": "105633",
+        "time": "1685607347766",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page104",
+        "action": "enter",
+        "value": "0.2749",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-246ca",
+            "ausdemlebeneinestaugenichts-27d22",
+            "ausdemlebeneinestaugenichts-47d84",
+            "ausdemlebeneinestaugenichts-6c327",
+            "ausdemlebeneinestaugenichts-a1057",
+            "ausdemlebeneinestaugenichts-ceccc"
+        ]
+    },
+    {
+        "id": "105634",
+        "time": "1685607370010",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page105",
+        "action": "enter",
+        "value": "0.2775",
+        "words": "88",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-6c327",
+            "ausdemlebeneinestaugenichts-a2863",
+            "ausdemlebeneinestaugenichts-baf78",
+            "ausdemlebeneinestaugenichts-dff75"
+        ]
+    },
+    {
+        "id": "105635",
+        "time": "1685607406057",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page106",
+        "action": "enter",
+        "value": "0.2801",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-129b5",
+            "ausdemlebeneinestaugenichts-221d5",
+            "ausdemlebeneinestaugenichts-717cf",
+            "ausdemlebeneinestaugenichts-be3f7",
+            "ausdemlebeneinestaugenichts-d3a0d",
+            "ausdemlebeneinestaugenichts-dff75"
+        ]
+    },
+    {
+        "id": "105636",
+        "time": "1685607453043",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page107",
+        "action": "enter",
+        "value": "0.2827",
+        "words": "90",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-be3f7",
+            "ausdemlebeneinestaugenichts-e30a0"
+        ]
+    },
+    {
+        "id": "105637",
+        "time": "1685607488185",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page108",
+        "action": "enter",
+        "value": "0.2853",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-6732f",
+            "ausdemlebeneinestaugenichts-b8355",
+            "ausdemlebeneinestaugenichts-e30a0"
+        ]
+    },
+    {
+        "id": "105638",
+        "time": "1685607512198",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page109",
+        "action": "enter",
+        "value": "0.288",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00d2f",
+            "ausdemlebeneinestaugenichts-0b7ad",
+            "ausdemlebeneinestaugenichts-8be07",
+            "ausdemlebeneinestaugenichts-aa350",
+            "ausdemlebeneinestaugenichts-b8355",
+            "ausdemlebeneinestaugenichts-db9f4"
+        ]
+    },
+    {
+        "id": "105639",
+        "time": "1685607512842",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page110",
+        "action": "enter",
+        "value": "0.2906",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00d2f",
+            "ausdemlebeneinestaugenichts-ccda6",
+            "ausdemlebeneinestaugenichts-fb18f"
+        ]
+    },
+    {
+        "id": "105640",
+        "time": "1685607513502",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page109",
+        "action": "enter",
+        "value": "0.288",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00d2f",
+            "ausdemlebeneinestaugenichts-0b7ad",
+            "ausdemlebeneinestaugenichts-8be07",
+            "ausdemlebeneinestaugenichts-aa350",
+            "ausdemlebeneinestaugenichts-b8355",
+            "ausdemlebeneinestaugenichts-db9f4"
+        ]
+    },
+    {
+        "id": "105641",
+        "time": "1685607534453",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page110",
+        "action": "enter",
+        "value": "0.2906",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00d2f",
+            "ausdemlebeneinestaugenichts-ccda6",
+            "ausdemlebeneinestaugenichts-fb18f"
+        ]
+    },
+    {
+        "id": "105642",
+        "time": "1685607555613",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page111",
+        "action": "enter",
+        "value": "0.2932",
+        "words": "95",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-118b8",
+            "ausdemlebeneinestaugenichts-23e91",
+            "ausdemlebeneinestaugenichts-8bd6a",
+            "ausdemlebeneinestaugenichts-aa88c"
+        ]
+    },
+    {
+        "id": "105643",
+        "time": "1685607556023",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page112",
+        "action": "enter",
+        "value": "0.2958",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-118b8",
+            "ausdemlebeneinestaugenichts-3bdb1",
+            "ausdemlebeneinestaugenichts-623b4",
+            "ausdemlebeneinestaugenichts-893c0",
+            "ausdemlebeneinestaugenichts-b17b3",
+            "ausdemlebeneinestaugenichts-cadd4",
+            "ausdemlebeneinestaugenichts-dd61b"
+        ]
+    },
+    {
+        "id": "105644",
+        "time": "1685607557185",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page111",
+        "action": "enter",
+        "value": "0.2932",
+        "words": "95",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-118b8",
+            "ausdemlebeneinestaugenichts-23e91",
+            "ausdemlebeneinestaugenichts-8bd6a",
+            "ausdemlebeneinestaugenichts-aa88c"
+        ]
+    },
+    {
+        "id": "105645",
+        "time": "1685607577491",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page112",
+        "action": "enter",
+        "value": "0.2958",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-118b8",
+            "ausdemlebeneinestaugenichts-3bdb1",
+            "ausdemlebeneinestaugenichts-623b4",
+            "ausdemlebeneinestaugenichts-893c0",
+            "ausdemlebeneinestaugenichts-b17b3",
+            "ausdemlebeneinestaugenichts-cadd4",
+            "ausdemlebeneinestaugenichts-dd61b"
+        ]
+    },
+    {
+        "id": "105646",
+        "time": "1685607598969",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page113",
+        "action": "enter",
+        "value": "0.2984",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-58c6f",
+            "ausdemlebeneinestaugenichts-7152f",
+            "ausdemlebeneinestaugenichts-85ec9",
+            "ausdemlebeneinestaugenichts-a20c9",
+            "ausdemlebeneinestaugenichts-cadd4",
+            "ausdemlebeneinestaugenichts-e13a0"
+        ]
+    },
+    {
+        "id": "105647",
+        "time": "1685607627965",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page114",
+        "action": "enter",
+        "value": "0.301",
+        "words": "76",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-a20c9",
+            "ausdemlebeneinestaugenichts-bb802",
+            "ausdemlebeneinestaugenichts-d590c"
+        ]
+    },
+    {
+        "id": "105648",
+        "time": "1685607647246",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page115",
+        "action": "enter",
+        "value": "0.3037",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-116cd",
+            "ausdemlebeneinestaugenichts-2a333",
+            "ausdemlebeneinestaugenichts-68d7d",
+            "ausdemlebeneinestaugenichts-728f2",
+            "ausdemlebeneinestaugenichts-7ba96",
+            "ausdemlebeneinestaugenichts-9dc81",
+            "ausdemlebeneinestaugenichts-b0538",
+            "ausdemlebeneinestaugenichts-bb802"
+        ]
+    },
+    {
+        "id": "105649",
+        "time": "1685607689137",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page116",
+        "action": "enter",
+        "value": "0.3063",
+        "words": "91",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-17707",
+            "ausdemlebeneinestaugenichts-6a917",
+            "ausdemlebeneinestaugenichts-7ba96",
+            "ausdemlebeneinestaugenichts-8c30a",
+            "ausdemlebeneinestaugenichts-943fd",
+            "ausdemlebeneinestaugenichts-a6701",
+            "ausdemlebeneinestaugenichts-f44fb",
+            "ausdemlebeneinestaugenichts-f679f"
+        ]
+    },
+    {
+        "id": "105650",
+        "time": "1685607735509",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page115",
+        "action": "enter",
+        "value": "0.3037",
+        "words": "78",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-116cd",
+            "ausdemlebeneinestaugenichts-2a333",
+            "ausdemlebeneinestaugenichts-68d7d",
+            "ausdemlebeneinestaugenichts-728f2",
+            "ausdemlebeneinestaugenichts-7ba96",
+            "ausdemlebeneinestaugenichts-9dc81",
+            "ausdemlebeneinestaugenichts-b0538",
+            "ausdemlebeneinestaugenichts-bb802"
+        ]
+    },
+    {
+        "id": "105651",
+        "time": "1685607740440",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page116",
+        "action": "enter",
+        "value": "0.3063",
+        "words": "91",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-17707",
+            "ausdemlebeneinestaugenichts-6a917",
+            "ausdemlebeneinestaugenichts-7ba96",
+            "ausdemlebeneinestaugenichts-8c30a",
+            "ausdemlebeneinestaugenichts-943fd",
+            "ausdemlebeneinestaugenichts-a6701",
+            "ausdemlebeneinestaugenichts-f44fb",
+            "ausdemlebeneinestaugenichts-f679f"
+        ]
+    },
+    {
+        "id": "105652",
+        "time": "1685607754127",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page117",
+        "action": "enter",
+        "value": "0.3089",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-14a10",
+            "ausdemlebeneinestaugenichts-17707",
+            "ausdemlebeneinestaugenichts-3ca4a",
+            "ausdemlebeneinestaugenichts-aa0b8",
+            "ausdemlebeneinestaugenichts-b5314",
+            "ausdemlebeneinestaugenichts-dd697",
+            "ausdemlebeneinestaugenichts-e2bd4"
+        ]
+    },
+    {
+        "id": "105653",
+        "time": "1685607782288",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page118",
+        "action": "enter",
+        "value": "0.3115",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-3ca4a",
+            "ausdemlebeneinestaugenichts-9c1ca",
+            "ausdemlebeneinestaugenichts-c2e9a",
+            "ausdemlebeneinestaugenichts-cf34c"
+        ]
+    },
+    {
+        "id": "105654",
+        "time": "1685607803855",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page119",
+        "action": "enter",
+        "value": "0.3141",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-20baa",
+            "ausdemlebeneinestaugenichts-3d3df",
+            "ausdemlebeneinestaugenichts-9c1ca",
+            "ausdemlebeneinestaugenichts-c0727",
+            "ausdemlebeneinestaugenichts-d529d"
+        ]
+    },
+    {
+        "id": "105655",
+        "time": "1685607849704",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page120",
+        "action": "enter",
+        "value": "0.3168",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1d378",
+            "ausdemlebeneinestaugenichts-3cab7",
+            "ausdemlebeneinestaugenichts-4524e",
+            "ausdemlebeneinestaugenichts-ca547",
+            "ausdemlebeneinestaugenichts-d529d"
+        ]
+    },
+    {
+        "id": "105656",
+        "time": "1685607876540",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page121",
+        "action": "enter",
+        "value": "0.3194",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-05865",
+            "ausdemlebeneinestaugenichts-ca547",
+            "ausdemlebeneinestaugenichts-ff281"
+        ]
+    },
+    {
+        "id": "105657",
+        "time": "1685607897218",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page122",
+        "action": "enter",
+        "value": "0.322",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-33749",
+            "ausdemlebeneinestaugenichts-7008c",
+            "ausdemlebeneinestaugenichts-90508",
+            "ausdemlebeneinestaugenichts-e33a7",
+            "ausdemlebeneinestaugenichts-ff281"
+        ]
+    },
+    {
+        "id": "105658",
+        "time": "1685607919492",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page123",
+        "action": "enter",
+        "value": "0.3246",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0b61d",
+            "ausdemlebeneinestaugenichts-110ad",
+            "ausdemlebeneinestaugenichts-14c56",
+            "ausdemlebeneinestaugenichts-1aaae",
+            "ausdemlebeneinestaugenichts-33749",
+            "ausdemlebeneinestaugenichts-5f870",
+            "ausdemlebeneinestaugenichts-76daa",
+            "ausdemlebeneinestaugenichts-8bf89",
+            "ausdemlebeneinestaugenichts-be49f"
+        ]
+    },
+    {
+        "id": "105659",
+        "time": "1685607939905",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page124",
+        "action": "enter",
+        "value": "0.3272",
+        "words": "82",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-05e5a",
+            "ausdemlebeneinestaugenichts-110ad",
+            "ausdemlebeneinestaugenichts-3d313",
+            "ausdemlebeneinestaugenichts-72040",
+            "ausdemlebeneinestaugenichts-9900b",
+            "ausdemlebeneinestaugenichts-9ebea",
+            "ausdemlebeneinestaugenichts-e4de0"
+        ]
+    },
+    {
+        "id": "105660",
+        "time": "1685607966592",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page125",
+        "action": "enter",
+        "value": "0.3298",
+        "words": "91",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-185fa",
+            "ausdemlebeneinestaugenichts-5b1b9",
+            "ausdemlebeneinestaugenichts-82d0b",
+            "ausdemlebeneinestaugenichts-839e9",
+            "ausdemlebeneinestaugenichts-853f4",
+            "ausdemlebeneinestaugenichts-9900b",
+            "ausdemlebeneinestaugenichts-b178b",
+            "ausdemlebeneinestaugenichts-d2363",
+            "ausdemlebeneinestaugenichts-d35e8"
+        ]
+    },
+    {
+        "id": "105661",
+        "time": "1685607991492",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page126",
+        "action": "enter",
+        "value": "0.3325",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2f240",
+            "ausdemlebeneinestaugenichts-76368",
+            "ausdemlebeneinestaugenichts-77791",
+            "ausdemlebeneinestaugenichts-c9d68",
+            "ausdemlebeneinestaugenichts-d35e8",
+            "ausdemlebeneinestaugenichts-fd377"
+        ]
+    },
+    {
+        "id": "105662",
+        "time": "1685608023094",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page127",
+        "action": "enter",
+        "value": "0.3351",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-150f0",
+            "ausdemlebeneinestaugenichts-1c76f",
+            "ausdemlebeneinestaugenichts-76368"
+        ]
+    },
+    {
+        "id": "105663",
+        "time": "1685608054609",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page128",
+        "action": "enter",
+        "value": "0.3377",
+        "words": "81",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-150f0",
+            "ausdemlebeneinestaugenichts-696d3",
+            "ausdemlebeneinestaugenichts-8b3dc",
+            "ausdemlebeneinestaugenichts-d7f80",
+            "ausdemlebeneinestaugenichts-fe392"
+        ]
+    },
+    {
+        "id": "105664",
+        "time": "1685608076520",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page129",
+        "action": "enter",
+        "value": "0.3403",
+        "words": "98",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-7940e",
+            "ausdemlebeneinestaugenichts-8c05a",
+            "ausdemlebeneinestaugenichts-a67e6",
+            "ausdemlebeneinestaugenichts-d522b",
+            "ausdemlebeneinestaugenichts-d7f80",
+            "ausdemlebeneinestaugenichts-e9a8b"
+        ]
+    },
+    {
+        "id": "105665",
+        "time": "1685608102000",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page130",
+        "action": "enter",
+        "value": "0.3429",
+        "words": "82",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-3ce9d",
+            "ausdemlebeneinestaugenichts-53330",
+            "ausdemlebeneinestaugenichts-7940e",
+            "ausdemlebeneinestaugenichts-a8d51",
+            "ausdemlebeneinestaugenichts-ab45e"
+        ]
+    },
+    {
+        "id": "105666",
+        "time": "1685608119884",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page131",
+        "action": "enter",
+        "value": "0.3455",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-28175",
+            "ausdemlebeneinestaugenichts-3ce9d",
+            "ausdemlebeneinestaugenichts-602f7",
+            "ausdemlebeneinestaugenichts-7641c",
+            "ausdemlebeneinestaugenichts-791c3",
+            "ausdemlebeneinestaugenichts-98ab1"
+        ]
+    },
+    {
+        "id": "105667",
+        "time": "1685608154929",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page132",
+        "action": "enter",
+        "value": "0.3482",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-1845f",
+            "ausdemlebeneinestaugenichts-3b3ef",
+            "ausdemlebeneinestaugenichts-602f7",
+            "ausdemlebeneinestaugenichts-64031",
+            "ausdemlebeneinestaugenichts-6bd3c",
+            "ausdemlebeneinestaugenichts-8e976",
+            "ausdemlebeneinestaugenichts-9b7fe",
+            "ausdemlebeneinestaugenichts-e59ec"
+        ]
+    },
+    {
+        "id": "105668",
+        "time": "1685608220118",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105669",
+        "time": "1685608233228",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page133",
+        "action": "enter",
+        "value": "0.3508",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-34331",
+            "ausdemlebeneinestaugenichts-352cf",
+            "ausdemlebeneinestaugenichts-49aed",
+            "ausdemlebeneinestaugenichts-67446",
+            "ausdemlebeneinestaugenichts-8e976",
+            "ausdemlebeneinestaugenichts-b49e2",
+            "ausdemlebeneinestaugenichts-c998f"
+        ]
+    },
+    {
+        "id": "105670",
+        "time": "1685608253769",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page134",
+        "action": "enter",
+        "value": "0.3534",
+        "words": "88",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-250e4",
+            "ausdemlebeneinestaugenichts-524a7",
+            "ausdemlebeneinestaugenichts-67446",
+            "ausdemlebeneinestaugenichts-6af67",
+            "ausdemlebeneinestaugenichts-6bea3",
+            "ausdemlebeneinestaugenichts-923e7",
+            "ausdemlebeneinestaugenichts-d2721"
+        ]
+    },
+    {
+        "id": "105671",
+        "time": "1685608277442",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page135",
+        "action": "enter",
+        "value": "0.356",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-3d078",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-d2721",
+            "ausdemlebeneinestaugenichts-ff94f"
+        ]
+    },
+    {
+        "id": "105672",
+        "time": "1685608299239",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.3586",
+        "words": "49",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2ec36",
+            "ausdemlebeneinestaugenichts-3b0cb",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-76ada",
+            "ausdemlebeneinestaugenichts-9cce6",
+            "ausdemlebeneinestaugenichts-bb0a5",
+            "ausdemlebeneinestaugenichts-c7c9a",
+            "ausdemlebeneinestaugenichts-d72e2",
+            "ausdemlebeneinestaugenichts-f69df"
+        ]
+    },
+    {
+        "id": "105673",
+        "time": "1685608319880",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "WR3rh",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page137",
+        "action": "leave",
+        "value": "0.356",
+        "words": "49",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2ec36",
+            "ausdemlebeneinestaugenichts-3b0cb",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-76ada",
+            "ausdemlebeneinestaugenichts-9cce6",
+            "ausdemlebeneinestaugenichts-bb0a5",
+            "ausdemlebeneinestaugenichts-c7c9a",
+            "ausdemlebeneinestaugenichts-d72e2",
+            "ausdemlebeneinestaugenichts-f69df"
+        ]
+    },
+    {
+        "id": "105674",
+        "time": "1685608625637",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105675",
+        "time": "1685608625706",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105676",
+        "time": "1685608627487",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.3586",
+        "words": "49",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2ec36",
+            "ausdemlebeneinestaugenichts-3b0cb",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-76ada",
+            "ausdemlebeneinestaugenichts-9cce6",
+            "ausdemlebeneinestaugenichts-bb0a5",
+            "ausdemlebeneinestaugenichts-c7c9a",
+            "ausdemlebeneinestaugenichts-d72e2",
+            "ausdemlebeneinestaugenichts-f69df"
+        ]
+    },
+    {
+        "id": "105677",
+        "time": "1685608632713",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page135",
+        "action": "enter",
+        "value": "0.356",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-3d078",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-d2721",
+            "ausdemlebeneinestaugenichts-ff94f"
+        ]
+    },
+    {
+        "id": "105678",
+        "time": "1685608635629",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105679",
+        "time": "1685608639225",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.3586",
+        "words": "49",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2ec36",
+            "ausdemlebeneinestaugenichts-3b0cb",
+            "ausdemlebeneinestaugenichts-62a98",
+            "ausdemlebeneinestaugenichts-76ada",
+            "ausdemlebeneinestaugenichts-9cce6",
+            "ausdemlebeneinestaugenichts-bb0a5",
+            "ausdemlebeneinestaugenichts-c7c9a",
+            "ausdemlebeneinestaugenichts-d72e2",
+            "ausdemlebeneinestaugenichts-f69df"
+        ]
+    },
+    {
+        "id": "105680",
+        "time": "1685608674190",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page137",
+        "action": "enter",
+        "value": "0.3613",
+        "words": "80",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-5f56f",
+            "ausdemlebeneinestaugenichts-756a0",
+            "ausdemlebeneinestaugenichts-e12bb"
+        ]
+    },
+    {
+        "id": "105681",
+        "time": "1685608700292",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page138",
+        "action": "enter",
+        "value": "0.3639",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2f18e",
+            "ausdemlebeneinestaugenichts-48c6d",
+            "ausdemlebeneinestaugenichts-5f56f",
+            "ausdemlebeneinestaugenichts-6429c",
+            "ausdemlebeneinestaugenichts-b2ce1",
+            "ausdemlebeneinestaugenichts-f01f6"
+        ]
+    },
+    {
+        "id": "105682",
+        "time": "1685608713641",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "doXjb",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page139",
+        "action": "leave",
+        "value": "0.3613",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2f18e",
+            "ausdemlebeneinestaugenichts-48c6d",
+            "ausdemlebeneinestaugenichts-5f56f",
+            "ausdemlebeneinestaugenichts-6429c",
+            "ausdemlebeneinestaugenichts-b2ce1",
+            "ausdemlebeneinestaugenichts-f01f6"
+        ]
+    },
+    {
+        "id": "105683",
+        "time": "1685608715295",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page139",
+        "action": "reenter",
+        "value": "0.3613",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2f18e",
+            "ausdemlebeneinestaugenichts-48c6d",
+            "ausdemlebeneinestaugenichts-5f56f",
+            "ausdemlebeneinestaugenichts-6429c",
+            "ausdemlebeneinestaugenichts-b2ce1",
+            "ausdemlebeneinestaugenichts-f01f6"
+        ]
+    },
+    {
+        "id": "105684",
+        "time": "1685608757820",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page140",
+        "action": "enter",
+        "value": "0.3691",
+        "words": "55",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-08236",
+            "ausdemlebeneinestaugenichts-5a20b",
+            "ausdemlebeneinestaugenichts-67bce",
+            "ausdemlebeneinestaugenichts-a62cc",
+            "ausdemlebeneinestaugenichts-bd8bf"
+        ]
+    },
+    {
+        "id": "105685",
+        "time": "1685608776404",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page141",
+        "action": "enter",
+        "value": "0.3717",
+        "words": "81",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-8e122",
+            "ausdemlebeneinestaugenichts-9afe7",
+            "ausdemlebeneinestaugenichts-a32d2",
+            "ausdemlebeneinestaugenichts-ad154",
+            "ausdemlebeneinestaugenichts-c0df3",
+            "ausdemlebeneinestaugenichts-d1848"
+        ]
+    },
+    {
+        "id": "105686",
+        "time": "1685608833550",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page142",
+        "action": "enter",
+        "value": "0.3743",
+        "words": "86",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-28bb1",
+            "ausdemlebeneinestaugenichts-2cfd8",
+            "ausdemlebeneinestaugenichts-58189",
+            "ausdemlebeneinestaugenichts-ad154",
+            "ausdemlebeneinestaugenichts-b0116"
+        ]
+    },
+    {
+        "id": "105687",
+        "time": "1685608861463",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page143",
+        "action": "enter",
+        "value": "0.377",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-28bb1",
+            "ausdemlebeneinestaugenichts-85be1",
+            "ausdemlebeneinestaugenichts-acaf9",
+            "ausdemlebeneinestaugenichts-d42c5",
+            "ausdemlebeneinestaugenichts-ecc49"
+        ]
+    },
+    {
+        "id": "105688",
+        "time": "1685608887148",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page144",
+        "action": "enter",
+        "value": "0.3796",
+        "words": "90",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-26de9",
+            "ausdemlebeneinestaugenichts-2d1d2",
+            "ausdemlebeneinestaugenichts-acaf9"
+        ]
+    },
+    {
+        "id": "105689",
+        "time": "1685608922369",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page145",
+        "action": "enter",
+        "value": "0.3822",
+        "words": "85",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-21ce6",
+            "ausdemlebeneinestaugenichts-2774b",
+            "ausdemlebeneinestaugenichts-2d1d2",
+            "ausdemlebeneinestaugenichts-307fc",
+            "ausdemlebeneinestaugenichts-80568",
+            "ausdemlebeneinestaugenichts-cd87c"
+        ]
+    },
+    {
+        "id": "105690",
+        "time": "1685608969508",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page146",
+        "action": "enter",
+        "value": "0.3848",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-b57cb",
+            "ausdemlebeneinestaugenichts-cd87c"
+        ]
+    },
+    {
+        "id": "105691",
+        "time": "1685608992578",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page147",
+        "action": "enter",
+        "value": "0.3874",
+        "words": "76",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-204df",
+            "ausdemlebeneinestaugenichts-37f68",
+            "ausdemlebeneinestaugenichts-49a37",
+            "ausdemlebeneinestaugenichts-a641a",
+            "ausdemlebeneinestaugenichts-b57cb"
+        ]
+    },
+    {
+        "id": "105692",
+        "time": "1685609036626",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page148",
+        "action": "enter",
+        "value": "0.3901",
+        "words": "92",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0931f",
+            "ausdemlebeneinestaugenichts-18a1d",
+            "ausdemlebeneinestaugenichts-49a37",
+            "ausdemlebeneinestaugenichts-61286",
+            "ausdemlebeneinestaugenichts-97c4c",
+            "ausdemlebeneinestaugenichts-fa42b"
+        ]
+    },
+    {
+        "id": "105693",
+        "time": "1685609117297",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105694",
+        "time": "1685609154517",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page149",
+        "action": "enter",
+        "value": "0.3927",
+        "words": "87",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0931f",
+            "ausdemlebeneinestaugenichts-22cdb",
+            "ausdemlebeneinestaugenichts-47e1c",
+            "ausdemlebeneinestaugenichts-bc371"
+        ]
+    },
+    {
+        "id": "105695",
+        "time": "1685609207194",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page150",
+        "action": "enter",
+        "value": "0.3953",
+        "words": "77",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-22cdb",
+            "ausdemlebeneinestaugenichts-30ea9",
+            "ausdemlebeneinestaugenichts-4e7cb",
+            "ausdemlebeneinestaugenichts-f4473"
+        ]
+    },
+    {
+        "id": "105696",
+        "time": "1685609250057",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page151",
+        "action": "enter",
+        "value": "0.3979",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-08556",
+            "ausdemlebeneinestaugenichts-12ebb",
+            "ausdemlebeneinestaugenichts-13bcd",
+            "ausdemlebeneinestaugenichts-30ea9",
+            "ausdemlebeneinestaugenichts-401c8",
+            "ausdemlebeneinestaugenichts-6c67b",
+            "ausdemlebeneinestaugenichts-7762b",
+            "ausdemlebeneinestaugenichts-8e8b5",
+            "ausdemlebeneinestaugenichts-a1b2f"
+        ]
+    },
+    {
+        "id": "105697",
+        "time": "1685609279693",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page152",
+        "action": "enter",
+        "value": "0.4005",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-54609",
+            "ausdemlebeneinestaugenichts-6c67b",
+            "ausdemlebeneinestaugenichts-755a5",
+            "ausdemlebeneinestaugenichts-abd3d"
+        ]
+    },
+    {
+        "id": "105698",
+        "time": "1685609311020",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page153",
+        "action": "enter",
+        "value": "0.4031",
+        "words": "79",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-24210",
+            "ausdemlebeneinestaugenichts-65db9",
+            "ausdemlebeneinestaugenichts-755a5",
+            "ausdemlebeneinestaugenichts-a4ccd",
+            "ausdemlebeneinestaugenichts-c2f88"
+        ]
+    },
+    {
+        "id": "105699",
+        "time": "1685609323201",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page152",
+        "action": "enter",
+        "value": "0.4005",
+        "words": "89",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-54609",
+            "ausdemlebeneinestaugenichts-6c67b",
+            "ausdemlebeneinestaugenichts-755a5",
+            "ausdemlebeneinestaugenichts-abd3d"
+        ]
+    },
+    {
+        "id": "105700",
+        "time": "1685609341100",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page153",
+        "action": "enter",
+        "value": "0.4031",
+        "words": "79",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-24210",
+            "ausdemlebeneinestaugenichts-65db9",
+            "ausdemlebeneinestaugenichts-755a5",
+            "ausdemlebeneinestaugenichts-a4ccd",
+            "ausdemlebeneinestaugenichts-c2f88"
+        ]
+    },
+    {
+        "id": "105701",
+        "time": "1685609362149",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.4058",
+        "words": "59",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-42b69",
+            "ausdemlebeneinestaugenichts-45aaa",
+            "ausdemlebeneinestaugenichts-5db3c",
+            "ausdemlebeneinestaugenichts-6128e",
+            "ausdemlebeneinestaugenichts-65db9",
+            "ausdemlebeneinestaugenichts-6aab9",
+            "ausdemlebeneinestaugenichts-6f24d",
+            "ausdemlebeneinestaugenichts-7833f",
+            "ausdemlebeneinestaugenichts-adb3e"
+        ]
+    },
+    {
+        "id": "105702",
+        "time": "1685609383387",
+        "appid": "ba0216dc06be8590169a78aecf16b0b3",
+        "session": "Ljw16",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page155",
+        "action": "leave",
+        "value": "0.4031",
+        "words": "59",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-42b69",
+            "ausdemlebeneinestaugenichts-45aaa",
+            "ausdemlebeneinestaugenichts-5db3c",
+            "ausdemlebeneinestaugenichts-6128e",
+            "ausdemlebeneinestaugenichts-65db9",
+            "ausdemlebeneinestaugenichts-6aab9",
+            "ausdemlebeneinestaugenichts-6f24d",
+            "ausdemlebeneinestaugenichts-7833f",
+            "ausdemlebeneinestaugenichts-adb3e"
+        ]
+    },
+    {
+        "id": "105703",
+        "time": "1685609911711",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105704",
+        "time": "1685609905215",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105705",
+        "time": "1685609901177",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105706",
+        "time": "1685609948739",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105707",
+        "time": "1685609956278",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105708",
+        "time": "1685609986747",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "titelblatt_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105709",
+        "time": "1685609992047",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "H3Si4",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105710",
+        "time": "1685610047659",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "VuVG0",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105711",
+        "time": "1685610049909",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "VuVG0",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105712",
+        "time": "1685610047643",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "VuVG0",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105713",
+        "time": "1685610069630",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "pfJWY",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "reenter",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105714",
+        "time": "1685610071844",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "pfJWY",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105715",
+        "time": "1685610083098",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "pfJWY",
+        "bereich": "reader_effibriest",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0087",
+        "words": "509",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-46c34",
+            "effibriest-48f38",
+            "effibriest-68163",
+            "effibriest-83c83",
+            "effibriest-9c6e0",
+            "effibriest-a5a2f",
+            "effibriest-b3d45",
+            "effibriest-bf586",
+            "effibriest-d87a7",
+            "effibriest-d93e8",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "105716",
+        "time": "1685610291730",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "GNk93",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "reenter",
+        "value": "0.0043",
+        "words": "509",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-46c34",
+            "effibriest-48f38",
+            "effibriest-68163",
+            "effibriest-83c83",
+            "effibriest-9c6e0",
+            "effibriest-a5a2f",
+            "effibriest-b3d45",
+            "effibriest-bf586",
+            "effibriest-d87a7",
+            "effibriest-d93e8",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "105717",
+        "time": "1685610296713",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "GNk93",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0043",
+        "words": "509",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-46c34",
+            "effibriest-48f38",
+            "effibriest-68163",
+            "effibriest-83c83",
+            "effibriest-9c6e0",
+            "effibriest-a5a2f",
+            "effibriest-b3d45",
+            "effibriest-bf586",
+            "effibriest-d87a7",
+            "effibriest-d93e8",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "105718",
+        "time": "1685617536346",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "J1BSg",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "reenter",
+        "value": "0.0043",
+        "words": "509",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-46c34",
+            "effibriest-48f38",
+            "effibriest-68163",
+            "effibriest-83c83",
+            "effibriest-9c6e0",
+            "effibriest-a5a2f",
+            "effibriest-b3d45",
+            "effibriest-bf586",
+            "effibriest-d87a7",
+            "effibriest-d93e8",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "105719",
+        "time": "1685617538343",
+        "appid": "bb986b7021679afd329484505a9abb55",
+        "session": "J1BSg",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0043",
+        "words": "509",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-46c34",
+            "effibriest-48f38",
+            "effibriest-68163",
+            "effibriest-83c83",
+            "effibriest-9c6e0",
+            "effibriest-a5a2f",
+            "effibriest-b3d45",
+            "effibriest-bf586",
+            "effibriest-d87a7",
+            "effibriest-d93e8",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "105720",
+        "time": "1685623004689",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105721",
+        "time": "1685623004703",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105722",
+        "time": "1685623005972",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0011",
+        "words": "36",
+        "elementids": [
+            "antonreiser-0f372",
+            "antonreiser-30e0d",
+            "antonreiser-74984",
+            "antonreiser-ccdd9",
+            "antonreiser-d50bc",
+            "antonreiser-df8dd",
+            "antonreiser-f56bc",
+            "antonreiser-f90d5"
+        ]
+    },
+    {
+        "id": "105723",
+        "time": "1685623076154",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105724",
+        "time": "1685623121549",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0011",
+        "words": "36",
+        "elementids": [
+            "antonreiser-0f372",
+            "antonreiser-30e0d",
+            "antonreiser-74984",
+            "antonreiser-ccdd9",
+            "antonreiser-d50bc",
+            "antonreiser-df8dd",
+            "antonreiser-f56bc",
+            "antonreiser-f90d5"
+        ]
+    },
+    {
+        "id": "105725",
+        "time": "1685623134826",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105726",
+        "time": "1685623146401",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "reader_antonreiser",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0011",
+        "words": "36",
+        "elementids": [
+            "antonreiser-0f372",
+            "antonreiser-30e0d",
+            "antonreiser-74984",
+            "antonreiser-ccdd9",
+            "antonreiser-d50bc",
+            "antonreiser-df8dd",
+            "antonreiser-f56bc",
+            "antonreiser-f90d5"
+        ]
+    },
+    {
+        "id": "105727",
+        "time": "1685623159790",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "ueber-textauswahl",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105728",
+        "time": "1685623178410",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105729",
+        "time": "1685623195281",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105730",
+        "time": "1685623330678",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "titelblatt_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105731",
+        "time": "1685623334418",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105732",
+        "time": "1685623342683",
+        "appid": "b4aa11665c55f38597a996e5d3dafb14",
+        "session": "4Pl2o",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105733",
+        "time": "1685632923222",
+        "appid": "5b7274248bc6314c6b6788f15665864f",
+        "session": "3XaxR",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "105734",
+        "time": "1685646904108",
+        "appid": "c3d552cabcc09264c171b3049cca5ae6",
+        "session": "WEgFH",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
