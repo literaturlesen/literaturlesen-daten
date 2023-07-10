@@ -1,0 +1,43 @@
+[
+    {
+        "id": "109028",
+        "time": "1689005245695",
+        "appid": "c0550f944cfaf0be13dad7d797246f1b",
+        "session": "LjpFG",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "109029",
+        "time": "1689005245669",
+        "appid": "c0550f944cfaf0be13dad7d797246f1b",
+        "session": "LjpFG",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "109030",
+        "time": "1689005247077",
+        "appid": "c0550f944cfaf0be13dad7d797246f1b",
+        "session": "LjpFG",
+        "bereich": "reader_antonreiser",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.0546",
+        "words": "85",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1f3b4",
+            "antonreiser-2b1e2",
+            "antonreiser-c1b5f"
+        ]
+    }
+]
