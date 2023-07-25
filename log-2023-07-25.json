@@ -1,0 +1,72 @@
+[
+    {
+        "id": "110076",
+        "time": "1690259074307",
+        "appid": "c393ad892a7bf77414cce6b569a9018e",
+        "session": "tGWgI",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "110077",
+        "time": "1690259074325",
+        "appid": "c393ad892a7bf77414cce6b569a9018e",
+        "session": "tGWgI",
+        "bereich": "reader_hiob",
+        "item": "",
+        "action": "enter",
+        "value": "hiob",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "110078",
+        "time": "1690259075590",
+        "appid": "c393ad892a7bf77414cce6b569a9018e",
+        "session": "tGWgI",
+        "bereich": "reader_hiob",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "107",
+        "elementids": [
+            "hiob-06788",
+            "hiob-0d80d",
+            "hiob-3649d",
+            "hiob-5ea57",
+            "hiob-6dd7a",
+            "hiob-9bedc",
+            "hiob-a9eb2",
+            "hiob-bc25f",
+            "hiob-d4ca4",
+            "hiob-ec237"
+        ]
+    },
+    {
+        "id": "110079",
+        "time": "1690259079212",
+        "appid": "c393ad892a7bf77414cce6b569a9018e",
+        "session": "tGWgI",
+        "bereich": "reader_hiob",
+        "item": "page4",
+        "action": "leave",
+        "value": "0.006",
+        "words": "107",
+        "elementids": [
+            "hiob-06788",
+            "hiob-0d80d",
+            "hiob-3649d",
+            "hiob-5ea57",
+            "hiob-6dd7a",
+            "hiob-9bedc",
+            "hiob-a9eb2",
+            "hiob-bc25f",
+            "hiob-d4ca4",
+            "hiob-ec237"
+        ]
+    }
+]
