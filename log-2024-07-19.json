@@ -1,0 +1,88 @@
+[
+    {
+        "id": "150058",
+        "time": "1721351846881",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "I3zLX",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150059",
+        "time": "1721351846939",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "I3zLX",
+        "bereich": "reader_buntesteine",
+        "item": "",
+        "action": "enter",
+        "value": "buntesteine",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150060",
+        "time": "1721385093717",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "GuoLp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150061",
+        "time": "1721385093731",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "GuoLp",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150062",
+        "time": "1721385094578",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "GuoLp",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0153",
+        "words": "119",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-96ecc"
+        ]
+    },
+    {
+        "id": "150063",
+        "time": "1721385106616",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "GuoLp",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page5",
+        "action": "leave",
+        "value": "0.0123",
+        "words": "119",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-96ecc"
+        ]
+    }
+]
