@@ -1,0 +1,143 @@
+[
+    {
+        "id": "150064",
+        "time": "1721503125257",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150065",
+        "time": "1721503125221",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150066",
+        "time": "1721503126049",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0458",
+        "words": "96",
+        "elementids": [
+            "woyzeck-30255",
+            "woyzeck-3b0b8",
+            "woyzeck-5678b",
+            "woyzeck-63667",
+            "woyzeck-d8d38",
+            "woyzeck-dd15e"
+        ]
+    },
+    {
+        "id": "150067",
+        "time": "1721503128291",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0382",
+        "words": "82",
+        "elementids": [
+            "woyzeck-186d7",
+            "woyzeck-88737",
+            "woyzeck-8ac53",
+            "woyzeck-8f409",
+            "woyzeck-f0d67",
+            "woyzeck-f14ba"
+        ]
+    },
+    {
+        "id": "150068",
+        "time": "1721503133082",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150069",
+        "time": "1721503136181",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150070",
+        "time": "1721503138784",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150071",
+        "time": "1721503175472",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150072",
+        "time": "1721503179551",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "150073",
+        "time": "1721503179593",
+        "appid": "8fec8f1eb59682a45e6601fc136282ed",
+        "session": "lf6jG",
+        "bereich": "reader_woyzeck",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0382",
+        "words": "82",
+        "elementids": [
+            "woyzeck-186d7",
+            "woyzeck-88737",
+            "woyzeck-8ac53",
+            "woyzeck-8f409",
+            "woyzeck-f0d67",
+            "woyzeck-f14ba"
+        ]
+    }
+]
