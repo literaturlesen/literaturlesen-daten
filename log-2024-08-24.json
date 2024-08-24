@@ -1,0 +1,464 @@
+[
+    {
+        "id": "152930",
+        "time": "1724515992094",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152931",
+        "time": "1724515992112",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152932",
+        "time": "1724515993346",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_derprozess",
+        "item": "page237",
+        "action": "enter",
+        "value": "0.3212",
+        "words": "87",
+        "elementids": [
+            "derprozess-05982",
+            "derprozess-11efd",
+            "derprozess-4ab32",
+            "derprozess-50cdb",
+            "derprozess-6a200",
+            "derprozess-9198a",
+            "derprozess-e8cc5"
+        ]
+    },
+    {
+        "id": "152933",
+        "time": "1724515998130",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152934",
+        "time": "1724516000986",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152935",
+        "time": "1724516009741",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "titelblatt_doncarlos",
+        "item": "",
+        "action": "enter",
+        "value": "doncarlos",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152936",
+        "time": "1724516013063",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152937",
+        "time": "1724516021510",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "titelblatt_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152938",
+        "time": "1724516026976",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152939",
+        "time": "1724516033733",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.017",
+        "words": "91",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856",
+            "briefandenvater-67bc7"
+        ]
+    },
+    {
+        "id": "152940",
+        "time": "1724516034955",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152941",
+        "time": "1724516035867",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "95",
+        "elementids": [
+            "briefandenvater-064d2",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "152942",
+        "time": "1724516036418",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0284",
+        "words": "94",
+        "elementids": [
+            "briefandenvater-022cc",
+            "briefandenvater-064d2",
+            "briefandenvater-ad6c2",
+            "briefandenvater-b3d0c"
+        ]
+    },
+    {
+        "id": "152943",
+        "time": "1724516036735",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0341",
+        "words": "102",
+        "elementids": [
+            "briefandenvater-0440e",
+            "briefandenvater-0d43b",
+            "briefandenvater-2c8cb",
+            "briefandenvater-90f59",
+            "briefandenvater-b3d0c"
+        ]
+    },
+    {
+        "id": "152944",
+        "time": "1724516037133",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0398",
+        "words": "101",
+        "elementids": [
+            "briefandenvater-0d43b",
+            "briefandenvater-752d4",
+            "briefandenvater-94f75",
+            "briefandenvater-b5143",
+            "briefandenvater-c0f97"
+        ]
+    },
+    {
+        "id": "152945",
+        "time": "1724516037553",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0455",
+        "words": "87",
+        "elementids": [
+            "briefandenvater-0d640",
+            "briefandenvater-27d59",
+            "briefandenvater-a1924",
+            "briefandenvater-c0f97",
+            "briefandenvater-f5f44"
+        ]
+    },
+    {
+        "id": "152946",
+        "time": "1724516038021",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0511",
+        "words": "93",
+        "elementids": [
+            "briefandenvater-18f09",
+            "briefandenvater-4d1d4",
+            "briefandenvater-75628",
+            "briefandenvater-f5f44"
+        ]
+    },
+    {
+        "id": "152947",
+        "time": "1724516038372",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0568",
+        "words": "75",
+        "elementids": [
+            "briefandenvater-0e157",
+            "briefandenvater-10306",
+            "briefandenvater-4d1d4",
+            "briefandenvater-53898",
+            "briefandenvater-b96d8"
+        ]
+    },
+    {
+        "id": "152948",
+        "time": "1724516038887",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0511",
+        "words": "93",
+        "elementids": [
+            "briefandenvater-18f09",
+            "briefandenvater-4d1d4",
+            "briefandenvater-75628",
+            "briefandenvater-f5f44"
+        ]
+    },
+    {
+        "id": "152949",
+        "time": "1724516039223",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0455",
+        "words": "87",
+        "elementids": [
+            "briefandenvater-0d640",
+            "briefandenvater-27d59",
+            "briefandenvater-a1924",
+            "briefandenvater-c0f97",
+            "briefandenvater-f5f44"
+        ]
+    },
+    {
+        "id": "152950",
+        "time": "1724516039589",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0398",
+        "words": "101",
+        "elementids": [
+            "briefandenvater-0d43b",
+            "briefandenvater-752d4",
+            "briefandenvater-94f75",
+            "briefandenvater-b5143",
+            "briefandenvater-c0f97"
+        ]
+    },
+    {
+        "id": "152951",
+        "time": "1724516039941",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0341",
+        "words": "102",
+        "elementids": [
+            "briefandenvater-0440e",
+            "briefandenvater-0d43b",
+            "briefandenvater-2c8cb",
+            "briefandenvater-90f59",
+            "briefandenvater-b3d0c"
+        ]
+    },
+    {
+        "id": "152952",
+        "time": "1724516040325",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0284",
+        "words": "94",
+        "elementids": [
+            "briefandenvater-022cc",
+            "briefandenvater-064d2",
+            "briefandenvater-ad6c2",
+            "briefandenvater-b3d0c"
+        ]
+    },
+    {
+        "id": "152953",
+        "time": "1724516041563",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0227",
+        "words": "95",
+        "elementids": [
+            "briefandenvater-064d2",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "152954",
+        "time": "1724516042346",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.017",
+        "words": "91",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856",
+            "briefandenvater-67bc7"
+        ]
+    },
+    {
+        "id": "152955",
+        "time": "1724516042896",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0114",
+        "words": "95",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "152956",
+        "time": "1724516050453",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "DuXNr",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0057",
+        "words": "95",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "152957",
+        "time": "1724516055150",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "MVBPv",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "reenter",
+        "value": "0.0057",
+        "words": "95",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "152958",
+        "time": "1724516058428",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "MVBPv",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "152959",
+        "time": "1724516060579",
+        "appid": "2f19490f873000a0047a54fd3774c5c9",
+        "session": "MVBPv",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
