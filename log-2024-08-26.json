@@ -1,0 +1,264 @@
+[
+    {
+        "id": "153015",
+        "time": "1724628264366",
+        "appid": "f4afe550e40393db203945b7a8e49432",
+        "session": "nyYpq",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153016",
+        "time": "1724628268207",
+        "appid": "f4afe550e40393db203945b7a8e49432",
+        "session": "nyYpq",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153017",
+        "time": "1724654993182",
+        "appid": "13a9fbeb64e3c9ea805e1bbadd73720f",
+        "session": "GS5OP",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153018",
+        "time": "1724654993238",
+        "appid": "13a9fbeb64e3c9ea805e1bbadd73720f",
+        "session": "GS5OP",
+        "bereich": "reader_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153019",
+        "time": "1724654993898",
+        "appid": "13a9fbeb64e3c9ea805e1bbadd73720f",
+        "session": "GS5OP",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.7917",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1ade7",
+            "dasjahrderseele-1bc4f",
+            "dasjahrderseele-6bfcd",
+            "dasjahrderseele-cfedc-37",
+            "dasjahrderseele-d5df3",
+            "dasjahrderseele-df3f2",
+            "dasjahrderseele-graphic-e7396"
+        ]
+    },
+    {
+        "id": "153020",
+        "time": "1724655027133",
+        "appid": "13a9fbeb64e3c9ea805e1bbadd73720f",
+        "session": "GS5OP",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.7708",
+        "words": "23",
+        "elementids": [
+            "dasjahrderseele-4a37b",
+            "dasjahrderseele-6f38c",
+            "dasjahrderseele-7cc1b",
+            "dasjahrderseele-c7f85",
+            "dasjahrderseele-cfedc-36",
+            "dasjahrderseele-dd772",
+            "dasjahrderseele-graphic-21934"
+        ]
+    },
+    {
+        "id": "153021",
+        "time": "1724696405961",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153022",
+        "time": "1724696405943",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153023",
+        "time": "1724696406821",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0153",
+        "words": "119",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-75a34",
+            "dieleidendesjungenwerthers-96ecc"
+        ]
+    },
+    {
+        "id": "153024",
+        "time": "1724696414780",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0123",
+        "words": "120",
+        "elementids": [
+            "dieleidendesjungenwerthers-01379",
+            "dieleidendesjungenwerthers-4b976",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-96ecc",
+            "dieleidendesjungenwerthers-a7f74",
+            "dieleidendesjungenwerthers-ffd84"
+        ]
+    },
+    {
+        "id": "153025",
+        "time": "1724696417124",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "153026",
+        "time": "1724696417874",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0092",
+        "words": "121",
+        "elementids": [
+            "dieleidendesjungenwerthers-06359",
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-193c9",
+            "dieleidendesjungenwerthers-27dce",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-61fd3",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-82952",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-877c2",
+            "dieleidendesjungenwerthers-ad1a9",
+            "dieleidendesjungenwerthers-b151f",
+            "dieleidendesjungenwerthers-cdfca",
+            "dieleidendesjungenwerthers-f44bb"
+        ]
+    },
+    {
+        "id": "153027",
+        "time": "1724696419037",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0061",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    },
+    {
+        "id": "153028",
+        "time": "1724696422878",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "H5r53",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0031",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    },
+    {
+        "id": "153029",
+        "time": "1724696553868",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "xGct5",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "reenter",
+        "value": "0.0031",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    },
+    {
+        "id": "153030",
+        "time": "1724696555892",
+        "appid": "f7362ad44ebd602a626dbe044d3fcff4",
+        "session": "xGct5",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0031",
+        "words": "87",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    }
+]
