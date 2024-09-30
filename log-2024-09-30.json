@@ -1,0 +1,70 @@
+[
+    {
+        "id": "155080",
+        "time": "1727730621460",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "mVSUP",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155081",
+        "time": "1727730621475",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "mVSUP",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155082",
+        "time": "1727730622240",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "mVSUP",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.009",
+        "words": "124",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-10fd8",
+            "ausdemlebeneinestaugenichts-384d8",
+            "ausdemlebeneinestaugenichts-38f6a",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-481b4",
+            "ausdemlebeneinestaugenichts-673c6",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74",
+            "ausdemlebeneinestaugenichts-f35d2"
+        ]
+    },
+    {
+        "id": "155083",
+        "time": "1727730624763",
+        "appid": "473ae66baafa741981de6e3d2e15aadc",
+        "session": "mVSUP",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0045",
+        "words": "124",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-10fd8",
+            "ausdemlebeneinestaugenichts-384d8",
+            "ausdemlebeneinestaugenichts-38f6a",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-481b4",
+            "ausdemlebeneinestaugenichts-673c6",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74",
+            "ausdemlebeneinestaugenichts-f35d2"
+        ]
+    }
+]
