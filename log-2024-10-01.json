@@ -1,0 +1,102 @@
+[
+    {
+        "id": "155084",
+        "time": "1727816722152",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155085",
+        "time": "1727816722165",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "reader_diejudenbuche",
+        "item": "",
+        "action": "enter",
+        "value": "diejudenbuche",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155086",
+        "time": "1727816722823",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "reader_diejudenbuche",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0577",
+        "words": "97",
+        "elementids": [
+            "diejudenbuche-4b660",
+            "diejudenbuche-e2238",
+            "diejudenbuche-ed76f"
+        ]
+    },
+    {
+        "id": "155087",
+        "time": "1727816732277",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155088",
+        "time": "1727816738067",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155089",
+        "time": "1727816770231",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "titelblatt_sonetteanorpheus",
+        "item": "",
+        "action": "enter",
+        "value": "sonetteanorpheus",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155090",
+        "time": "1727816773069",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "warum-lesen-wir_sonetteanorpheus",
+        "item": "",
+        "action": "enter",
+        "value": "sonetteanorpheus",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155091",
+        "time": "1727816801711",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "omxu0",
+        "bereich": "titelblatt_sonetteanorpheus",
+        "item": "",
+        "action": "enter",
+        "value": "sonetteanorpheus",
+        "words": "0",
+        "elementids": []
+    }
+]
