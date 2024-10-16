@@ -1,0 +1,110 @@
+[
+    {
+        "id": "155974",
+        "time": "1729071457534",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "reader_buntesteine",
+        "item": "",
+        "action": "enter",
+        "value": "buntesteine",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155975",
+        "time": "1729071457491",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155976",
+        "time": "1729071460121",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "reader_buntesteine",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.1076",
+        "words": "105",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-64e7b",
+            "buntesteine-a960e",
+            "buntesteine-d1b97",
+            "buntesteine-d6d20",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    },
+    {
+        "id": "155977",
+        "time": "1729071466388",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "dashboard",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155978",
+        "time": "1729071475997",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "reader_buntesteine",
+        "item": "",
+        "action": "enter",
+        "value": "buntesteine",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "155979",
+        "time": "1729071476089",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "reader_buntesteine",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.1076",
+        "words": "105",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-64e7b",
+            "buntesteine-a960e",
+            "buntesteine-d1b97",
+            "buntesteine-d6d20",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    },
+    {
+        "id": "155980",
+        "time": "1729071478432",
+        "appid": "56aaa61e8fbc84e596c4c08b01baa23a",
+        "session": "cUnf3",
+        "bereich": "reader_buntesteine",
+        "item": "page92",
+        "action": "leave",
+        "value": "0.1064",
+        "words": "105",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-64e7b",
+            "buntesteine-a960e",
+            "buntesteine-d1b97",
+            "buntesteine-d6d20",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    }
+]
