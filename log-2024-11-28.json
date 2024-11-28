@@ -1,0 +1,182 @@
+[
+    {
+        "id": "158581",
+        "time": "1732784333860",
+        "appid": "3f987751dca344a21ed7b8cde5d8a4dd",
+        "session": "Eg2cd",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158582",
+        "time": "1732784351089",
+        "appid": "3f987751dca344a21ed7b8cde5d8a4dd",
+        "session": "gZYci",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158583",
+        "time": "1732784358245",
+        "appid": "3f987751dca344a21ed7b8cde5d8a4dd",
+        "session": "gZYci",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158584",
+        "time": "1732809075385",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158585",
+        "time": "1732809098626",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158586",
+        "time": "1732809106598",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158587",
+        "time": "1732809113864",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "reader_buntesteine",
+        "item": "",
+        "action": "enter",
+        "value": "buntesteine",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158588",
+        "time": "1732809115328",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "reader_buntesteine",
+        "item": "page156",
+        "action": "enter",
+        "value": "0.1066",
+        "words": "67",
+        "elementids": [
+            "buntesteine-bd23e",
+            "buntesteine-be8b3",
+            "buntesteine-f25bd"
+        ]
+    },
+    {
+        "id": "158589",
+        "time": "1732809115590",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "reader_buntesteine",
+        "item": "page157",
+        "action": "enter",
+        "value": "0.1073",
+        "words": "72",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-bd23e",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    },
+    {
+        "id": "158590",
+        "time": "1732809127028",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "reader_buntesteine",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158591",
+        "time": "1732809149672",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "p7gcg",
+        "bereich": "reader_buntesteine",
+        "item": "page158",
+        "action": "leave",
+        "value": "0.1066",
+        "words": "72",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-bd23e",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    },
+    {
+        "id": "158592",
+        "time": "1732809167730",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "gm8hj",
+        "bereich": "reader_buntesteine",
+        "item": "page158",
+        "action": "reenter",
+        "value": "0.1066",
+        "words": "72",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-bd23e",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    },
+    {
+        "id": "158593",
+        "time": "1732809171737",
+        "appid": "0a2e20d4b6e7f86858e36d233d827ff8",
+        "session": "gm8hj",
+        "bereich": "reader_buntesteine",
+        "item": "page158",
+        "action": "leave",
+        "value": "0.1066",
+        "words": "72",
+        "elementids": [
+            "buntesteine-2dfbd",
+            "buntesteine-bd23e",
+            "buntesteine-d832b",
+            "buntesteine-e786b"
+        ]
+    }
+]
