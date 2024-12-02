@@ -1,0 +1,56 @@
+[
+    {
+        "id": "158707",
+        "time": "1733094412586",
+        "appid": "b4ed1bd36b910b79d0677ed392b5b200",
+        "session": "dsMKo",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158708",
+        "time": "1733147074689",
+        "appid": "0585a98170b317b480c3f83b4c7b4e24",
+        "session": "fWEVr",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158709",
+        "time": "1733147074678",
+        "appid": "0585a98170b317b480c3f83b4c7b4e24",
+        "session": "fWEVr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "158710",
+        "time": "1733147075977",
+        "appid": "0585a98170b317b480c3f83b4c7b4e24",
+        "session": "fWEVr",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0127",
+        "words": "101",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    }
+]
