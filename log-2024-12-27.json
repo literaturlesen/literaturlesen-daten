@@ -1,0 +1,173 @@
+[
+    {
+        "id": "160421",
+        "time": "1735265947450",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "160422",
+        "time": "1735265947466",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "160423",
+        "time": "1735265948933",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0176",
+        "words": "98",
+        "elementids": [
+            "antonreiser-3ea71",
+            "antonreiser-b30f5",
+            "antonreiser-c4f69",
+            "antonreiser-f695c"
+        ]
+    },
+    {
+        "id": "160424",
+        "time": "1735265978319",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0168",
+        "words": "98",
+        "elementids": [
+            "antonreiser-1e3bc",
+            "antonreiser-3ea71",
+            "antonreiser-c6a3a"
+        ]
+    },
+    {
+        "id": "160425",
+        "time": "1735265981782",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "160426",
+        "time": "1735265984581",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0176",
+        "words": "98",
+        "elementids": [
+            "antonreiser-3ea71",
+            "antonreiser-b30f5",
+            "antonreiser-c4f69",
+            "antonreiser-f695c"
+        ]
+    },
+    {
+        "id": "160427",
+        "time": "1735265985050",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0168",
+        "words": "98",
+        "elementids": [
+            "antonreiser-1e3bc",
+            "antonreiser-3ea71",
+            "antonreiser-c6a3a"
+        ]
+    },
+    {
+        "id": "160428",
+        "time": "1735266013249",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0176",
+        "words": "98",
+        "elementids": [
+            "antonreiser-3ea71",
+            "antonreiser-b30f5",
+            "antonreiser-c4f69",
+            "antonreiser-f695c"
+        ]
+    },
+    {
+        "id": "160429",
+        "time": "1735266050190",
+        "appid": "d825e27897fceb5bb7cb7731f6fb516f",
+        "session": "Yfasa",
+        "bereich": "reader_antonreiser",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0183",
+        "words": "94",
+        "elementids": [
+            "antonreiser-6fd37",
+            "antonreiser-c4f69",
+            "antonreiser-feebd"
+        ]
+    },
+    {
+        "id": "160430",
+        "time": "1735287548061",
+        "appid": "fc1b310a5dde1315b4a33597649a9ef3",
+        "session": "VLIuR",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "160431",
+        "time": "1735287554520",
+        "appid": "fc1b310a5dde1315b4a33597649a9ef3",
+        "session": "VLIuR",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "160432",
+        "time": "1735287560367",
+        "appid": "fc1b310a5dde1315b4a33597649a9ef3",
+        "session": "VLIuR",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
