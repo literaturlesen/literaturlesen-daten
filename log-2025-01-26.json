@@ -1,0 +1,74 @@
+[
+    {
+        "id": "163489",
+        "time": "1737874339611",
+        "appid": "e22b94933073359e93ddd38fceeaaf43",
+        "session": "ceYBN",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "163490",
+        "time": "1737892005056",
+        "appid": "b548ab3281358267a45cc50ab1ff45b3",
+        "session": "C1ljU",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "163491",
+        "time": "1737892005069",
+        "appid": "b548ab3281358267a45cc50ab1ff45b3",
+        "session": "C1ljU",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "",
+        "action": "enter",
+        "value": "desknabenwunderhorn",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "163492",
+        "time": "1737892006884",
+        "appid": "b548ab3281358267a45cc50ab1ff45b3",
+        "session": "C1ljU",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0015",
+        "words": "165",
+        "elementids": [
+            "desknabenwunderhorn-38723",
+            "desknabenwunderhorn-3fd32",
+            "desknabenwunderhorn-c2a02",
+            "desknabenwunderhorn-c9c51",
+            "desknabenwunderhorn-e6e96"
+        ]
+    },
+    {
+        "id": "163493",
+        "time": "1737892010206",
+        "appid": "b548ab3281358267a45cc50ab1ff45b3",
+        "session": "C1ljU",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.001",
+        "words": "165",
+        "elementids": [
+            "desknabenwunderhorn-38723",
+            "desknabenwunderhorn-3fd32",
+            "desknabenwunderhorn-c2a02",
+            "desknabenwunderhorn-c9c51",
+            "desknabenwunderhorn-e6e96"
+        ]
+    }
+]
