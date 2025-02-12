@@ -1,0 +1,73 @@
+[
+    {
+        "id": "164996",
+        "time": "1739385174066",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "obmpX",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "164997",
+        "time": "1739385174074",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "obmpX",
+        "bereich": "reader_meinblauesklavier",
+        "item": "",
+        "action": "enter",
+        "value": "meinblauesklavier",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "164998",
+        "time": "1739385174800",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "obmpX",
+        "bereich": "reader_meinblauesklavier",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.8205",
+        "words": "61",
+        "elementids": [
+            "meinblauesklavier-072eb",
+            "meinblauesklavier-0e3c2",
+            "meinblauesklavier-2ab71",
+            "meinblauesklavier-4c7e4",
+            "meinblauesklavier-5abf7",
+            "meinblauesklavier-5dcb2",
+            "meinblauesklavier-6bbc5",
+            "meinblauesklavier-a05af",
+            "meinblauesklavier-b516c",
+            "meinblauesklavier-fc347"
+        ]
+    },
+    {
+        "id": "164999",
+        "time": "1739397984729",
+        "appid": "98d216e39ea5d8eae048f60f3a72bd80",
+        "session": "VtnZv",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165000",
+        "time": "1739398009420",
+        "appid": "98d216e39ea5d8eae048f60f3a72bd80",
+        "session": "VtnZv",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
