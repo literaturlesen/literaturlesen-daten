@@ -1,0 +1,163 @@
+[
+    {
+        "id": "165630",
+        "time": "1740931003706",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165631",
+        "time": "1740931003715",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_meinblauesklavier",
+        "item": "",
+        "action": "enter",
+        "value": "meinblauesklavier",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165632",
+        "time": "1740931004628",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_meinblauesklavier",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.3",
+        "words": "61",
+        "elementids": [
+            "meinblauesklavier-1a90a",
+            "meinblauesklavier-2a1b4",
+            "meinblauesklavier-48b8a",
+            "meinblauesklavier-611d1",
+            "meinblauesklavier-671c8",
+            "meinblauesklavier-807ed",
+            "meinblauesklavier-878bf",
+            "meinblauesklavier-8cd5d",
+            "meinblauesklavier-bf038",
+            "meinblauesklavier-cab4c",
+            "meinblauesklavier-e1650",
+            "meinblauesklavier-e4d3a",
+            "meinblauesklavier-f7d4b",
+            "meinblauesklavier-ffe60"
+        ]
+    },
+    {
+        "id": "165633",
+        "time": "1740931012575",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165634",
+        "time": "1740931017353",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165635",
+        "time": "1740931068488",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "titelblatt_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165636",
+        "time": "1740931073929",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165637",
+        "time": "1740931075298",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_effibriest",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "100",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-83c83",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "165638",
+        "time": "1740931093637",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "165639",
+        "time": "1740931119135",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "7FAC9",
+        "bereich": "reader_effibriest",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "effibriest-046c9",
+            "effibriest-278d9",
+            "effibriest-38eb7",
+            "effibriest-83c83",
+            "effibriest-e881e",
+            "effibriest-f4aaf"
+        ]
+    },
+    {
+        "id": "165640",
+        "time": "1740951809345",
+        "appid": "e62eb3231bf71f1c822573acff67b5da",
+        "session": "QCC90",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
