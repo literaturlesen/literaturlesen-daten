@@ -1,0 +1,5729 @@
+[
+    {
+        "id": "166884",
+        "time": "1741997554118",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166885",
+        "time": "1741997554154",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "",
+        "action": "enter",
+        "value": "sonetteanorpheus",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166886",
+        "time": "1741997555226",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0901",
+        "words": "57",
+        "elementids": [
+            "sonetteanorpheus-04014",
+            "sonetteanorpheus-09a26",
+            "sonetteanorpheus-23ca4",
+            "sonetteanorpheus-259f9",
+            "sonetteanorpheus-3edb5",
+            "sonetteanorpheus-4e8f4",
+            "sonetteanorpheus-572eb",
+            "sonetteanorpheus-5d55c",
+            "sonetteanorpheus-6faa6",
+            "sonetteanorpheus-8175d",
+            "sonetteanorpheus-91173",
+            "sonetteanorpheus-a382a",
+            "sonetteanorpheus-b17ed",
+            "sonetteanorpheus-cd2df",
+            "sonetteanorpheus-f69b4"
+        ]
+    },
+    {
+        "id": "166887",
+        "time": "1741997569466",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0991",
+        "words": "33",
+        "elementids": [
+            "sonetteanorpheus-0b834",
+            "sonetteanorpheus-1a032",
+            "sonetteanorpheus-21081",
+            "sonetteanorpheus-a4e9f",
+            "sonetteanorpheus-c4da2"
+        ]
+    },
+    {
+        "id": "166888",
+        "time": "1741997570527",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166889",
+        "time": "1741997581056",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.1081",
+        "words": "49",
+        "elementids": [
+            "sonetteanorpheus-1b646",
+            "sonetteanorpheus-208b8",
+            "sonetteanorpheus-24329",
+            "sonetteanorpheus-31c5f",
+            "sonetteanorpheus-7a592",
+            "sonetteanorpheus-83dcd",
+            "sonetteanorpheus-8f85b",
+            "sonetteanorpheus-90fe2",
+            "sonetteanorpheus-b0dab",
+            "sonetteanorpheus-bf738",
+            "sonetteanorpheus-d714c"
+        ]
+    },
+    {
+        "id": "166890",
+        "time": "1741997583158",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.1171",
+        "words": "32",
+        "elementids": [
+            "sonetteanorpheus-02a95",
+            "sonetteanorpheus-0f1b0",
+            "sonetteanorpheus-6b693",
+            "sonetteanorpheus-dcc0f",
+            "sonetteanorpheus-ff2b6"
+        ]
+    },
+    {
+        "id": "166891",
+        "time": "1741997583291",
+        "appid": "4254304e4f9ffa205a13a8e0c775b87f",
+        "session": "IHGMD",
+        "bereich": "reader_sonetteanorpheus",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.1081",
+        "words": "49",
+        "elementids": [
+            "sonetteanorpheus-1b646",
+            "sonetteanorpheus-208b8",
+            "sonetteanorpheus-24329",
+            "sonetteanorpheus-31c5f",
+            "sonetteanorpheus-7a592",
+            "sonetteanorpheus-83dcd",
+            "sonetteanorpheus-8f85b",
+            "sonetteanorpheus-90fe2",
+            "sonetteanorpheus-b0dab",
+            "sonetteanorpheus-bf738",
+            "sonetteanorpheus-d714c"
+        ]
+    },
+    {
+        "id": "166892",
+        "time": "1742017810526",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166893",
+        "time": "1742017810538",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166894",
+        "time": "1742017811209",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.2099",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1667f",
+            "dieverwandlung-a487a",
+            "dieverwandlung-b5a36",
+            "dieverwandlung-cbb1d",
+            "dieverwandlung-e641a"
+        ]
+    },
+    {
+        "id": "166895",
+        "time": "1742017813098",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.2044",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-5b7ca",
+            "dieverwandlung-64718",
+            "dieverwandlung-8b48c",
+            "dieverwandlung-9ad6c",
+            "dieverwandlung-b762e",
+            "dieverwandlung-c2394",
+            "dieverwandlung-e641a",
+            "dieverwandlung-f1645"
+        ]
+    },
+    {
+        "id": "166896",
+        "time": "1742017817283",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166897",
+        "time": "1742017832203",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.1989",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-01e8a",
+            "dieverwandlung-03846",
+            "dieverwandlung-09673",
+            "dieverwandlung-19c63",
+            "dieverwandlung-278a5",
+            "dieverwandlung-3de6b",
+            "dieverwandlung-4803d",
+            "dieverwandlung-58d27",
+            "dieverwandlung-5b88b",
+            "dieverwandlung-66912",
+            "dieverwandlung-7ce44",
+            "dieverwandlung-b762e",
+            "dieverwandlung-bc27e",
+            "dieverwandlung-c0b62",
+            "dieverwandlung-cb972",
+            "dieverwandlung-d83fb",
+            "dieverwandlung-d96e8"
+        ]
+    },
+    {
+        "id": "166898",
+        "time": "1742017842751",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.2044",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-5b7ca",
+            "dieverwandlung-64718",
+            "dieverwandlung-8b48c",
+            "dieverwandlung-9ad6c",
+            "dieverwandlung-b762e",
+            "dieverwandlung-c2394",
+            "dieverwandlung-e641a",
+            "dieverwandlung-f1645"
+        ]
+    },
+    {
+        "id": "166899",
+        "time": "1742017844029",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.1989",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-01e8a",
+            "dieverwandlung-03846",
+            "dieverwandlung-09673",
+            "dieverwandlung-19c63",
+            "dieverwandlung-278a5",
+            "dieverwandlung-3de6b",
+            "dieverwandlung-4803d",
+            "dieverwandlung-58d27",
+            "dieverwandlung-5b88b",
+            "dieverwandlung-66912",
+            "dieverwandlung-7ce44",
+            "dieverwandlung-b762e",
+            "dieverwandlung-bc27e",
+            "dieverwandlung-c0b62",
+            "dieverwandlung-cb972",
+            "dieverwandlung-d83fb",
+            "dieverwandlung-d96e8"
+        ]
+    },
+    {
+        "id": "166900",
+        "time": "1742017848154",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.2044",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-5b7ca",
+            "dieverwandlung-64718",
+            "dieverwandlung-8b48c",
+            "dieverwandlung-9ad6c",
+            "dieverwandlung-b762e",
+            "dieverwandlung-c2394",
+            "dieverwandlung-e641a",
+            "dieverwandlung-f1645"
+        ]
+    },
+    {
+        "id": "166901",
+        "time": "1742017880318",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.2099",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1667f",
+            "dieverwandlung-a487a",
+            "dieverwandlung-b5a36",
+            "dieverwandlung-cbb1d",
+            "dieverwandlung-e641a"
+        ]
+    },
+    {
+        "id": "166902",
+        "time": "1742017907929",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.2155",
+        "words": "117",
+        "elementids": [
+            "dieverwandlung-080e8",
+            "dieverwandlung-25132",
+            "dieverwandlung-28865",
+            "dieverwandlung-b5a36",
+            "dieverwandlung-d5599"
+        ]
+    },
+    {
+        "id": "166903",
+        "time": "1742017943698",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.221",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-02f20",
+            "dieverwandlung-25132",
+            "dieverwandlung-c8056",
+            "dieverwandlung-ec466"
+        ]
+    },
+    {
+        "id": "166904",
+        "time": "1742017979756",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.2265",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-1cdd5",
+            "dieverwandlung-6bee1",
+            "dieverwandlung-84a7c",
+            "dieverwandlung-969e2",
+            "dieverwandlung-d78b8",
+            "dieverwandlung-ec466",
+            "dieverwandlung-fd3aa"
+        ]
+    },
+    {
+        "id": "166905",
+        "time": "1742018016368",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.232",
+        "words": "120",
+        "elementids": [
+            "dieverwandlung-0084c",
+            "dieverwandlung-5064c",
+            "dieverwandlung-84a7c"
+        ]
+    },
+    {
+        "id": "166906",
+        "time": "1742018051194",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.2376",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-19e65",
+            "dieverwandlung-4da84",
+            "dieverwandlung-5064c",
+            "dieverwandlung-902dd"
+        ]
+    },
+    {
+        "id": "166907",
+        "time": "1742018084158",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.2431",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-902dd",
+            "dieverwandlung-9c145",
+            "dieverwandlung-ae851",
+            "dieverwandlung-c2c0a",
+            "dieverwandlung-dea62"
+        ]
+    },
+    {
+        "id": "166908",
+        "time": "1742018118404",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page44",
+        "action": "enter",
+        "value": "0.2486",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-04b80",
+            "dieverwandlung-283ae",
+            "dieverwandlung-2b99a",
+            "dieverwandlung-82761",
+            "dieverwandlung-99cb2",
+            "dieverwandlung-ae851",
+            "dieverwandlung-cdcf6",
+            "dieverwandlung-f6300",
+            "dieverwandlung-f6ba7"
+        ]
+    },
+    {
+        "id": "166909",
+        "time": "1742018149892",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.2541",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-1ef2e",
+            "dieverwandlung-1ffd7",
+            "dieverwandlung-382d9",
+            "dieverwandlung-57dac",
+            "dieverwandlung-6497f",
+            "dieverwandlung-71fa1",
+            "dieverwandlung-a428f",
+            "dieverwandlung-bad0b",
+            "dieverwandlung-cdcf6",
+            "dieverwandlung-d1d20"
+        ]
+    },
+    {
+        "id": "166910",
+        "time": "1742018182788",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.2597",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-0f439",
+            "dieverwandlung-1ffd7"
+        ]
+    },
+    {
+        "id": "166911",
+        "time": "1742018214265",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.2652",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-0f439",
+            "dieverwandlung-560e6",
+            "dieverwandlung-90bc5",
+            "dieverwandlung-a0a0f",
+            "dieverwandlung-b3635",
+            "dieverwandlung-e959a"
+        ]
+    },
+    {
+        "id": "166912",
+        "time": "1742018244617",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.2707",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-4c1b5",
+            "dieverwandlung-67b04",
+            "dieverwandlung-90bc5",
+            "dieverwandlung-b3b0a"
+        ]
+    },
+    {
+        "id": "166913",
+        "time": "1742018272557",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.2762",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-03aef",
+            "dieverwandlung-20a64",
+            "dieverwandlung-67b04",
+            "dieverwandlung-68017",
+            "dieverwandlung-6e0da",
+            "dieverwandlung-d551a",
+            "dieverwandlung-e0844",
+            "dieverwandlung-f5023"
+        ]
+    },
+    {
+        "id": "166914",
+        "time": "1742018304572",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.2818",
+        "words": "90",
+        "elementids": [
+            "dieverwandlung-5b1ad",
+            "dieverwandlung-e0844"
+        ]
+    },
+    {
+        "id": "166915",
+        "time": "1742018332570",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.2873",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-5b1ad",
+            "dieverwandlung-e8881"
+        ]
+    },
+    {
+        "id": "166916",
+        "time": "1742018339624",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "166917",
+        "time": "1742018379777",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page52",
+        "action": "enter",
+        "value": "0.2928",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-350e0",
+            "dieverwandlung-5a1df",
+            "dieverwandlung-82306",
+            "dieverwandlung-93005",
+            "dieverwandlung-de947",
+            "dieverwandlung-e8881"
+        ]
+    },
+    {
+        "id": "166918",
+        "time": "1742018411464",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page53",
+        "action": "enter",
+        "value": "0.2983",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-724dc",
+            "dieverwandlung-de947",
+            "dieverwandlung-ea39d"
+        ]
+    },
+    {
+        "id": "166919",
+        "time": "1742018441707",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page54",
+        "action": "enter",
+        "value": "0.3039",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-0f9b4",
+            "dieverwandlung-30660",
+            "dieverwandlung-4559a",
+            "dieverwandlung-65bdf",
+            "dieverwandlung-724dc",
+            "dieverwandlung-cf74f",
+            "dieverwandlung-d3739",
+            "dieverwandlung-e3269"
+        ]
+    },
+    {
+        "id": "166920",
+        "time": "1742018476713",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.3094",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-33e9c",
+            "dieverwandlung-65bdf",
+            "dieverwandlung-fee63"
+        ]
+    },
+    {
+        "id": "166921",
+        "time": "1742018507481",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page56",
+        "action": "enter",
+        "value": "0.3149",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-185df",
+            "dieverwandlung-232ae",
+            "dieverwandlung-33e9c",
+            "dieverwandlung-5b777",
+            "dieverwandlung-794e1",
+            "dieverwandlung-96648",
+            "dieverwandlung-b6b7e"
+        ]
+    },
+    {
+        "id": "166922",
+        "time": "1742018542980",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page57",
+        "action": "enter",
+        "value": "0.3204",
+        "words": "122",
+        "elementids": [
+            "dieverwandlung-07723",
+            "dieverwandlung-185df",
+            "dieverwandlung-27363",
+            "dieverwandlung-b3865",
+            "dieverwandlung-e4986"
+        ]
+    },
+    {
+        "id": "166923",
+        "time": "1742018579248",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.326",
+        "words": "61",
+        "elementids": [
+            "dieverwandlung-ab8e6",
+            "dieverwandlung-b3865"
+        ]
+    },
+    {
+        "id": "166924",
+        "time": "1742018595139",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.3315",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-6295f",
+            "dieverwandlung-de884",
+            "dieverwandlung-e95dc",
+            "dieverwandlung-fb29a",
+            "dieverwandlung-fcae0"
+        ]
+    },
+    {
+        "id": "166925",
+        "time": "1742018647145",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.337",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-59ac3",
+            "dieverwandlung-94734",
+            "dieverwandlung-98c97",
+            "dieverwandlung-ab152",
+            "dieverwandlung-f1131",
+            "dieverwandlung-fcae0"
+        ]
+    },
+    {
+        "id": "166926",
+        "time": "1742018684069",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page61",
+        "action": "enter",
+        "value": "0.3425",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-2a57e",
+            "dieverwandlung-67f6e",
+            "dieverwandlung-98c97",
+            "dieverwandlung-f15e5"
+        ]
+    },
+    {
+        "id": "166927",
+        "time": "1742018710554",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page62",
+        "action": "enter",
+        "value": "0.3481",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-41cf2",
+            "dieverwandlung-649a8",
+            "dieverwandlung-8e2a0",
+            "dieverwandlung-ad080",
+            "dieverwandlung-f15e5"
+        ]
+    },
+    {
+        "id": "166928",
+        "time": "1742018751148",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page63",
+        "action": "enter",
+        "value": "0.3536",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-29f56",
+            "dieverwandlung-41cf2",
+            "dieverwandlung-80efa",
+            "dieverwandlung-86420",
+            "dieverwandlung-a3eb8"
+        ]
+    },
+    {
+        "id": "166929",
+        "time": "1742018781791",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page64",
+        "action": "enter",
+        "value": "0.3591",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-621a2",
+            "dieverwandlung-7ce16",
+            "dieverwandlung-80efa",
+            "dieverwandlung-a622b"
+        ]
+    },
+    {
+        "id": "166930",
+        "time": "1742018813084",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page65",
+        "action": "enter",
+        "value": "0.3646",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-3e84d",
+            "dieverwandlung-7ce16",
+            "dieverwandlung-da9c1"
+        ]
+    },
+    {
+        "id": "166931",
+        "time": "1742018860458",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.3702",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-0c304",
+            "dieverwandlung-3e84d",
+            "dieverwandlung-8ba93"
+        ]
+    },
+    {
+        "id": "166932",
+        "time": "1742018900696",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.3757",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-0c304",
+            "dieverwandlung-2ffa6",
+            "dieverwandlung-4d291",
+            "dieverwandlung-b3ecb",
+            "dieverwandlung-ff3d4"
+        ]
+    },
+    {
+        "id": "166933",
+        "time": "1742018930078",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page68",
+        "action": "enter",
+        "value": "0.3812",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-070c6",
+            "dieverwandlung-1333a",
+            "dieverwandlung-2c93d",
+            "dieverwandlung-2ffa6",
+            "dieverwandlung-40824",
+            "dieverwandlung-4e5fd",
+            "dieverwandlung-61f1d"
+        ]
+    },
+    {
+        "id": "166934",
+        "time": "1742018962060",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.3867",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-12c8b",
+            "dieverwandlung-4e5fd",
+            "dieverwandlung-94634",
+            "dieverwandlung-9528b",
+            "dieverwandlung-e184a"
+        ]
+    },
+    {
+        "id": "166935",
+        "time": "1742018992758",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.3923",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-840f4",
+            "dieverwandlung-e184a",
+            "dieverwandlung-f5d27"
+        ]
+    },
+    {
+        "id": "166936",
+        "time": "1742019021689",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.3978",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-0d63e",
+            "dieverwandlung-565b6",
+            "dieverwandlung-840f4",
+            "dieverwandlung-d3647",
+            "dieverwandlung-d77b3"
+        ]
+    },
+    {
+        "id": "166937",
+        "time": "1742019058453",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.4033",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-0de14",
+            "dieverwandlung-2369e",
+            "dieverwandlung-565b6",
+            "dieverwandlung-a211b"
+        ]
+    },
+    {
+        "id": "166938",
+        "time": "1742019087698",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.4088",
+        "words": "95",
+        "elementids": [
+            "dieverwandlung-2369e",
+            "dieverwandlung-3510a",
+            "dieverwandlung-82e78"
+        ]
+    },
+    {
+        "id": "166939",
+        "time": "1742019115648",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.4144",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-3510a",
+            "dieverwandlung-35a1f",
+            "dieverwandlung-6a211",
+            "dieverwandlung-bd0b9"
+        ]
+    },
+    {
+        "id": "166940",
+        "time": "1742019143844",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page75",
+        "action": "enter",
+        "value": "0.4199",
+        "words": "120",
+        "elementids": [
+            "dieverwandlung-98fa0",
+            "dieverwandlung-9c277",
+            "dieverwandlung-9c288",
+            "dieverwandlung-bd0b9",
+            "dieverwandlung-cd391"
+        ]
+    },
+    {
+        "id": "166941",
+        "time": "1742019185363",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page76",
+        "action": "enter",
+        "value": "0.4254",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-2a5ef",
+            "dieverwandlung-a8141",
+            "dieverwandlung-cd391"
+        ]
+    },
+    {
+        "id": "166942",
+        "time": "1742019211907",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page77",
+        "action": "enter",
+        "value": "0.4309",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-06a8f",
+            "dieverwandlung-0b1e3",
+            "dieverwandlung-2a5ef",
+            "dieverwandlung-36ea8",
+            "dieverwandlung-3b75f"
+        ]
+    },
+    {
+        "id": "166943",
+        "time": "1742019242500",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page78",
+        "action": "enter",
+        "value": "0.4365",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-06a8f",
+            "dieverwandlung-4e483",
+            "dieverwandlung-543cd",
+            "dieverwandlung-94309",
+            "dieverwandlung-974f0"
+        ]
+    },
+    {
+        "id": "166944",
+        "time": "1742019268003",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.442",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-2a229",
+            "dieverwandlung-4e483",
+            "dieverwandlung-6f673",
+            "dieverwandlung-76397",
+            "dieverwandlung-b4c73"
+        ]
+    },
+    {
+        "id": "166945",
+        "time": "1742019306591",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page80",
+        "action": "enter",
+        "value": "0.4475",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-31515",
+            "dieverwandlung-3462e",
+            "dieverwandlung-76397"
+        ]
+    },
+    {
+        "id": "166946",
+        "time": "1742019340097",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page81",
+        "action": "enter",
+        "value": "0.453",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-312ad",
+            "dieverwandlung-31515",
+            "dieverwandlung-51ab3",
+            "dieverwandlung-a7f0a"
+        ]
+    },
+    {
+        "id": "166947",
+        "time": "1742019370908",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page82",
+        "action": "enter",
+        "value": "0.4586",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-312ad",
+            "dieverwandlung-512a8",
+            "dieverwandlung-e0d37",
+            "dieverwandlung-f431f"
+        ]
+    },
+    {
+        "id": "166948",
+        "time": "1742019404100",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page83",
+        "action": "enter",
+        "value": "0.4641",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-1b901",
+            "dieverwandlung-512a8",
+            "dieverwandlung-c4968",
+            "dieverwandlung-cbef6"
+        ]
+    },
+    {
+        "id": "166949",
+        "time": "1742019433310",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page84",
+        "action": "enter",
+        "value": "0.4696",
+        "words": "117",
+        "elementids": [
+            "dieverwandlung-1b901",
+            "dieverwandlung-31d40",
+            "dieverwandlung-5ac2d",
+            "dieverwandlung-d95b0"
+        ]
+    },
+    {
+        "id": "166950",
+        "time": "1742019465387",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page85",
+        "action": "enter",
+        "value": "0.4751",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-31d40",
+            "dieverwandlung-321fa",
+            "dieverwandlung-71482"
+        ]
+    },
+    {
+        "id": "166951",
+        "time": "1742019493716",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page86",
+        "action": "enter",
+        "value": "0.4807",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-01a55",
+            "dieverwandlung-321fa",
+            "dieverwandlung-509c0",
+            "dieverwandlung-5176f",
+            "dieverwandlung-a877f"
+        ]
+    },
+    {
+        "id": "166952",
+        "time": "1742019526063",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page87",
+        "action": "enter",
+        "value": "0.4862",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-15658",
+            "dieverwandlung-5176f",
+            "dieverwandlung-81e6e"
+        ]
+    },
+    {
+        "id": "166953",
+        "time": "1742019564426",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page88",
+        "action": "enter",
+        "value": "0.4917",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-0ac87",
+            "dieverwandlung-15658",
+            "dieverwandlung-65086",
+            "dieverwandlung-70131",
+            "dieverwandlung-efdd3"
+        ]
+    },
+    {
+        "id": "166954",
+        "time": "1742019598272",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page89",
+        "action": "enter",
+        "value": "0.4972",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-0c7b8",
+            "dieverwandlung-4c2ce",
+            "dieverwandlung-65086",
+            "dieverwandlung-68f54"
+        ]
+    },
+    {
+        "id": "166955",
+        "time": "1742019630729",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page90",
+        "action": "enter",
+        "value": "0.5028",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-68f54",
+            "dieverwandlung-90291",
+            "dieverwandlung-ee5c4"
+        ]
+    },
+    {
+        "id": "166956",
+        "time": "1742019668862",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.5083",
+        "words": "123",
+        "elementids": [
+            "dieverwandlung-5addb",
+            "dieverwandlung-850bb",
+            "dieverwandlung-ee5c4"
+        ]
+    },
+    {
+        "id": "166957",
+        "time": "1742019707610",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page92",
+        "action": "enter",
+        "value": "0.5138",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-18a78",
+            "dieverwandlung-1e3e9",
+            "dieverwandlung-850bb"
+        ]
+    },
+    {
+        "id": "166958",
+        "time": "1742019742330",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page93",
+        "action": "enter",
+        "value": "0.5193",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-129de",
+            "dieverwandlung-18a78",
+            "dieverwandlung-c8ee0",
+            "dieverwandlung-d6d5d",
+            "dieverwandlung-d6d8f"
+        ]
+    },
+    {
+        "id": "166959",
+        "time": "1742019769816",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page94",
+        "action": "enter",
+        "value": "0.5249",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-45e42",
+            "dieverwandlung-d47f1",
+            "dieverwandlung-d6d8f",
+            "dieverwandlung-fd857"
+        ]
+    },
+    {
+        "id": "166960",
+        "time": "1742019798928",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page95",
+        "action": "enter",
+        "value": "0.5304",
+        "words": "120",
+        "elementids": [
+            "dieverwandlung-1771e",
+            "dieverwandlung-4fbd0",
+            "dieverwandlung-fd857"
+        ]
+    },
+    {
+        "id": "166961",
+        "time": "1742019835391",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page96",
+        "action": "enter",
+        "value": "0.5359",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-1771e",
+            "dieverwandlung-52650",
+            "dieverwandlung-61b26"
+        ]
+    },
+    {
+        "id": "166962",
+        "time": "1742019868801",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page97",
+        "action": "enter",
+        "value": "0.5414",
+        "words": "119",
+        "elementids": [
+            "dieverwandlung-61b26",
+            "dieverwandlung-641ef",
+            "dieverwandlung-8b917",
+            "dieverwandlung-9cbd6",
+            "dieverwandlung-b4538",
+            "dieverwandlung-cdefe",
+            "dieverwandlung-cf688"
+        ]
+    },
+    {
+        "id": "166963",
+        "time": "1742019900730",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page98",
+        "action": "enter",
+        "value": "0.547",
+        "words": "118",
+        "elementids": [
+            "dieverwandlung-076fb",
+            "dieverwandlung-8b917",
+            "dieverwandlung-b3391",
+            "dieverwandlung-f8584"
+        ]
+    },
+    {
+        "id": "166964",
+        "time": "1742019933699",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page99",
+        "action": "enter",
+        "value": "0.5525",
+        "words": "120",
+        "elementids": [
+            "dieverwandlung-a73ce",
+            "dieverwandlung-cec2d",
+            "dieverwandlung-f8584"
+        ]
+    },
+    {
+        "id": "166965",
+        "time": "1742019962341",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page100",
+        "action": "enter",
+        "value": "0.558",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-341d2",
+            "dieverwandlung-7bf68",
+            "dieverwandlung-a66c5",
+            "dieverwandlung-cec2d"
+        ]
+    },
+    {
+        "id": "166966",
+        "time": "1742019996003",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page101",
+        "action": "enter",
+        "value": "0.5635",
+        "words": "93",
+        "elementids": [
+            "dieverwandlung-341d2",
+            "dieverwandlung-90bd1",
+            "dieverwandlung-cdbf3",
+            "dieverwandlung-f8848"
+        ]
+    },
+    {
+        "id": "166967",
+        "time": "1742020023811",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page102",
+        "action": "enter",
+        "value": "0.5691",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-45dce",
+            "dieverwandlung-90bd1",
+            "dieverwandlung-fc803"
+        ]
+    },
+    {
+        "id": "166968",
+        "time": "1742020052093",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page103",
+        "action": "enter",
+        "value": "0.5746",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-3169d",
+            "dieverwandlung-45dce",
+            "dieverwandlung-c7419"
+        ]
+    },
+    {
+        "id": "166969",
+        "time": "1742020080088",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page104",
+        "action": "enter",
+        "value": "0.5801",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-16776",
+            "dieverwandlung-8a2d1",
+            "dieverwandlung-9734f",
+            "dieverwandlung-a19d3",
+            "dieverwandlung-c7419",
+            "dieverwandlung-e35b2"
+        ]
+    },
+    {
+        "id": "166970",
+        "time": "1742020112165",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page105",
+        "action": "enter",
+        "value": "0.5856",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-9734f",
+            "dieverwandlung-9e6e0",
+            "dieverwandlung-baa7c",
+            "dieverwandlung-d7ebf"
+        ]
+    },
+    {
+        "id": "166971",
+        "time": "1742020141006",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page106",
+        "action": "enter",
+        "value": "0.5912",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-55560",
+            "dieverwandlung-d7ebf",
+            "dieverwandlung-e2f28"
+        ]
+    },
+    {
+        "id": "166972",
+        "time": "1742020177257",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page107",
+        "action": "enter",
+        "value": "0.5967",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-17268",
+            "dieverwandlung-55560",
+            "dieverwandlung-792dd",
+            "dieverwandlung-cae91",
+            "dieverwandlung-d5b96"
+        ]
+    },
+    {
+        "id": "166973",
+        "time": "1742020206623",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page108",
+        "action": "enter",
+        "value": "0.6022",
+        "words": "119",
+        "elementids": [
+            "dieverwandlung-356a5",
+            "dieverwandlung-6f7cf",
+            "dieverwandlung-a4a3d",
+            "dieverwandlung-adacf",
+            "dieverwandlung-b2122",
+            "dieverwandlung-b2678",
+            "dieverwandlung-d5b96",
+            "dieverwandlung-ee56b",
+            "dieverwandlung-f247f"
+        ]
+    },
+    {
+        "id": "166974",
+        "time": "1742020241081",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page109",
+        "action": "enter",
+        "value": "0.6077",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-5770a",
+            "dieverwandlung-895e1",
+            "dieverwandlung-96ebe",
+            "dieverwandlung-c5528",
+            "dieverwandlung-d919f",
+            "dieverwandlung-dc417"
+        ]
+    },
+    {
+        "id": "166975",
+        "time": "1742020274725",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page110",
+        "action": "enter",
+        "value": "0.6133",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-54357",
+            "dieverwandlung-c5528"
+        ]
+    },
+    {
+        "id": "166976",
+        "time": "1742020307818",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page111",
+        "action": "enter",
+        "value": "0.6188",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-54357",
+            "dieverwandlung-65722",
+            "dieverwandlung-6c256",
+            "dieverwandlung-73302",
+            "dieverwandlung-b2bd7",
+            "dieverwandlung-c1ab2",
+            "dieverwandlung-e65ff"
+        ]
+    },
+    {
+        "id": "166977",
+        "time": "1742020337729",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page112",
+        "action": "enter",
+        "value": "0.6243",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-30d3e",
+            "dieverwandlung-5b917",
+            "dieverwandlung-67589",
+            "dieverwandlung-67cd1",
+            "dieverwandlung-6c256",
+            "dieverwandlung-82ce2",
+            "dieverwandlung-9d2bc",
+            "dieverwandlung-af51c"
+        ]
+    },
+    {
+        "id": "166978",
+        "time": "1742020371779",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page113",
+        "action": "enter",
+        "value": "0.6298",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-30d3e",
+            "dieverwandlung-64230",
+            "dieverwandlung-686c9",
+            "dieverwandlung-988d6",
+            "dieverwandlung-c2d58"
+        ]
+    },
+    {
+        "id": "166979",
+        "time": "1742020399016",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page114",
+        "action": "enter",
+        "value": "0.6354",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-1d865",
+            "dieverwandlung-457ca",
+            "dieverwandlung-5d72b",
+            "dieverwandlung-c2d58"
+        ]
+    },
+    {
+        "id": "166980",
+        "time": "1742020430120",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page115",
+        "action": "enter",
+        "value": "0.6409",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-1d865",
+            "dieverwandlung-61ac5"
+        ]
+    },
+    {
+        "id": "166981",
+        "time": "1742020461239",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page116",
+        "action": "enter",
+        "value": "0.6464",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-106df",
+            "dieverwandlung-17418",
+            "dieverwandlung-35f60",
+            "dieverwandlung-61ac5",
+            "dieverwandlung-b290e"
+        ]
+    },
+    {
+        "id": "166982",
+        "time": "1742020493073",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page117",
+        "action": "enter",
+        "value": "0.6519",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-6540b",
+            "dieverwandlung-b290e",
+            "dieverwandlung-eaa49",
+            "dieverwandlung-ee0d7",
+            "dieverwandlung-f9746"
+        ]
+    },
+    {
+        "id": "166983",
+        "time": "1742020525277",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page118",
+        "action": "enter",
+        "value": "0.6575",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-16f6c",
+            "dieverwandlung-6b0c1",
+            "dieverwandlung-b1aec",
+            "dieverwandlung-c6ec1",
+            "dieverwandlung-f9746"
+        ]
+    },
+    {
+        "id": "166984",
+        "time": "1742020556755",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page119",
+        "action": "enter",
+        "value": "0.663",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-6b0c1",
+            "dieverwandlung-6c13f",
+            "dieverwandlung-9a744",
+            "dieverwandlung-c6cd6",
+            "dieverwandlung-fb9a8"
+        ]
+    },
+    {
+        "id": "166985",
+        "time": "1742020594393",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page120",
+        "action": "enter",
+        "value": "0.6685",
+        "words": "77",
+        "elementids": [
+            "dieverwandlung-9a744"
+        ]
+    },
+    {
+        "id": "166986",
+        "time": "1742020619961",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page121",
+        "action": "enter",
+        "value": "0.674",
+        "words": "91",
+        "elementids": [
+            "dieverwandlung-36d06",
+            "dieverwandlung-54119",
+            "dieverwandlung-abde5"
+        ]
+    },
+    {
+        "id": "166987",
+        "time": "1742020624280",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page122",
+        "action": "enter",
+        "value": "0.6796",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-36d06"
+        ]
+    },
+    {
+        "id": "166988",
+        "time": "1742020624634",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page123",
+        "action": "enter",
+        "value": "0.6851",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-74cd7",
+            "dieverwandlung-f4108",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "166989",
+        "time": "1742020624952",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page124",
+        "action": "enter",
+        "value": "0.6906",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-56f06",
+            "dieverwandlung-ecab5",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "166990",
+        "time": "1742020625283",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page125",
+        "action": "enter",
+        "value": "0.6961",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a8f6",
+            "dieverwandlung-aab31",
+            "dieverwandlung-c9159"
+        ]
+    },
+    {
+        "id": "166991",
+        "time": "1742020625634",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page126",
+        "action": "enter",
+        "value": "0.7017",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a271",
+            "dieverwandlung-4bb79",
+            "dieverwandlung-704d9",
+            "dieverwandlung-b39fc"
+        ]
+    },
+    {
+        "id": "166992",
+        "time": "1742020625967",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page127",
+        "action": "enter",
+        "value": "0.7072",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-32ca3",
+            "dieverwandlung-c5583",
+            "dieverwandlung-f2c9a"
+        ]
+    },
+    {
+        "id": "166993",
+        "time": "1742020626334",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page128",
+        "action": "enter",
+        "value": "0.7127",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-32ca3",
+            "dieverwandlung-4fa02",
+            "dieverwandlung-9831a"
+        ]
+    },
+    {
+        "id": "166994",
+        "time": "1742020626584",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page129",
+        "action": "enter",
+        "value": "0.7182",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-4fa02",
+            "dieverwandlung-8664d",
+            "dieverwandlung-e3834",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "166995",
+        "time": "1742020626898",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page130",
+        "action": "enter",
+        "value": "0.7238",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-67f21",
+            "dieverwandlung-b2ef8",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "166996",
+        "time": "1742020627198",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page131",
+        "action": "enter",
+        "value": "0.7293",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-527d7",
+            "dieverwandlung-b2ef8"
+        ]
+    },
+    {
+        "id": "166997",
+        "time": "1742020627468",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page132",
+        "action": "enter",
+        "value": "0.7348",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-18d5f",
+            "dieverwandlung-51c94",
+            "dieverwandlung-527d7",
+            "dieverwandlung-7325a",
+            "dieverwandlung-ee69f",
+            "dieverwandlung-f394a"
+        ]
+    },
+    {
+        "id": "166998",
+        "time": "1742020627751",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page133",
+        "action": "enter",
+        "value": "0.7403",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-4c82c",
+            "dieverwandlung-7325a",
+            "dieverwandlung-a2a26",
+            "dieverwandlung-b7c0d"
+        ]
+    },
+    {
+        "id": "166999",
+        "time": "1742020628069",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page134",
+        "action": "enter",
+        "value": "0.7459",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-4c82c"
+        ]
+    },
+    {
+        "id": "167000",
+        "time": "1742020628653",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page135",
+        "action": "enter",
+        "value": "0.7514",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-c2411",
+            "dieverwandlung-e5cc4"
+        ]
+    },
+    {
+        "id": "167001",
+        "time": "1742020629003",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.7569",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-1a799",
+            "dieverwandlung-3a765",
+            "dieverwandlung-5c29d",
+            "dieverwandlung-69f93",
+            "dieverwandlung-ea2e6"
+        ]
+    },
+    {
+        "id": "167002",
+        "time": "1742020629554",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page137",
+        "action": "enter",
+        "value": "0.7624",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-20e10",
+            "dieverwandlung-3a765",
+            "dieverwandlung-40d73",
+            "dieverwandlung-47fe7",
+            "dieverwandlung-89535"
+        ]
+    },
+    {
+        "id": "167003",
+        "time": "1742020629888",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page138",
+        "action": "enter",
+        "value": "0.768",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-19dec",
+            "dieverwandlung-20e10",
+            "dieverwandlung-346c3",
+            "dieverwandlung-6dd8f",
+            "dieverwandlung-8bca5",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167004",
+        "time": "1742020630221",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page139",
+        "action": "enter",
+        "value": "0.7735",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-211eb",
+            "dieverwandlung-54de4",
+            "dieverwandlung-572a1",
+            "dieverwandlung-759b3",
+            "dieverwandlung-8abfc",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167005",
+        "time": "1742020630555",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page140",
+        "action": "enter",
+        "value": "0.779",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-4e4de",
+            "dieverwandlung-572a1",
+            "dieverwandlung-602d6",
+            "dieverwandlung-70383",
+            "dieverwandlung-905d9",
+            "dieverwandlung-961da"
+        ]
+    },
+    {
+        "id": "167006",
+        "time": "1742020630855",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page141",
+        "action": "enter",
+        "value": "0.7845",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-602d6",
+            "dieverwandlung-d2e68"
+        ]
+    },
+    {
+        "id": "167007",
+        "time": "1742020631190",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page142",
+        "action": "enter",
+        "value": "0.7901",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-32d90",
+            "dieverwandlung-37add",
+            "dieverwandlung-38595",
+            "dieverwandlung-c0742",
+            "dieverwandlung-d2e68",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167008",
+        "time": "1742020631523",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page143",
+        "action": "enter",
+        "value": "0.7956",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-138cf",
+            "dieverwandlung-257c0",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-5b09e",
+            "dieverwandlung-77c27",
+            "dieverwandlung-8fc99",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167009",
+        "time": "1742020631824",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page144",
+        "action": "enter",
+        "value": "0.8011",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-1a7ea",
+            "dieverwandlung-1d9ab",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-6d0fd",
+            "dieverwandlung-766e3",
+            "dieverwandlung-f7a26"
+        ]
+    },
+    {
+        "id": "167010",
+        "time": "1742020632507",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page145",
+        "action": "enter",
+        "value": "0.8066",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16b08",
+            "dieverwandlung-7568e",
+            "dieverwandlung-766e3",
+            "dieverwandlung-80d97",
+            "dieverwandlung-cf4fd",
+            "dieverwandlung-d6ca2",
+            "dieverwandlung-e807b"
+        ]
+    },
+    {
+        "id": "167011",
+        "time": "1742020632771",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page146",
+        "action": "enter",
+        "value": "0.8122",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-0328e",
+            "dieverwandlung-68377",
+            "dieverwandlung-7568e",
+            "dieverwandlung-b3cdb"
+        ]
+    },
+    {
+        "id": "167012",
+        "time": "1742020633088",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page147",
+        "action": "enter",
+        "value": "0.8177",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-67bcf",
+            "dieverwandlung-6eabc",
+            "dieverwandlung-b3cdb",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167013",
+        "time": "1742020633406",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page148",
+        "action": "enter",
+        "value": "0.8232",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-4b1ff",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-8b487",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167014",
+        "time": "1742020633760",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page149",
+        "action": "enter",
+        "value": "0.8287",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-005df",
+            "dieverwandlung-0d18d",
+            "dieverwandlung-124ed",
+            "dieverwandlung-26cf2",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-c83f1",
+            "dieverwandlung-e58b9"
+        ]
+    },
+    {
+        "id": "167015",
+        "time": "1742020634075",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page150",
+        "action": "enter",
+        "value": "0.8343",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-26cf2",
+            "dieverwandlung-39bff",
+            "dieverwandlung-447a7",
+            "dieverwandlung-5fd5b",
+            "dieverwandlung-868e1"
+        ]
+    },
+    {
+        "id": "167016",
+        "time": "1742020634407",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page151",
+        "action": "enter",
+        "value": "0.8398",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-30053",
+            "dieverwandlung-39bff",
+            "dieverwandlung-683f9",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-a6a2e"
+        ]
+    },
+    {
+        "id": "167017",
+        "time": "1742020634976",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page152",
+        "action": "enter",
+        "value": "0.8453",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-5008e",
+            "dieverwandlung-63ca7",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-b6969",
+            "dieverwandlung-e573c"
+        ]
+    },
+    {
+        "id": "167018",
+        "time": "1742020635328",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page153",
+        "action": "enter",
+        "value": "0.8508",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-b9ead",
+            "dieverwandlung-e573c",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167019",
+        "time": "1742020635679",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.8564",
+        "words": "119",
+        "elementids": [
+            "dieverwandlung-07f65",
+            "dieverwandlung-6a01b",
+            "dieverwandlung-76a31",
+            "dieverwandlung-7f863",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e285d",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167020",
+        "time": "1742020636092",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page155",
+        "action": "enter",
+        "value": "0.8619",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-5bd1f",
+            "dieverwandlung-8e633",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e6a4f",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167021",
+        "time": "1742020636964",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page156",
+        "action": "enter",
+        "value": "0.8674",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-3b74b",
+            "dieverwandlung-c48ad",
+            "dieverwandlung-c8999",
+            "dieverwandlung-cc946",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167022",
+        "time": "1742020637327",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page157",
+        "action": "enter",
+        "value": "0.8729",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-1d0a2",
+            "dieverwandlung-3b74b",
+            "dieverwandlung-59c2e",
+            "dieverwandlung-bd01b",
+            "dieverwandlung-be781",
+            "dieverwandlung-d1f15",
+            "dieverwandlung-e4b3d"
+        ]
+    },
+    {
+        "id": "167023",
+        "time": "1742020637785",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page158",
+        "action": "enter",
+        "value": "0.8785",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-1ab25",
+            "dieverwandlung-25ccc",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-ade25",
+            "dieverwandlung-afdcb",
+            "dieverwandlung-bd01b"
+        ]
+    },
+    {
+        "id": "167024",
+        "time": "1742020638115",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page159",
+        "action": "enter",
+        "value": "0.884",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-05d1c",
+            "dieverwandlung-28956",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-815c7",
+            "dieverwandlung-e228f",
+            "dieverwandlung-e607d"
+        ]
+    },
+    {
+        "id": "167025",
+        "time": "1742020638432",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page160",
+        "action": "enter",
+        "value": "0.8895",
+        "words": "94",
+        "elementids": [
+            "dieverwandlung-0c51c",
+            "dieverwandlung-1930e",
+            "dieverwandlung-28956",
+            "dieverwandlung-29603",
+            "dieverwandlung-6d550",
+            "dieverwandlung-6df19",
+            "dieverwandlung-8fd1e"
+        ]
+    },
+    {
+        "id": "167026",
+        "time": "1742020639148",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page161",
+        "action": "enter",
+        "value": "0.895",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-3a9dd",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-6d550",
+            "dieverwandlung-75fe1",
+            "dieverwandlung-aaacc",
+            "dieverwandlung-c6346",
+            "dieverwandlung-c65f6",
+            "dieverwandlung-dc425"
+        ]
+    },
+    {
+        "id": "167027",
+        "time": "1742020639395",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page162",
+        "action": "enter",
+        "value": "0.9006",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-2fe0c",
+            "dieverwandlung-43557",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-9bfaa",
+            "dieverwandlung-d90c8"
+        ]
+    },
+    {
+        "id": "167028",
+        "time": "1742020639746",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page163",
+        "action": "enter",
+        "value": "0.9061",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-43557",
+            "dieverwandlung-4d487",
+            "dieverwandlung-4d5dd",
+            "dieverwandlung-983dd",
+            "dieverwandlung-9c2ff",
+            "dieverwandlung-ad469",
+            "dieverwandlung-dc96c"
+        ]
+    },
+    {
+        "id": "167029",
+        "time": "1742020640165",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page164",
+        "action": "enter",
+        "value": "0.9116",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-0caf9",
+            "dieverwandlung-18ca1",
+            "dieverwandlung-43782",
+            "dieverwandlung-4787d",
+            "dieverwandlung-983dd",
+            "dieverwandlung-b395c",
+            "dieverwandlung-eb965"
+        ]
+    },
+    {
+        "id": "167030",
+        "time": "1742020640482",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page165",
+        "action": "enter",
+        "value": "0.9171",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-02a3c",
+            "dieverwandlung-2222e",
+            "dieverwandlung-3b38f",
+            "dieverwandlung-43782",
+            "dieverwandlung-71982",
+            "dieverwandlung-9c046",
+            "dieverwandlung-a47ca",
+            "dieverwandlung-b8b85",
+            "dieverwandlung-d6162"
+        ]
+    },
+    {
+        "id": "167031",
+        "time": "1742020640799",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page166",
+        "action": "enter",
+        "value": "0.9227",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-14af7",
+            "dieverwandlung-2222e",
+            "dieverwandlung-44fca",
+            "dieverwandlung-5100b",
+            "dieverwandlung-567e9",
+            "dieverwandlung-98c1c",
+            "dieverwandlung-bf50a",
+            "dieverwandlung-c8be1"
+        ]
+    },
+    {
+        "id": "167032",
+        "time": "1742020641097",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page167",
+        "action": "enter",
+        "value": "0.9282",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0cb6a",
+            "dieverwandlung-2e109",
+            "dieverwandlung-44fca",
+            "dieverwandlung-87939"
+        ]
+    },
+    {
+        "id": "167033",
+        "time": "1742020641684",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page168",
+        "action": "enter",
+        "value": "0.9337",
+        "words": "122",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0203d",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-8ed65",
+            "dieverwandlung-c9d9a"
+        ]
+    },
+    {
+        "id": "167034",
+        "time": "1742020642085",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page169",
+        "action": "enter",
+        "value": "0.9392",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-4eccf",
+            "dieverwandlung-50a5e",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-7ee23",
+            "dieverwandlung-9459b",
+            "dieverwandlung-fce59"
+        ]
+    },
+    {
+        "id": "167035",
+        "time": "1742020642468",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page170",
+        "action": "enter",
+        "value": "0.9448",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-22325",
+            "dieverwandlung-2f93b",
+            "dieverwandlung-35a89",
+            "dieverwandlung-4deb0",
+            "dieverwandlung-4eccf",
+            "dieverwandlung-a709a",
+            "dieverwandlung-d54e1",
+            "dieverwandlung-fdca5"
+        ]
+    },
+    {
+        "id": "167036",
+        "time": "1742020642835",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page171",
+        "action": "enter",
+        "value": "0.9503",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-36412",
+            "dieverwandlung-6081f",
+            "dieverwandlung-975a4",
+            "dieverwandlung-97636",
+            "dieverwandlung-9828d",
+            "dieverwandlung-a79df",
+            "dieverwandlung-aba59",
+            "dieverwandlung-c9da3",
+            "dieverwandlung-d8ab7"
+        ]
+    },
+    {
+        "id": "167037",
+        "time": "1742020643252",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page172",
+        "action": "enter",
+        "value": "0.9558",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-05e08",
+            "dieverwandlung-2a967",
+            "dieverwandlung-36412",
+            "dieverwandlung-5c8b1",
+            "dieverwandlung-9c557",
+            "dieverwandlung-bb791",
+            "dieverwandlung-dae13",
+            "dieverwandlung-fccf7",
+            "dieverwandlung-ff236"
+        ]
+    },
+    {
+        "id": "167038",
+        "time": "1742020643669",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page173",
+        "action": "enter",
+        "value": "0.9613",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-03442",
+            "dieverwandlung-2a967",
+            "dieverwandlung-61ae0",
+            "dieverwandlung-95bf9",
+            "dieverwandlung-96b46",
+            "dieverwandlung-afd5c"
+        ]
+    },
+    {
+        "id": "167039",
+        "time": "1742020643935",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page174",
+        "action": "enter",
+        "value": "0.9669",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-42535",
+            "dieverwandlung-908a0",
+            "dieverwandlung-96b46"
+        ]
+    },
+    {
+        "id": "167040",
+        "time": "1742020644269",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page175",
+        "action": "enter",
+        "value": "0.9724",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-3069b",
+            "dieverwandlung-42535",
+            "dieverwandlung-6cb41",
+            "dieverwandlung-b64d0"
+        ]
+    },
+    {
+        "id": "167041",
+        "time": "1742020645503",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page176",
+        "action": "enter",
+        "value": "0.9779",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16d80",
+            "dieverwandlung-3069b",
+            "dieverwandlung-7623f",
+            "dieverwandlung-b8d19",
+            "dieverwandlung-bbc51",
+            "dieverwandlung-bd548",
+            "dieverwandlung-d3b6c"
+        ]
+    },
+    {
+        "id": "167042",
+        "time": "1742020646237",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page177",
+        "action": "enter",
+        "value": "0.9834",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3d22f",
+            "dieverwandlung-85083",
+            "dieverwandlung-c492e",
+            "dieverwandlung-cae01",
+            "dieverwandlung-d3b6c",
+            "dieverwandlung-d7970",
+            "dieverwandlung-da16a"
+        ]
+    },
+    {
+        "id": "167043",
+        "time": "1742020646870",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page178",
+        "action": "enter",
+        "value": "0.989",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-23658",
+            "dieverwandlung-42219",
+            "dieverwandlung-43fc4",
+            "dieverwandlung-80833",
+            "dieverwandlung-875d9",
+            "dieverwandlung-cae01",
+            "dieverwandlung-db5fa"
+        ]
+    },
+    {
+        "id": "167044",
+        "time": "1742020647804",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page179",
+        "action": "enter",
+        "value": "0.9945",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-0bfbf",
+            "dieverwandlung-23658",
+            "dieverwandlung-379b2",
+            "dieverwandlung-600a8",
+            "dieverwandlung-8182d",
+            "dieverwandlung-8d031"
+        ]
+    },
+    {
+        "id": "167045",
+        "time": "1742020648206",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page180",
+        "action": "enter",
+        "value": "1",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-8182d",
+            "dieverwandlung-c77ba",
+            "dieverwandlung-f53a3"
+        ]
+    },
+    {
+        "id": "167046",
+        "time": "1742020648593",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page181",
+        "action": "enter",
+        "value": "1.0055",
+        "words": "38",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-3682d"
+        ]
+    },
+    {
+        "id": "167047",
+        "time": "1742020657680",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "rating",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167048",
+        "time": "1742020659957",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page180",
+        "action": "enter",
+        "value": "1",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-8182d",
+            "dieverwandlung-c77ba",
+            "dieverwandlung-f53a3"
+        ]
+    },
+    {
+        "id": "167049",
+        "time": "1742020660575",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page179",
+        "action": "enter",
+        "value": "0.9945",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-0bfbf",
+            "dieverwandlung-23658",
+            "dieverwandlung-379b2",
+            "dieverwandlung-600a8",
+            "dieverwandlung-8182d",
+            "dieverwandlung-8d031"
+        ]
+    },
+    {
+        "id": "167050",
+        "time": "1742020661009",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page178",
+        "action": "enter",
+        "value": "0.989",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-23658",
+            "dieverwandlung-42219",
+            "dieverwandlung-43fc4",
+            "dieverwandlung-80833",
+            "dieverwandlung-875d9",
+            "dieverwandlung-cae01",
+            "dieverwandlung-db5fa"
+        ]
+    },
+    {
+        "id": "167051",
+        "time": "1742020661477",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page177",
+        "action": "enter",
+        "value": "0.9834",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3d22f",
+            "dieverwandlung-85083",
+            "dieverwandlung-c492e",
+            "dieverwandlung-cae01",
+            "dieverwandlung-d3b6c",
+            "dieverwandlung-d7970",
+            "dieverwandlung-da16a"
+        ]
+    },
+    {
+        "id": "167052",
+        "time": "1742020661944",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page176",
+        "action": "enter",
+        "value": "0.9779",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16d80",
+            "dieverwandlung-3069b",
+            "dieverwandlung-7623f",
+            "dieverwandlung-b8d19",
+            "dieverwandlung-bbc51",
+            "dieverwandlung-bd548",
+            "dieverwandlung-d3b6c"
+        ]
+    },
+    {
+        "id": "167053",
+        "time": "1742020662427",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page175",
+        "action": "enter",
+        "value": "0.9724",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-3069b",
+            "dieverwandlung-42535",
+            "dieverwandlung-6cb41",
+            "dieverwandlung-b64d0"
+        ]
+    },
+    {
+        "id": "167054",
+        "time": "1742020663194",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page174",
+        "action": "enter",
+        "value": "0.9669",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-42535",
+            "dieverwandlung-908a0",
+            "dieverwandlung-96b46"
+        ]
+    },
+    {
+        "id": "167055",
+        "time": "1742020663479",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page173",
+        "action": "enter",
+        "value": "0.9613",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-03442",
+            "dieverwandlung-2a967",
+            "dieverwandlung-61ae0",
+            "dieverwandlung-95bf9",
+            "dieverwandlung-96b46",
+            "dieverwandlung-afd5c"
+        ]
+    },
+    {
+        "id": "167056",
+        "time": "1742020663747",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page172",
+        "action": "enter",
+        "value": "0.9558",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-05e08",
+            "dieverwandlung-2a967",
+            "dieverwandlung-36412",
+            "dieverwandlung-5c8b1",
+            "dieverwandlung-9c557",
+            "dieverwandlung-bb791",
+            "dieverwandlung-dae13",
+            "dieverwandlung-fccf7",
+            "dieverwandlung-ff236"
+        ]
+    },
+    {
+        "id": "167057",
+        "time": "1742020664029",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page171",
+        "action": "enter",
+        "value": "0.9503",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-36412",
+            "dieverwandlung-6081f",
+            "dieverwandlung-975a4",
+            "dieverwandlung-97636",
+            "dieverwandlung-9828d",
+            "dieverwandlung-a79df",
+            "dieverwandlung-aba59",
+            "dieverwandlung-c9da3",
+            "dieverwandlung-d8ab7"
+        ]
+    },
+    {
+        "id": "167058",
+        "time": "1742020664280",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page170",
+        "action": "enter",
+        "value": "0.9448",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-22325",
+            "dieverwandlung-2f93b",
+            "dieverwandlung-35a89",
+            "dieverwandlung-4deb0",
+            "dieverwandlung-4eccf",
+            "dieverwandlung-a709a",
+            "dieverwandlung-d54e1",
+            "dieverwandlung-fdca5"
+        ]
+    },
+    {
+        "id": "167059",
+        "time": "1742020664497",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page169",
+        "action": "enter",
+        "value": "0.9392",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-4eccf",
+            "dieverwandlung-50a5e",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-7ee23",
+            "dieverwandlung-9459b",
+            "dieverwandlung-fce59"
+        ]
+    },
+    {
+        "id": "167060",
+        "time": "1742020664765",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page168",
+        "action": "enter",
+        "value": "0.9337",
+        "words": "122",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0203d",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-8ed65",
+            "dieverwandlung-c9d9a"
+        ]
+    },
+    {
+        "id": "167061",
+        "time": "1742020665032",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page167",
+        "action": "enter",
+        "value": "0.9282",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0cb6a",
+            "dieverwandlung-2e109",
+            "dieverwandlung-44fca",
+            "dieverwandlung-87939"
+        ]
+    },
+    {
+        "id": "167062",
+        "time": "1742020665282",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page166",
+        "action": "enter",
+        "value": "0.9227",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-14af7",
+            "dieverwandlung-2222e",
+            "dieverwandlung-44fca",
+            "dieverwandlung-5100b",
+            "dieverwandlung-567e9",
+            "dieverwandlung-98c1c",
+            "dieverwandlung-bf50a",
+            "dieverwandlung-c8be1"
+        ]
+    },
+    {
+        "id": "167063",
+        "time": "1742020665549",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page165",
+        "action": "enter",
+        "value": "0.9171",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-02a3c",
+            "dieverwandlung-2222e",
+            "dieverwandlung-3b38f",
+            "dieverwandlung-43782",
+            "dieverwandlung-71982",
+            "dieverwandlung-9c046",
+            "dieverwandlung-a47ca",
+            "dieverwandlung-b8b85",
+            "dieverwandlung-d6162"
+        ]
+    },
+    {
+        "id": "167064",
+        "time": "1742020665850",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page164",
+        "action": "enter",
+        "value": "0.9116",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-0caf9",
+            "dieverwandlung-18ca1",
+            "dieverwandlung-43782",
+            "dieverwandlung-4787d",
+            "dieverwandlung-983dd",
+            "dieverwandlung-b395c",
+            "dieverwandlung-eb965"
+        ]
+    },
+    {
+        "id": "167065",
+        "time": "1742020666100",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page163",
+        "action": "enter",
+        "value": "0.9061",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-43557",
+            "dieverwandlung-4d487",
+            "dieverwandlung-4d5dd",
+            "dieverwandlung-983dd",
+            "dieverwandlung-9c2ff",
+            "dieverwandlung-ad469",
+            "dieverwandlung-dc96c"
+        ]
+    },
+    {
+        "id": "167066",
+        "time": "1742020666349",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page162",
+        "action": "enter",
+        "value": "0.9006",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-2fe0c",
+            "dieverwandlung-43557",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-9bfaa",
+            "dieverwandlung-d90c8"
+        ]
+    },
+    {
+        "id": "167067",
+        "time": "1742020666583",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page161",
+        "action": "enter",
+        "value": "0.895",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-3a9dd",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-6d550",
+            "dieverwandlung-75fe1",
+            "dieverwandlung-aaacc",
+            "dieverwandlung-c6346",
+            "dieverwandlung-c65f6",
+            "dieverwandlung-dc425"
+        ]
+    },
+    {
+        "id": "167068",
+        "time": "1742020666850",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page160",
+        "action": "enter",
+        "value": "0.8895",
+        "words": "94",
+        "elementids": [
+            "dieverwandlung-0c51c",
+            "dieverwandlung-1930e",
+            "dieverwandlung-28956",
+            "dieverwandlung-29603",
+            "dieverwandlung-6d550",
+            "dieverwandlung-6df19",
+            "dieverwandlung-8fd1e"
+        ]
+    },
+    {
+        "id": "167069",
+        "time": "1742020667152",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page159",
+        "action": "enter",
+        "value": "0.884",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-05d1c",
+            "dieverwandlung-28956",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-815c7",
+            "dieverwandlung-e228f",
+            "dieverwandlung-e607d"
+        ]
+    },
+    {
+        "id": "167070",
+        "time": "1742020667467",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page158",
+        "action": "enter",
+        "value": "0.8785",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-1ab25",
+            "dieverwandlung-25ccc",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-ade25",
+            "dieverwandlung-afdcb",
+            "dieverwandlung-bd01b"
+        ]
+    },
+    {
+        "id": "167071",
+        "time": "1742020667718",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page157",
+        "action": "enter",
+        "value": "0.8729",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-1d0a2",
+            "dieverwandlung-3b74b",
+            "dieverwandlung-59c2e",
+            "dieverwandlung-bd01b",
+            "dieverwandlung-be781",
+            "dieverwandlung-d1f15",
+            "dieverwandlung-e4b3d"
+        ]
+    },
+    {
+        "id": "167072",
+        "time": "1742020667985",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page156",
+        "action": "enter",
+        "value": "0.8674",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-3b74b",
+            "dieverwandlung-c48ad",
+            "dieverwandlung-c8999",
+            "dieverwandlung-cc946",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167073",
+        "time": "1742020668286",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page155",
+        "action": "enter",
+        "value": "0.8619",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-5bd1f",
+            "dieverwandlung-8e633",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e6a4f",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167074",
+        "time": "1742020668585",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.8564",
+        "words": "119",
+        "elementids": [
+            "dieverwandlung-07f65",
+            "dieverwandlung-6a01b",
+            "dieverwandlung-76a31",
+            "dieverwandlung-7f863",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e285d",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167075",
+        "time": "1742020668920",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page153",
+        "action": "enter",
+        "value": "0.8508",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-b9ead",
+            "dieverwandlung-e573c",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167076",
+        "time": "1742020669237",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page152",
+        "action": "enter",
+        "value": "0.8453",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-5008e",
+            "dieverwandlung-63ca7",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-b6969",
+            "dieverwandlung-e573c"
+        ]
+    },
+    {
+        "id": "167077",
+        "time": "1742020669537",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page151",
+        "action": "enter",
+        "value": "0.8398",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-30053",
+            "dieverwandlung-39bff",
+            "dieverwandlung-683f9",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-a6a2e"
+        ]
+    },
+    {
+        "id": "167078",
+        "time": "1742020669853",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page150",
+        "action": "enter",
+        "value": "0.8343",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-26cf2",
+            "dieverwandlung-39bff",
+            "dieverwandlung-447a7",
+            "dieverwandlung-5fd5b",
+            "dieverwandlung-868e1"
+        ]
+    },
+    {
+        "id": "167079",
+        "time": "1742020670153",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page149",
+        "action": "enter",
+        "value": "0.8287",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-005df",
+            "dieverwandlung-0d18d",
+            "dieverwandlung-124ed",
+            "dieverwandlung-26cf2",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-c83f1",
+            "dieverwandlung-e58b9"
+        ]
+    },
+    {
+        "id": "167080",
+        "time": "1742020670421",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page148",
+        "action": "enter",
+        "value": "0.8232",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-4b1ff",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-8b487",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167081",
+        "time": "1742020670738",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page147",
+        "action": "enter",
+        "value": "0.8177",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-67bcf",
+            "dieverwandlung-6eabc",
+            "dieverwandlung-b3cdb",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167082",
+        "time": "1742020671055",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page146",
+        "action": "enter",
+        "value": "0.8122",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-0328e",
+            "dieverwandlung-68377",
+            "dieverwandlung-7568e",
+            "dieverwandlung-b3cdb"
+        ]
+    },
+    {
+        "id": "167083",
+        "time": "1742020671388",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page145",
+        "action": "enter",
+        "value": "0.8066",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16b08",
+            "dieverwandlung-7568e",
+            "dieverwandlung-766e3",
+            "dieverwandlung-80d97",
+            "dieverwandlung-cf4fd",
+            "dieverwandlung-d6ca2",
+            "dieverwandlung-e807b"
+        ]
+    },
+    {
+        "id": "167084",
+        "time": "1742020671706",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page144",
+        "action": "enter",
+        "value": "0.8011",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-1a7ea",
+            "dieverwandlung-1d9ab",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-6d0fd",
+            "dieverwandlung-766e3",
+            "dieverwandlung-f7a26"
+        ]
+    },
+    {
+        "id": "167085",
+        "time": "1742020672022",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page143",
+        "action": "enter",
+        "value": "0.7956",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-138cf",
+            "dieverwandlung-257c0",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-5b09e",
+            "dieverwandlung-77c27",
+            "dieverwandlung-8fc99",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167086",
+        "time": "1742020672389",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page142",
+        "action": "enter",
+        "value": "0.7901",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-32d90",
+            "dieverwandlung-37add",
+            "dieverwandlung-38595",
+            "dieverwandlung-c0742",
+            "dieverwandlung-d2e68",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167087",
+        "time": "1742020672739",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page141",
+        "action": "enter",
+        "value": "0.7845",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-602d6",
+            "dieverwandlung-d2e68"
+        ]
+    },
+    {
+        "id": "167088",
+        "time": "1742020673107",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page140",
+        "action": "enter",
+        "value": "0.779",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-4e4de",
+            "dieverwandlung-572a1",
+            "dieverwandlung-602d6",
+            "dieverwandlung-70383",
+            "dieverwandlung-905d9",
+            "dieverwandlung-961da"
+        ]
+    },
+    {
+        "id": "167089",
+        "time": "1742020673474",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page139",
+        "action": "enter",
+        "value": "0.7735",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-211eb",
+            "dieverwandlung-54de4",
+            "dieverwandlung-572a1",
+            "dieverwandlung-759b3",
+            "dieverwandlung-8abfc",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167090",
+        "time": "1742020673840",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page138",
+        "action": "enter",
+        "value": "0.768",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-19dec",
+            "dieverwandlung-20e10",
+            "dieverwandlung-346c3",
+            "dieverwandlung-6dd8f",
+            "dieverwandlung-8bca5",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167091",
+        "time": "1742020674173",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page137",
+        "action": "enter",
+        "value": "0.7624",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-20e10",
+            "dieverwandlung-3a765",
+            "dieverwandlung-40d73",
+            "dieverwandlung-47fe7",
+            "dieverwandlung-89535"
+        ]
+    },
+    {
+        "id": "167092",
+        "time": "1742020674558",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.7569",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-1a799",
+            "dieverwandlung-3a765",
+            "dieverwandlung-5c29d",
+            "dieverwandlung-69f93",
+            "dieverwandlung-ea2e6"
+        ]
+    },
+    {
+        "id": "167093",
+        "time": "1742020674891",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page135",
+        "action": "enter",
+        "value": "0.7514",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-c2411",
+            "dieverwandlung-e5cc4"
+        ]
+    },
+    {
+        "id": "167094",
+        "time": "1742020675292",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page134",
+        "action": "enter",
+        "value": "0.7459",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-4c82c"
+        ]
+    },
+    {
+        "id": "167095",
+        "time": "1742020675692",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page133",
+        "action": "enter",
+        "value": "0.7403",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-4c82c",
+            "dieverwandlung-7325a",
+            "dieverwandlung-a2a26",
+            "dieverwandlung-b7c0d"
+        ]
+    },
+    {
+        "id": "167096",
+        "time": "1742020676143",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page132",
+        "action": "enter",
+        "value": "0.7348",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-18d5f",
+            "dieverwandlung-51c94",
+            "dieverwandlung-527d7",
+            "dieverwandlung-7325a",
+            "dieverwandlung-ee69f",
+            "dieverwandlung-f394a"
+        ]
+    },
+    {
+        "id": "167097",
+        "time": "1742020676846",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page131",
+        "action": "enter",
+        "value": "0.7293",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-527d7",
+            "dieverwandlung-b2ef8"
+        ]
+    },
+    {
+        "id": "167098",
+        "time": "1742020677960",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page130",
+        "action": "enter",
+        "value": "0.7238",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-67f21",
+            "dieverwandlung-b2ef8",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "167099",
+        "time": "1742020678244",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page129",
+        "action": "enter",
+        "value": "0.7182",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-4fa02",
+            "dieverwandlung-8664d",
+            "dieverwandlung-e3834",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "167100",
+        "time": "1742020678528",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page128",
+        "action": "enter",
+        "value": "0.7127",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-32ca3",
+            "dieverwandlung-4fa02",
+            "dieverwandlung-9831a"
+        ]
+    },
+    {
+        "id": "167101",
+        "time": "1742020678827",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page127",
+        "action": "enter",
+        "value": "0.7072",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-32ca3",
+            "dieverwandlung-c5583",
+            "dieverwandlung-f2c9a"
+        ]
+    },
+    {
+        "id": "167102",
+        "time": "1742020679561",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page126",
+        "action": "enter",
+        "value": "0.7017",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a271",
+            "dieverwandlung-4bb79",
+            "dieverwandlung-704d9",
+            "dieverwandlung-b39fc"
+        ]
+    },
+    {
+        "id": "167103",
+        "time": "1742020679912",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page125",
+        "action": "enter",
+        "value": "0.6961",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a8f6",
+            "dieverwandlung-aab31",
+            "dieverwandlung-c9159"
+        ]
+    },
+    {
+        "id": "167104",
+        "time": "1742020680261",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page124",
+        "action": "enter",
+        "value": "0.6906",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-56f06",
+            "dieverwandlung-ecab5",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "167105",
+        "time": "1742020680629",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page123",
+        "action": "enter",
+        "value": "0.6851",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-74cd7",
+            "dieverwandlung-f4108",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "167106",
+        "time": "1742020681012",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page122",
+        "action": "enter",
+        "value": "0.6796",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-36d06"
+        ]
+    },
+    {
+        "id": "167107",
+        "time": "1742020682861",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page121",
+        "action": "enter",
+        "value": "0.674",
+        "words": "91",
+        "elementids": [
+            "dieverwandlung-36d06",
+            "dieverwandlung-54119",
+            "dieverwandlung-abde5"
+        ]
+    },
+    {
+        "id": "167108",
+        "time": "1742020689868",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "uUptx",
+        "bereich": "reader_dieverwandlung",
+        "item": "page122",
+        "action": "leave",
+        "value": "0.6685",
+        "words": "91",
+        "elementids": [
+            "dieverwandlung-36d06",
+            "dieverwandlung-54119",
+            "dieverwandlung-abde5"
+        ]
+    },
+    {
+        "id": "167109",
+        "time": "1742021941534",
+        "appid": "7e235f9198bf90316388e99a911c5c4d",
+        "session": "FSaA2",
+        "bereich": "reader_doncarlos",
+        "item": "page105",
+        "action": "reenter",
+        "value": "0.2286",
+        "words": "88",
+        "elementids": [
+            "doncarlos-09858",
+            "doncarlos-0b375",
+            "doncarlos-11256",
+            "doncarlos-11a9c",
+            "doncarlos-1864b",
+            "doncarlos-250d2",
+            "doncarlos-2d24a",
+            "doncarlos-2e0c3",
+            "doncarlos-37760",
+            "doncarlos-3d621",
+            "doncarlos-54294",
+            "doncarlos-6169e",
+            "doncarlos-7e547",
+            "doncarlos-7ff06",
+            "doncarlos-82757",
+            "doncarlos-9bed6",
+            "doncarlos-a7540",
+            "doncarlos-b0657",
+            "doncarlos-b0b51",
+            "doncarlos-b1be8",
+            "doncarlos-b1f1f",
+            "doncarlos-b4ce4",
+            "doncarlos-c3721",
+            "doncarlos-c4cdf",
+            "doncarlos-dfe88",
+            "doncarlos-e153b",
+            "doncarlos-f0dc6"
+        ]
+    },
+    {
+        "id": "167110",
+        "time": "1742038757225",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167111",
+        "time": "1742038762510",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167112",
+        "time": "1742038765783",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167113",
+        "time": "1742038794537",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167114",
+        "time": "1742038803324",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167115",
+        "time": "1742038810352",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167116",
+        "time": "1742038846697",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_galgenlieder",
+        "item": "",
+        "action": "enter",
+        "value": "galgenlieder",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167117",
+        "time": "1742038847451",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_galgenlieder",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.358",
+        "words": "51",
+        "elementids": [
+            "galgenlieder-049fc",
+            "galgenlieder-1255b",
+            "galgenlieder-3d54c",
+            "galgenlieder-72360",
+            "galgenlieder-7bff4",
+            "galgenlieder-925db",
+            "galgenlieder-98006",
+            "galgenlieder-a17b8",
+            "galgenlieder-ad2b8",
+            "galgenlieder-e8d67"
+        ]
+    },
+    {
+        "id": "167118",
+        "time": "1742038847757",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_galgenlieder",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.3704",
+        "words": "48",
+        "elementids": [
+            "galgenlieder-0022f",
+            "galgenlieder-032d8",
+            "galgenlieder-1a8f0",
+            "galgenlieder-1bf43",
+            "galgenlieder-1bf43-2",
+            "galgenlieder-403de",
+            "galgenlieder-70e71",
+            "galgenlieder-74c2f",
+            "galgenlieder-74c2f-2",
+            "galgenlieder-9337b",
+            "galgenlieder-bff04",
+            "galgenlieder-bff04-2",
+            "galgenlieder-cdb10"
+        ]
+    },
+    {
+        "id": "167119",
+        "time": "1742038858375",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_galgenlieder",
+        "item": "location",
+        "action": "set",
+        "value": "ort-1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167120",
+        "time": "1742038867222",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_galgenlieder",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.3827",
+        "words": "55",
+        "elementids": [
+            "galgenlieder-077c9",
+            "galgenlieder-1d206",
+            "galgenlieder-7ad6b",
+            "galgenlieder-7b627",
+            "galgenlieder-b3d85",
+            "galgenlieder-b3d85-2",
+            "galgenlieder-b5b36",
+            "galgenlieder-c1f06",
+            "galgenlieder-c1f06-2",
+            "galgenlieder-c58cb",
+            "galgenlieder-c679a",
+            "galgenlieder-c9ac3",
+            "galgenlieder-cb200",
+            "galgenlieder-e077e"
+        ]
+    },
+    {
+        "id": "167121",
+        "time": "1742038872120",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "ueber-textauswahl",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167122",
+        "time": "1742038900248",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "faq-glossar",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167123",
+        "time": "1742038930286",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167124",
+        "time": "1742038931707",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167125",
+        "time": "1742038939078",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "titelblatt_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167126",
+        "time": "1742038941611",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167127",
+        "time": "1742038950938",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0191",
+        "words": "112",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "167128",
+        "time": "1742038952570",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_briefandenvater",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167129",
+        "time": "1742038953809",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0127",
+        "words": "102",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "167130",
+        "time": "1742038955149",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "titelblatt_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167131",
+        "time": "1742038956328",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167132",
+        "time": "1742038967317",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "titelblatt_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167133",
+        "time": "1742038971905",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167134",
+        "time": "1742038988074",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "titelblatt_hiob",
+        "item": "",
+        "action": "enter",
+        "value": "hiob",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167135",
+        "time": "1742038990331",
+        "appid": "f06538394faea3f2ae0407b61c67383f",
+        "session": "gDb3w",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167136",
+        "time": "1742041329207",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page122",
+        "action": "reenter",
+        "value": "0.6685",
+        "words": "91",
+        "elementids": [
+            "dieverwandlung-36d06",
+            "dieverwandlung-54119",
+            "dieverwandlung-abde5"
+        ]
+    },
+    {
+        "id": "167137",
+        "time": "1742041334655",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167138",
+        "time": "1742041346578",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page120",
+        "action": "enter",
+        "value": "0.6685",
+        "words": "77",
+        "elementids": [
+            "dieverwandlung-9a744"
+        ]
+    },
+    {
+        "id": "167139",
+        "time": "1742041350147",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167140",
+        "time": "1742041352480",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page121",
+        "action": "enter",
+        "value": "0.674",
+        "words": "91",
+        "elementids": [
+            "dieverwandlung-36d06",
+            "dieverwandlung-54119",
+            "dieverwandlung-abde5"
+        ]
+    },
+    {
+        "id": "167141",
+        "time": "1742041379377",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page122",
+        "action": "enter",
+        "value": "0.6796",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-36d06"
+        ]
+    },
+    {
+        "id": "167142",
+        "time": "1742041407414",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page123",
+        "action": "enter",
+        "value": "0.6851",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-02822",
+            "dieverwandlung-74cd7",
+            "dieverwandlung-f4108",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "167143",
+        "time": "1742041436348",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page124",
+        "action": "enter",
+        "value": "0.6906",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-56f06",
+            "dieverwandlung-ecab5",
+            "dieverwandlung-fd7b5"
+        ]
+    },
+    {
+        "id": "167144",
+        "time": "1742041465175",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page125",
+        "action": "enter",
+        "value": "0.6961",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-3a4df",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a8f6",
+            "dieverwandlung-aab31",
+            "dieverwandlung-c9159"
+        ]
+    },
+    {
+        "id": "167145",
+        "time": "1742041495470",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page126",
+        "action": "enter",
+        "value": "0.7017",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-421d5",
+            "dieverwandlung-4a271",
+            "dieverwandlung-4bb79",
+            "dieverwandlung-704d9",
+            "dieverwandlung-b39fc"
+        ]
+    },
+    {
+        "id": "167146",
+        "time": "1742041520831",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page127",
+        "action": "enter",
+        "value": "0.7072",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-10af4",
+            "dieverwandlung-32ca3",
+            "dieverwandlung-c5583",
+            "dieverwandlung-f2c9a"
+        ]
+    },
+    {
+        "id": "167147",
+        "time": "1742041550346",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page128",
+        "action": "enter",
+        "value": "0.7127",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-32ca3",
+            "dieverwandlung-4fa02",
+            "dieverwandlung-9831a"
+        ]
+    },
+    {
+        "id": "167148",
+        "time": "1742041578076",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page129",
+        "action": "enter",
+        "value": "0.7182",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-4fa02",
+            "dieverwandlung-8664d",
+            "dieverwandlung-e3834",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "167149",
+        "time": "1742041605249",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page130",
+        "action": "enter",
+        "value": "0.7238",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-67f21",
+            "dieverwandlung-b2ef8",
+            "dieverwandlung-e53fb"
+        ]
+    },
+    {
+        "id": "167150",
+        "time": "1742041634434",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page131",
+        "action": "enter",
+        "value": "0.7293",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-527d7",
+            "dieverwandlung-b2ef8"
+        ]
+    },
+    {
+        "id": "167151",
+        "time": "1742041664605",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page132",
+        "action": "enter",
+        "value": "0.7348",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-18d5f",
+            "dieverwandlung-51c94",
+            "dieverwandlung-527d7",
+            "dieverwandlung-7325a",
+            "dieverwandlung-ee69f",
+            "dieverwandlung-f394a"
+        ]
+    },
+    {
+        "id": "167152",
+        "time": "1742041698429",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page133",
+        "action": "enter",
+        "value": "0.7403",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-4c82c",
+            "dieverwandlung-7325a",
+            "dieverwandlung-a2a26",
+            "dieverwandlung-b7c0d"
+        ]
+    },
+    {
+        "id": "167153",
+        "time": "1742041726928",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page134",
+        "action": "enter",
+        "value": "0.7459",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-4c82c"
+        ]
+    },
+    {
+        "id": "167154",
+        "time": "1742041755316",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page135",
+        "action": "enter",
+        "value": "0.7514",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-3fa5f",
+            "dieverwandlung-c2411",
+            "dieverwandlung-e5cc4"
+        ]
+    },
+    {
+        "id": "167155",
+        "time": "1742041785362",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page136",
+        "action": "enter",
+        "value": "0.7569",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-0a5cd",
+            "dieverwandlung-1a799",
+            "dieverwandlung-3a765",
+            "dieverwandlung-5c29d",
+            "dieverwandlung-69f93",
+            "dieverwandlung-ea2e6"
+        ]
+    },
+    {
+        "id": "167156",
+        "time": "1742041819177",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page137",
+        "action": "enter",
+        "value": "0.7624",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-20e10",
+            "dieverwandlung-3a765",
+            "dieverwandlung-40d73",
+            "dieverwandlung-47fe7",
+            "dieverwandlung-89535"
+        ]
+    },
+    {
+        "id": "167157",
+        "time": "1742041848128",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page138",
+        "action": "enter",
+        "value": "0.768",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-19dec",
+            "dieverwandlung-20e10",
+            "dieverwandlung-346c3",
+            "dieverwandlung-6dd8f",
+            "dieverwandlung-8bca5",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167158",
+        "time": "1742041880345",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page139",
+        "action": "enter",
+        "value": "0.7735",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-211eb",
+            "dieverwandlung-54de4",
+            "dieverwandlung-572a1",
+            "dieverwandlung-759b3",
+            "dieverwandlung-8abfc",
+            "dieverwandlung-b4e34"
+        ]
+    },
+    {
+        "id": "167159",
+        "time": "1742041907226",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page140",
+        "action": "enter",
+        "value": "0.779",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-4e4de",
+            "dieverwandlung-572a1",
+            "dieverwandlung-602d6",
+            "dieverwandlung-70383",
+            "dieverwandlung-905d9",
+            "dieverwandlung-961da"
+        ]
+    },
+    {
+        "id": "167160",
+        "time": "1742041936144",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page141",
+        "action": "enter",
+        "value": "0.7845",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-602d6",
+            "dieverwandlung-d2e68"
+        ]
+    },
+    {
+        "id": "167161",
+        "time": "1742041963334",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page142",
+        "action": "enter",
+        "value": "0.7901",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-32d90",
+            "dieverwandlung-37add",
+            "dieverwandlung-38595",
+            "dieverwandlung-c0742",
+            "dieverwandlung-d2e68",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167162",
+        "time": "1742041992345",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page143",
+        "action": "enter",
+        "value": "0.7956",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-138cf",
+            "dieverwandlung-257c0",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-5b09e",
+            "dieverwandlung-77c27",
+            "dieverwandlung-8fc99",
+            "dieverwandlung-f6de2"
+        ]
+    },
+    {
+        "id": "167163",
+        "time": "1742042018824",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page144",
+        "action": "enter",
+        "value": "0.8011",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-1a7ea",
+            "dieverwandlung-1d9ab",
+            "dieverwandlung-2f43b",
+            "dieverwandlung-6d0fd",
+            "dieverwandlung-766e3",
+            "dieverwandlung-f7a26"
+        ]
+    },
+    {
+        "id": "167164",
+        "time": "1742042045466",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page145",
+        "action": "enter",
+        "value": "0.8066",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16b08",
+            "dieverwandlung-7568e",
+            "dieverwandlung-766e3",
+            "dieverwandlung-80d97",
+            "dieverwandlung-cf4fd",
+            "dieverwandlung-d6ca2",
+            "dieverwandlung-e807b"
+        ]
+    },
+    {
+        "id": "167165",
+        "time": "1742042078386",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page146",
+        "action": "enter",
+        "value": "0.8122",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-0328e",
+            "dieverwandlung-68377",
+            "dieverwandlung-7568e",
+            "dieverwandlung-b3cdb"
+        ]
+    },
+    {
+        "id": "167166",
+        "time": "1742042109233",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page147",
+        "action": "enter",
+        "value": "0.8177",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-67bcf",
+            "dieverwandlung-6eabc",
+            "dieverwandlung-b3cdb",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167167",
+        "time": "1742042139331",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page148",
+        "action": "enter",
+        "value": "0.8232",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-4b1ff",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-8b487",
+            "dieverwandlung-d8996"
+        ]
+    },
+    {
+        "id": "167168",
+        "time": "1742042142262",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "167169",
+        "time": "1742042168909",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page149",
+        "action": "enter",
+        "value": "0.8287",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-005df",
+            "dieverwandlung-0d18d",
+            "dieverwandlung-124ed",
+            "dieverwandlung-26cf2",
+            "dieverwandlung-8a4aa",
+            "dieverwandlung-c83f1",
+            "dieverwandlung-e58b9"
+        ]
+    },
+    {
+        "id": "167170",
+        "time": "1742042198181",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page150",
+        "action": "enter",
+        "value": "0.8343",
+        "words": "115",
+        "elementids": [
+            "dieverwandlung-26cf2",
+            "dieverwandlung-39bff",
+            "dieverwandlung-447a7",
+            "dieverwandlung-5fd5b",
+            "dieverwandlung-868e1"
+        ]
+    },
+    {
+        "id": "167171",
+        "time": "1742042231008",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page151",
+        "action": "enter",
+        "value": "0.8398",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-30053",
+            "dieverwandlung-39bff",
+            "dieverwandlung-683f9",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-a6a2e"
+        ]
+    },
+    {
+        "id": "167172",
+        "time": "1742042254885",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page152",
+        "action": "enter",
+        "value": "0.8453",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-5008e",
+            "dieverwandlung-63ca7",
+            "dieverwandlung-6fc35",
+            "dieverwandlung-b6969",
+            "dieverwandlung-e573c"
+        ]
+    },
+    {
+        "id": "167173",
+        "time": "1742042285478",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page153",
+        "action": "enter",
+        "value": "0.8508",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-b9ead",
+            "dieverwandlung-e573c",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167174",
+        "time": "1742042316017",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page154",
+        "action": "enter",
+        "value": "0.8564",
+        "words": "119",
+        "elementids": [
+            "dieverwandlung-07f65",
+            "dieverwandlung-6a01b",
+            "dieverwandlung-76a31",
+            "dieverwandlung-7f863",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e285d",
+            "dieverwandlung-f26ab"
+        ]
+    },
+    {
+        "id": "167175",
+        "time": "1742042350321",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page155",
+        "action": "enter",
+        "value": "0.8619",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-5bd1f",
+            "dieverwandlung-8e633",
+            "dieverwandlung-c3264",
+            "dieverwandlung-e6a4f",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167176",
+        "time": "1742042380453",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page156",
+        "action": "enter",
+        "value": "0.8674",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-3b74b",
+            "dieverwandlung-c48ad",
+            "dieverwandlung-c8999",
+            "dieverwandlung-cc946",
+            "dieverwandlung-fa25e"
+        ]
+    },
+    {
+        "id": "167177",
+        "time": "1742042407378",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page157",
+        "action": "enter",
+        "value": "0.8729",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-1d0a2",
+            "dieverwandlung-3b74b",
+            "dieverwandlung-59c2e",
+            "dieverwandlung-bd01b",
+            "dieverwandlung-be781",
+            "dieverwandlung-d1f15",
+            "dieverwandlung-e4b3d"
+        ]
+    },
+    {
+        "id": "167178",
+        "time": "1742042433575",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page158",
+        "action": "enter",
+        "value": "0.8785",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-1ab25",
+            "dieverwandlung-25ccc",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-ade25",
+            "dieverwandlung-afdcb",
+            "dieverwandlung-bd01b"
+        ]
+    },
+    {
+        "id": "167179",
+        "time": "1742042458490",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page159",
+        "action": "enter",
+        "value": "0.884",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-05d1c",
+            "dieverwandlung-28956",
+            "dieverwandlung-57c2c",
+            "dieverwandlung-815c7",
+            "dieverwandlung-e228f",
+            "dieverwandlung-e607d"
+        ]
+    },
+    {
+        "id": "167180",
+        "time": "1742042482248",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page160",
+        "action": "enter",
+        "value": "0.8895",
+        "words": "94",
+        "elementids": [
+            "dieverwandlung-0c51c",
+            "dieverwandlung-1930e",
+            "dieverwandlung-28956",
+            "dieverwandlung-29603",
+            "dieverwandlung-6d550",
+            "dieverwandlung-6df19",
+            "dieverwandlung-8fd1e"
+        ]
+    },
+    {
+        "id": "167181",
+        "time": "1742042507268",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page161",
+        "action": "enter",
+        "value": "0.895",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-3a9dd",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-6d550",
+            "dieverwandlung-75fe1",
+            "dieverwandlung-aaacc",
+            "dieverwandlung-c6346",
+            "dieverwandlung-c65f6",
+            "dieverwandlung-dc425"
+        ]
+    },
+    {
+        "id": "167182",
+        "time": "1742042536249",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page162",
+        "action": "enter",
+        "value": "0.9006",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-2fe0c",
+            "dieverwandlung-43557",
+            "dieverwandlung-5c6dd",
+            "dieverwandlung-9bfaa",
+            "dieverwandlung-d90c8"
+        ]
+    },
+    {
+        "id": "167183",
+        "time": "1742042567137",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page163",
+        "action": "enter",
+        "value": "0.9061",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-43557",
+            "dieverwandlung-4d487",
+            "dieverwandlung-4d5dd",
+            "dieverwandlung-983dd",
+            "dieverwandlung-9c2ff",
+            "dieverwandlung-ad469",
+            "dieverwandlung-dc96c"
+        ]
+    },
+    {
+        "id": "167184",
+        "time": "1742042595078",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page164",
+        "action": "enter",
+        "value": "0.9116",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-0caf9",
+            "dieverwandlung-18ca1",
+            "dieverwandlung-43782",
+            "dieverwandlung-4787d",
+            "dieverwandlung-983dd",
+            "dieverwandlung-b395c",
+            "dieverwandlung-eb965"
+        ]
+    },
+    {
+        "id": "167185",
+        "time": "1742042626594",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page165",
+        "action": "enter",
+        "value": "0.9171",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-02a3c",
+            "dieverwandlung-2222e",
+            "dieverwandlung-3b38f",
+            "dieverwandlung-43782",
+            "dieverwandlung-71982",
+            "dieverwandlung-9c046",
+            "dieverwandlung-a47ca",
+            "dieverwandlung-b8b85",
+            "dieverwandlung-d6162"
+        ]
+    },
+    {
+        "id": "167186",
+        "time": "1742042660149",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page166",
+        "action": "enter",
+        "value": "0.9227",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-14af7",
+            "dieverwandlung-2222e",
+            "dieverwandlung-44fca",
+            "dieverwandlung-5100b",
+            "dieverwandlung-567e9",
+            "dieverwandlung-98c1c",
+            "dieverwandlung-bf50a",
+            "dieverwandlung-c8be1"
+        ]
+    },
+    {
+        "id": "167187",
+        "time": "1742042688465",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page167",
+        "action": "enter",
+        "value": "0.9282",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0cb6a",
+            "dieverwandlung-2e109",
+            "dieverwandlung-44fca",
+            "dieverwandlung-87939"
+        ]
+    },
+    {
+        "id": "167188",
+        "time": "1742042701428",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page166",
+        "action": "enter",
+        "value": "0.9227",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-14af7",
+            "dieverwandlung-2222e",
+            "dieverwandlung-44fca",
+            "dieverwandlung-5100b",
+            "dieverwandlung-567e9",
+            "dieverwandlung-98c1c",
+            "dieverwandlung-bf50a",
+            "dieverwandlung-c8be1"
+        ]
+    },
+    {
+        "id": "167189",
+        "time": "1742042711848",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page167",
+        "action": "enter",
+        "value": "0.9282",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0cb6a",
+            "dieverwandlung-2e109",
+            "dieverwandlung-44fca",
+            "dieverwandlung-87939"
+        ]
+    },
+    {
+        "id": "167190",
+        "time": "1742042740042",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page168",
+        "action": "enter",
+        "value": "0.9337",
+        "words": "122",
+        "elementids": [
+            "dieverwandlung-00feb",
+            "dieverwandlung-0203d",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-8ed65",
+            "dieverwandlung-c9d9a"
+        ]
+    },
+    {
+        "id": "167191",
+        "time": "1742042774719",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page169",
+        "action": "enter",
+        "value": "0.9392",
+        "words": "114",
+        "elementids": [
+            "dieverwandlung-4eccf",
+            "dieverwandlung-50a5e",
+            "dieverwandlung-50fc6",
+            "dieverwandlung-7ee23",
+            "dieverwandlung-9459b",
+            "dieverwandlung-fce59"
+        ]
+    },
+    {
+        "id": "167192",
+        "time": "1742042810083",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page170",
+        "action": "enter",
+        "value": "0.9448",
+        "words": "110",
+        "elementids": [
+            "dieverwandlung-22325",
+            "dieverwandlung-2f93b",
+            "dieverwandlung-35a89",
+            "dieverwandlung-4deb0",
+            "dieverwandlung-4eccf",
+            "dieverwandlung-a709a",
+            "dieverwandlung-d54e1",
+            "dieverwandlung-fdca5"
+        ]
+    },
+    {
+        "id": "167193",
+        "time": "1742042846225",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page171",
+        "action": "enter",
+        "value": "0.9503",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-36412",
+            "dieverwandlung-6081f",
+            "dieverwandlung-975a4",
+            "dieverwandlung-97636",
+            "dieverwandlung-9828d",
+            "dieverwandlung-a79df",
+            "dieverwandlung-aba59",
+            "dieverwandlung-c9da3",
+            "dieverwandlung-d8ab7"
+        ]
+    },
+    {
+        "id": "167194",
+        "time": "1742042880645",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page172",
+        "action": "enter",
+        "value": "0.9558",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-05e08",
+            "dieverwandlung-2a967",
+            "dieverwandlung-36412",
+            "dieverwandlung-5c8b1",
+            "dieverwandlung-9c557",
+            "dieverwandlung-bb791",
+            "dieverwandlung-dae13",
+            "dieverwandlung-fccf7",
+            "dieverwandlung-ff236"
+        ]
+    },
+    {
+        "id": "167195",
+        "time": "1742042904894",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page173",
+        "action": "enter",
+        "value": "0.9613",
+        "words": "116",
+        "elementids": [
+            "dieverwandlung-03442",
+            "dieverwandlung-2a967",
+            "dieverwandlung-61ae0",
+            "dieverwandlung-95bf9",
+            "dieverwandlung-96b46",
+            "dieverwandlung-afd5c"
+        ]
+    },
+    {
+        "id": "167196",
+        "time": "1742042931800",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page174",
+        "action": "enter",
+        "value": "0.9669",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-42535",
+            "dieverwandlung-908a0",
+            "dieverwandlung-96b46"
+        ]
+    },
+    {
+        "id": "167197",
+        "time": "1742042963833",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page175",
+        "action": "enter",
+        "value": "0.9724",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-3069b",
+            "dieverwandlung-42535",
+            "dieverwandlung-6cb41",
+            "dieverwandlung-b64d0"
+        ]
+    },
+    {
+        "id": "167198",
+        "time": "1742042992355",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page176",
+        "action": "enter",
+        "value": "0.9779",
+        "words": "107",
+        "elementids": [
+            "dieverwandlung-16d80",
+            "dieverwandlung-3069b",
+            "dieverwandlung-7623f",
+            "dieverwandlung-b8d19",
+            "dieverwandlung-bbc51",
+            "dieverwandlung-bd548",
+            "dieverwandlung-d3b6c"
+        ]
+    },
+    {
+        "id": "167199",
+        "time": "1742043023162",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page177",
+        "action": "enter",
+        "value": "0.9834",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-3d22f",
+            "dieverwandlung-85083",
+            "dieverwandlung-c492e",
+            "dieverwandlung-cae01",
+            "dieverwandlung-d3b6c",
+            "dieverwandlung-d7970",
+            "dieverwandlung-da16a"
+        ]
+    },
+    {
+        "id": "167200",
+        "time": "1742043051819",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page178",
+        "action": "enter",
+        "value": "0.989",
+        "words": "104",
+        "elementids": [
+            "dieverwandlung-23658",
+            "dieverwandlung-42219",
+            "dieverwandlung-43fc4",
+            "dieverwandlung-80833",
+            "dieverwandlung-875d9",
+            "dieverwandlung-cae01",
+            "dieverwandlung-db5fa"
+        ]
+    },
+    {
+        "id": "167201",
+        "time": "1742043084046",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page179",
+        "action": "enter",
+        "value": "0.9945",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-0bfbf",
+            "dieverwandlung-23658",
+            "dieverwandlung-379b2",
+            "dieverwandlung-600a8",
+            "dieverwandlung-8182d",
+            "dieverwandlung-8d031"
+        ]
+    },
+    {
+        "id": "167202",
+        "time": "1742043110797",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page180",
+        "action": "enter",
+        "value": "1",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-8182d",
+            "dieverwandlung-c77ba",
+            "dieverwandlung-f53a3"
+        ]
+    },
+    {
+        "id": "167203",
+        "time": "1742043143576",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page181",
+        "action": "enter",
+        "value": "1.0055",
+        "words": "38",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-3682d"
+        ]
+    },
+    {
+        "id": "167204",
+        "time": "1742043169295",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page180",
+        "action": "enter",
+        "value": "1",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1f4fb",
+            "dieverwandlung-8182d",
+            "dieverwandlung-c77ba",
+            "dieverwandlung-f53a3"
+        ]
+    },
+    {
+        "id": "167205",
+        "time": "1742043169494",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "reader_dieverwandlung",
+        "item": "page179",
+        "action": "enter",
+        "value": "0.9945",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-0bfbf",
+            "dieverwandlung-23658",
+            "dieverwandlung-379b2",
+            "dieverwandlung-600a8",
+            "dieverwandlung-8182d",
+            "dieverwandlung-8d031"
+        ]
+    },
+    {
+        "id": "167206",
+        "time": "1742043171900",
+        "appid": "1f27583351779ec0a2683112e4089694",
+        "session": "dZT4q",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
