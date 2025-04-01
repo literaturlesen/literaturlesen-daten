@@ -1,0 +1,97 @@
+[
+    {
+        "id": "168271",
+        "time": "1743511782295",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "168272",
+        "time": "1743511782354",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "168273",
+        "time": "1743511783959",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "page110",
+        "action": "enter",
+        "value": "0.0519",
+        "words": "58",
+        "elementids": [
+            "antonreiser-4ef0d",
+            "antonreiser-6d284"
+        ]
+    },
+    {
+        "id": "168274",
+        "time": "1743511814380",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "168275",
+        "time": "1743511819889",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "page111",
+        "action": "enter",
+        "value": "0.0524",
+        "words": "65",
+        "elementids": [
+            "antonreiser-4ef0d"
+        ]
+    },
+    {
+        "id": "168276",
+        "time": "1743511821748",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "page112",
+        "action": "enter",
+        "value": "0.0529",
+        "words": "62",
+        "elementids": [
+            "antonreiser-4ef0d",
+            "antonreiser-b4791"
+        ]
+    },
+    {
+        "id": "168277",
+        "time": "1743511825391",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "mkyXd",
+        "bereich": "reader_antonreiser",
+        "item": "page113",
+        "action": "leave",
+        "value": "0.0524",
+        "words": "62",
+        "elementids": [
+            "antonreiser-4ef0d",
+            "antonreiser-b4791"
+        ]
+    }
+]
