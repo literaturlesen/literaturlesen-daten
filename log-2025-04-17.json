@@ -1,0 +1,64 @@
+[
+    {
+        "id": "169384",
+        "time": "1744904834802",
+        "appid": "7e27887d0ac8aad0a951750c012a48c2",
+        "session": "addnQ",
+        "bereich": "reader_dasstuttgarterhutzelmnnlein",
+        "item": "",
+        "action": "enter",
+        "value": "dasstuttgarterhutzelmnnlein",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "169385",
+        "time": "1744904834788",
+        "appid": "7e27887d0ac8aad0a951750c012a48c2",
+        "session": "addnQ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "169386",
+        "time": "1744904835682",
+        "appid": "7e27887d0ac8aad0a951750c012a48c2",
+        "session": "addnQ",
+        "bereich": "reader_dasstuttgarterhutzelmnnlein",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0065",
+        "words": "79",
+        "elementids": [
+            "dasstuttgarterhutzelmnnlein-1079a",
+            "dasstuttgarterhutzelmnnlein-3f72b",
+            "dasstuttgarterhutzelmnnlein-519a6",
+            "dasstuttgarterhutzelmnnlein-598c9",
+            "dasstuttgarterhutzelmnnlein-ae4ad",
+            "dasstuttgarterhutzelmnnlein-ce5a5"
+        ]
+    },
+    {
+        "id": "169387",
+        "time": "1744904838217",
+        "appid": "7e27887d0ac8aad0a951750c012a48c2",
+        "session": "addnQ",
+        "bereich": "reader_dasstuttgarterhutzelmnnlein",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0032",
+        "words": "79",
+        "elementids": [
+            "dasstuttgarterhutzelmnnlein-1079a",
+            "dasstuttgarterhutzelmnnlein-3f72b",
+            "dasstuttgarterhutzelmnnlein-519a6",
+            "dasstuttgarterhutzelmnnlein-598c9",
+            "dasstuttgarterhutzelmnnlein-ae4ad",
+            "dasstuttgarterhutzelmnnlein-ce5a5"
+        ]
+    }
+]
