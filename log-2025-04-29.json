@@ -1,0 +1,125 @@
+[
+    {
+        "id": "170284",
+        "time": "1745917607829",
+        "appid": "b28f3683bb20a733d68117c52fcc6daa",
+        "session": "NsS69",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170285",
+        "time": "1745924513834",
+        "appid": "433c6fffc2f9982709ec5a11a2cf0aee",
+        "session": "7BZal",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170286",
+        "time": "1745924513846",
+        "appid": "433c6fffc2f9982709ec5a11a2cf0aee",
+        "session": "7BZal",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "",
+        "action": "enter",
+        "value": "diegeschichtedesfruleinsvonsternheim",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170287",
+        "time": "1745924514968",
+        "appid": "433c6fffc2f9982709ec5a11a2cf0aee",
+        "session": "7BZal",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page664",
+        "action": "enter",
+        "value": "0.6786",
+        "words": "129",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-195c8",
+            "diegeschichtedesfruleinsvonsternheim-30513",
+            "diegeschichtedesfruleinsvonsternheim-c58cc",
+            "diegeschichtedesfruleinsvonsternheim-d23f6",
+            "diegeschichtedesfruleinsvonsternheim-fd512",
+            "diegeschichtedesfruleinsvonsternheim-ffdeb"
+        ]
+    },
+    {
+        "id": "170288",
+        "time": "1745924518065",
+        "appid": "433c6fffc2f9982709ec5a11a2cf0aee",
+        "session": "7BZal",
+        "bereich": "reader_diegeschichtedesfruleinsvonsternheim",
+        "item": "page665",
+        "action": "leave",
+        "value": "0.6776",
+        "words": "129",
+        "elementids": [
+            "diegeschichtedesfruleinsvonsternheim-195c8",
+            "diegeschichtedesfruleinsvonsternheim-30513",
+            "diegeschichtedesfruleinsvonsternheim-c58cc",
+            "diegeschichtedesfruleinsvonsternheim-d23f6",
+            "diegeschichtedesfruleinsvonsternheim-fd512",
+            "diegeschichtedesfruleinsvonsternheim-ffdeb"
+        ]
+    },
+    {
+        "id": "170289",
+        "time": "1745948776090",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "nwDHR",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170290",
+        "time": "1745948776103",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "nwDHR",
+        "bereich": "reader_faustii",
+        "item": "",
+        "action": "enter",
+        "value": "faustii",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170291",
+        "time": "1745948777057",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "nwDHR",
+        "bereich": "reader_faustii",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.7547",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    }
+]
