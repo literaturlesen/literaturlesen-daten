@@ -1,0 +1,250 @@
+[
+    {
+        "id": "170735",
+        "time": "1747144523671",
+        "appid": "ba48721fe82a5607f4ed81c0ee62a61c",
+        "session": "ylODe",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170736",
+        "time": "1747144533693",
+        "appid": "ba48721fe82a5607f4ed81c0ee62a61c",
+        "session": "ylODe",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170737",
+        "time": "1747146139241",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170738",
+        "time": "1747146149665",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170739",
+        "time": "1747146154744",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170740",
+        "time": "1747146160839",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "titelblatt_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170741",
+        "time": "1747146163294",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170742",
+        "time": "1747146207034",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170743",
+        "time": "1747146212620",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0072",
+        "words": "57",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "170744",
+        "time": "1747146212599",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170745",
+        "time": "1747146215388",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0109",
+        "words": "54",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7"
+        ]
+    },
+    {
+        "id": "170746",
+        "time": "1747146222955",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170747",
+        "time": "1747146225437",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0145",
+        "words": "64",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "170748",
+        "time": "1747146228261",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "kowUj",
+        "bereich": "reader_briefandenvater",
+        "item": "page4",
+        "action": "leave",
+        "value": "0.0109",
+        "words": "64",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "170749",
+        "time": "1747146229984",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "w8piB",
+        "bereich": "reader_briefandenvater",
+        "item": "page4",
+        "action": "reenter",
+        "value": "0.0109",
+        "words": "64",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-30856"
+        ]
+    },
+    {
+        "id": "170750",
+        "time": "1747146230716",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "w8piB",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0109",
+        "words": "54",
+        "elementids": [
+            "briefandenvater-1094b",
+            "briefandenvater-1f42d",
+            "briefandenvater-67bc7"
+        ]
+    },
+    {
+        "id": "170751",
+        "time": "1747146231066",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "w8piB",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0072",
+        "words": "57",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "170752",
+        "time": "1747146250539",
+        "appid": "ca244e0762351313ae50d3a1e49ca857",
+        "session": "w8piB",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0036",
+        "words": "57",
+        "elementids": [
+            "briefandenvater-1f42d",
+            "briefandenvater-7297a",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    }
+]
