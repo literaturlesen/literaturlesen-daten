@@ -1,0 +1,240 @@
+[
+    {
+        "id": "170753",
+        "time": "1747263811374",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170754",
+        "time": "1747263832704",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170755",
+        "time": "1747263847146",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170756",
+        "time": "1747263857883",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170757",
+        "time": "1747263872511",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170758",
+        "time": "1747263881285",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "titelblatt_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170759",
+        "time": "1747263887731",
+        "appid": "a33462ae3dd009674a1e2b0b9eea04ea",
+        "session": "HRUlo",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170760",
+        "time": "1747294505525",
+        "appid": "7eb5690de934e625bb0133fe8f7bd012",
+        "session": "zZ7b2",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170761",
+        "time": "1747322328412",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170762",
+        "time": "1747322328501",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170763",
+        "time": "1747322330062",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "page193",
+        "action": "enter",
+        "value": "0.0907",
+        "words": "55",
+        "elementids": [
+            "antonreiser-268c1",
+            "antonreiser-2969e",
+            "antonreiser-cba01",
+            "antonreiser-f01af"
+        ]
+    },
+    {
+        "id": "170764",
+        "time": "1747322346725",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170765",
+        "time": "1747322353986",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "page194",
+        "action": "enter",
+        "value": "0.0912",
+        "words": "60",
+        "elementids": [
+            "antonreiser-2969e",
+            "antonreiser-3bcbb",
+            "antonreiser-627a1",
+            "antonreiser-b06c9"
+        ]
+    },
+    {
+        "id": "170766",
+        "time": "1747322358798",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "page195",
+        "action": "enter",
+        "value": "0.0917",
+        "words": "56",
+        "elementids": [
+            "antonreiser-1b27d",
+            "antonreiser-3bcbb",
+            "antonreiser-eef30"
+        ]
+    },
+    {
+        "id": "170767",
+        "time": "1747322362516",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "page196",
+        "action": "enter",
+        "value": "0.0921",
+        "words": "47",
+        "elementids": [
+            "antonreiser-7ff6f",
+            "antonreiser-eef30",
+            "antonreiser-f5598"
+        ]
+    },
+    {
+        "id": "170768",
+        "time": "1747322364994",
+        "appid": "fa6ef77e9a5608a47acd2c7b12dc6eed",
+        "session": "vkOGx",
+        "bereich": "reader_antonreiser",
+        "item": "page197",
+        "action": "leave",
+        "value": "0.0917",
+        "words": "47",
+        "elementids": [
+            "antonreiser-7ff6f",
+            "antonreiser-eef30",
+            "antonreiser-f5598"
+        ]
+    },
+    {
+        "id": "170769",
+        "time": "1747324339953",
+        "appid": "abd6423a7130424e32385401c048a700",
+        "session": "3Qe9m",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "170770",
+        "time": "1747324354132",
+        "appid": "abd6423a7130424e32385401c048a700",
+        "session": "3Qe9m",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
