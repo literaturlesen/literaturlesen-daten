@@ -1,0 +1,54 @@
+[
+    {
+        "id": "171818",
+        "time": "1748940916999",
+        "appid": "10a66d4cfd494b796dcbbc169070ce98",
+        "session": "nOhWe",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171819",
+        "time": "1748973057690",
+        "appid": "af0c5ab43f1f906f504ae5e2306b5fce",
+        "session": "2xphI",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171820",
+        "time": "1748973057702",
+        "appid": "af0c5ab43f1f906f504ae5e2306b5fce",
+        "session": "2xphI",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171821",
+        "time": "1748973059492",
+        "appid": "af0c5ab43f1f906f504ae5e2306b5fce",
+        "session": "2xphI",
+        "bereich": "reader_antonreiser",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0029",
+        "words": "128",
+        "elementids": [
+            "antonreiser-b228d",
+            "antonreiser-b531e",
+            "antonreiser-cfba0"
+        ]
+    }
+]
