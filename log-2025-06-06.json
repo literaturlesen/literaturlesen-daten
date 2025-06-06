@@ -1,0 +1,83 @@
+[
+    {
+        "id": "171863",
+        "time": "1749184888021",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "NByuy",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171864",
+        "time": "1749184888057",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "NByuy",
+        "bereich": "reader_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171865",
+        "time": "1749184889531",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "NByuy",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0208",
+        "words": "27",
+        "elementids": [
+            "dasjahrderseele-3d458",
+            "dasjahrderseele-7ebe7",
+            "dasjahrderseele-805a1",
+            "dasjahrderseele-8950a",
+            "dasjahrderseele-9bb22",
+            "dasjahrderseele-c124e",
+            "dasjahrderseele-cfedc",
+            "dasjahrderseele-graphic-71e46"
+        ]
+    },
+    {
+        "id": "171866",
+        "time": "1749207658062",
+        "appid": "88879064eef494cfbcf2095560e50051",
+        "session": "h7oGy",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171867",
+        "time": "1749207662668",
+        "appid": "88879064eef494cfbcf2095560e50051",
+        "session": "h7oGy",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "171868",
+        "time": "1749207665703",
+        "appid": "88879064eef494cfbcf2095560e50051",
+        "session": "h7oGy",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
