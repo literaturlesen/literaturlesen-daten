@@ -1,0 +1,195 @@
+[
+    {
+        "id": "173280",
+        "time": "1750975601795",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "GhJLf",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173281",
+        "time": "1750975601870",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "GhJLf",
+        "bereich": "reader_dergrneheinrich",
+        "item": "",
+        "action": "enter",
+        "value": "dergrneheinrich",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173282",
+        "time": "1750975603363",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "GhJLf",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0008",
+        "words": "73",
+        "elementids": [
+            "dergrneheinrich-03206",
+            "dergrneheinrich-44e9b",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b8aa9",
+            "dergrneheinrich-ba650",
+            "dergrneheinrich-ccdb9",
+            "dergrneheinrich-e2be4"
+        ]
+    },
+    {
+        "id": "173283",
+        "time": "1750975608265",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "GhJLf",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0012",
+        "words": "103",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b731a"
+        ]
+    },
+    {
+        "id": "173284",
+        "time": "1750975609188",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "GhJLf",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0008",
+        "words": "103",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b731a"
+        ]
+    },
+    {
+        "id": "173285",
+        "time": "1750975659381",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "9Zccw",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page3",
+        "action": "reenter",
+        "value": "0.0008",
+        "words": "103",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b731a"
+        ]
+    },
+    {
+        "id": "173286",
+        "time": "1750975661664",
+        "appid": "bffc0879bdee4b6cf6728e776f3b695c",
+        "session": "9Zccw",
+        "bereich": "reader_dergrneheinrich",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0008",
+        "words": "103",
+        "elementids": [
+            "dergrneheinrich-4a41f",
+            "dergrneheinrich-96654",
+            "dergrneheinrich-b731a"
+        ]
+    },
+    {
+        "id": "173287",
+        "time": "1751013522276",
+        "appid": "84ee1d40af9032dfab714073c3fa88a2",
+        "session": "efwki",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173288",
+        "time": "1751024472447",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "JWNeX",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173289",
+        "time": "1751024472460",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "JWNeX",
+        "bereich": "reader_faustii",
+        "item": "",
+        "action": "enter",
+        "value": "faustii",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173290",
+        "time": "1751024473293",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "JWNeX",
+        "bereich": "reader_faustii",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.7547",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    },
+    {
+        "id": "173291",
+        "time": "1751053558829",
+        "appid": "ba44a1b950fd3c07e95d60c38fbbb15b",
+        "session": "HFpVb",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173292",
+        "time": "1751053574346",
+        "appid": "ba44a1b950fd3c07e95d60c38fbbb15b",
+        "session": "HFpVb",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
