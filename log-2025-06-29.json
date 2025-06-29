@@ -1,0 +1,114 @@
+[
+    {
+        "id": "173567",
+        "time": "1751156422741",
+        "appid": "cafcd0dcd0025edb663b44e5825ab021",
+        "session": "DqDGg",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173568",
+        "time": "1751156422754",
+        "appid": "cafcd0dcd0025edb663b44e5825ab021",
+        "session": "DqDGg",
+        "bereich": "reader_weststlicherdivan",
+        "item": "",
+        "action": "enter",
+        "value": "weststlicherdivan",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173569",
+        "time": "1751156423854",
+        "appid": "cafcd0dcd0025edb663b44e5825ab021",
+        "session": "DqDGg",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page149",
+        "action": "enter",
+        "value": "0.1854",
+        "words": "19",
+        "elementids": [
+            "weststlicherdivan-121ab",
+            "weststlicherdivan-2f8f9",
+            "weststlicherdivan-3655a"
+        ]
+    },
+    {
+        "id": "173570",
+        "time": "1751215434881",
+        "appid": "32bbe171df4a455b9df7515be8fce84d",
+        "session": "kBvIr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173571",
+        "time": "1751215439088",
+        "appid": "32bbe171df4a455b9df7515be8fce84d",
+        "session": "kBvIr",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173572",
+        "time": "1751215440669",
+        "appid": "32bbe171df4a455b9df7515be8fce84d",
+        "session": "kBvIr",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173573",
+        "time": "1751230969076",
+        "appid": "1fab82599de17149ffefe5eff6c42b83",
+        "session": "xNv8j",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173574",
+        "time": "1751230974512",
+        "appid": "1fab82599de17149ffefe5eff6c42b83",
+        "session": "xNv8j",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173575",
+        "time": "1751230976096",
+        "appid": "1fab82599de17149ffefe5eff6c42b83",
+        "session": "xNv8j",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
