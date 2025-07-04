@@ -1,0 +1,101 @@
+[
+    {
+        "id": "173614",
+        "time": "1751655604702",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "K1UXT",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173615",
+        "time": "1751655604717",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "K1UXT",
+        "bereich": "reader_faustii",
+        "item": "",
+        "action": "enter",
+        "value": "faustii",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173616",
+        "time": "1751655606823",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "K1UXT",
+        "bereich": "reader_faustii",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.7547",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    },
+    {
+        "id": "173617",
+        "time": "1751656708913",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "K1UXT",
+        "bereich": "reader_faustii",
+        "item": "page646",
+        "action": "leave",
+        "value": "0.7535",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    },
+    {
+        "id": "173618",
+        "time": "1751657432078",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "aMCRj",
+        "bereich": "reader_faustii",
+        "item": "page646",
+        "action": "reenter",
+        "value": "0.7535",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    }
+]
