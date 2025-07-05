@@ -1,0 +1,57 @@
+[
+    {
+        "id": "173619",
+        "time": "1751715041178",
+        "appid": "09729cdcb4ea526d969e2d528a89c7af",
+        "session": "NOx8u",
+        "bereich": "reader_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173620",
+        "time": "1751715041161",
+        "appid": "09729cdcb4ea526d969e2d528a89c7af",
+        "session": "NOx8u",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173621",
+        "time": "1751715041849",
+        "appid": "09729cdcb4ea526d969e2d528a89c7af",
+        "session": "NOx8u",
+        "bereich": "reader_dieverwandlung",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.011",
+        "words": "77",
+        "elementids": [
+            "dieverwandlung-6c283",
+            "dieverwandlung-75a0b",
+            "dieverwandlung-a2913",
+            "dieverwandlung-c52ed",
+            "dieverwandlung-d2a99",
+            "dieverwandlung-f1cf1"
+        ]
+    },
+    {
+        "id": "173622",
+        "time": "1751716992742",
+        "appid": "cc9d1a732fe8e3bc1852589cbf5dc231",
+        "session": "wFewH",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
