@@ -1,0 +1,108 @@
+[
+    {
+        "id": "173797",
+        "time": "1751965532390",
+        "appid": "a29a0ef900661e2f5a048dfca0981a71",
+        "session": "p53CD",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173798",
+        "time": "1751965533570",
+        "appid": "a29a0ef900661e2f5a048dfca0981a71",
+        "session": "p53CD",
+        "bereich": "reader_briefandenvater",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0408",
+        "words": "318",
+        "elementids": [
+            "briefandenvater-064d2",
+            "briefandenvater-1094b",
+            "briefandenvater-1f42d",
+            "briefandenvater-30856",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-ad6c2",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "173799",
+        "time": "1751965540393",
+        "appid": "a29a0ef900661e2f5a048dfca0981a71",
+        "session": "p53CD",
+        "bereich": "reader_briefandenvater",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0204",
+        "words": "318",
+        "elementids": [
+            "briefandenvater-064d2",
+            "briefandenvater-1094b",
+            "briefandenvater-1f42d",
+            "briefandenvater-30856",
+            "briefandenvater-67bc7",
+            "briefandenvater-7297a",
+            "briefandenvater-ad6c2",
+            "briefandenvater-b31a3",
+            "briefandenvater-ec588"
+        ]
+    },
+    {
+        "id": "173800",
+        "time": "1752005078070",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "mtYe2",
+        "bereich": "reader_meinblauesklavier",
+        "item": "",
+        "action": "enter",
+        "value": "meinblauesklavier",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173801",
+        "time": "1752005078058",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "mtYe2",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "173802",
+        "time": "1752005078699",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "mtYe2",
+        "bereich": "reader_meinblauesklavier",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.9231",
+        "words": "62",
+        "elementids": [
+            "meinblauesklavier-019a1",
+            "meinblauesklavier-389ef",
+            "meinblauesklavier-41c18",
+            "meinblauesklavier-642bb",
+            "meinblauesklavier-7a19c",
+            "meinblauesklavier-7fa54",
+            "meinblauesklavier-87db2",
+            "meinblauesklavier-900d2",
+            "meinblauesklavier-9ac38",
+            "meinblauesklavier-ae21d",
+            "meinblauesklavier-b3d2a",
+            "meinblauesklavier-dedb8",
+            "meinblauesklavier-f8ecd"
+        ]
+    }
+]
