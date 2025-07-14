@@ -1,0 +1,158 @@
+[
+    {
+        "id": "174375",
+        "time": "1752471716201",
+        "appid": "56df600f589489030360e6c2ce4210b1",
+        "session": "V1EDf",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174376",
+        "time": "1752505893853",
+        "appid": "307f20692ea6395814067e40a4deb6e9",
+        "session": "UIDt0",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174377",
+        "time": "1752505897409",
+        "appid": "307f20692ea6395814067e40a4deb6e9",
+        "session": "UIDt0",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174378",
+        "time": "1752505898781",
+        "appid": "307f20692ea6395814067e40a4deb6e9",
+        "session": "UIDt0",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174379",
+        "time": "1752507784282",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174380",
+        "time": "1752507784295",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "reader_siebenks",
+        "item": "",
+        "action": "enter",
+        "value": "siebenks",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174381",
+        "time": "1752507786297",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "reader_siebenks",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0353",
+        "words": "128",
+        "elementids": [
+            "siebenks-2dc01",
+            "siebenks-4a343",
+            "siebenks-aab21",
+            "siebenks-f0431",
+            "siebenks-ff02e"
+        ]
+    },
+    {
+        "id": "174382",
+        "time": "1752507794514",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "reader_siebenks",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.036",
+        "words": "127",
+        "elementids": [
+            "siebenks-2e914",
+            "siebenks-64aba",
+            "siebenks-96b77",
+            "siebenks-aab21",
+            "siebenks-d3d05"
+        ]
+    },
+    {
+        "id": "174383",
+        "time": "1752507803658",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "reader_siebenks",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174384",
+        "time": "1752507808689",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174385",
+        "time": "1752507809559",
+        "appid": "f9ebf55f20e876f96504ca376ed7df1c",
+        "session": "o5SZn",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "174386",
+        "time": "1752521703527",
+        "appid": "cc9d1a732fe8e3bc1852589cbf5dc231",
+        "session": "tmYzC",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
