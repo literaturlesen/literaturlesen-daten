@@ -1,0 +1,112 @@
+[
+    {
+        "id": "175085",
+        "time": "1753203692170",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "Wx7ix",
+        "bereich": "reader_faustii",
+        "item": "",
+        "action": "enter",
+        "value": "faustii",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "175086",
+        "time": "1753203692156",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "Wx7ix",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "175087",
+        "time": "1753203695558",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "Wx7ix",
+        "bereich": "reader_faustii",
+        "item": "page645",
+        "action": "enter",
+        "value": "0.7547",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    },
+    {
+        "id": "175088",
+        "time": "1753203750452",
+        "appid": "32a75b940986ba415301a2659eec9641",
+        "session": "Wx7ix",
+        "bereich": "reader_faustii",
+        "item": "page646",
+        "action": "leave",
+        "value": "0.7535",
+        "words": "50",
+        "elementids": [
+            "faustii-1bb51",
+            "faustii-51387",
+            "faustii-53b76",
+            "faustii-5e935",
+            "faustii-6c43f",
+            "faustii-92c48",
+            "faustii-a06ac",
+            "faustii-aecb5",
+            "faustii-bd937",
+            "faustii-cbfb3",
+            "faustii-ccf61",
+            "faustii-eaa86"
+        ]
+    },
+    {
+        "id": "175089",
+        "time": "1753213649599",
+        "appid": "46aa2a26b94bba65dafb4864be0bd704",
+        "session": "NWBgC",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "175090",
+        "time": "1753213666917",
+        "appid": "46aa2a26b94bba65dafb4864be0bd704",
+        "session": "NWBgC",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "175091",
+        "time": "1753213681618",
+        "appid": "46aa2a26b94bba65dafb4864be0bd704",
+        "session": "NWBgC",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
