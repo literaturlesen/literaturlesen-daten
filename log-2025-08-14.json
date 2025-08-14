@@ -1,0 +1,2197 @@
+[
+    {
+        "id": "176909",
+        "time": "1755124265561",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176910",
+        "time": "1755124287386",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176911",
+        "time": "1755124289116",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176912",
+        "time": "1755124321994",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176913",
+        "time": "1755124333995",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176914",
+        "time": "1755124352054",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176915",
+        "time": "1755124352890",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "135",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176916",
+        "time": "1755124353150",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "120",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f09b",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-5c90d",
+            "ausdemlebeneinestaugenichts-9ce87",
+            "ausdemlebeneinestaugenichts-d42df"
+        ]
+    },
+    {
+        "id": "176917",
+        "time": "1755124359281",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176918",
+        "time": "1755124362375",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "120",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f09b",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-5c90d",
+            "ausdemlebeneinestaugenichts-9ce87",
+            "ausdemlebeneinestaugenichts-d42df"
+        ]
+    },
+    {
+        "id": "176919",
+        "time": "1755124363135",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "135",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176920",
+        "time": "1755124363985",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0072",
+        "words": "93",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-10fd8",
+            "ausdemlebeneinestaugenichts-384d8",
+            "ausdemlebeneinestaugenichts-38f6a",
+            "ausdemlebeneinestaugenichts-481b4",
+            "ausdemlebeneinestaugenichts-673c6",
+            "ausdemlebeneinestaugenichts-96b74",
+            "ausdemlebeneinestaugenichts-f35d2"
+        ]
+    },
+    {
+        "id": "176921",
+        "time": "1755124370898",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "135",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176922",
+        "time": "1755124371844",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "120",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f09b",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-5c90d",
+            "ausdemlebeneinestaugenichts-9ce87",
+            "ausdemlebeneinestaugenichts-d42df"
+        ]
+    },
+    {
+        "id": "176923",
+        "time": "1755124373282",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0179",
+        "words": "69",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-01806",
+            "ausdemlebeneinestaugenichts-18ce9",
+            "ausdemlebeneinestaugenichts-2b2bc",
+            "ausdemlebeneinestaugenichts-349ad",
+            "ausdemlebeneinestaugenichts-45731",
+            "ausdemlebeneinestaugenichts-5c7a3",
+            "ausdemlebeneinestaugenichts-6c46c",
+            "ausdemlebeneinestaugenichts-87057",
+            "ausdemlebeneinestaugenichts-9393e",
+            "ausdemlebeneinestaugenichts-a546f",
+            "ausdemlebeneinestaugenichts-c9990",
+            "ausdemlebeneinestaugenichts-e721d",
+            "ausdemlebeneinestaugenichts-f90c3"
+        ]
+    },
+    {
+        "id": "176924",
+        "time": "1755124402144",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "120",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f09b",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-5c90d",
+            "ausdemlebeneinestaugenichts-9ce87",
+            "ausdemlebeneinestaugenichts-d42df"
+        ]
+    },
+    {
+        "id": "176925",
+        "time": "1755124402465",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "n6Qdp",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0179",
+        "words": "69",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-01806",
+            "ausdemlebeneinestaugenichts-18ce9",
+            "ausdemlebeneinestaugenichts-2b2bc",
+            "ausdemlebeneinestaugenichts-349ad",
+            "ausdemlebeneinestaugenichts-45731",
+            "ausdemlebeneinestaugenichts-5c7a3",
+            "ausdemlebeneinestaugenichts-6c46c",
+            "ausdemlebeneinestaugenichts-87057",
+            "ausdemlebeneinestaugenichts-9393e",
+            "ausdemlebeneinestaugenichts-a546f",
+            "ausdemlebeneinestaugenichts-c9990",
+            "ausdemlebeneinestaugenichts-e721d",
+            "ausdemlebeneinestaugenichts-f90c3"
+        ]
+    },
+    {
+        "id": "176926",
+        "time": "1755124410854",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176927",
+        "time": "1755124410864",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176928",
+        "time": "1755124411701",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0208",
+        "words": "93",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-01806",
+            "ausdemlebeneinestaugenichts-05f6a",
+            "ausdemlebeneinestaugenichts-14a61",
+            "ausdemlebeneinestaugenichts-5cfe5",
+            "ausdemlebeneinestaugenichts-5d2e4",
+            "ausdemlebeneinestaugenichts-9393e",
+            "ausdemlebeneinestaugenichts-b7884"
+        ]
+    },
+    {
+        "id": "176929",
+        "time": "1755124413052",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0174",
+        "words": "63",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-18ce9",
+            "ausdemlebeneinestaugenichts-2b2bc",
+            "ausdemlebeneinestaugenichts-349ad",
+            "ausdemlebeneinestaugenichts-45731",
+            "ausdemlebeneinestaugenichts-5c7a3",
+            "ausdemlebeneinestaugenichts-6c46c",
+            "ausdemlebeneinestaugenichts-87057",
+            "ausdemlebeneinestaugenichts-a546f",
+            "ausdemlebeneinestaugenichts-c9990",
+            "ausdemlebeneinestaugenichts-d42df",
+            "ausdemlebeneinestaugenichts-e721d",
+            "ausdemlebeneinestaugenichts-f90c3"
+        ]
+    },
+    {
+        "id": "176930",
+        "time": "1755124417350",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176931",
+        "time": "1755124418357",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0139",
+        "words": "128",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f09b",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-5c90d",
+            "ausdemlebeneinestaugenichts-9ce87",
+            "ausdemlebeneinestaugenichts-d42df"
+        ]
+    },
+    {
+        "id": "176932",
+        "time": "1755124418944",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0104",
+        "words": "127",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176933",
+        "time": "1755124422242",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "login",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176934",
+        "time": "1755124442247",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "IAJl9",
+        "bereich": "register",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176935",
+        "time": "1755124692782",
+        "appid": "c5bb4d156fd8df8d34dc05dd1e4cad68",
+        "session": "ju2OO",
+        "bereich": "activate_YuHzP5Xrapo5wUzVUo3l2s4aZNkZivLSc4KADuax",
+        "item": "",
+        "action": "enter",
+        "value": "YuHzP5Xrapo5wUzVUo3l2s4aZNkZivLSc4KADuax",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176936",
+        "time": "1755124696432",
+        "appid": "c5bb4d156fd8df8d34dc05dd1e4cad68",
+        "session": "ju2OO",
+        "bereich": "login",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176937",
+        "time": "1755124748851",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "login",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176938",
+        "time": "1755124772168",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176939",
+        "time": "1755124772188",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0104",
+        "words": "127",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176940",
+        "time": "1755124776586",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "login",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176941",
+        "time": "1755124793507",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176942",
+        "time": "1755124793528",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0104",
+        "words": "127",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-12639",
+            "ausdemlebeneinestaugenichts-2d3da",
+            "ausdemlebeneinestaugenichts-44697",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-6d7af",
+            "ausdemlebeneinestaugenichts-89315",
+            "ausdemlebeneinestaugenichts-96b74"
+        ]
+    },
+    {
+        "id": "176943",
+        "time": "1755124813761",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176944",
+        "time": "1755124799399",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "dashboard",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176945",
+        "time": "1755124818701",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176946",
+        "time": "1755124843989",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "titelblatt_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176947",
+        "time": "1755124850023",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176948",
+        "time": "1755124885949",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176949",
+        "time": "1755124896932",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176950",
+        "time": "1755124896992",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "96",
+        "elementids": [
+            "kinderundhausmrchen-4f644",
+            "kinderundhausmrchen-ca387",
+            "kinderundhausmrchen-d1ddf",
+            "kinderundhausmrchen-da45f",
+            "kinderundhausmrchen-ddd2e"
+        ]
+    },
+    {
+        "id": "176951",
+        "time": "1755124901883",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176952",
+        "time": "1755124902794",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "kinderundhausmrchen-29f84",
+            "kinderundhausmrchen-b5271",
+            "kinderundhausmrchen-ca387"
+        ]
+    },
+    {
+        "id": "176953",
+        "time": "1755124909914",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0017",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-33ed6",
+            "kinderundhausmrchen-48d49",
+            "kinderundhausmrchen-58a5e",
+            "kinderundhausmrchen-95fc7"
+        ]
+    },
+    {
+        "id": "176954",
+        "time": "1755124910707",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "111",
+        "elementids": [
+            "kinderundhausmrchen-1f32c",
+            "kinderundhausmrchen-8ba75",
+            "kinderundhausmrchen-92acc",
+            "kinderundhausmrchen-95fc7",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "176955",
+        "time": "1755124911622",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-0ce77",
+            "kinderundhausmrchen-1792b",
+            "kinderundhausmrchen-1af30",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "176956",
+        "time": "1755124919416",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "111",
+        "elementids": [
+            "kinderundhausmrchen-1f32c",
+            "kinderundhausmrchen-8ba75",
+            "kinderundhausmrchen-92acc",
+            "kinderundhausmrchen-95fc7",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "176957",
+        "time": "1755124919724",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0017",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-33ed6",
+            "kinderundhausmrchen-48d49",
+            "kinderundhausmrchen-58a5e",
+            "kinderundhausmrchen-95fc7"
+        ]
+    },
+    {
+        "id": "176958",
+        "time": "1755124919885",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "kinderundhausmrchen-29f84",
+            "kinderundhausmrchen-b5271",
+            "kinderundhausmrchen-ca387"
+        ]
+    },
+    {
+        "id": "176959",
+        "time": "1755124920052",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "96",
+        "elementids": [
+            "kinderundhausmrchen-4f644",
+            "kinderundhausmrchen-ca387",
+            "kinderundhausmrchen-d1ddf",
+            "kinderundhausmrchen-da45f",
+            "kinderundhausmrchen-ddd2e"
+        ]
+    },
+    {
+        "id": "176960",
+        "time": "1755124928526",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "kinderundhausmrchen-29f84",
+            "kinderundhausmrchen-b5271",
+            "kinderundhausmrchen-ca387"
+        ]
+    },
+    {
+        "id": "176961",
+        "time": "1755124929763",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0009",
+        "words": "96",
+        "elementids": [
+            "kinderundhausmrchen-4f644",
+            "kinderundhausmrchen-ca387",
+            "kinderundhausmrchen-d1ddf",
+            "kinderundhausmrchen-da45f",
+            "kinderundhausmrchen-ddd2e"
+        ]
+    },
+    {
+        "id": "176962",
+        "time": "1755124979466",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "kinderundhausmrchen-29f84",
+            "kinderundhausmrchen-b5271",
+            "kinderundhausmrchen-ca387"
+        ]
+    },
+    {
+        "id": "176963",
+        "time": "1755125053988",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176964",
+        "time": "1755125054087",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176965",
+        "time": "1755125073018",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0017",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-33ed6",
+            "kinderundhausmrchen-48d49",
+            "kinderundhausmrchen-58a5e",
+            "kinderundhausmrchen-95fc7"
+        ]
+    },
+    {
+        "id": "176966",
+        "time": "1755125113117",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "111",
+        "elementids": [
+            "kinderundhausmrchen-1f32c",
+            "kinderundhausmrchen-8ba75",
+            "kinderundhausmrchen-92acc",
+            "kinderundhausmrchen-95fc7",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "176967",
+        "time": "1755125113735",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-0ce77",
+            "kinderundhausmrchen-1792b",
+            "kinderundhausmrchen-1af30",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "176968",
+        "time": "1755125114235",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.003",
+        "words": "108",
+        "elementids": [
+            "kinderundhausmrchen-1af30",
+            "kinderundhausmrchen-22619",
+            "kinderundhausmrchen-ce61f",
+            "kinderundhausmrchen-f23e9"
+        ]
+    },
+    {
+        "id": "176969",
+        "time": "1755125119746",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-27d86",
+            "kinderundhausmrchen-446d4",
+            "kinderundhausmrchen-79aca",
+            "kinderundhausmrchen-ce61f"
+        ]
+    },
+    {
+        "id": "176970",
+        "time": "1755125120369",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "106",
+        "elementids": [
+            "kinderundhausmrchen-446d4",
+            "kinderundhausmrchen-abe94",
+            "kinderundhausmrchen-abef4",
+            "kinderundhausmrchen-e1a94"
+        ]
+    },
+    {
+        "id": "176971",
+        "time": "1755125120935",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0043",
+        "words": "102",
+        "elementids": [
+            "kinderundhausmrchen-14b83",
+            "kinderundhausmrchen-3bf17",
+            "kinderundhausmrchen-93b7e",
+            "kinderundhausmrchen-e1a94",
+            "kinderundhausmrchen-f11a6"
+        ]
+    },
+    {
+        "id": "176972",
+        "time": "1755125121536",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0048",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-14b83",
+            "kinderundhausmrchen-9efa9",
+            "kinderundhausmrchen-a2c41",
+            "kinderundhausmrchen-e24c4"
+        ]
+    },
+    {
+        "id": "176973",
+        "time": "1755125122259",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0052",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-47db0",
+            "kinderundhausmrchen-48bd5",
+            "kinderundhausmrchen-e24c4",
+            "kinderundhausmrchen-e8629"
+        ]
+    },
+    {
+        "id": "176974",
+        "time": "1755125123560",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0056",
+        "words": "102",
+        "elementids": [
+            "kinderundhausmrchen-1d445",
+            "kinderundhausmrchen-22898",
+            "kinderundhausmrchen-2ea3c",
+            "kinderundhausmrchen-338bf",
+            "kinderundhausmrchen-379ba",
+            "kinderundhausmrchen-48bd5",
+            "kinderundhausmrchen-7d4ac",
+            "kinderundhausmrchen-a4ff3",
+            "kinderundhausmrchen-d5722"
+        ]
+    },
+    {
+        "id": "176975",
+        "time": "1755125128289",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-2",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176976",
+        "time": "1755125131790",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0061",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-6897e",
+            "kinderundhausmrchen-80cf2",
+            "kinderundhausmrchen-a4ff3",
+            "kinderundhausmrchen-dd2ef"
+        ]
+    },
+    {
+        "id": "176977",
+        "time": "1755125132674",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0065",
+        "words": "87",
+        "elementids": [
+            "kinderundhausmrchen-54293",
+            "kinderundhausmrchen-6897e",
+            "kinderundhausmrchen-a9c18",
+            "kinderundhausmrchen-b1180"
+        ]
+    },
+    {
+        "id": "176978",
+        "time": "1755125133692",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0069",
+        "words": "103",
+        "elementids": [
+            "kinderundhausmrchen-321ee",
+            "kinderundhausmrchen-54293",
+            "kinderundhausmrchen-ce5c9",
+            "kinderundhausmrchen-d451b"
+        ]
+    },
+    {
+        "id": "176979",
+        "time": "1755125134665",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0073",
+        "words": "96",
+        "elementids": [
+            "kinderundhausmrchen-31681",
+            "kinderundhausmrchen-45000",
+            "kinderundhausmrchen-bd5aa",
+            "kinderundhausmrchen-d451b",
+            "kinderundhausmrchen-ee51a"
+        ]
+    },
+    {
+        "id": "176980",
+        "time": "1755125135295",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0078",
+        "words": "106",
+        "elementids": [
+            "kinderundhausmrchen-1c348",
+            "kinderundhausmrchen-31681",
+            "kinderundhausmrchen-51445",
+            "kinderundhausmrchen-5da45",
+            "kinderundhausmrchen-c37a5"
+        ]
+    },
+    {
+        "id": "176981",
+        "time": "1755125135719",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0082",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-1c348",
+            "kinderundhausmrchen-1eb6b",
+            "kinderundhausmrchen-a9bd9",
+            "kinderundhausmrchen-c914b"
+        ]
+    },
+    {
+        "id": "176982",
+        "time": "1755125135952",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0086",
+        "words": "105",
+        "elementids": [
+            "kinderundhausmrchen-1b2e9",
+            "kinderundhausmrchen-41f19",
+            "kinderundhausmrchen-a9bd9",
+            "kinderundhausmrchen-ea5fc"
+        ]
+    },
+    {
+        "id": "176983",
+        "time": "1755125136166",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0091",
+        "words": "90",
+        "elementids": [
+            "kinderundhausmrchen-5f9fa",
+            "kinderundhausmrchen-6aee6",
+            "kinderundhausmrchen-ae027",
+            "kinderundhausmrchen-dc00f",
+            "kinderundhausmrchen-ea5fc"
+        ]
+    },
+    {
+        "id": "176984",
+        "time": "1755125136409",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0095",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-4d7d0",
+            "kinderundhausmrchen-6aee6",
+            "kinderundhausmrchen-b94d0",
+            "kinderundhausmrchen-cb1c9"
+        ]
+    },
+    {
+        "id": "176985",
+        "time": "1755125136574",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0099",
+        "words": "93",
+        "elementids": [
+            "kinderundhausmrchen-759cb",
+            "kinderundhausmrchen-7a815",
+            "kinderundhausmrchen-950e4",
+            "kinderundhausmrchen-cb1c9",
+            "kinderundhausmrchen-ec441"
+        ]
+    },
+    {
+        "id": "176986",
+        "time": "1755125136775",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0104",
+        "words": "97",
+        "elementids": [
+            "kinderundhausmrchen-1afe8",
+            "kinderundhausmrchen-1cdb1",
+            "kinderundhausmrchen-950e4",
+            "kinderundhausmrchen-a7590"
+        ]
+    },
+    {
+        "id": "176987",
+        "time": "1755125136996",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "118",
+        "elementids": [
+            "kinderundhausmrchen-3b209",
+            "kinderundhausmrchen-81c30",
+            "kinderundhausmrchen-a7590"
+        ]
+    },
+    {
+        "id": "176988",
+        "time": "1755125137212",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0112",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-04d9e",
+            "kinderundhausmrchen-3b209",
+            "kinderundhausmrchen-7a22a",
+            "kinderundhausmrchen-a39ad",
+            "kinderundhausmrchen-a4629",
+            "kinderundhausmrchen-d25af"
+        ]
+    },
+    {
+        "id": "176989",
+        "time": "1755125137415",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0117",
+        "words": "61",
+        "elementids": [
+            "kinderundhausmrchen-04d9e",
+            "kinderundhausmrchen-97bb2",
+            "kinderundhausmrchen-c6624"
+        ]
+    },
+    {
+        "id": "176990",
+        "time": "1755125137610",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0121",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-34525",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-798dc",
+            "kinderundhausmrchen-95e33",
+            "kinderundhausmrchen-a2d8a",
+            "kinderundhausmrchen-a57fe",
+            "kinderundhausmrchen-a5ad8"
+        ]
+    },
+    {
+        "id": "176991",
+        "time": "1755125137796",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0125",
+        "words": "77",
+        "elementids": [
+            "kinderundhausmrchen-28db6",
+            "kinderundhausmrchen-45ca6",
+            "kinderundhausmrchen-5dde2",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-c3666",
+            "kinderundhausmrchen-caf34",
+            "kinderundhausmrchen-d313a"
+        ]
+    },
+    {
+        "id": "176992",
+        "time": "1755125138831",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0121",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-34525",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-798dc",
+            "kinderundhausmrchen-95e33",
+            "kinderundhausmrchen-a2d8a",
+            "kinderundhausmrchen-a57fe",
+            "kinderundhausmrchen-a5ad8"
+        ]
+    },
+    {
+        "id": "176993",
+        "time": "1755125142648",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0125",
+        "words": "77",
+        "elementids": [
+            "kinderundhausmrchen-28db6",
+            "kinderundhausmrchen-45ca6",
+            "kinderundhausmrchen-5dde2",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-c3666",
+            "kinderundhausmrchen-caf34",
+            "kinderundhausmrchen-d313a"
+        ]
+    },
+    {
+        "id": "176994",
+        "time": "1755125143217",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.013",
+        "words": "120",
+        "elementids": [
+            "kinderundhausmrchen-1d5de",
+            "kinderundhausmrchen-5b4a6",
+            "kinderundhausmrchen-d5cfc",
+            "kinderundhausmrchen-f1b11"
+        ]
+    },
+    {
+        "id": "176995",
+        "time": "1755125188525",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0134",
+        "words": "121",
+        "elementids": [
+            "kinderundhausmrchen-0ffa1",
+            "kinderundhausmrchen-2ae11",
+            "kinderundhausmrchen-5092f",
+            "kinderundhausmrchen-58296",
+            "kinderundhausmrchen-6b7ec",
+            "kinderundhausmrchen-9918d"
+        ]
+    },
+    {
+        "id": "176996",
+        "time": "1755125192623",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176997",
+        "time": "1755125196237",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176998",
+        "time": "1755125285720",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "titelblatt_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "176999",
+        "time": "1755125290129",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "literaturmuseum_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177000",
+        "time": "1755125318130",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "titelblatt_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177001",
+        "time": "1755125319183",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177002",
+        "time": "1755125354891",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0166",
+        "words": "93",
+        "elementids": [
+            "dieverwandlung-1b5c1",
+            "dieverwandlung-3171c",
+            "dieverwandlung-68749",
+            "dieverwandlung-88895",
+            "dieverwandlung-d543f",
+            "dieverwandlung-e07f2"
+        ]
+    },
+    {
+        "id": "177003",
+        "time": "1755125358230",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177004",
+        "time": "1755125362395",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177005",
+        "time": "1755125405162",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0221",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-3f044",
+            "dieverwandlung-53ac1",
+            "dieverwandlung-a3105",
+            "dieverwandlung-a7451"
+        ]
+    },
+    {
+        "id": "177006",
+        "time": "1755125448049",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0276",
+        "words": "93",
+        "elementids": [
+            "dieverwandlung-53ac1",
+            "dieverwandlung-84e64",
+            "dieverwandlung-a111a",
+            "dieverwandlung-a52b6",
+            "dieverwandlung-b8cdd"
+        ]
+    },
+    {
+        "id": "177007",
+        "time": "1755125486140",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0331",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-1bc94",
+            "dieverwandlung-5ff77",
+            "dieverwandlung-8d121",
+            "dieverwandlung-9c63b",
+            "dieverwandlung-adbdc",
+            "dieverwandlung-b8cdd",
+            "dieverwandlung-c2221"
+        ]
+    },
+    {
+        "id": "177008",
+        "time": "1755125498299",
+        "appid": "4129b528336d9e05e555c007be322528",
+        "session": "lMquy",
+        "bereich": "reader_dieverwandlung",
+        "item": "page6",
+        "action": "leave",
+        "value": "0.0276",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-1bc94",
+            "dieverwandlung-5ff77",
+            "dieverwandlung-8d121",
+            "dieverwandlung-9c63b",
+            "dieverwandlung-adbdc",
+            "dieverwandlung-b8cdd",
+            "dieverwandlung-c2221"
+        ]
+    },
+    {
+        "id": "177009",
+        "time": "1755130754604",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177010",
+        "time": "1755130754646",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177011",
+        "time": "1755130755964",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.028",
+        "words": "130",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f240",
+            "ausdemlebeneinestaugenichts-16b77",
+            "ausdemlebeneinestaugenichts-a3096",
+            "ausdemlebeneinestaugenichts-ab19a",
+            "ausdemlebeneinestaugenichts-f9880"
+        ]
+    },
+    {
+        "id": "177012",
+        "time": "1755130773651",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.032",
+        "words": "133",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0f240",
+            "ausdemlebeneinestaugenichts-46615",
+            "ausdemlebeneinestaugenichts-73b5e",
+            "ausdemlebeneinestaugenichts-a65cf",
+            "ausdemlebeneinestaugenichts-d1100"
+        ]
+    },
+    {
+        "id": "177013",
+        "time": "1755130776805",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177014",
+        "time": "1755130818166",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.036",
+        "words": "123",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00fa1",
+            "ausdemlebeneinestaugenichts-19e69",
+            "ausdemlebeneinestaugenichts-73b5e",
+            "ausdemlebeneinestaugenichts-9affb",
+            "ausdemlebeneinestaugenichts-a1ba0",
+            "ausdemlebeneinestaugenichts-c0c51",
+            "ausdemlebeneinestaugenichts-e06f2"
+        ]
+    },
+    {
+        "id": "177015",
+        "time": "1755130849929",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.04",
+        "words": "137",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-00fa1",
+            "ausdemlebeneinestaugenichts-23e1b",
+            "ausdemlebeneinestaugenichts-39778",
+            "ausdemlebeneinestaugenichts-6880b",
+            "ausdemlebeneinestaugenichts-ce927"
+        ]
+    },
+    {
+        "id": "177016",
+        "time": "1755130891759",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.044",
+        "words": "139",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-35243",
+            "ausdemlebeneinestaugenichts-45c96",
+            "ausdemlebeneinestaugenichts-644dc",
+            "ausdemlebeneinestaugenichts-88563",
+            "ausdemlebeneinestaugenichts-ce927"
+        ]
+    },
+    {
+        "id": "177017",
+        "time": "1755130924624",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "JAtVs",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page11",
+        "action": "leave",
+        "value": "0.04",
+        "words": "139",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-35243",
+            "ausdemlebeneinestaugenichts-45c96",
+            "ausdemlebeneinestaugenichts-644dc",
+            "ausdemlebeneinestaugenichts-88563",
+            "ausdemlebeneinestaugenichts-ce927"
+        ]
+    },
+    {
+        "id": "177018",
+        "time": "1755147954716",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177019",
+        "time": "1755147954729",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "",
+        "action": "enter",
+        "value": "effibriest",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177020",
+        "time": "1755147955808",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page385",
+        "action": "enter",
+        "value": "0.5209",
+        "words": "101",
+        "elementids": [
+            "effibriest-0aa22",
+            "effibriest-22fa8",
+            "effibriest-283ad",
+            "effibriest-28530",
+            "effibriest-3a9ff",
+            "effibriest-45f2c",
+            "effibriest-58b5e",
+            "effibriest-619f3",
+            "effibriest-856d1",
+            "effibriest-90196",
+            "effibriest-969a2",
+            "effibriest-c3cbe",
+            "effibriest-c4453",
+            "effibriest-c5815",
+            "effibriest-e09e1",
+            "effibriest-f2e90",
+            "effibriest-fc77f"
+        ]
+    },
+    {
+        "id": "177021",
+        "time": "1755147959288",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177022",
+        "time": "1755147967115",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page386",
+        "action": "enter",
+        "value": "0.5223",
+        "words": "137",
+        "elementids": [
+            "effibriest-12c46",
+            "effibriest-18a44",
+            "effibriest-30a6b",
+            "effibriest-3c12e",
+            "effibriest-4ee37",
+            "effibriest-78711",
+            "effibriest-7a863",
+            "effibriest-89d98",
+            "effibriest-9b912",
+            "effibriest-b2a80",
+            "effibriest-b4627",
+            "effibriest-b989f",
+            "effibriest-f73e9"
+        ]
+    },
+    {
+        "id": "177023",
+        "time": "1755148005956",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page387",
+        "action": "enter",
+        "value": "0.5236",
+        "words": "125",
+        "elementids": [
+            "effibriest-0f46d",
+            "effibriest-3668f",
+            "effibriest-5c637",
+            "effibriest-6009f",
+            "effibriest-68cb4",
+            "effibriest-6eb87",
+            "effibriest-7fe92",
+            "effibriest-8378a",
+            "effibriest-bc42a",
+            "effibriest-c871e",
+            "effibriest-f462b",
+            "effibriest-f5956",
+            "effibriest-f83a5"
+        ]
+    },
+    {
+        "id": "177024",
+        "time": "1755148039729",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page388",
+        "action": "enter",
+        "value": "0.525",
+        "words": "118",
+        "elementids": [
+            "effibriest-0296f",
+            "effibriest-5726b",
+            "effibriest-84841",
+            "effibriest-8bd78",
+            "effibriest-9e1c3",
+            "effibriest-a0d03",
+            "effibriest-a470c",
+            "effibriest-c871e",
+            "effibriest-eeb1f",
+            "effibriest-ef4a3",
+            "effibriest-f0b6c"
+        ]
+    },
+    {
+        "id": "177025",
+        "time": "1755148065297",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page389",
+        "action": "enter",
+        "value": "0.5263",
+        "words": "135",
+        "elementids": [
+            "effibriest-02396",
+            "effibriest-07d03",
+            "effibriest-0e2a2",
+            "effibriest-1aace",
+            "effibriest-3eb61",
+            "effibriest-49abb",
+            "effibriest-7163a",
+            "effibriest-77a9f",
+            "effibriest-bc411",
+            "effibriest-c9a2e"
+        ]
+    },
+    {
+        "id": "177026",
+        "time": "1755148090273",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page390",
+        "action": "enter",
+        "value": "0.5277",
+        "words": "140",
+        "elementids": [
+            "effibriest-2ec02",
+            "effibriest-6874e",
+            "effibriest-7716e",
+            "effibriest-77a9f",
+            "effibriest-843e5",
+            "effibriest-88629",
+            "effibriest-af573",
+            "effibriest-dc6b0",
+            "effibriest-e1e24",
+            "effibriest-f0447",
+            "effibriest-f1ce5"
+        ]
+    },
+    {
+        "id": "177027",
+        "time": "1755148099368",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "R2Anm",
+        "bereich": "reader_effibriest",
+        "item": "page391",
+        "action": "leave",
+        "value": "0.5263",
+        "words": "140",
+        "elementids": [
+            "effibriest-2ec02",
+            "effibriest-6874e",
+            "effibriest-7716e",
+            "effibriest-77a9f",
+            "effibriest-843e5",
+            "effibriest-88629",
+            "effibriest-af573",
+            "effibriest-dc6b0",
+            "effibriest-e1e24",
+            "effibriest-f0447",
+            "effibriest-f1ce5"
+        ]
+    },
+    {
+        "id": "177028",
+        "time": "1755179510673",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177029",
+        "time": "1755179510660",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177030",
+        "time": "1755179511912",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page53",
+        "action": "enter",
+        "value": "0.1875",
+        "words": "105",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-59826",
+            "ausdemlebeneinestaugenichts-8e5ec",
+            "ausdemlebeneinestaugenichts-9a365",
+            "ausdemlebeneinestaugenichts-9d643",
+            "ausdemlebeneinestaugenichts-9daca",
+            "ausdemlebeneinestaugenichts-a2540",
+            "ausdemlebeneinestaugenichts-d5e7d"
+        ]
+    },
+    {
+        "id": "177031",
+        "time": "1755179538401",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page54",
+        "action": "enter",
+        "value": "0.191",
+        "words": "117",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-02f46",
+            "ausdemlebeneinestaugenichts-0d34c",
+            "ausdemlebeneinestaugenichts-0e8fd",
+            "ausdemlebeneinestaugenichts-0f5a3",
+            "ausdemlebeneinestaugenichts-29eb6",
+            "ausdemlebeneinestaugenichts-81ad2",
+            "ausdemlebeneinestaugenichts-9daca",
+            "ausdemlebeneinestaugenichts-aaf17",
+            "ausdemlebeneinestaugenichts-f7e59"
+        ]
+    },
+    {
+        "id": "177032",
+        "time": "1755179541430",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177033",
+        "time": "1755179588910",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.1944",
+        "words": "116",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-175e4",
+            "ausdemlebeneinestaugenichts-81ad2",
+            "ausdemlebeneinestaugenichts-a3af4",
+            "ausdemlebeneinestaugenichts-aa701",
+            "ausdemlebeneinestaugenichts-c881a",
+            "ausdemlebeneinestaugenichts-c8f8d",
+            "ausdemlebeneinestaugenichts-dd833"
+        ]
+    },
+    {
+        "id": "177034",
+        "time": "1755179636273",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page56",
+        "action": "enter",
+        "value": "0.1979",
+        "words": "94",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-16306",
+            "ausdemlebeneinestaugenichts-2ccd4",
+            "ausdemlebeneinestaugenichts-7442d",
+            "ausdemlebeneinestaugenichts-905c4",
+            "ausdemlebeneinestaugenichts-9a831",
+            "ausdemlebeneinestaugenichts-a91d8",
+            "ausdemlebeneinestaugenichts-c8f8d",
+            "ausdemlebeneinestaugenichts-eec81"
+        ]
+    },
+    {
+        "id": "177035",
+        "time": "1755179679951",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page57",
+        "action": "enter",
+        "value": "0.2014",
+        "words": "115",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2e64f",
+            "ausdemlebeneinestaugenichts-53542",
+            "ausdemlebeneinestaugenichts-754c2",
+            "ausdemlebeneinestaugenichts-8c73a",
+            "ausdemlebeneinestaugenichts-9069d",
+            "ausdemlebeneinestaugenichts-c4bc0"
+        ]
+    },
+    {
+        "id": "177036",
+        "time": "1755179726180",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.2049",
+        "words": "98",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-257e9",
+            "ausdemlebeneinestaugenichts-2e64f",
+            "ausdemlebeneinestaugenichts-4388c",
+            "ausdemlebeneinestaugenichts-b981c",
+            "ausdemlebeneinestaugenichts-d80c5"
+        ]
+    },
+    {
+        "id": "177037",
+        "time": "1755179753213",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.2083",
+        "words": "110",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-257e9",
+            "ausdemlebeneinestaugenichts-d49c4",
+            "ausdemlebeneinestaugenichts-dc48f",
+            "ausdemlebeneinestaugenichts-e3e6d",
+            "ausdemlebeneinestaugenichts-ed890"
+        ]
+    },
+    {
+        "id": "177038",
+        "time": "1755179803701",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.2118",
+        "words": "112",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-09489",
+            "ausdemlebeneinestaugenichts-5ea06",
+            "ausdemlebeneinestaugenichts-ad50e",
+            "ausdemlebeneinestaugenichts-e028f",
+            "ausdemlebeneinestaugenichts-f7baa"
+        ]
+    },
+    {
+        "id": "177039",
+        "time": "1755179833202",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page61",
+        "action": "enter",
+        "value": "0.2153",
+        "words": "103",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0086f",
+            "ausdemlebeneinestaugenichts-17636",
+            "ausdemlebeneinestaugenichts-30520",
+            "ausdemlebeneinestaugenichts-58e7e",
+            "ausdemlebeneinestaugenichts-ad50e",
+            "ausdemlebeneinestaugenichts-ffd89"
+        ]
+    },
+    {
+        "id": "177040",
+        "time": "1755179861050",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "AKeSV",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page62",
+        "action": "leave",
+        "value": "0.2118",
+        "words": "103",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-0086f",
+            "ausdemlebeneinestaugenichts-17636",
+            "ausdemlebeneinestaugenichts-30520",
+            "ausdemlebeneinestaugenichts-58e7e",
+            "ausdemlebeneinestaugenichts-ad50e",
+            "ausdemlebeneinestaugenichts-ffd89"
+        ]
+    }
+]
