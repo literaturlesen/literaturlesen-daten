@@ -1,0 +1,132 @@
+[
+    {
+        "id": "177337",
+        "time": "1755604372810",
+        "appid": "468605e41a1a7a72ad879417c44cf7f2",
+        "session": "7Vbqh",
+        "bereich": "reader_lebensansichtendeskatersmurr",
+        "item": "",
+        "action": "enter",
+        "value": "lebensansichtendeskatersmurr",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177338",
+        "time": "1755604372791",
+        "appid": "468605e41a1a7a72ad879417c44cf7f2",
+        "session": "7Vbqh",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177339",
+        "time": "1755604374271",
+        "appid": "468605e41a1a7a72ad879417c44cf7f2",
+        "session": "7Vbqh",
+        "bereich": "reader_lebensansichtendeskatersmurr",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.011",
+        "words": "63",
+        "elementids": [
+            "lebensansichtendeskatersmurr-a8d06",
+            "lebensansichtendeskatersmurr-ca7b6",
+            "lebensansichtendeskatersmurr-dd83d",
+            "lebensansichtendeskatersmurr-e728d"
+        ]
+    },
+    {
+        "id": "177340",
+        "time": "1755604376132",
+        "appid": "468605e41a1a7a72ad879417c44cf7f2",
+        "session": "7Vbqh",
+        "bereich": "reader_lebensansichtendeskatersmurr",
+        "item": "page24",
+        "action": "leave",
+        "value": "0.0105",
+        "words": "63",
+        "elementids": [
+            "lebensansichtendeskatersmurr-a8d06",
+            "lebensansichtendeskatersmurr-ca7b6",
+            "lebensansichtendeskatersmurr-dd83d",
+            "lebensansichtendeskatersmurr-e728d"
+        ]
+    },
+    {
+        "id": "177341",
+        "time": "1755622920585",
+        "appid": "2c173c9ae25826168f45d4e44650fefd",
+        "session": "gP4wL",
+        "bereich": "reader_weststlicherdivan",
+        "item": "",
+        "action": "enter",
+        "value": "weststlicherdivan",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177342",
+        "time": "1755622920573",
+        "appid": "2c173c9ae25826168f45d4e44650fefd",
+        "session": "gP4wL",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177343",
+        "time": "1755622932325",
+        "appid": "2c173c9ae25826168f45d4e44650fefd",
+        "session": "gP4wL",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177344",
+        "time": "1755639599696",
+        "appid": "b1bbde2d8a61e81e624c061a73d7d922",
+        "session": "YGcq5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177345",
+        "time": "1755639610249",
+        "appid": "b1bbde2d8a61e81e624c061a73d7d922",
+        "session": "YGcq5",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "177346",
+        "time": "1755639618274",
+        "appid": "b1bbde2d8a61e81e624c061a73d7d922",
+        "session": "YGcq5",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
