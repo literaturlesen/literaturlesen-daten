@@ -1,0 +1,673 @@
+[
+    {
+        "id": "181303",
+        "time": "1758775053895",
+        "appid": "4bbb52e91d5149f4029a34702bd15a9a",
+        "session": "d62ZQ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181304",
+        "time": "1758775053905",
+        "appid": "4bbb52e91d5149f4029a34702bd15a9a",
+        "session": "d62ZQ",
+        "bereich": "reader_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181305",
+        "time": "1758775054894",
+        "appid": "4bbb52e91d5149f4029a34702bd15a9a",
+        "session": "d62ZQ",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0054",
+        "words": "82",
+        "elementids": [
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-945ce",
+            "derschimmelreiter-a7793",
+            "derschimmelreiter-dc3d5",
+            "derschimmelreiter-f2cc2"
+        ]
+    },
+    {
+        "id": "181306",
+        "time": "1758775058250",
+        "appid": "4bbb52e91d5149f4029a34702bd15a9a",
+        "session": "d62ZQ",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0027",
+        "words": "82",
+        "elementids": [
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-945ce",
+            "derschimmelreiter-a7793",
+            "derschimmelreiter-dc3d5",
+            "derschimmelreiter-f2cc2"
+        ]
+    },
+    {
+        "id": "181307",
+        "time": "1758790960396",
+        "appid": "6fe71626b900d414cdc7d5908272d306",
+        "session": "Wh0d0",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181308",
+        "time": "1758802178462",
+        "appid": "40211390a4ecddf6879c9f7f72c73a04",
+        "session": "gV6tM",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181309",
+        "time": "1758806269815",
+        "appid": "4083a06726c632050bddcd6ef900d486",
+        "session": "94CES",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181310",
+        "time": "1758806269828",
+        "appid": "4083a06726c632050bddcd6ef900d486",
+        "session": "94CES",
+        "bereich": "reader_doncarlos",
+        "item": "",
+        "action": "enter",
+        "value": "doncarlos",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181311",
+        "time": "1758806270828",
+        "appid": "4083a06726c632050bddcd6ef900d486",
+        "session": "94CES",
+        "bereich": "reader_doncarlos",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0059",
+        "words": "58",
+        "elementids": [
+            "doncarlos-05321",
+            "doncarlos-11602",
+            "doncarlos-230ea",
+            "doncarlos-47362",
+            "doncarlos-47889",
+            "doncarlos-4f418",
+            "doncarlos-5a112",
+            "doncarlos-61e6d",
+            "doncarlos-7142b",
+            "doncarlos-ae380",
+            "doncarlos-b6dcf",
+            "doncarlos-b9428",
+            "doncarlos-c1be9",
+            "doncarlos-cd17e",
+            "doncarlos-d3862",
+            "doncarlos-e7439",
+            "doncarlos-eaf14",
+            "doncarlos-f7868"
+        ]
+    },
+    {
+        "id": "181312",
+        "time": "1758806312701",
+        "appid": "4083a06726c632050bddcd6ef900d486",
+        "session": "94CES",
+        "bereich": "reader_doncarlos",
+        "item": "page4",
+        "action": "leave",
+        "value": "0.0044",
+        "words": "58",
+        "elementids": [
+            "doncarlos-05321",
+            "doncarlos-11602",
+            "doncarlos-230ea",
+            "doncarlos-47362",
+            "doncarlos-47889",
+            "doncarlos-4f418",
+            "doncarlos-5a112",
+            "doncarlos-61e6d",
+            "doncarlos-7142b",
+            "doncarlos-ae380",
+            "doncarlos-b6dcf",
+            "doncarlos-b9428",
+            "doncarlos-c1be9",
+            "doncarlos-cd17e",
+            "doncarlos-d3862",
+            "doncarlos-e7439",
+            "doncarlos-eaf14",
+            "doncarlos-f7868"
+        ]
+    },
+    {
+        "id": "181313",
+        "time": "1758831268421",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181314",
+        "time": "1758831269347",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page216",
+        "action": "enter",
+        "value": "0.5849",
+        "words": "111",
+        "elementids": [
+            "derschimmelreiter-214c9",
+            "derschimmelreiter-52fba",
+            "derschimmelreiter-e3512",
+            "derschimmelreiter-fee40"
+        ]
+    },
+    {
+        "id": "181315",
+        "time": "1758831301995",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page217",
+        "action": "enter",
+        "value": "0.5876",
+        "words": "86",
+        "elementids": [
+            "derschimmelreiter-168f1",
+            "derschimmelreiter-21b62",
+            "derschimmelreiter-246ce",
+            "derschimmelreiter-266c2",
+            "derschimmelreiter-289d7",
+            "derschimmelreiter-37d09",
+            "derschimmelreiter-52fba",
+            "derschimmelreiter-97b0a",
+            "derschimmelreiter-bdf46",
+            "derschimmelreiter-bee55"
+        ]
+    },
+    {
+        "id": "181316",
+        "time": "1758831304529",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "181317",
+        "time": "1758831327627",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page218",
+        "action": "enter",
+        "value": "0.5903",
+        "words": "95",
+        "elementids": [
+            "derschimmelreiter-07a46",
+            "derschimmelreiter-26806",
+            "derschimmelreiter-4c278",
+            "derschimmelreiter-6b048",
+            "derschimmelreiter-b9a32",
+            "derschimmelreiter-bee55",
+            "derschimmelreiter-ee8a1"
+        ]
+    },
+    {
+        "id": "181318",
+        "time": "1758831351726",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page219",
+        "action": "enter",
+        "value": "0.593",
+        "words": "75",
+        "elementids": [
+            "derschimmelreiter-2cba3",
+            "derschimmelreiter-5e736",
+            "derschimmelreiter-9f7f5",
+            "derschimmelreiter-c5409",
+            "derschimmelreiter-dfa9b",
+            "derschimmelreiter-f48c8",
+            "derschimmelreiter-f573c",
+            "derschimmelreiter-fe3ad"
+        ]
+    },
+    {
+        "id": "181319",
+        "time": "1758831362359",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page218",
+        "action": "enter",
+        "value": "0.5903",
+        "words": "95",
+        "elementids": [
+            "derschimmelreiter-07a46",
+            "derschimmelreiter-26806",
+            "derschimmelreiter-4c278",
+            "derschimmelreiter-6b048",
+            "derschimmelreiter-b9a32",
+            "derschimmelreiter-bee55",
+            "derschimmelreiter-ee8a1"
+        ]
+    },
+    {
+        "id": "181320",
+        "time": "1758831367374",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page219",
+        "action": "enter",
+        "value": "0.593",
+        "words": "75",
+        "elementids": [
+            "derschimmelreiter-2cba3",
+            "derschimmelreiter-5e736",
+            "derschimmelreiter-9f7f5",
+            "derschimmelreiter-c5409",
+            "derschimmelreiter-dfa9b",
+            "derschimmelreiter-f48c8",
+            "derschimmelreiter-f573c",
+            "derschimmelreiter-fe3ad"
+        ]
+    },
+    {
+        "id": "181321",
+        "time": "1758831382258",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page220",
+        "action": "enter",
+        "value": "0.5957",
+        "words": "100",
+        "elementids": [
+            "derschimmelreiter-07b89",
+            "derschimmelreiter-23a69",
+            "derschimmelreiter-44c23",
+            "derschimmelreiter-4d80c",
+            "derschimmelreiter-6123e",
+            "derschimmelreiter-69f99",
+            "derschimmelreiter-6c48b",
+            "derschimmelreiter-705e1",
+            "derschimmelreiter-76706",
+            "derschimmelreiter-9984d",
+            "derschimmelreiter-e2359",
+            "derschimmelreiter-fed1c"
+        ]
+    },
+    {
+        "id": "181322",
+        "time": "1758831409803",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page221",
+        "action": "enter",
+        "value": "0.5984",
+        "words": "107",
+        "elementids": [
+            "derschimmelreiter-27dbe",
+            "derschimmelreiter-76706",
+            "derschimmelreiter-7a6aa",
+            "derschimmelreiter-aa879",
+            "derschimmelreiter-be4ad",
+            "derschimmelreiter-c6e0c",
+            "derschimmelreiter-e0aa1"
+        ]
+    },
+    {
+        "id": "181323",
+        "time": "1758831443185",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page222",
+        "action": "enter",
+        "value": "0.6011",
+        "words": "94",
+        "elementids": [
+            "derschimmelreiter-30be9",
+            "derschimmelreiter-79dd3",
+            "derschimmelreiter-7a6aa"
+        ]
+    },
+    {
+        "id": "181324",
+        "time": "1758831473586",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page223",
+        "action": "enter",
+        "value": "0.6038",
+        "words": "86",
+        "elementids": [
+            "derschimmelreiter-274cb",
+            "derschimmelreiter-79dd3",
+            "derschimmelreiter-c4331",
+            "derschimmelreiter-c9001"
+        ]
+    },
+    {
+        "id": "181325",
+        "time": "1758831498817",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page224",
+        "action": "enter",
+        "value": "0.6065",
+        "words": "101",
+        "elementids": [
+            "derschimmelreiter-03d75",
+            "derschimmelreiter-0cd5f",
+            "derschimmelreiter-2a5ad",
+            "derschimmelreiter-674ea",
+            "derschimmelreiter-69e40",
+            "derschimmelreiter-97dd2",
+            "derschimmelreiter-998cb",
+            "derschimmelreiter-c086b",
+            "derschimmelreiter-c74cf",
+            "derschimmelreiter-d510e"
+        ]
+    },
+    {
+        "id": "181326",
+        "time": "1758831528666",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page225",
+        "action": "enter",
+        "value": "0.6092",
+        "words": "104",
+        "elementids": [
+            "derschimmelreiter-2a5ad",
+            "derschimmelreiter-9011d",
+            "derschimmelreiter-d1494"
+        ]
+    },
+    {
+        "id": "181327",
+        "time": "1758831559015",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page226",
+        "action": "enter",
+        "value": "0.6119",
+        "words": "111",
+        "elementids": [
+            "derschimmelreiter-8c0b4",
+            "derschimmelreiter-9d067",
+            "derschimmelreiter-ad771",
+            "derschimmelreiter-d1494",
+            "derschimmelreiter-e946d"
+        ]
+    },
+    {
+        "id": "181328",
+        "time": "1758831598865",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page227",
+        "action": "enter",
+        "value": "0.6146",
+        "words": "108",
+        "elementids": [
+            "derschimmelreiter-8c0b4",
+            "derschimmelreiter-f287d"
+        ]
+    },
+    {
+        "id": "181329",
+        "time": "1758831631468",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page228",
+        "action": "enter",
+        "value": "0.6173",
+        "words": "118",
+        "elementids": [
+            "derschimmelreiter-379d0",
+            "derschimmelreiter-9949e",
+            "derschimmelreiter-e3796",
+            "derschimmelreiter-ec4cf"
+        ]
+    },
+    {
+        "id": "181330",
+        "time": "1758831665633",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page229",
+        "action": "enter",
+        "value": "0.6199",
+        "words": "121",
+        "elementids": [
+            "derschimmelreiter-031b0",
+            "derschimmelreiter-925a7",
+            "derschimmelreiter-92cfe",
+            "derschimmelreiter-b81ae",
+            "derschimmelreiter-c5d62",
+            "derschimmelreiter-f6dba",
+            "derschimmelreiter-fd755",
+            "derschimmelreiter-ff173"
+        ]
+    },
+    {
+        "id": "181331",
+        "time": "1758831700234",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page230",
+        "action": "enter",
+        "value": "0.6226",
+        "words": "102",
+        "elementids": [
+            "derschimmelreiter-8a22e",
+            "derschimmelreiter-925a7",
+            "derschimmelreiter-f61aa"
+        ]
+    },
+    {
+        "id": "181332",
+        "time": "1758831733686",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page231",
+        "action": "enter",
+        "value": "0.6253",
+        "words": "96",
+        "elementids": [
+            "derschimmelreiter-75e27",
+            "derschimmelreiter-a541f",
+            "derschimmelreiter-a55b8",
+            "derschimmelreiter-e6e3e"
+        ]
+    },
+    {
+        "id": "181333",
+        "time": "1758831760088",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page232",
+        "action": "enter",
+        "value": "0.628",
+        "words": "110",
+        "elementids": [
+            "derschimmelreiter-159a0",
+            "derschimmelreiter-3c0db",
+            "derschimmelreiter-3d1f5",
+            "derschimmelreiter-a1f77",
+            "derschimmelreiter-af32c"
+        ]
+    },
+    {
+        "id": "181334",
+        "time": "1758831791118",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page233",
+        "action": "enter",
+        "value": "0.6307",
+        "words": "87",
+        "elementids": [
+            "derschimmelreiter-0dd52",
+            "derschimmelreiter-1af50",
+            "derschimmelreiter-3d1f5",
+            "derschimmelreiter-43782",
+            "derschimmelreiter-608c4",
+            "derschimmelreiter-70a76",
+            "derschimmelreiter-b7cdb",
+            "derschimmelreiter-d99e8",
+            "derschimmelreiter-dd135"
+        ]
+    },
+    {
+        "id": "181335",
+        "time": "1758831819663",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page234",
+        "action": "enter",
+        "value": "0.6334",
+        "words": "98",
+        "elementids": [
+            "derschimmelreiter-70a76",
+            "derschimmelreiter-896e2"
+        ]
+    },
+    {
+        "id": "181336",
+        "time": "1758831850377",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page235",
+        "action": "enter",
+        "value": "0.6361",
+        "words": "105",
+        "elementids": [
+            "derschimmelreiter-00c18",
+            "derschimmelreiter-896e2",
+            "derschimmelreiter-b0c77"
+        ]
+    },
+    {
+        "id": "181337",
+        "time": "1758831884846",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page236",
+        "action": "enter",
+        "value": "0.6388",
+        "words": "105",
+        "elementids": [
+            "derschimmelreiter-00c18",
+            "derschimmelreiter-3b3c7"
+        ]
+    },
+    {
+        "id": "181338",
+        "time": "1758831922499",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page237",
+        "action": "enter",
+        "value": "0.6415",
+        "words": "113",
+        "elementids": [
+            "derschimmelreiter-18ebd",
+            "derschimmelreiter-3b3c7",
+            "derschimmelreiter-8fcc7",
+            "derschimmelreiter-a59dd",
+            "derschimmelreiter-f1c7d"
+        ]
+    },
+    {
+        "id": "181339",
+        "time": "1758831936052",
+        "appid": "869f996746770a79add72edbf36947ad",
+        "session": "PtnmE",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page238",
+        "action": "leave",
+        "value": "0.6388",
+        "words": "113",
+        "elementids": [
+            "derschimmelreiter-18ebd",
+            "derschimmelreiter-3b3c7",
+            "derschimmelreiter-8fcc7",
+            "derschimmelreiter-a59dd",
+            "derschimmelreiter-f1c7d"
+        ]
+    },
+    {
+        "id": "181340",
+        "time": "1758834414262",
+        "appid": "1a118bad237a57b10defa779bc695ded",
+        "session": "9Z3Nu",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
