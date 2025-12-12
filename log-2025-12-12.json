@@ -1,0 +1,222 @@
+[
+    {
+        "id": "185608",
+        "time": "1765499934561",
+        "appid": "e0fdd1f2ba3cc09ce63723968cb53dac",
+        "session": "0Ukbp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "185609",
+        "time": "1765517300065",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "185610",
+        "time": "1765517300076",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "185611",
+        "time": "1765517306478",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "60",
+        "elementids": [
+            "antonreiser-cfba0",
+            "antonreiser-d50bc",
+            "antonreiser-f90d5"
+        ]
+    },
+    {
+        "id": "185612",
+        "time": "1765517308434",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0018",
+        "words": "61",
+        "elementids": [
+            "antonreiser-b228d",
+            "antonreiser-cfba0"
+        ]
+    },
+    {
+        "id": "185613",
+        "time": "1765517317739",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "185614",
+        "time": "1765517324431",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "58",
+        "elementids": [
+            "antonreiser-b228d",
+            "antonreiser-b531e"
+        ]
+    },
+    {
+        "id": "185615",
+        "time": "1765517325665",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "59",
+        "elementids": [
+            "antonreiser-a190f",
+            "antonreiser-b531e",
+            "antonreiser-eac6f"
+        ]
+    },
+    {
+        "id": "185616",
+        "time": "1765517326514",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "65",
+        "elementids": [
+            "antonreiser-08000",
+            "antonreiser-0b0e6",
+            "antonreiser-1defc",
+            "antonreiser-a190f"
+        ]
+    },
+    {
+        "id": "185617",
+        "time": "1765517327265",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0036",
+        "words": "52",
+        "elementids": [
+            "antonreiser-0b0e6",
+            "antonreiser-1510e"
+        ]
+    },
+    {
+        "id": "185618",
+        "time": "1765517327766",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.004",
+        "words": "61",
+        "elementids": [
+            "antonreiser-1510e",
+            "antonreiser-b8881",
+            "antonreiser-c9ab3"
+        ]
+    },
+    {
+        "id": "185619",
+        "time": "1765517328316",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0045",
+        "words": "53",
+        "elementids": [
+            "antonreiser-3e5fd",
+            "antonreiser-a81c5",
+            "antonreiser-b8881",
+            "antonreiser-ca695",
+            "antonreiser-f8ba9"
+        ]
+    },
+    {
+        "id": "185620",
+        "time": "1765517328883",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0049",
+        "words": "53",
+        "elementids": [
+            "antonreiser-161a8",
+            "antonreiser-9fbda",
+            "antonreiser-f8ba9"
+        ]
+    },
+    {
+        "id": "185621",
+        "time": "1765517330036",
+        "appid": "fb59235fc0feee8181dfbde78ec0f9d9",
+        "session": "EboUq",
+        "bereich": "reader_antonreiser",
+        "item": "page11",
+        "action": "leave",
+        "value": "0.0045",
+        "words": "53",
+        "elementids": [
+            "antonreiser-161a8",
+            "antonreiser-9fbda",
+            "antonreiser-f8ba9"
+        ]
+    },
+    {
+        "id": "185622",
+        "time": "1765547558990",
+        "appid": "425061a2e1d845890b9df30bdf0ed89b",
+        "session": "xgdOV",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
