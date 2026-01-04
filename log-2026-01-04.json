@@ -1,0 +1,175 @@
+[
+    {
+        "id": "187034",
+        "time": "1767542812582",
+        "appid": "cddf37659fc6dcfc3e69543d37ff62e0",
+        "session": "QVr03",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187035",
+        "time": "1767547539110",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187036",
+        "time": "1767547542407",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187037",
+        "time": "1767547543802",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187038",
+        "time": "1767547545857",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187039",
+        "time": "1767547546134",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187040",
+        "time": "1767547546340",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187041",
+        "time": "1767547550000",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "reader_briefandenvater",
+        "item": "",
+        "action": "enter",
+        "value": "briefandenvater",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187042",
+        "time": "1767547550899",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "reader_briefandenvater",
+        "item": "page161",
+        "action": "enter",
+        "value": "0.9205",
+        "words": "97",
+        "elementids": [
+            "briefandenvater-2792b",
+            "briefandenvater-35115",
+            "briefandenvater-552bc",
+            "briefandenvater-5ab14"
+        ]
+    },
+    {
+        "id": "187043",
+        "time": "1767547551166",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "reader_briefandenvater",
+        "item": "page162",
+        "action": "enter",
+        "value": "0.9261",
+        "words": "85",
+        "elementids": [
+            "briefandenvater-31ab7",
+            "briefandenvater-39c03",
+            "briefandenvater-5ab14",
+            "briefandenvater-616cb",
+            "briefandenvater-bd775",
+            "briefandenvater-eb22d"
+        ]
+    },
+    {
+        "id": "187044",
+        "time": "1767547555155",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "reader_briefandenvater",
+        "item": "location",
+        "action": "set",
+        "value": "ort-7",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187045",
+        "time": "1767547557797",
+        "appid": "127827848fc1266d2d862afb3e7436b6",
+        "session": "yAKVH",
+        "bereich": "reader_briefandenvater",
+        "item": "page161",
+        "action": "enter",
+        "value": "0.9205",
+        "words": "97",
+        "elementids": [
+            "briefandenvater-2792b",
+            "briefandenvater-35115",
+            "briefandenvater-552bc",
+            "briefandenvater-5ab14"
+        ]
+    },
+    {
+        "id": "187046",
+        "time": "1767556927188",
+        "appid": "887a52b4fb9fe3b5cb9ad57a65597444",
+        "session": "Eg4jx",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
