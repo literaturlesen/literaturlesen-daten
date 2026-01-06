@@ -1,0 +1,104 @@
+[
+    {
+        "id": "187062",
+        "time": "1767695943347",
+        "appid": "aec27189cac3544835c7c068fdbd3ed5",
+        "session": "52Ggm",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187063",
+        "time": "1767695943398",
+        "appid": "aec27189cac3544835c7c068fdbd3ed5",
+        "session": "52Ggm",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187064",
+        "time": "1767695944394",
+        "appid": "aec27189cac3544835c7c068fdbd3ed5",
+        "session": "52Ggm",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0041",
+        "words": "110",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-10fd8",
+            "ausdemlebeneinestaugenichts-384d8",
+            "ausdemlebeneinestaugenichts-38f6a",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-481b4",
+            "ausdemlebeneinestaugenichts-673c6",
+            "ausdemlebeneinestaugenichts-96b74",
+            "ausdemlebeneinestaugenichts-f35d2"
+        ]
+    },
+    {
+        "id": "187065",
+        "time": "1767695944299",
+        "appid": "aec27189cac3544835c7c068fdbd3ed5",
+        "session": "52Ggm",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0082",
+        "words": "110",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-10fd8",
+            "ausdemlebeneinestaugenichts-384d8",
+            "ausdemlebeneinestaugenichts-38f6a",
+            "ausdemlebeneinestaugenichts-46b14",
+            "ausdemlebeneinestaugenichts-481b4",
+            "ausdemlebeneinestaugenichts-673c6",
+            "ausdemlebeneinestaugenichts-96b74",
+            "ausdemlebeneinestaugenichts-f35d2"
+        ]
+    },
+    {
+        "id": "187066",
+        "time": "1767704035401",
+        "appid": "0422841f1e92ee6824fdb4407d6d39e8",
+        "session": "O9l29",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187067",
+        "time": "1767709895802",
+        "appid": "a44ac25d9f52134477a6aaf6d9968007",
+        "session": "pGBhf",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187068",
+        "time": "1767710002808",
+        "appid": "a44ac25d9f52134477a6aaf6d9968007",
+        "session": "pGBhf",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
