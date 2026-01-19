@@ -1,0 +1,157 @@
+[
+    {
+        "id": "187535",
+        "time": "1768814372596",
+        "appid": "1d3ae940410766f753855eb8e883e508",
+        "session": "IQDGX",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187536",
+        "time": "1768814372615",
+        "appid": "1d3ae940410766f753855eb8e883e508",
+        "session": "IQDGX",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187537",
+        "time": "1768814373366",
+        "appid": "1d3ae940410766f753855eb8e883e508",
+        "session": "IQDGX",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.026",
+        "words": "86",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-16b77",
+            "ausdemlebeneinestaugenichts-a3096",
+            "ausdemlebeneinestaugenichts-ab19a",
+            "ausdemlebeneinestaugenichts-f9880"
+        ]
+    },
+    {
+        "id": "187538",
+        "time": "1768814378728",
+        "appid": "1d3ae940410766f753855eb8e883e508",
+        "session": "IQDGX",
+        "bereich": "dashboard",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187539",
+        "time": "1768820835909",
+        "appid": "f5dd3f3b3b0da67352ce348c1df65391",
+        "session": "h29mB",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187540",
+        "time": "1768820835931",
+        "appid": "f5dd3f3b3b0da67352ce348c1df65391",
+        "session": "h29mB",
+        "bereich": "reader_lenz",
+        "item": "",
+        "action": "enter",
+        "value": "lenz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187541",
+        "time": "1768820836595",
+        "appid": "f5dd3f3b3b0da67352ce348c1df65391",
+        "session": "h29mB",
+        "bereich": "reader_lenz",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0204",
+        "words": "79",
+        "elementids": [
+            "lenz-06304",
+            "lenz-24794",
+            "lenz-533b1",
+            "lenz-5ab3a",
+            "lenz-79ed2",
+            "lenz-c9b9d",
+            "lenz-cc49f",
+            "lenz-f5d9b"
+        ]
+    },
+    {
+        "id": "187542",
+        "time": "1768820838259",
+        "appid": "f5dd3f3b3b0da67352ce348c1df65391",
+        "session": "h29mB",
+        "bereich": "reader_lenz",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0102",
+        "words": "79",
+        "elementids": [
+            "lenz-06304",
+            "lenz-24794",
+            "lenz-533b1",
+            "lenz-5ab3a",
+            "lenz-79ed2",
+            "lenz-c9b9d",
+            "lenz-cc49f",
+            "lenz-f5d9b"
+        ]
+    },
+    {
+        "id": "187543",
+        "time": "1768830090437",
+        "appid": "0f4f7e4c40f5a3362beb5cf7d7b37685",
+        "session": "UgLWq",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187544",
+        "time": "1768830095812",
+        "appid": "0f4f7e4c40f5a3362beb5cf7d7b37685",
+        "session": "UgLWq",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187545",
+        "time": "1768830101917",
+        "appid": "0f4f7e4c40f5a3362beb5cf7d7b37685",
+        "session": "UgLWq",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
