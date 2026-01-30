@@ -1,0 +1,130 @@
+[
+    {
+        "id": "187708",
+        "time": "1769768048537",
+        "appid": "67c833a8a2c57687c60436b0e4306a4c",
+        "session": "TTXPa",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187709",
+        "time": "1769768048601",
+        "appid": "67c833a8a2c57687c60436b0e4306a4c",
+        "session": "TTXPa",
+        "bereich": "reader_weststlicherdivan",
+        "item": "",
+        "action": "enter",
+        "value": "weststlicherdivan",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187710",
+        "time": "1769768054859",
+        "appid": "67c833a8a2c57687c60436b0e4306a4c",
+        "session": "TTXPa",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187711",
+        "time": "1769791777508",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "XLhus",
+        "bereich": "reader_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187712",
+        "time": "1769791777498",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "XLhus",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "187713",
+        "time": "1769791778428",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "XLhus",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0109",
+        "words": "141",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "187714",
+        "time": "1769791802932",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "XLhus",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0072",
+        "words": "141",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "187715",
+        "time": "1769792701718",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "wh14E",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "reenter",
+        "value": "0.0072",
+        "words": "141",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "187716",
+        "time": "1769792703752",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "wh14E",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0072",
+        "words": "141",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    }
+]
