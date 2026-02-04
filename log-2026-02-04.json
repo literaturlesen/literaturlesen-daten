@@ -1,0 +1,38 @@
+[
+    {
+        "id": "188107",
+        "time": "1770194702952",
+        "appid": "0e12e68a125795c54492c77f3c67b7b8",
+        "session": "W7TYT",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188108",
+        "time": "1770194702965",
+        "appid": "0e12e68a125795c54492c77f3c67b7b8",
+        "session": "W7TYT",
+        "bereich": "reader_hymnenandienacht",
+        "item": "",
+        "action": "enter",
+        "value": "hymnenandienacht",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188109",
+        "time": "1770194715366",
+        "appid": "0e12e68a125795c54492c77f3c67b7b8",
+        "session": "W7TYT",
+        "bereich": "reader_hymnenandienacht",
+        "item": "page2",
+        "action": "leave",
+        "value": "Infinity",
+        "words": "0",
+        "elementids": []
+    }
+]
