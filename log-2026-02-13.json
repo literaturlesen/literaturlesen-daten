@@ -1,0 +1,1940 @@
+[
+    {
+        "id": "188506",
+        "time": "1770968555831",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "",
+        "action": "enter",
+        "value": "dieaufzeichnungendesmaltelauridsbrigge",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188507",
+        "time": "1770968555817",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188508",
+        "time": "1770968556763",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0283",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188509",
+        "time": "1770968564545",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "location",
+        "action": "set",
+        "value": "ort-2",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188510",
+        "time": "1770968586440",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0272",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-01859",
+            "dieaufzeichnungendesmaltelauridsbrigge-0471b",
+            "dieaufzeichnungendesmaltelauridsbrigge-0917f",
+            "dieaufzeichnungendesmaltelauridsbrigge-18745",
+            "dieaufzeichnungendesmaltelauridsbrigge-1ed1f",
+            "dieaufzeichnungendesmaltelauridsbrigge-5526d",
+            "dieaufzeichnungendesmaltelauridsbrigge-a63fe",
+            "dieaufzeichnungendesmaltelauridsbrigge-b790c",
+            "dieaufzeichnungendesmaltelauridsbrigge-cd60d"
+        ]
+    },
+    {
+        "id": "188511",
+        "time": "1770968588848",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0283",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188512",
+        "time": "1770968650047",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "dqNzZ",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "leave",
+        "value": "0.0272",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188513",
+        "time": "1770969483681",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ltsl0",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "reenter",
+        "value": "0.0272",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188514",
+        "time": "1770969483986",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ltsl0",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "leave",
+        "value": "0.0272",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188515",
+        "time": "1770969496156",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "reenter",
+        "value": "0.0272",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "188516",
+        "time": "1770969502671",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188517",
+        "time": "1770969504279",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-d596d"
+        ]
+    },
+    {
+        "id": "188518",
+        "time": "1770969504679",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0304",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-22bce",
+            "dieaufzeichnungendesmaltelauridsbrigge-9d77a",
+            "dieaufzeichnungendesmaltelauridsbrigge-d596d",
+            "dieaufzeichnungendesmaltelauridsbrigge-d5ed6",
+            "dieaufzeichnungendesmaltelauridsbrigge-df8eb"
+        ]
+    },
+    {
+        "id": "188519",
+        "time": "1770969505078",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0314",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-22bce",
+            "dieaufzeichnungendesmaltelauridsbrigge-761c1",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b18b"
+        ]
+    },
+    {
+        "id": "188520",
+        "time": "1770969505461",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0325",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ecf4",
+            "dieaufzeichnungendesmaltelauridsbrigge-761c1"
+        ]
+    },
+    {
+        "id": "188521",
+        "time": "1770969506106",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0335",
+        "words": "52",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ecf4",
+            "dieaufzeichnungendesmaltelauridsbrigge-a21f0"
+        ]
+    },
+    {
+        "id": "188522",
+        "time": "1770969506505",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0346",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5682a",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fdcd",
+            "dieaufzeichnungendesmaltelauridsbrigge-c15ce"
+        ]
+    },
+    {
+        "id": "188523",
+        "time": "1770969506821",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0356",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0a636",
+            "dieaufzeichnungendesmaltelauridsbrigge-1137d",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fdcd"
+        ]
+    },
+    {
+        "id": "188524",
+        "time": "1770969507470",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.0366",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1137d",
+            "dieaufzeichnungendesmaltelauridsbrigge-2c812",
+            "dieaufzeichnungendesmaltelauridsbrigge-8abb6",
+            "dieaufzeichnungendesmaltelauridsbrigge-b46b5",
+            "dieaufzeichnungendesmaltelauridsbrigge-bb437",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2d8e"
+        ]
+    },
+    {
+        "id": "188525",
+        "time": "1770969508274",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.0377",
+        "words": "69",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b160",
+            "dieaufzeichnungendesmaltelauridsbrigge-b46b5",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0bd4"
+        ]
+    },
+    {
+        "id": "188526",
+        "time": "1770969508901",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0387",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b160",
+            "dieaufzeichnungendesmaltelauridsbrigge-52771",
+            "dieaufzeichnungendesmaltelauridsbrigge-6e0bd",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3876"
+        ]
+    },
+    {
+        "id": "188527",
+        "time": "1770969509485",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.0398",
+        "words": "64",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-4d668",
+            "dieaufzeichnungendesmaltelauridsbrigge-52771",
+            "dieaufzeichnungendesmaltelauridsbrigge-5e6f2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2f8c"
+        ]
+    },
+    {
+        "id": "188528",
+        "time": "1770969510271",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.0408",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-059a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-51646",
+            "dieaufzeichnungendesmaltelauridsbrigge-54238",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2f8c"
+        ]
+    },
+    {
+        "id": "188529",
+        "time": "1770969510540",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0419",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-059a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-0a9bf",
+            "dieaufzeichnungendesmaltelauridsbrigge-25c07",
+            "dieaufzeichnungendesmaltelauridsbrigge-46a5d",
+            "dieaufzeichnungendesmaltelauridsbrigge-f6250"
+        ]
+    },
+    {
+        "id": "188530",
+        "time": "1770969510765",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.0429",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-25c07",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1a21"
+        ]
+    },
+    {
+        "id": "188531",
+        "time": "1770969511838",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.044",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0436d",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c0a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1a21"
+        ]
+    },
+    {
+        "id": "188532",
+        "time": "1770969512138",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.045",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0436d",
+            "dieaufzeichnungendesmaltelauridsbrigge-38cd3",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf2c4"
+        ]
+    },
+    {
+        "id": "188533",
+        "time": "1770969512463",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0461",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1d4f4",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf2c4",
+            "dieaufzeichnungendesmaltelauridsbrigge-e3f8e"
+        ]
+    },
+    {
+        "id": "188534",
+        "time": "1770969512895",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page44",
+        "action": "enter",
+        "value": "0.0471",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-51a62",
+            "dieaufzeichnungendesmaltelauridsbrigge-c6cd8",
+            "dieaufzeichnungendesmaltelauridsbrigge-e3f8e"
+        ]
+    },
+    {
+        "id": "188535",
+        "time": "1770969513311",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0482",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3e60d",
+            "dieaufzeichnungendesmaltelauridsbrigge-4fc4c",
+            "dieaufzeichnungendesmaltelauridsbrigge-51a62",
+            "dieaufzeichnungendesmaltelauridsbrigge-77c55",
+            "dieaufzeichnungendesmaltelauridsbrigge-84a2c"
+        ]
+    },
+    {
+        "id": "188536",
+        "time": "1770969513777",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0492",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-77c55",
+            "dieaufzeichnungendesmaltelauridsbrigge-84c3c",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fc37",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3b21"
+        ]
+    },
+    {
+        "id": "188537",
+        "time": "1770969514177",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.0503",
+        "words": "64",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-05c33",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3b21",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af"
+        ]
+    },
+    {
+        "id": "188538",
+        "time": "1770969514727",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0492",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-77c55",
+            "dieaufzeichnungendesmaltelauridsbrigge-84c3c",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fc37",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3b21"
+        ]
+    },
+    {
+        "id": "188539",
+        "time": "1770969515507",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.0503",
+        "words": "64",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-05c33",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3b21",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af"
+        ]
+    },
+    {
+        "id": "188540",
+        "time": "1770969516157",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0513",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a98ca",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af",
+            "dieaufzeichnungendesmaltelauridsbrigge-ddf0b",
+            "dieaufzeichnungendesmaltelauridsbrigge-f2402",
+            "dieaufzeichnungendesmaltelauridsbrigge-f57b8"
+        ]
+    },
+    {
+        "id": "188541",
+        "time": "1770969537800",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page481",
+        "action": "anstreichen",
+        "value": "39",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188542",
+        "time": "1770969620439",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "ajByg",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page49",
+        "action": "leave",
+        "value": "0.0503",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a98ca",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af",
+            "dieaufzeichnungendesmaltelauridsbrigge-ddf0b",
+            "dieaufzeichnungendesmaltelauridsbrigge-f2402",
+            "dieaufzeichnungendesmaltelauridsbrigge-f57b8"
+        ]
+    },
+    {
+        "id": "188543",
+        "time": "1770969957552",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page49",
+        "action": "reenter",
+        "value": "0.0503",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a98ca",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af",
+            "dieaufzeichnungendesmaltelauridsbrigge-ddf0b",
+            "dieaufzeichnungendesmaltelauridsbrigge-f2402",
+            "dieaufzeichnungendesmaltelauridsbrigge-f57b8"
+        ]
+    },
+    {
+        "id": "188544",
+        "time": "1770969958846",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0534",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1c290",
+            "dieaufzeichnungendesmaltelauridsbrigge-4957c",
+            "dieaufzeichnungendesmaltelauridsbrigge-5b7c9",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d587",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d712",
+            "dieaufzeichnungendesmaltelauridsbrigge-d618d"
+        ]
+    },
+    {
+        "id": "188545",
+        "time": "1770969959279",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0545",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0a0fd",
+            "dieaufzeichnungendesmaltelauridsbrigge-5b7c9",
+            "dieaufzeichnungendesmaltelauridsbrigge-7a834"
+        ]
+    },
+    {
+        "id": "188546",
+        "time": "1770969960177",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page52",
+        "action": "enter",
+        "value": "0.0555",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10242",
+            "dieaufzeichnungendesmaltelauridsbrigge-11d28",
+            "dieaufzeichnungendesmaltelauridsbrigge-26918",
+            "dieaufzeichnungendesmaltelauridsbrigge-33552",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ee4c",
+            "dieaufzeichnungendesmaltelauridsbrigge-cc08b"
+        ]
+    },
+    {
+        "id": "188547",
+        "time": "1770969961592",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page53",
+        "action": "enter",
+        "value": "0.0565",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-11d28",
+            "dieaufzeichnungendesmaltelauridsbrigge-39b10",
+            "dieaufzeichnungendesmaltelauridsbrigge-62aed",
+            "dieaufzeichnungendesmaltelauridsbrigge-66cc4",
+            "dieaufzeichnungendesmaltelauridsbrigge-6fb65",
+            "dieaufzeichnungendesmaltelauridsbrigge-93b69",
+            "dieaufzeichnungendesmaltelauridsbrigge-c86da",
+            "dieaufzeichnungendesmaltelauridsbrigge-e8e76"
+        ]
+    },
+    {
+        "id": "188548",
+        "time": "1770969963222",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page54",
+        "action": "enter",
+        "value": "0.0576",
+        "words": "69",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-60d27",
+            "dieaufzeichnungendesmaltelauridsbrigge-93b69"
+        ]
+    },
+    {
+        "id": "188549",
+        "time": "1770969963842",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.0586",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-13bdb",
+            "dieaufzeichnungendesmaltelauridsbrigge-416ab",
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "188550",
+        "time": "1770969965121",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page54",
+        "action": "enter",
+        "value": "0.0576",
+        "words": "69",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-60d27",
+            "dieaufzeichnungendesmaltelauridsbrigge-93b69"
+        ]
+    },
+    {
+        "id": "188551",
+        "time": "1770969966699",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.0586",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-13bdb",
+            "dieaufzeichnungendesmaltelauridsbrigge-416ab",
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "188552",
+        "time": "1770969976797",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "Q8Czh",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page56",
+        "action": "leave",
+        "value": "0.0576",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-13bdb",
+            "dieaufzeichnungendesmaltelauridsbrigge-416ab",
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "188553",
+        "time": "1770971817661",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188554",
+        "time": "1770971817674",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "",
+        "action": "enter",
+        "value": "dieaufzeichnungendesmaltelauridsbrigge",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188555",
+        "time": "1770971818558",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.0586",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-13bdb",
+            "dieaufzeichnungendesmaltelauridsbrigge-416ab",
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "188556",
+        "time": "1770971824208",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188557",
+        "time": "1770971825549",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page56",
+        "action": "enter",
+        "value": "0.0597",
+        "words": "71",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-973bc",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0dfd"
+        ]
+    },
+    {
+        "id": "188558",
+        "time": "1770971826181",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page57",
+        "action": "enter",
+        "value": "0.0607",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-33ea6",
+            "dieaufzeichnungendesmaltelauridsbrigge-4734e",
+            "dieaufzeichnungendesmaltelauridsbrigge-973bc",
+            "dieaufzeichnungendesmaltelauridsbrigge-bae4a"
+        ]
+    },
+    {
+        "id": "188559",
+        "time": "1770971827179",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.0618",
+        "words": "64",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-132f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-3b25a",
+            "dieaufzeichnungendesmaltelauridsbrigge-41f65",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0fde"
+        ]
+    },
+    {
+        "id": "188560",
+        "time": "1770971828177",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0628",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-139a3",
+            "dieaufzeichnungendesmaltelauridsbrigge-3b25a",
+            "dieaufzeichnungendesmaltelauridsbrigge-3c5db",
+            "dieaufzeichnungendesmaltelauridsbrigge-c01cb"
+        ]
+    },
+    {
+        "id": "188561",
+        "time": "1770971829642",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0639",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ce3b",
+            "dieaufzeichnungendesmaltelauridsbrigge-139a3",
+            "dieaufzeichnungendesmaltelauridsbrigge-1e27d",
+            "dieaufzeichnungendesmaltelauridsbrigge-9ea0f",
+            "dieaufzeichnungendesmaltelauridsbrigge-ef13c"
+        ]
+    },
+    {
+        "id": "188562",
+        "time": "1770971830723",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page61",
+        "action": "enter",
+        "value": "0.0649",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a5985",
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704",
+            "dieaufzeichnungendesmaltelauridsbrigge-ef13c"
+        ]
+    },
+    {
+        "id": "188563",
+        "time": "1770971831938",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page62",
+        "action": "enter",
+        "value": "0.066",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704"
+        ]
+    },
+    {
+        "id": "188564",
+        "time": "1770971833053",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page63",
+        "action": "enter",
+        "value": "0.067",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-15d8d",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d784",
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704"
+        ]
+    },
+    {
+        "id": "188565",
+        "time": "1770971833469",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page64",
+        "action": "enter",
+        "value": "0.0681",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0c325",
+            "dieaufzeichnungendesmaltelauridsbrigge-15296",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d784",
+            "dieaufzeichnungendesmaltelauridsbrigge-87c77",
+            "dieaufzeichnungendesmaltelauridsbrigge-8d600",
+            "dieaufzeichnungendesmaltelauridsbrigge-a2483",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee0a5"
+        ]
+    },
+    {
+        "id": "188566",
+        "time": "1770971834650",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page65",
+        "action": "enter",
+        "value": "0.0691",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-15296",
+            "dieaufzeichnungendesmaltelauridsbrigge-5ef92",
+            "dieaufzeichnungendesmaltelauridsbrigge-75a52",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a557"
+        ]
+    },
+    {
+        "id": "188567",
+        "time": "1770971844673",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0702",
+        "words": "67",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-75a52",
+            "dieaufzeichnungendesmaltelauridsbrigge-801c9",
+            "dieaufzeichnungendesmaltelauridsbrigge-dbd1d",
+            "dieaufzeichnungendesmaltelauridsbrigge-e9eef"
+        ]
+    },
+    {
+        "id": "188568",
+        "time": "1770971845567",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0712",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b0a9",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d718",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d7c8",
+            "dieaufzeichnungendesmaltelauridsbrigge-801c9"
+        ]
+    },
+    {
+        "id": "188569",
+        "time": "1770971847098",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page68",
+        "action": "enter",
+        "value": "0.0723",
+        "words": "71",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b0a9",
+            "dieaufzeichnungendesmaltelauridsbrigge-41649",
+            "dieaufzeichnungendesmaltelauridsbrigge-845cf",
+            "dieaufzeichnungendesmaltelauridsbrigge-86540",
+            "dieaufzeichnungendesmaltelauridsbrigge-8c8c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-a6f6c",
+            "dieaufzeichnungendesmaltelauridsbrigge-efdc5"
+        ]
+    },
+    {
+        "id": "188570",
+        "time": "1770971848246",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0733",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10cb2",
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-41649",
+            "dieaufzeichnungendesmaltelauridsbrigge-66495",
+            "dieaufzeichnungendesmaltelauridsbrigge-7b078"
+        ]
+    },
+    {
+        "id": "188571",
+        "time": "1770971850243",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0743",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4184"
+        ]
+    },
+    {
+        "id": "188572",
+        "time": "1770971852173",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0754",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59a39",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-728c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f1c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-f93ae"
+        ]
+    },
+    {
+        "id": "188573",
+        "time": "1770971856667",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0764",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-20a72",
+            "dieaufzeichnungendesmaltelauridsbrigge-883d3",
+            "dieaufzeichnungendesmaltelauridsbrigge-b4a74"
+        ]
+    },
+    {
+        "id": "188574",
+        "time": "1770971857082",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0754",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59a39",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-728c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f1c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-f93ae"
+        ]
+    },
+    {
+        "id": "188575",
+        "time": "1770971899789",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page711",
+        "action": "lesezeichen",
+        "value": "39",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188576",
+        "time": "1770971902060",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0743",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4184"
+        ]
+    },
+    {
+        "id": "188577",
+        "time": "1770971903607",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0733",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10cb2",
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-41649",
+            "dieaufzeichnungendesmaltelauridsbrigge-66495",
+            "dieaufzeichnungendesmaltelauridsbrigge-7b078"
+        ]
+    },
+    {
+        "id": "188578",
+        "time": "1770971905123",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0743",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4184"
+        ]
+    },
+    {
+        "id": "188579",
+        "time": "1770971905543",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0754",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59a39",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-728c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f1c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-f93ae"
+        ]
+    },
+    {
+        "id": "188580",
+        "time": "1770971906584",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0743",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1b7d6",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4184"
+        ]
+    },
+    {
+        "id": "188581",
+        "time": "1770971909775",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "emotion",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188582",
+        "time": "1770971911879",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0754",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59a39",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-728c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f1c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-f93ae"
+        ]
+    },
+    {
+        "id": "188583",
+        "time": "1770971918965",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page711",
+        "action": "anstreichen",
+        "value": "39",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188584",
+        "time": "1770971924900",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "vr7eK",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188585",
+        "time": "1770973493173",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188586",
+        "time": "1770973493183",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "",
+        "action": "enter",
+        "value": "dieaufzeichnungendesmaltelauridsbrigge",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188587",
+        "time": "1770973494650",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.0754",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59a39",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c4a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-728c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f1c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-f93ae"
+        ]
+    },
+    {
+        "id": "188588",
+        "time": "1770973497068",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188589",
+        "time": "1770973499278",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0764",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-20a72",
+            "dieaufzeichnungendesmaltelauridsbrigge-883d3",
+            "dieaufzeichnungendesmaltelauridsbrigge-b4a74"
+        ]
+    },
+    {
+        "id": "188590",
+        "time": "1770973499937",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0775",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1e126",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf80d",
+            "dieaufzeichnungendesmaltelauridsbrigge-ebed2"
+        ]
+    },
+    {
+        "id": "188591",
+        "time": "1770973500284",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.0785",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-384a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-4c6ba",
+            "dieaufzeichnungendesmaltelauridsbrigge-63a8a",
+            "dieaufzeichnungendesmaltelauridsbrigge-cb05f"
+        ]
+    },
+    {
+        "id": "188592",
+        "time": "1770973500631",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page75",
+        "action": "enter",
+        "value": "0.0796",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0415d",
+            "dieaufzeichnungendesmaltelauridsbrigge-64c2f",
+            "dieaufzeichnungendesmaltelauridsbrigge-b34ea",
+            "dieaufzeichnungendesmaltelauridsbrigge-cb05f"
+        ]
+    },
+    {
+        "id": "188593",
+        "time": "1770973500914",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page76",
+        "action": "enter",
+        "value": "0.0806",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-64c2f",
+            "dieaufzeichnungendesmaltelauridsbrigge-b9157",
+            "dieaufzeichnungendesmaltelauridsbrigge-d39a7",
+            "dieaufzeichnungendesmaltelauridsbrigge-ea73c",
+            "dieaufzeichnungendesmaltelauridsbrigge-fdb3f"
+        ]
+    },
+    {
+        "id": "188594",
+        "time": "1770973501196",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page77",
+        "action": "enter",
+        "value": "0.0817",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9c94d",
+            "dieaufzeichnungendesmaltelauridsbrigge-da957",
+            "dieaufzeichnungendesmaltelauridsbrigge-dffb1",
+            "dieaufzeichnungendesmaltelauridsbrigge-f759a",
+            "dieaufzeichnungendesmaltelauridsbrigge-fdb3f"
+        ]
+    },
+    {
+        "id": "188595",
+        "time": "1770973501757",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page78",
+        "action": "enter",
+        "value": "0.0827",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9c94d",
+            "dieaufzeichnungendesmaltelauridsbrigge-a2f4c",
+            "dieaufzeichnungendesmaltelauridsbrigge-d5d0c",
+            "dieaufzeichnungendesmaltelauridsbrigge-f8526"
+        ]
+    },
+    {
+        "id": "188596",
+        "time": "1770973502529",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.0838",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-2da80",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4d36",
+            "dieaufzeichnungendesmaltelauridsbrigge-fd9c4"
+        ]
+    },
+    {
+        "id": "188597",
+        "time": "1770973502856",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page80",
+        "action": "enter",
+        "value": "0.0848",
+        "words": "52",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-63b88",
+            "dieaufzeichnungendesmaltelauridsbrigge-68f50",
+            "dieaufzeichnungendesmaltelauridsbrigge-6a444",
+            "dieaufzeichnungendesmaltelauridsbrigge-b878d",
+            "dieaufzeichnungendesmaltelauridsbrigge-c3e3d",
+            "dieaufzeichnungendesmaltelauridsbrigge-f4d36"
+        ]
+    },
+    {
+        "id": "188598",
+        "time": "1770973503272",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page81",
+        "action": "enter",
+        "value": "0.0859",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1b4df",
+            "dieaufzeichnungendesmaltelauridsbrigge-a9da1",
+            "dieaufzeichnungendesmaltelauridsbrigge-b878d"
+        ]
+    },
+    {
+        "id": "188599",
+        "time": "1770973504336",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page82",
+        "action": "enter",
+        "value": "0.0869",
+        "words": "68",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-4cda1",
+            "dieaufzeichnungendesmaltelauridsbrigge-a9da1"
+        ]
+    },
+    {
+        "id": "188600",
+        "time": "1770973504786",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page83",
+        "action": "enter",
+        "value": "0.088",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0185d",
+            "dieaufzeichnungendesmaltelauridsbrigge-4cda1",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d429"
+        ]
+    },
+    {
+        "id": "188601",
+        "time": "1770973505352",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page84",
+        "action": "enter",
+        "value": "0.089",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0185d",
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d8e4",
+            "dieaufzeichnungendesmaltelauridsbrigge-526be"
+        ]
+    },
+    {
+        "id": "188602",
+        "time": "1770973505825",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page85",
+        "action": "enter",
+        "value": "0.0901",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188603",
+        "time": "1770973506167",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page86",
+        "action": "enter",
+        "value": "0.0911",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9a947",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188604",
+        "time": "1770973506616",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page87",
+        "action": "enter",
+        "value": "0.0921",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9a947",
+            "dieaufzeichnungendesmaltelauridsbrigge-d7480",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7429"
+        ]
+    },
+    {
+        "id": "188605",
+        "time": "1770973507365",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page88",
+        "action": "enter",
+        "value": "0.0932",
+        "words": "50",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-51432",
+            "dieaufzeichnungendesmaltelauridsbrigge-687a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-98c9d",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7429"
+        ]
+    },
+    {
+        "id": "188606",
+        "time": "1770973508197",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page89",
+        "action": "enter",
+        "value": "0.0942",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad"
+        ]
+    },
+    {
+        "id": "188607",
+        "time": "1770973509445",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page90",
+        "action": "enter",
+        "value": "0.0953",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad",
+            "dieaufzeichnungendesmaltelauridsbrigge-d1c19",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee93a"
+        ]
+    },
+    {
+        "id": "188608",
+        "time": "1770973509894",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.0963",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-447e2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d1c19"
+        ]
+    },
+    {
+        "id": "188609",
+        "time": "1770973510360",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page92",
+        "action": "enter",
+        "value": "0.0974",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-447e2",
+            "dieaufzeichnungendesmaltelauridsbrigge-aac54",
+            "dieaufzeichnungendesmaltelauridsbrigge-f6b14"
+        ]
+    },
+    {
+        "id": "188610",
+        "time": "1770973512824",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page91",
+        "action": "enter",
+        "value": "0.0963",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-447e2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d1c19"
+        ]
+    },
+    {
+        "id": "188611",
+        "time": "1770973514571",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page90",
+        "action": "enter",
+        "value": "0.0953",
+        "words": "60",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad",
+            "dieaufzeichnungendesmaltelauridsbrigge-d1c19",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee93a"
+        ]
+    },
+    {
+        "id": "188612",
+        "time": "1770973515951",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page89",
+        "action": "enter",
+        "value": "0.0942",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad"
+        ]
+    },
+    {
+        "id": "188613",
+        "time": "1770973518997",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page88",
+        "action": "enter",
+        "value": "0.0932",
+        "words": "50",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-51432",
+            "dieaufzeichnungendesmaltelauridsbrigge-687a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-98c9d",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f2ad",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7429"
+        ]
+    },
+    {
+        "id": "188614",
+        "time": "1770973520995",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page87",
+        "action": "enter",
+        "value": "0.0921",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9a947",
+            "dieaufzeichnungendesmaltelauridsbrigge-d7480",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7429"
+        ]
+    },
+    {
+        "id": "188615",
+        "time": "1770973525590",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page86",
+        "action": "enter",
+        "value": "0.0911",
+        "words": "63",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9a947",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188616",
+        "time": "1770973530330",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page85",
+        "action": "enter",
+        "value": "0.0901",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188617",
+        "time": "1770973534526",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page84",
+        "action": "enter",
+        "value": "0.089",
+        "words": "66",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0185d",
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d8e4",
+            "dieaufzeichnungendesmaltelauridsbrigge-526be"
+        ]
+    },
+    {
+        "id": "188618",
+        "time": "1770973539165",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page85",
+        "action": "enter",
+        "value": "0.0901",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188619",
+        "time": "1770973542869",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "3SkL9",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page86",
+        "action": "leave",
+        "value": "0.089",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188620",
+        "time": "1770973809967",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "suemO",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page86",
+        "action": "reenter",
+        "value": "0.089",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188621",
+        "time": "1770973811893",
+        "appid": "2b5db5165a3f190310bec251980b4f4f",
+        "session": "suemO",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page86",
+        "action": "leave",
+        "value": "0.089",
+        "words": "65",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-042f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-731a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-90115",
+            "dieaufzeichnungendesmaltelauridsbrigge-f0174"
+        ]
+    },
+    {
+        "id": "188622",
+        "time": "1770996146858",
+        "appid": "bb08bd246ce43cdc5027208fd5e3984f",
+        "session": "uoBML",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188623",
+        "time": "1770996151956",
+        "appid": "bb08bd246ce43cdc5027208fd5e3984f",
+        "session": "uoBML",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188624",
+        "time": "1770996154349",
+        "appid": "bb08bd246ce43cdc5027208fd5e3984f",
+        "session": "uoBML",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188625",
+        "time": "1771009154494",
+        "appid": "69d22e6b37fb4cc4fa7965fe61fc3181",
+        "session": "zlLA7",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "188626",
+        "time": "1771009228736",
+        "appid": "69d22e6b37fb4cc4fa7965fe61fc3181",
+        "session": "zlLA7",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
