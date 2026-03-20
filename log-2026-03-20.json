@@ -1,0 +1,152 @@
+[
+    {
+        "id": "191245",
+        "time": "1773992993061",
+        "appid": "1431346553b5ccb9de987f5bf679130c",
+        "session": "L1t8a",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191246",
+        "time": "1773992993051",
+        "appid": "1431346553b5ccb9de987f5bf679130c",
+        "session": "L1t8a",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191247",
+        "time": "1773992993993",
+        "appid": "1431346553b5ccb9de987f5bf679130c",
+        "session": "L1t8a",
+        "bereich": "reader_derprozess",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0045",
+        "words": "108",
+        "elementids": [
+            "derprozess-14bb2",
+            "derprozess-22460",
+            "derprozess-2d64d",
+            "derprozess-8f18a",
+            "derprozess-98808",
+            "derprozess-c7211",
+            "derprozess-cdfdd",
+            "derprozess-e3c2f"
+        ]
+    },
+    {
+        "id": "191248",
+        "time": "1773993000072",
+        "appid": "1431346553b5ccb9de987f5bf679130c",
+        "session": "L1t8a",
+        "bereich": "reader_derprozess",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.003",
+        "words": "108",
+        "elementids": [
+            "derprozess-14bb2",
+            "derprozess-22460",
+            "derprozess-2d64d",
+            "derprozess-8f18a",
+            "derprozess-98808",
+            "derprozess-c7211",
+            "derprozess-cdfdd",
+            "derprozess-e3c2f"
+        ]
+    },
+    {
+        "id": "191249",
+        "time": "1773996055202",
+        "appid": "03c8eb36cf462ed4b8787e7e8fc1c001",
+        "session": "jxQ4B",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191250",
+        "time": "1773996317199",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "3l86o",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191251",
+        "time": "1773996330902",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "HdKb5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191252",
+        "time": "1773996332332",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "HdKb5",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191253",
+        "time": "1773996333801",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "HdKb5",
+        "bereich": "datenschutz",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191254",
+        "time": "1773996345684",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "HdKb5",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191255",
+        "time": "1773996346768",
+        "appid": "e1cbc5e0c20c31d6257b3e316cb5f0b9",
+        "session": "HdKb5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
