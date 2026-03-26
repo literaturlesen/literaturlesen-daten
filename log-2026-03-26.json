@@ -1,0 +1,94 @@
+[
+    {
+        "id": "191911",
+        "time": "1774542054477",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "QC2Se",
+        "bereich": "reader_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191912",
+        "time": "1774542054467",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "QC2Se",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191913",
+        "time": "1774542055232",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "QC2Se",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0105",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "191914",
+        "time": "1774542083120",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "QC2Se",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "191915",
+        "time": "1774544726121",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "w1rpA",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "reenter",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "191916",
+        "time": "1774544728692",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "w1rpA",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    }
+]
