@@ -1,0 +1,122 @@
+[
+    {
+        "id": "191974",
+        "time": "1774868178346",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "T8XMY",
+        "bereich": "reader_derprozess",
+        "item": "",
+        "action": "enter",
+        "value": "derprozess",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191975",
+        "time": "1774868178331",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "T8XMY",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191976",
+        "time": "1774868179234",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "T8XMY",
+        "bereich": "reader_derprozess",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "94",
+        "elementids": [
+            "derprozess-03eea",
+            "derprozess-273d1",
+            "derprozess-288ba",
+            "derprozess-8d386",
+            "derprozess-9841b",
+            "derprozess-a747e",
+            "derprozess-a7652",
+            "derprozess-cdfdd",
+            "derprozess-e3c2f",
+            "derprozess-f1cf1",
+            "derprozess-fa411"
+        ]
+    },
+    {
+        "id": "191977",
+        "time": "1774868183089",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "T8XMY",
+        "bereich": "reader_derprozess",
+        "item": "page2",
+        "action": "leave",
+        "value": "0.0017",
+        "words": "94",
+        "elementids": [
+            "derprozess-03eea",
+            "derprozess-273d1",
+            "derprozess-288ba",
+            "derprozess-8d386",
+            "derprozess-9841b",
+            "derprozess-a747e",
+            "derprozess-a7652",
+            "derprozess-cdfdd",
+            "derprozess-e3c2f",
+            "derprozess-f1cf1",
+            "derprozess-fa411"
+        ]
+    },
+    {
+        "id": "191978",
+        "time": "1774868274013",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "VwFQy",
+        "bereich": "reader_derprozess",
+        "item": "page2",
+        "action": "reenter",
+        "value": "0.0017",
+        "words": "94",
+        "elementids": [
+            "derprozess-03eea",
+            "derprozess-273d1",
+            "derprozess-288ba",
+            "derprozess-8d386",
+            "derprozess-9841b",
+            "derprozess-a747e",
+            "derprozess-a7652",
+            "derprozess-cdfdd",
+            "derprozess-e3c2f",
+            "derprozess-f1cf1",
+            "derprozess-fa411"
+        ]
+    },
+    {
+        "id": "191979",
+        "time": "1774868277361",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "VwFQy",
+        "bereich": "reader_derprozess",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "191980",
+        "time": "1774868284596",
+        "appid": "0e26e1bc059c8a7c91db00ac823ffa3e",
+        "session": "VwFQy",
+        "bereich": "projektpartner",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
