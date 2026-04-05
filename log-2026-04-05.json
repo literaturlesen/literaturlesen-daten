@@ -1,0 +1,57 @@
+[
+    {
+        "id": "192044",
+        "time": "1775385147618",
+        "appid": "d52661a4f8c9744205e0bc8ce1731c31",
+        "session": "kUAUw",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "",
+        "action": "enter",
+        "value": "desknabenwunderhorn",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "192045",
+        "time": "1775385147609",
+        "appid": "d52661a4f8c9744205e0bc8ce1731c31",
+        "session": "kUAUw",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "192046",
+        "time": "1775385148851",
+        "appid": "d52661a4f8c9744205e0bc8ce1731c31",
+        "session": "kUAUw",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0008",
+        "words": "96",
+        "elementids": [
+            "desknabenwunderhorn-02ae6",
+            "desknabenwunderhorn-25542",
+            "desknabenwunderhorn-8b660",
+            "desknabenwunderhorn-b998a",
+            "desknabenwunderhorn-bf732",
+            "desknabenwunderhorn-f614c"
+        ]
+    },
+    {
+        "id": "192047",
+        "time": "1775385157049",
+        "appid": "d52661a4f8c9744205e0bc8ce1731c31",
+        "session": "kUAUw",
+        "bereich": "impressum",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
