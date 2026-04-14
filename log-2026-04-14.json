@@ -1,0 +1,431 @@
+[
+    {
+        "id": "192441",
+        "time": "1776199598907",
+        "appid": "da49ab2cf8f1a37df6d213a539d97941",
+        "session": "wjxsV",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "192442",
+        "time": "1776200119441",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "192443",
+        "time": "1776200119450",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "",
+        "action": "enter",
+        "value": "ardinghellounddieglckseligeninseln",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "192444",
+        "time": "1776200120530",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "83",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-05283",
+            "ardinghellounddieglckseligeninseln-21755",
+            "ardinghellounddieglckseligeninseln-27e01",
+            "ardinghellounddieglckseligeninseln-5517f",
+            "ardinghellounddieglckseligeninseln-96bf4",
+            "ardinghellounddieglckseligeninseln-c3238"
+        ]
+    },
+    {
+        "id": "192445",
+        "time": "1776200160339",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0049",
+        "words": "86",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-3b232",
+            "ardinghellounddieglckseligeninseln-4ae3c",
+            "ardinghellounddieglckseligeninseln-7ffa0",
+            "ardinghellounddieglckseligeninseln-b8584",
+            "ardinghellounddieglckseligeninseln-c3238",
+            "ardinghellounddieglckseligeninseln-e62f7",
+            "ardinghellounddieglckseligeninseln-f9194"
+        ]
+    },
+    {
+        "id": "192446",
+        "time": "1776200184604",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0059",
+        "words": "53",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-10c09",
+            "ardinghellounddieglckseligeninseln-33d3c",
+            "ardinghellounddieglckseligeninseln-c7ffb",
+            "ardinghellounddieglckseligeninseln-e62f7"
+        ]
+    },
+    {
+        "id": "192447",
+        "time": "1776200203412",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0069",
+        "words": "95",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-4a0f2",
+            "ardinghellounddieglckseligeninseln-52032",
+            "ardinghellounddieglckseligeninseln-87351",
+            "ardinghellounddieglckseligeninseln-b7451",
+            "ardinghellounddieglckseligeninseln-cfca7",
+            "ardinghellounddieglckseligeninseln-e2667",
+            "ardinghellounddieglckseligeninseln-f9e2d"
+        ]
+    },
+    {
+        "id": "192448",
+        "time": "1776200227629",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "117",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-0d074",
+            "ardinghellounddieglckseligeninseln-17525",
+            "ardinghellounddieglckseligeninseln-37ca1",
+            "ardinghellounddieglckseligeninseln-83df0",
+            "ardinghellounddieglckseligeninseln-af510",
+            "ardinghellounddieglckseligeninseln-cfca7",
+            "ardinghellounddieglckseligeninseln-effcd"
+        ]
+    },
+    {
+        "id": "192449",
+        "time": "1776200251266",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "Cptrk",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page8",
+        "action": "leave",
+        "value": "0.0069",
+        "words": "117",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-0d074",
+            "ardinghellounddieglckseligeninseln-17525",
+            "ardinghellounddieglckseligeninseln-37ca1",
+            "ardinghellounddieglckseligeninseln-83df0",
+            "ardinghellounddieglckseligeninseln-af510",
+            "ardinghellounddieglckseligeninseln-cfca7",
+            "ardinghellounddieglckseligeninseln-effcd"
+        ]
+    },
+    {
+        "id": "192450",
+        "time": "1776200721064",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page8",
+        "action": "reenter",
+        "value": "0.0069",
+        "words": "117",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-0d074",
+            "ardinghellounddieglckseligeninseln-17525",
+            "ardinghellounddieglckseligeninseln-37ca1",
+            "ardinghellounddieglckseligeninseln-83df0",
+            "ardinghellounddieglckseligeninseln-af510",
+            "ardinghellounddieglckseligeninseln-cfca7",
+            "ardinghellounddieglckseligeninseln-effcd"
+        ]
+    },
+    {
+        "id": "192451",
+        "time": "1776200775501",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0098",
+        "words": "95",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-9e9d2",
+            "ardinghellounddieglckseligeninseln-a848e",
+            "ardinghellounddieglckseligeninseln-c6a75",
+            "ardinghellounddieglckseligeninseln-c6d67",
+            "ardinghellounddieglckseligeninseln-e9452"
+        ]
+    },
+    {
+        "id": "192452",
+        "time": "1776200819524",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "106",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-076e6",
+            "ardinghellounddieglckseligeninseln-08e1b",
+            "ardinghellounddieglckseligeninseln-3e930",
+            "ardinghellounddieglckseligeninseln-72ff4",
+            "ardinghellounddieglckseligeninseln-940df",
+            "ardinghellounddieglckseligeninseln-9e9d2",
+            "ardinghellounddieglckseligeninseln-fe7f3"
+        ]
+    },
+    {
+        "id": "192453",
+        "time": "1776200865834",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "102",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-041e7",
+            "ardinghellounddieglckseligeninseln-08e1b",
+            "ardinghellounddieglckseligeninseln-2d2ad",
+            "ardinghellounddieglckseligeninseln-525ad",
+            "ardinghellounddieglckseligeninseln-a74a9",
+            "ardinghellounddieglckseligeninseln-e5a85"
+        ]
+    },
+    {
+        "id": "192454",
+        "time": "1776200904746",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0128",
+        "words": "113",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-2f669",
+            "ardinghellounddieglckseligeninseln-525ad",
+            "ardinghellounddieglckseligeninseln-b44fd",
+            "ardinghellounddieglckseligeninseln-c99ae",
+            "ardinghellounddieglckseligeninseln-f8e97"
+        ]
+    },
+    {
+        "id": "192455",
+        "time": "1776201025135",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "HaPvl",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page13",
+        "action": "leave",
+        "value": "0.0118",
+        "words": "113",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-2f669",
+            "ardinghellounddieglckseligeninseln-525ad",
+            "ardinghellounddieglckseligeninseln-b44fd",
+            "ardinghellounddieglckseligeninseln-c99ae",
+            "ardinghellounddieglckseligeninseln-f8e97"
+        ]
+    },
+    {
+        "id": "192456",
+        "time": "1776201109007",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page13",
+        "action": "reenter",
+        "value": "0.0118",
+        "words": "113",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-2f669",
+            "ardinghellounddieglckseligeninseln-525ad",
+            "ardinghellounddieglckseligeninseln-b44fd",
+            "ardinghellounddieglckseligeninseln-c99ae",
+            "ardinghellounddieglckseligeninseln-f8e97"
+        ]
+    },
+    {
+        "id": "192457",
+        "time": "1776201150546",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0147",
+        "words": "93",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-75f8f",
+            "ardinghellounddieglckseligeninseln-9cd8c",
+            "ardinghellounddieglckseligeninseln-9fe01",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-b30ab",
+            "ardinghellounddieglckseligeninseln-c5b22"
+        ]
+    },
+    {
+        "id": "192458",
+        "time": "1776201181922",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0157",
+        "words": "99",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-35cdc",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-e914c"
+        ]
+    },
+    {
+        "id": "192459",
+        "time": "1776201215730",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0167",
+        "words": "105",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-048f2",
+            "ardinghellounddieglckseligeninseln-2980a",
+            "ardinghellounddieglckseligeninseln-50b2a",
+            "ardinghellounddieglckseligeninseln-8e3b4",
+            "ardinghellounddieglckseligeninseln-ba115",
+            "ardinghellounddieglckseligeninseln-e914c",
+            "ardinghellounddieglckseligeninseln-fab91"
+        ]
+    },
+    {
+        "id": "192460",
+        "time": "1776201247945",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0177",
+        "words": "100",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-09b0f",
+            "ardinghellounddieglckseligeninseln-1b9c1",
+            "ardinghellounddieglckseligeninseln-2980a",
+            "ardinghellounddieglckseligeninseln-29e39",
+            "ardinghellounddieglckseligeninseln-54505",
+            "ardinghellounddieglckseligeninseln-86063",
+            "ardinghellounddieglckseligeninseln-adaaf",
+            "ardinghellounddieglckseligeninseln-fc979"
+        ]
+    },
+    {
+        "id": "192461",
+        "time": "1776201281276",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0187",
+        "words": "97",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-36e09",
+            "ardinghellounddieglckseligeninseln-53e4c",
+            "ardinghellounddieglckseligeninseln-6216e",
+            "ardinghellounddieglckseligeninseln-77d96",
+            "ardinghellounddieglckseligeninseln-9cdb6",
+            "ardinghellounddieglckseligeninseln-adaaf",
+            "ardinghellounddieglckseligeninseln-da804"
+        ]
+    },
+    {
+        "id": "192462",
+        "time": "1776201312341",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0196",
+        "words": "105",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-00af0",
+            "ardinghellounddieglckseligeninseln-042b1",
+            "ardinghellounddieglckseligeninseln-1763f",
+            "ardinghellounddieglckseligeninseln-53e4c",
+            "ardinghellounddieglckseligeninseln-7d5f4",
+            "ardinghellounddieglckseligeninseln-af41e"
+        ]
+    },
+    {
+        "id": "192463",
+        "time": "1776201346936",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "C8APf",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page20",
+        "action": "leave",
+        "value": "0.0187",
+        "words": "105",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-00af0",
+            "ardinghellounddieglckseligeninseln-042b1",
+            "ardinghellounddieglckseligeninseln-1763f",
+            "ardinghellounddieglckseligeninseln-53e4c",
+            "ardinghellounddieglckseligeninseln-7d5f4",
+            "ardinghellounddieglckseligeninseln-af41e"
+        ]
+    },
+    {
+        "id": "192464",
+        "time": "1776201606582",
+        "appid": "e386f6ce289a2ab107dcce521adfdcc0",
+        "session": "WavZ5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
