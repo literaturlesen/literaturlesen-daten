@@ -1,0 +1,72 @@
+[
+    {
+        "id": "193259",
+        "time": "1777790641926",
+        "appid": "b79e4226da4ae61fb0f4a522a5bc8ff8",
+        "session": "BF5mY",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "",
+        "action": "enter",
+        "value": "desknabenwunderhorn",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193260",
+        "time": "1777832021105",
+        "appid": "1a034717851da9a6927a540eb6abefd2",
+        "session": "TAssB",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193261",
+        "time": "1777832021128",
+        "appid": "1a034717851da9a6927a540eb6abefd2",
+        "session": "TAssB",
+        "bereich": "reader_dieruber",
+        "item": "",
+        "action": "enter",
+        "value": "dieruber",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193262",
+        "time": "1777832021937",
+        "appid": "1a034717851da9a6927a540eb6abefd2",
+        "session": "TAssB",
+        "bereich": "reader_dieruber",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0384",
+        "words": "79",
+        "elementids": [
+            "dieruber-029a8",
+            "dieruber-04ede",
+            "dieruber-0913d",
+            "dieruber-0b740",
+            "dieruber-17187",
+            "dieruber-40eb1",
+            "dieruber-41ae5",
+            "dieruber-49cc5",
+            "dieruber-65976",
+            "dieruber-6cf7c",
+            "dieruber-7b13d",
+            "dieruber-934c0",
+            "dieruber-9e096",
+            "dieruber-a2152",
+            "dieruber-a302d",
+            "dieruber-a9b81",
+            "dieruber-be6d9",
+            "dieruber-c8090",
+            "dieruber-dc997",
+            "dieruber-e0aed",
+            "dieruber-ff0cf"
+        ]
+    }
+]
