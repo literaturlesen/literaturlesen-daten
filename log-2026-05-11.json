@@ -1,0 +1,115 @@
+[
+    {
+        "id": "193881",
+        "time": "1778497056015",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "",
+        "action": "enter",
+        "value": "diejudenbuche",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193882",
+        "time": "1778497056002",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193883",
+        "time": "1778497056766",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.3782",
+        "words": "96",
+        "elementids": [
+            "diejudenbuche-09c7b",
+            "diejudenbuche-9c43f",
+            "diejudenbuche-c93ae",
+            "diejudenbuche-f2569"
+        ]
+    },
+    {
+        "id": "193884",
+        "time": "1778497114623",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.3846",
+        "words": "96",
+        "elementids": [
+            "diejudenbuche-09c7b",
+            "diejudenbuche-0f193",
+            "diejudenbuche-74f43",
+            "diejudenbuche-b83b4",
+            "diejudenbuche-fa8b1"
+        ]
+    },
+    {
+        "id": "193885",
+        "time": "1778497118446",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "location",
+        "action": "set",
+        "value": "ort-1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193886",
+        "time": "1778497186197",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193887",
+        "time": "1778497186201",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "",
+        "action": "enter",
+        "value": "diejudenbuche",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "193888",
+        "time": "1778497221119",
+        "appid": "b65a105d2b8369ba057dfd69b1229e55",
+        "session": "znvx5",
+        "bereich": "reader_diejudenbuche",
+        "item": "page60",
+        "action": "leave",
+        "value": "0.3782",
+        "words": "96",
+        "elementids": [
+            "diejudenbuche-09c7b",
+            "diejudenbuche-0f193",
+            "diejudenbuche-74f43",
+            "diejudenbuche-b83b4",
+            "diejudenbuche-fa8b1"
+        ]
+    }
+]
