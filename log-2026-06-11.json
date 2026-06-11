@@ -1,0 +1,148 @@
+[
+    {
+        "id": "195165",
+        "time": "1781128872843",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195166",
+        "time": "1781128876300",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195167",
+        "time": "1781128878107",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195168",
+        "time": "1781128884644",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195169",
+        "time": "1781128904731",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195170",
+        "time": "1781128905273",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195171",
+        "time": "1781128905762",
+        "appid": "1224780e9a2adffdecfb96ea545b3572",
+        "session": "zcCxp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195172",
+        "time": "1781158989297",
+        "appid": "95dc20349f51da8e0bc916e6c70a9177",
+        "session": "c0juw",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195173",
+        "time": "1781158989308",
+        "appid": "95dc20349f51da8e0bc916e6c70a9177",
+        "session": "c0juw",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195174",
+        "time": "1781158990102",
+        "appid": "95dc20349f51da8e0bc916e6c70a9177",
+        "session": "c0juw",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.1042",
+        "words": "97",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-050b6",
+            "ausdemlebeneinestaugenichts-44560",
+            "ausdemlebeneinestaugenichts-93fed",
+            "ausdemlebeneinestaugenichts-b3049",
+            "ausdemlebeneinestaugenichts-d5da3",
+            "ausdemlebeneinestaugenichts-fe292"
+        ]
+    },
+    {
+        "id": "195175",
+        "time": "1781159032321",
+        "appid": "95dc20349f51da8e0bc916e6c70a9177",
+        "session": "c0juw",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page30",
+        "action": "leave",
+        "value": "0.1007",
+        "words": "97",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-050b6",
+            "ausdemlebeneinestaugenichts-44560",
+            "ausdemlebeneinestaugenichts-93fed",
+            "ausdemlebeneinestaugenichts-b3049",
+            "ausdemlebeneinestaugenichts-d5da3",
+            "ausdemlebeneinestaugenichts-fe292"
+        ]
+    }
+]
