@@ -1,0 +1,1719 @@
+[
+    {
+        "id": "195324",
+        "time": "1781512018160",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "reader_buntesteine",
+        "item": "",
+        "action": "enter",
+        "value": "buntesteine",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195325",
+        "time": "1781512018147",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195326",
+        "time": "1781512019300",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "reader_buntesteine",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0148",
+        "words": "110",
+        "elementids": [
+            "buntesteine-87278",
+            "buntesteine-95fe5",
+            "buntesteine-b0f2c"
+        ]
+    },
+    {
+        "id": "195327",
+        "time": "1781512023001",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "reader_buntesteine",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195328",
+        "time": "1781512027226",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195329",
+        "time": "1781512041517",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "Fbeyz",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195330",
+        "time": "1781554107053",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "titelblatt_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195331",
+        "time": "1781554110892",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195332",
+        "time": "1781554129079",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0013",
+        "words": "100",
+        "elementids": [
+            "kinderundhausmrchen-29f84",
+            "kinderundhausmrchen-b5271",
+            "kinderundhausmrchen-ca387"
+        ]
+    },
+    {
+        "id": "195333",
+        "time": "1781554137156",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195334",
+        "time": "1781554139094",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0017",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-33ed6",
+            "kinderundhausmrchen-48d49",
+            "kinderundhausmrchen-58a5e",
+            "kinderundhausmrchen-95fc7"
+        ]
+    },
+    {
+        "id": "195335",
+        "time": "1781554139628",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0022",
+        "words": "111",
+        "elementids": [
+            "kinderundhausmrchen-1f32c",
+            "kinderundhausmrchen-8ba75",
+            "kinderundhausmrchen-92acc",
+            "kinderundhausmrchen-95fc7",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "195336",
+        "time": "1781554140106",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-0ce77",
+            "kinderundhausmrchen-1792b",
+            "kinderundhausmrchen-1af30",
+            "kinderundhausmrchen-e3a0c"
+        ]
+    },
+    {
+        "id": "195337",
+        "time": "1781554140528",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.003",
+        "words": "108",
+        "elementids": [
+            "kinderundhausmrchen-1af30",
+            "kinderundhausmrchen-22619",
+            "kinderundhausmrchen-ce61f",
+            "kinderundhausmrchen-f23e9"
+        ]
+    },
+    {
+        "id": "195338",
+        "time": "1781554141011",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0035",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-27d86",
+            "kinderundhausmrchen-446d4",
+            "kinderundhausmrchen-79aca",
+            "kinderundhausmrchen-ce61f"
+        ]
+    },
+    {
+        "id": "195339",
+        "time": "1781554141510",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "106",
+        "elementids": [
+            "kinderundhausmrchen-446d4",
+            "kinderundhausmrchen-abe94",
+            "kinderundhausmrchen-abef4",
+            "kinderundhausmrchen-e1a94"
+        ]
+    },
+    {
+        "id": "195340",
+        "time": "1781554141910",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0043",
+        "words": "102",
+        "elementids": [
+            "kinderundhausmrchen-14b83",
+            "kinderundhausmrchen-3bf17",
+            "kinderundhausmrchen-93b7e",
+            "kinderundhausmrchen-e1a94",
+            "kinderundhausmrchen-f11a6"
+        ]
+    },
+    {
+        "id": "195341",
+        "time": "1781554142328",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0048",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-14b83",
+            "kinderundhausmrchen-9efa9",
+            "kinderundhausmrchen-a2c41",
+            "kinderundhausmrchen-e24c4"
+        ]
+    },
+    {
+        "id": "195342",
+        "time": "1781554142944",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0052",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-47db0",
+            "kinderundhausmrchen-48bd5",
+            "kinderundhausmrchen-e24c4",
+            "kinderundhausmrchen-e8629"
+        ]
+    },
+    {
+        "id": "195343",
+        "time": "1781554143395",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0056",
+        "words": "102",
+        "elementids": [
+            "kinderundhausmrchen-1d445",
+            "kinderundhausmrchen-22898",
+            "kinderundhausmrchen-2ea3c",
+            "kinderundhausmrchen-338bf",
+            "kinderundhausmrchen-379ba",
+            "kinderundhausmrchen-48bd5",
+            "kinderundhausmrchen-7d4ac",
+            "kinderundhausmrchen-a4ff3",
+            "kinderundhausmrchen-d5722"
+        ]
+    },
+    {
+        "id": "195344",
+        "time": "1781554143861",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0061",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-6897e",
+            "kinderundhausmrchen-80cf2",
+            "kinderundhausmrchen-a4ff3",
+            "kinderundhausmrchen-dd2ef"
+        ]
+    },
+    {
+        "id": "195345",
+        "time": "1781554144327",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0065",
+        "words": "87",
+        "elementids": [
+            "kinderundhausmrchen-54293",
+            "kinderundhausmrchen-6897e",
+            "kinderundhausmrchen-a9c18",
+            "kinderundhausmrchen-b1180"
+        ]
+    },
+    {
+        "id": "195346",
+        "time": "1781554144795",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0069",
+        "words": "103",
+        "elementids": [
+            "kinderundhausmrchen-321ee",
+            "kinderundhausmrchen-54293",
+            "kinderundhausmrchen-ce5c9",
+            "kinderundhausmrchen-d451b"
+        ]
+    },
+    {
+        "id": "195347",
+        "time": "1781554145161",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0073",
+        "words": "96",
+        "elementids": [
+            "kinderundhausmrchen-31681",
+            "kinderundhausmrchen-45000",
+            "kinderundhausmrchen-bd5aa",
+            "kinderundhausmrchen-d451b",
+            "kinderundhausmrchen-ee51a"
+        ]
+    },
+    {
+        "id": "195348",
+        "time": "1781554145628",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0078",
+        "words": "106",
+        "elementids": [
+            "kinderundhausmrchen-1c348",
+            "kinderundhausmrchen-31681",
+            "kinderundhausmrchen-51445",
+            "kinderundhausmrchen-5da45",
+            "kinderundhausmrchen-c37a5"
+        ]
+    },
+    {
+        "id": "195349",
+        "time": "1781554145994",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0082",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-1c348",
+            "kinderundhausmrchen-1eb6b",
+            "kinderundhausmrchen-a9bd9",
+            "kinderundhausmrchen-c914b"
+        ]
+    },
+    {
+        "id": "195350",
+        "time": "1781554146594",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0086",
+        "words": "105",
+        "elementids": [
+            "kinderundhausmrchen-1b2e9",
+            "kinderundhausmrchen-41f19",
+            "kinderundhausmrchen-a9bd9",
+            "kinderundhausmrchen-ea5fc"
+        ]
+    },
+    {
+        "id": "195351",
+        "time": "1781554147061",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0091",
+        "words": "90",
+        "elementids": [
+            "kinderundhausmrchen-5f9fa",
+            "kinderundhausmrchen-6aee6",
+            "kinderundhausmrchen-ae027",
+            "kinderundhausmrchen-dc00f",
+            "kinderundhausmrchen-ea5fc"
+        ]
+    },
+    {
+        "id": "195352",
+        "time": "1781554147528",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0095",
+        "words": "99",
+        "elementids": [
+            "kinderundhausmrchen-4d7d0",
+            "kinderundhausmrchen-6aee6",
+            "kinderundhausmrchen-b94d0",
+            "kinderundhausmrchen-cb1c9"
+        ]
+    },
+    {
+        "id": "195353",
+        "time": "1781554147944",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0099",
+        "words": "93",
+        "elementids": [
+            "kinderundhausmrchen-759cb",
+            "kinderundhausmrchen-7a815",
+            "kinderundhausmrchen-950e4",
+            "kinderundhausmrchen-cb1c9",
+            "kinderundhausmrchen-ec441"
+        ]
+    },
+    {
+        "id": "195354",
+        "time": "1781554148313",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0104",
+        "words": "97",
+        "elementids": [
+            "kinderundhausmrchen-1afe8",
+            "kinderundhausmrchen-1cdb1",
+            "kinderundhausmrchen-950e4",
+            "kinderundhausmrchen-a7590"
+        ]
+    },
+    {
+        "id": "195355",
+        "time": "1781554157680",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195356",
+        "time": "1781554170540",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0108",
+        "words": "118",
+        "elementids": [
+            "kinderundhausmrchen-3b209",
+            "kinderundhausmrchen-81c30",
+            "kinderundhausmrchen-a7590"
+        ]
+    },
+    {
+        "id": "195357",
+        "time": "1781554171191",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0112",
+        "words": "110",
+        "elementids": [
+            "kinderundhausmrchen-04d9e",
+            "kinderundhausmrchen-3b209",
+            "kinderundhausmrchen-7a22a",
+            "kinderundhausmrchen-a39ad",
+            "kinderundhausmrchen-a4629",
+            "kinderundhausmrchen-d25af"
+        ]
+    },
+    {
+        "id": "195358",
+        "time": "1781554171742",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0117",
+        "words": "61",
+        "elementids": [
+            "kinderundhausmrchen-04d9e",
+            "kinderundhausmrchen-97bb2",
+            "kinderundhausmrchen-c6624"
+        ]
+    },
+    {
+        "id": "195359",
+        "time": "1781554172674",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0121",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-34525",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-798dc",
+            "kinderundhausmrchen-95e33",
+            "kinderundhausmrchen-a2d8a",
+            "kinderundhausmrchen-a57fe",
+            "kinderundhausmrchen-a5ad8"
+        ]
+    },
+    {
+        "id": "195360",
+        "time": "1781554173907",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0125",
+        "words": "77",
+        "elementids": [
+            "kinderundhausmrchen-28db6",
+            "kinderundhausmrchen-45ca6",
+            "kinderundhausmrchen-5dde2",
+            "kinderundhausmrchen-6a3d1",
+            "kinderundhausmrchen-c3666",
+            "kinderundhausmrchen-caf34",
+            "kinderundhausmrchen-d313a"
+        ]
+    },
+    {
+        "id": "195361",
+        "time": "1781554174620",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.013",
+        "words": "120",
+        "elementids": [
+            "kinderundhausmrchen-1d5de",
+            "kinderundhausmrchen-5b4a6",
+            "kinderundhausmrchen-d5cfc",
+            "kinderundhausmrchen-f1b11"
+        ]
+    },
+    {
+        "id": "195362",
+        "time": "1781554175674",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0134",
+        "words": "121",
+        "elementids": [
+            "kinderundhausmrchen-0ffa1",
+            "kinderundhausmrchen-2ae11",
+            "kinderundhausmrchen-5092f",
+            "kinderundhausmrchen-58296",
+            "kinderundhausmrchen-6b7ec",
+            "kinderundhausmrchen-9918d"
+        ]
+    },
+    {
+        "id": "195363",
+        "time": "1781554176424",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0138",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-3d8ba",
+            "kinderundhausmrchen-5092f",
+            "kinderundhausmrchen-53572",
+            "kinderundhausmrchen-82af9",
+            "kinderundhausmrchen-a8a0f"
+        ]
+    },
+    {
+        "id": "195364",
+        "time": "1781554177007",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "104",
+        "elementids": [
+            "kinderundhausmrchen-22810",
+            "kinderundhausmrchen-2534f",
+            "kinderundhausmrchen-3d8ba",
+            "kinderundhausmrchen-d970e",
+            "kinderundhausmrchen-ee907"
+        ]
+    },
+    {
+        "id": "195365",
+        "time": "1781554177407",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0147",
+        "words": "108",
+        "elementids": [
+            "kinderundhausmrchen-04947",
+            "kinderundhausmrchen-08188",
+            "kinderundhausmrchen-118ed",
+            "kinderundhausmrchen-42e75",
+            "kinderundhausmrchen-ee907"
+        ]
+    },
+    {
+        "id": "195366",
+        "time": "1781554177840",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.0151",
+        "words": "129",
+        "elementids": [
+            "kinderundhausmrchen-04947",
+            "kinderundhausmrchen-180eb",
+            "kinderundhausmrchen-1d75b",
+            "kinderundhausmrchen-24c59",
+            "kinderundhausmrchen-93651",
+            "kinderundhausmrchen-ba9d1",
+            "kinderundhausmrchen-d55f1",
+            "kinderundhausmrchen-ed9ff",
+            "kinderundhausmrchen-f7e55"
+        ]
+    },
+    {
+        "id": "195367",
+        "time": "1781554178274",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.0156",
+        "words": "98",
+        "elementids": [
+            "kinderundhausmrchen-06aa1",
+            "kinderundhausmrchen-09532",
+            "kinderundhausmrchen-1afa1",
+            "kinderundhausmrchen-338cd",
+            "kinderundhausmrchen-39ab9",
+            "kinderundhausmrchen-4b902",
+            "kinderundhausmrchen-52a56",
+            "kinderundhausmrchen-5a7b1",
+            "kinderundhausmrchen-8fb05",
+            "kinderundhausmrchen-90aeb",
+            "kinderundhausmrchen-91df9",
+            "kinderundhausmrchen-d1cbe",
+            "kinderundhausmrchen-d4cc3",
+            "kinderundhausmrchen-ed9ff"
+        ]
+    },
+    {
+        "id": "195368",
+        "time": "1781554178674",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.016",
+        "words": "124",
+        "elementids": [
+            "kinderundhausmrchen-0a3fe",
+            "kinderundhausmrchen-5a7b1",
+            "kinderundhausmrchen-86766",
+            "kinderundhausmrchen-8e0a7",
+            "kinderundhausmrchen-8ef92",
+            "kinderundhausmrchen-d17e5",
+            "kinderundhausmrchen-ddb25"
+        ]
+    },
+    {
+        "id": "195369",
+        "time": "1781554179273",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.0164",
+        "words": "129",
+        "elementids": [
+            "kinderundhausmrchen-134e5",
+            "kinderundhausmrchen-1dca8",
+            "kinderundhausmrchen-2ff7d",
+            "kinderundhausmrchen-3d57a",
+            "kinderundhausmrchen-62938",
+            "kinderundhausmrchen-69619",
+            "kinderundhausmrchen-ddb25"
+        ]
+    },
+    {
+        "id": "195370",
+        "time": "1781554179740",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.0169",
+        "words": "120",
+        "elementids": [
+            "kinderundhausmrchen-0bde2",
+            "kinderundhausmrchen-15913",
+            "kinderundhausmrchen-69619",
+            "kinderundhausmrchen-a8333"
+        ]
+    },
+    {
+        "id": "195371",
+        "time": "1781554194330",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "second-menu",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195372",
+        "time": "1781554224412",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "second-menu",
+        "item": "search",
+        "action": "",
+        "value": "Sieben Br\u00c3\u00bcder",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195373",
+        "time": "1781554234770",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "second-menu",
+        "item": "page378",
+        "action": "enter",
+        "value": "0.1638",
+        "words": "114",
+        "elementids": [
+            "kinderundhausmrchen-6000f",
+            "kinderundhausmrchen-c0073",
+            "kinderundhausmrchen-ceda9",
+            "kinderundhausmrchen-e2242",
+            "kinderundhausmrchen-f1bc3"
+        ]
+    },
+    {
+        "id": "195374",
+        "time": "1781554239929",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "",
+        "action": "enter",
+        "value": "kinderundhausmrchen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195375",
+        "time": "1781554240988",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "search",
+        "action": "",
+        "value": "Sieben Br\u00c3\u00bcder",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195376",
+        "time": "1781554248015",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page378",
+        "action": "enter",
+        "value": "0.1638",
+        "words": "114",
+        "elementids": [
+            "kinderundhausmrchen-6000f",
+            "kinderundhausmrchen-c0073",
+            "kinderundhausmrchen-ceda9",
+            "kinderundhausmrchen-e2242",
+            "kinderundhausmrchen-f1bc3"
+        ]
+    },
+    {
+        "id": "195377",
+        "time": "1781554251852",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page377",
+        "action": "enter",
+        "value": "0.1634",
+        "words": "109",
+        "elementids": [
+            "kinderundhausmrchen-1ff0c",
+            "kinderundhausmrchen-7a190",
+            "kinderundhausmrchen-bbc60",
+            "kinderundhausmrchen-ceda9",
+            "kinderundhausmrchen-e861a"
+        ]
+    },
+    {
+        "id": "195378",
+        "time": "1781554252748",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page376",
+        "action": "enter",
+        "value": "0.1629",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-1ff0c",
+            "kinderundhausmrchen-4490a",
+            "kinderundhausmrchen-6a9ed",
+            "kinderundhausmrchen-c6037",
+            "kinderundhausmrchen-c709d",
+            "kinderundhausmrchen-cffa6",
+            "kinderundhausmrchen-e0afd"
+        ]
+    },
+    {
+        "id": "195379",
+        "time": "1781554271043",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "ZRCxB",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page377",
+        "action": "leave",
+        "value": "0.1625",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-1ff0c",
+            "kinderundhausmrchen-4490a",
+            "kinderundhausmrchen-6a9ed",
+            "kinderundhausmrchen-c6037",
+            "kinderundhausmrchen-c709d",
+            "kinderundhausmrchen-cffa6",
+            "kinderundhausmrchen-e0afd"
+        ]
+    },
+    {
+        "id": "195380",
+        "time": "1781554343462",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page377",
+        "action": "reenter",
+        "value": "0.1625",
+        "words": "113",
+        "elementids": [
+            "kinderundhausmrchen-1ff0c",
+            "kinderundhausmrchen-4490a",
+            "kinderundhausmrchen-6a9ed",
+            "kinderundhausmrchen-c6037",
+            "kinderundhausmrchen-c709d",
+            "kinderundhausmrchen-cffa6",
+            "kinderundhausmrchen-e0afd"
+        ]
+    },
+    {
+        "id": "195381",
+        "time": "1781554353427",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195382",
+        "time": "1781554383027",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page377",
+        "action": "enter",
+        "value": "0.1634",
+        "words": "109",
+        "elementids": [
+            "kinderundhausmrchen-1ff0c",
+            "kinderundhausmrchen-7a190",
+            "kinderundhausmrchen-bbc60",
+            "kinderundhausmrchen-ceda9",
+            "kinderundhausmrchen-e861a"
+        ]
+    },
+    {
+        "id": "195383",
+        "time": "1781554403168",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page378",
+        "action": "enter",
+        "value": "0.1638",
+        "words": "114",
+        "elementids": [
+            "kinderundhausmrchen-6000f",
+            "kinderundhausmrchen-c0073",
+            "kinderundhausmrchen-ceda9",
+            "kinderundhausmrchen-e2242",
+            "kinderundhausmrchen-f1bc3"
+        ]
+    },
+    {
+        "id": "195384",
+        "time": "1781554430841",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page379",
+        "action": "enter",
+        "value": "0.1642",
+        "words": "128",
+        "elementids": [
+            "kinderundhausmrchen-01109",
+            "kinderundhausmrchen-161ee",
+            "kinderundhausmrchen-21256",
+            "kinderundhausmrchen-70bab",
+            "kinderundhausmrchen-9b980",
+            "kinderundhausmrchen-c7783",
+            "kinderundhausmrchen-f1bc3"
+        ]
+    },
+    {
+        "id": "195385",
+        "time": "1781554459526",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page380",
+        "action": "enter",
+        "value": "0.1646",
+        "words": "111",
+        "elementids": [
+            "kinderundhausmrchen-21256",
+            "kinderundhausmrchen-72176",
+            "kinderundhausmrchen-8d82f",
+            "kinderundhausmrchen-8d860",
+            "kinderundhausmrchen-a31f9",
+            "kinderundhausmrchen-cf4b9"
+        ]
+    },
+    {
+        "id": "195386",
+        "time": "1781554485083",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page381",
+        "action": "enter",
+        "value": "0.1651",
+        "words": "118",
+        "elementids": [
+            "kinderundhausmrchen-1c506",
+            "kinderundhausmrchen-29474",
+            "kinderundhausmrchen-2d054",
+            "kinderundhausmrchen-5c918",
+            "kinderundhausmrchen-a31f9",
+            "kinderundhausmrchen-a5977"
+        ]
+    },
+    {
+        "id": "195387",
+        "time": "1781554510718",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page382",
+        "action": "enter",
+        "value": "0.1655",
+        "words": "117",
+        "elementids": [
+            "kinderundhausmrchen-29474",
+            "kinderundhausmrchen-4e2af",
+            "kinderundhausmrchen-8fd19",
+            "kinderundhausmrchen-92cb4",
+            "kinderundhausmrchen-a0ec3",
+            "kinderundhausmrchen-af1d6",
+            "kinderundhausmrchen-b3691",
+            "kinderundhausmrchen-d77fa",
+            "kinderundhausmrchen-e5be3",
+            "kinderundhausmrchen-f4e28"
+        ]
+    },
+    {
+        "id": "195388",
+        "time": "1781554531487",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page383",
+        "action": "enter",
+        "value": "0.1659",
+        "words": "25",
+        "elementids": [
+            "kinderundhausmrchen-a0ec3",
+            "kinderundhausmrchen-ff891"
+        ]
+    },
+    {
+        "id": "195389",
+        "time": "1781554538064",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page384",
+        "action": "enter",
+        "value": "0.1664",
+        "words": "115",
+        "elementids": [
+            "kinderundhausmrchen-265c6",
+            "kinderundhausmrchen-42c6d",
+            "kinderundhausmrchen-63691",
+            "kinderundhausmrchen-6dfaa",
+            "kinderundhausmrchen-a1399",
+            "kinderundhausmrchen-bf045",
+            "kinderundhausmrchen-feab3"
+        ]
+    },
+    {
+        "id": "195390",
+        "time": "1781554541184",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "9wWfP",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page385",
+        "action": "leave",
+        "value": "0.1659",
+        "words": "115",
+        "elementids": [
+            "kinderundhausmrchen-265c6",
+            "kinderundhausmrchen-42c6d",
+            "kinderundhausmrchen-63691",
+            "kinderundhausmrchen-6dfaa",
+            "kinderundhausmrchen-a1399",
+            "kinderundhausmrchen-bf045",
+            "kinderundhausmrchen-feab3"
+        ]
+    },
+    {
+        "id": "195391",
+        "time": "1781554541322",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_kinderundhausmrchen",
+        "item": "page385",
+        "action": "reenter",
+        "value": "0.1659",
+        "words": "115",
+        "elementids": [
+            "kinderundhausmrchen-265c6",
+            "kinderundhausmrchen-42c6d",
+            "kinderundhausmrchen-63691",
+            "kinderundhausmrchen-6dfaa",
+            "kinderundhausmrchen-a1399",
+            "kinderundhausmrchen-bf045",
+            "kinderundhausmrchen-feab3"
+        ]
+    },
+    {
+        "id": "195392",
+        "time": "1781554544281",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195393",
+        "time": "1781554545186",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195394",
+        "time": "1781554558027",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "titelblatt_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195395",
+        "time": "1781554561154",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195396",
+        "time": "1781554561800",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.1458",
+        "words": "24",
+        "elementids": [
+            "dasjahrderseele-63761",
+            "dasjahrderseele-8566c",
+            "dasjahrderseele-ab195",
+            "dasjahrderseele-cfedc-6",
+            "dasjahrderseele-ee30d",
+            "dasjahrderseele-graphic-d914f"
+        ]
+    },
+    {
+        "id": "195397",
+        "time": "1781554566019",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195398",
+        "time": "1781554574677",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.1667",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1a07a",
+            "dasjahrderseele-72cac",
+            "dasjahrderseele-8cd36",
+            "dasjahrderseele-b175d",
+            "dasjahrderseele-cfedc-7",
+            "dasjahrderseele-d04aa",
+            "dasjahrderseele-graphic-deb39"
+        ]
+    },
+    {
+        "id": "195399",
+        "time": "1781554577240",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.1458",
+        "words": "24",
+        "elementids": [
+            "dasjahrderseele-63761",
+            "dasjahrderseele-8566c",
+            "dasjahrderseele-ab195",
+            "dasjahrderseele-cfedc-6",
+            "dasjahrderseele-ee30d",
+            "dasjahrderseele-graphic-d914f"
+        ]
+    },
+    {
+        "id": "195400",
+        "time": "1781554577989",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.1667",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1a07a",
+            "dasjahrderseele-72cac",
+            "dasjahrderseele-8cd36",
+            "dasjahrderseele-b175d",
+            "dasjahrderseele-cfedc-7",
+            "dasjahrderseele-d04aa",
+            "dasjahrderseele-graphic-deb39"
+        ]
+    },
+    {
+        "id": "195401",
+        "time": "1781554578393",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.1875",
+        "words": "23",
+        "elementids": [
+            "dasjahrderseele-13993",
+            "dasjahrderseele-6c6d0",
+            "dasjahrderseele-a5081",
+            "dasjahrderseele-cfedc-8",
+            "dasjahrderseele-f80bd",
+            "dasjahrderseele-graphic-6335b"
+        ]
+    },
+    {
+        "id": "195402",
+        "time": "1781554583775",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_dasjahrderseele",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195403",
+        "time": "1781554595609",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195404",
+        "time": "1781554597849",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195405",
+        "time": "1781554604474",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "titelblatt_peterschlemihlswundersamegeschichte",
+        "item": "",
+        "action": "enter",
+        "value": "peterschlemihlswundersamegeschichte",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195406",
+        "time": "1781554605971",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "",
+        "action": "enter",
+        "value": "peterschlemihlswundersamegeschichte",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195407",
+        "time": "1781554609590",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "79",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-170ab",
+            "peterschlemihlswundersamegeschichte-34de6",
+            "peterschlemihlswundersamegeschichte-50ac4",
+            "peterschlemihlswundersamegeschichte-617d4",
+            "peterschlemihlswundersamegeschichte-7c984",
+            "peterschlemihlswundersamegeschichte-9f181",
+            "peterschlemihlswundersamegeschichte-b3ee4",
+            "peterschlemihlswundersamegeschichte-bd9b2",
+            "peterschlemihlswundersamegeschichte-beb99",
+            "peterschlemihlswundersamegeschichte-c28b3",
+            "peterschlemihlswundersamegeschichte-dca4f",
+            "peterschlemihlswundersamegeschichte-e8621",
+            "peterschlemihlswundersamegeschichte-fdeaa",
+            "peterschlemihlswundersamegeschichte-fe49f"
+        ]
+    },
+    {
+        "id": "195408",
+        "time": "1781554613788",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "195409",
+        "time": "1781554614615",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0095",
+        "words": "67",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-0266c",
+            "peterschlemihlswundersamegeschichte-06246",
+            "peterschlemihlswundersamegeschichte-1fbd3",
+            "peterschlemihlswundersamegeschichte-21250",
+            "peterschlemihlswundersamegeschichte-6fe1a",
+            "peterschlemihlswundersamegeschichte-811c6",
+            "peterschlemihlswundersamegeschichte-a5707",
+            "peterschlemihlswundersamegeschichte-b330c",
+            "peterschlemihlswundersamegeschichte-c61a8",
+            "peterschlemihlswundersamegeschichte-c66f0",
+            "peterschlemihlswundersamegeschichte-d1658",
+            "peterschlemihlswundersamegeschichte-ecd86"
+        ]
+    },
+    {
+        "id": "195410",
+        "time": "1781554633505",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0143",
+        "words": "79",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-170ab",
+            "peterschlemihlswundersamegeschichte-34de6",
+            "peterschlemihlswundersamegeschichte-50ac4",
+            "peterschlemihlswundersamegeschichte-617d4",
+            "peterschlemihlswundersamegeschichte-7c984",
+            "peterschlemihlswundersamegeschichte-9f181",
+            "peterschlemihlswundersamegeschichte-b3ee4",
+            "peterschlemihlswundersamegeschichte-bd9b2",
+            "peterschlemihlswundersamegeschichte-beb99",
+            "peterschlemihlswundersamegeschichte-c28b3",
+            "peterschlemihlswundersamegeschichte-dca4f",
+            "peterschlemihlswundersamegeschichte-e8621",
+            "peterschlemihlswundersamegeschichte-fdeaa",
+            "peterschlemihlswundersamegeschichte-fe49f"
+        ]
+    },
+    {
+        "id": "195411",
+        "time": "1781554665764",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.019",
+        "words": "75",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-04244",
+            "peterschlemihlswundersamegeschichte-0e8a8",
+            "peterschlemihlswundersamegeschichte-1f88b",
+            "peterschlemihlswundersamegeschichte-23c81",
+            "peterschlemihlswundersamegeschichte-262bf",
+            "peterschlemihlswundersamegeschichte-2b817",
+            "peterschlemihlswundersamegeschichte-3d23a",
+            "peterschlemihlswundersamegeschichte-4a130",
+            "peterschlemihlswundersamegeschichte-65d8e",
+            "peterschlemihlswundersamegeschichte-7073a",
+            "peterschlemihlswundersamegeschichte-798f8",
+            "peterschlemihlswundersamegeschichte-8bb3b",
+            "peterschlemihlswundersamegeschichte-bcd8b",
+            "peterschlemihlswundersamegeschichte-beb99",
+            "peterschlemihlswundersamegeschichte-ec076",
+            "peterschlemihlswundersamegeschichte-fb5d7"
+        ]
+    },
+    {
+        "id": "195412",
+        "time": "1781554699510",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0238",
+        "words": "61",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-3d4d3",
+            "peterschlemihlswundersamegeschichte-6319c",
+            "peterschlemihlswundersamegeschichte-90a28",
+            "peterschlemihlswundersamegeschichte-927e8",
+            "peterschlemihlswundersamegeschichte-a743d",
+            "peterschlemihlswundersamegeschichte-bef24",
+            "peterschlemihlswundersamegeschichte-c5774",
+            "peterschlemihlswundersamegeschichte-c86f9",
+            "peterschlemihlswundersamegeschichte-d0a55",
+            "peterschlemihlswundersamegeschichte-d3d05",
+            "peterschlemihlswundersamegeschichte-d6685",
+            "peterschlemihlswundersamegeschichte-f397d",
+            "peterschlemihlswundersamegeschichte-f5064"
+        ]
+    },
+    {
+        "id": "195413",
+        "time": "1781554721780",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0286",
+        "words": "115",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-403da",
+            "peterschlemihlswundersamegeschichte-86ad0",
+            "peterschlemihlswundersamegeschichte-9805e",
+            "peterschlemihlswundersamegeschichte-9d92c",
+            "peterschlemihlswundersamegeschichte-f9186"
+        ]
+    },
+    {
+        "id": "195414",
+        "time": "1781554769613",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0333",
+        "words": "123",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-04cb2",
+            "peterschlemihlswundersamegeschichte-23838",
+            "peterschlemihlswundersamegeschichte-23ae6",
+            "peterschlemihlswundersamegeschichte-8ced8",
+            "peterschlemihlswundersamegeschichte-9805e"
+        ]
+    },
+    {
+        "id": "195415",
+        "time": "1781554809753",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0381",
+        "words": "106",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-1a421",
+            "peterschlemihlswundersamegeschichte-23ae6",
+            "peterschlemihlswundersamegeschichte-4fddd",
+            "peterschlemihlswundersamegeschichte-986e6",
+            "peterschlemihlswundersamegeschichte-c98f7",
+            "peterschlemihlswundersamegeschichte-dd357"
+        ]
+    },
+    {
+        "id": "195416",
+        "time": "1781554836785",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0429",
+        "words": "96",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-3c8d3",
+            "peterschlemihlswundersamegeschichte-4e80d",
+            "peterschlemihlswundersamegeschichte-4fddd",
+            "peterschlemihlswundersamegeschichte-82544",
+            "peterschlemihlswundersamegeschichte-a39b0",
+            "peterschlemihlswundersamegeschichte-b8ad6",
+            "peterschlemihlswundersamegeschichte-c9e8f",
+            "peterschlemihlswundersamegeschichte-e54e1",
+            "peterschlemihlswundersamegeschichte-eece7"
+        ]
+    },
+    {
+        "id": "195417",
+        "time": "1781554864699",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0476",
+        "words": "43",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-4ec1f",
+            "peterschlemihlswundersamegeschichte-5643a",
+            "peterschlemihlswundersamegeschichte-a46df",
+            "peterschlemihlswundersamegeschichte-fb90d"
+        ]
+    },
+    {
+        "id": "195418",
+        "time": "1781554879330",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0524",
+        "words": "96",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-03a26",
+            "peterschlemihlswundersamegeschichte-1ca67",
+            "peterschlemihlswundersamegeschichte-73291",
+            "peterschlemihlswundersamegeschichte-7d475",
+            "peterschlemihlswundersamegeschichte-836d1",
+            "peterschlemihlswundersamegeschichte-b7d82",
+            "peterschlemihlswundersamegeschichte-c7561",
+            "peterschlemihlswundersamegeschichte-ca44b"
+        ]
+    },
+    {
+        "id": "195419",
+        "time": "1781554918580",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0571",
+        "words": "112",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-a4d4e",
+            "peterschlemihlswundersamegeschichte-b7d82",
+            "peterschlemihlswundersamegeschichte-c8303"
+        ]
+    },
+    {
+        "id": "195420",
+        "time": "1781554953474",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0619",
+        "words": "69",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-0606b",
+            "peterschlemihlswundersamegeschichte-1d844",
+            "peterschlemihlswundersamegeschichte-4b4c0",
+            "peterschlemihlswundersamegeschichte-c8303",
+            "peterschlemihlswundersamegeschichte-ddc09"
+        ]
+    },
+    {
+        "id": "195421",
+        "time": "1781554964231",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0667",
+        "words": "93",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-11d54",
+            "peterschlemihlswundersamegeschichte-56674",
+            "peterschlemihlswundersamegeschichte-cefdb"
+        ]
+    },
+    {
+        "id": "195422",
+        "time": "1781554972849",
+        "appid": "e91b4f8fcf29d6127060a539685670e5",
+        "session": "r8BKO",
+        "bereich": "reader_peterschlemihlswundersamegeschichte",
+        "item": "page14",
+        "action": "leave",
+        "value": "0.0619",
+        "words": "93",
+        "elementids": [
+            "peterschlemihlswundersamegeschichte-11d54",
+            "peterschlemihlswundersamegeschichte-56674",
+            "peterschlemihlswundersamegeschichte-cefdb"
+        ]
+    },
+    {
+        "id": "195423",
+        "time": "1781558367971",
+        "appid": "f85a39959b01e50ff017ad2a3d878b6a",
+        "session": "8FLzx",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
