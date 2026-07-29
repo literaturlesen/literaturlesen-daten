@@ -1,0 +1,242 @@
+[
+    {
+        "id": "197503",
+        "time": "1785327773772",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "UcTzL",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197504",
+        "time": "1785327773781",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "UcTzL",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "",
+        "action": "enter",
+        "value": "ardinghellounddieglckseligeninseln",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197505",
+        "time": "1785327774694",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "UcTzL",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0147",
+        "words": "93",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-75f8f",
+            "ardinghellounddieglckseligeninseln-9cd8c",
+            "ardinghellounddieglckseligeninseln-9fe01",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-b30ab",
+            "ardinghellounddieglckseligeninseln-c5b22"
+        ]
+    },
+    {
+        "id": "197506",
+        "time": "1785327807485",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "UcTzL",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0157",
+        "words": "99",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-35cdc",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-e914c"
+        ]
+    },
+    {
+        "id": "197507",
+        "time": "1785328047619",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "UcTzL",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page16",
+        "action": "leave",
+        "value": "0.0147",
+        "words": "99",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-35cdc",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-e914c"
+        ]
+    },
+    {
+        "id": "197508",
+        "time": "1785328348641",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "yNPwJ",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page16",
+        "action": "reenter",
+        "value": "0.0147",
+        "words": "99",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-35cdc",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-e914c"
+        ]
+    },
+    {
+        "id": "197509",
+        "time": "1785328350835",
+        "appid": "41b1b11dd2b89fada860253118b1b563",
+        "session": "yNPwJ",
+        "bereich": "reader_ardinghellounddieglckseligeninseln",
+        "item": "page16",
+        "action": "leave",
+        "value": "0.0147",
+        "words": "99",
+        "elementids": [
+            "ardinghellounddieglckseligeninseln-35cdc",
+            "ardinghellounddieglckseligeninseln-acec9",
+            "ardinghellounddieglckseligeninseln-e914c"
+        ]
+    },
+    {
+        "id": "197510",
+        "time": "1785330876137",
+        "appid": "340feea5b316fc5e8cd21796ceb438b4",
+        "session": "1tQjK",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197511",
+        "time": "1785335124651",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197512",
+        "time": "1785335124663",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "reader_fausti",
+        "item": "",
+        "action": "enter",
+        "value": "fausti",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197513",
+        "time": "1785335126778",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "reader_fausti",
+        "item": "page364",
+        "action": "enter",
+        "value": "0.3352",
+        "words": "66",
+        "elementids": [
+            "fausti-1639d",
+            "fausti-39c83",
+            "fausti-5c04c",
+            "fausti-69606",
+            "fausti-976d2",
+            "fausti-a3077",
+            "fausti-c022a",
+            "fausti-c065f",
+            "fausti-c1c85",
+            "fausti-db79b",
+            "fausti-de0e7",
+            "fausti-edf87",
+            "fausti-f6a46",
+            "fausti-fbceb"
+        ]
+    },
+    {
+        "id": "197514",
+        "time": "1785335149277",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "reader_fausti",
+        "item": "page365",
+        "action": "enter",
+        "value": "0.3361",
+        "words": "56",
+        "elementids": [
+            "fausti-00778-2",
+            "fausti-06213",
+            "fausti-5b348",
+            "fausti-70872",
+            "fausti-85e5b",
+            "fausti-86624",
+            "fausti-87d80",
+            "fausti-8c374",
+            "fausti-92332",
+            "fausti-9745c",
+            "fausti-9a1da",
+            "fausti-9b5b2",
+            "fausti-a7ba1",
+            "fausti-c0b3e",
+            "fausti-d4823",
+            "fausti-fec48"
+        ]
+    },
+    {
+        "id": "197515",
+        "time": "1785335151993",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "reader_fausti",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197516",
+        "time": "1785335162228",
+        "appid": "d74f0378a4410037e4c40714f819b38b",
+        "session": "o5y6b",
+        "bereich": "reader_fausti",
+        "item": "page366",
+        "action": "leave",
+        "value": "0.3352",
+        "words": "56",
+        "elementids": [
+            "fausti-00778-2",
+            "fausti-06213",
+            "fausti-5b348",
+            "fausti-70872",
+            "fausti-85e5b",
+            "fausti-86624",
+            "fausti-87d80",
+            "fausti-8c374",
+            "fausti-92332",
+            "fausti-9745c",
+            "fausti-9a1da",
+            "fausti-9b5b2",
+            "fausti-a7ba1",
+            "fausti-c0b3e",
+            "fausti-d4823",
+            "fausti-fec48"
+        ]
+    }
+]
