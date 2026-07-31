@@ -1,0 +1,119 @@
+[
+    {
+        "id": "197587",
+        "time": "1785501808806",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "",
+        "action": "enter",
+        "value": "ausdemlebeneinestaugenichts",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197588",
+        "time": "1785501808797",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197589",
+        "time": "1785501809588",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0417",
+        "words": "112",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-23e1b",
+            "ausdemlebeneinestaugenichts-35243",
+            "ausdemlebeneinestaugenichts-ce927"
+        ]
+    },
+    {
+        "id": "197590",
+        "time": "1785501838131",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0451",
+        "words": "119",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-2d6fd",
+            "ausdemlebeneinestaugenichts-35243",
+            "ausdemlebeneinestaugenichts-45c96",
+            "ausdemlebeneinestaugenichts-4dbf4",
+            "ausdemlebeneinestaugenichts-644dc",
+            "ausdemlebeneinestaugenichts-88563"
+        ]
+    },
+    {
+        "id": "197591",
+        "time": "1785501850149",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197592",
+        "time": "1785501881051",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0486",
+        "words": "119",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-06ed5",
+            "ausdemlebeneinestaugenichts-2d6fd",
+            "ausdemlebeneinestaugenichts-c6efd",
+            "ausdemlebeneinestaugenichts-f730b"
+        ]
+    },
+    {
+        "id": "197593",
+        "time": "1785501895986",
+        "appid": "ac6d915040c0708697c081e794177f14",
+        "session": "3hqep",
+        "bereich": "reader_ausdemlebeneinestaugenichts",
+        "item": "page14",
+        "action": "leave",
+        "value": "0.0451",
+        "words": "119",
+        "elementids": [
+            "ausdemlebeneinestaugenichts-06ed5",
+            "ausdemlebeneinestaugenichts-2d6fd",
+            "ausdemlebeneinestaugenichts-c6efd",
+            "ausdemlebeneinestaugenichts-f730b"
+        ]
+    },
+    {
+        "id": "197594",
+        "time": "1785527119761",
+        "appid": "84ee1d40af9032dfab714073c3fa88a2",
+        "session": "z8CgV",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
