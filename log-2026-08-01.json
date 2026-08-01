@@ -1,0 +1,1841 @@
+[
+    {
+        "id": "197595",
+        "time": "1785540460021",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197596",
+        "time": "1785540460032",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197597",
+        "time": "1785540460743",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0567",
+        "words": "96",
+        "elementids": [
+            "lucinde-16635",
+            "lucinde-2d77e",
+            "lucinde-9706f",
+            "lucinde-9c452"
+        ]
+    },
+    {
+        "id": "197598",
+        "time": "1785540470934",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.06",
+        "words": "116",
+        "elementids": [
+            "lucinde-2c8cf",
+            "lucinde-2d77e",
+            "lucinde-7bc4a",
+            "lucinde-c255e",
+            "lucinde-e12c7"
+        ]
+    },
+    {
+        "id": "197599",
+        "time": "1785540475459",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197600",
+        "time": "1785540502643",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0633",
+        "words": "107",
+        "elementids": [
+            "lucinde-3cb9e",
+            "lucinde-63d64",
+            "lucinde-7bc4a",
+            "lucinde-d59c1",
+            "lucinde-d99a4",
+            "lucinde-e2828",
+            "lucinde-ea224",
+            "lucinde-f785d"
+        ]
+    },
+    {
+        "id": "197601",
+        "time": "1785540532815",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0667",
+        "words": "117",
+        "elementids": [
+            "lucinde-277c9",
+            "lucinde-980fa",
+            "lucinde-b2950",
+            "lucinde-e2828"
+        ]
+    },
+    {
+        "id": "197602",
+        "time": "1785540550059",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "ueber-textauswahl",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197603",
+        "time": "1785540558762",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197604",
+        "time": "1785540563980",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197605",
+        "time": "1785540586705",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "titelblatt_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197606",
+        "time": "1785540591719",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "warum-lesen-wir_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197607",
+        "time": "1785540609820",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "titelblatt_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197608",
+        "time": "1785540612445",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "literaturmuseum_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197609",
+        "time": "1785540618295",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "titelblatt_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197610",
+        "time": "1785540619493",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "",
+        "action": "enter",
+        "value": "lucinde",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197611",
+        "time": "1785540619508",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0667",
+        "words": "117",
+        "elementids": [
+            "lucinde-277c9",
+            "lucinde-980fa",
+            "lucinde-b2950",
+            "lucinde-e2828"
+        ]
+    },
+    {
+        "id": "197612",
+        "time": "1785540628672",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_lucinde",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.07",
+        "words": "108",
+        "elementids": [
+            "lucinde-2dcdb",
+            "lucinde-7e7f4",
+            "lucinde-8248e",
+            "lucinde-980fa",
+            "lucinde-be806",
+            "lucinde-ff690"
+        ]
+    },
+    {
+        "id": "197613",
+        "time": "1785540633036",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197614",
+        "time": "1785540634156",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197615",
+        "time": "1785540673905",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "titelblatt_geschichtedesagathon",
+        "item": "",
+        "action": "enter",
+        "value": "geschichtedesagathon",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197616",
+        "time": "1785540677117",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "warum-lesen-wir_geschichtedesagathon",
+        "item": "",
+        "action": "enter",
+        "value": "geschichtedesagathon",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197617",
+        "time": "1785540684969",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "titelblatt_geschichtedesagathon",
+        "item": "",
+        "action": "enter",
+        "value": "geschichtedesagathon",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197618",
+        "time": "1785540686437",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "",
+        "action": "enter",
+        "value": "geschichtedesagathon",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197619",
+        "time": "1785540693815",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0019",
+        "words": "108",
+        "elementids": [
+            "geschichtedesagathon-71ad7",
+            "geschichtedesagathon-b6312"
+        ]
+    },
+    {
+        "id": "197620",
+        "time": "1785540698002",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197621",
+        "time": "1785540700754",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0025",
+        "words": "90",
+        "elementids": [
+            "geschichtedesagathon-71ad7"
+        ]
+    },
+    {
+        "id": "197622",
+        "time": "1785540710936",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0031",
+        "words": "103",
+        "elementids": [
+            "geschichtedesagathon-51fb7",
+            "geschichtedesagathon-5d39f",
+            "geschichtedesagathon-71ad7",
+            "geschichtedesagathon-cb690"
+        ]
+    },
+    {
+        "id": "197623",
+        "time": "1785540720195",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0038",
+        "words": "105",
+        "elementids": [
+            "geschichtedesagathon-32cba",
+            "geschichtedesagathon-cb690",
+            "geschichtedesagathon-fbdd5"
+        ]
+    },
+    {
+        "id": "197624",
+        "time": "1785540746438",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "96",
+        "elementids": [
+            "geschichtedesagathon-0d068",
+            "geschichtedesagathon-a7b48",
+            "geschichtedesagathon-dedba",
+            "geschichtedesagathon-fbdd5"
+        ]
+    },
+    {
+        "id": "197625",
+        "time": "1785540766196",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.005",
+        "words": "99",
+        "elementids": [
+            "geschichtedesagathon-1eff8",
+            "geschichtedesagathon-dedba"
+        ]
+    },
+    {
+        "id": "197626",
+        "time": "1785540788242",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0056",
+        "words": "98",
+        "elementids": [
+            "geschichtedesagathon-015e7",
+            "geschichtedesagathon-1eff8",
+            "geschichtedesagathon-4e55c",
+            "geschichtedesagathon-6e085"
+        ]
+    },
+    {
+        "id": "197627",
+        "time": "1785540809781",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0063",
+        "words": "100",
+        "elementids": [
+            "geschichtedesagathon-6e085",
+            "geschichtedesagathon-b6a0f",
+            "geschichtedesagathon-f911c"
+        ]
+    },
+    {
+        "id": "197628",
+        "time": "1785540831898",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0069",
+        "words": "101",
+        "elementids": [
+            "geschichtedesagathon-a24b5",
+            "geschichtedesagathon-b5111",
+            "geschichtedesagathon-b6a0f"
+        ]
+    },
+    {
+        "id": "197629",
+        "time": "1785540856841",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0075",
+        "words": "97",
+        "elementids": [
+            "geschichtedesagathon-a24b5",
+            "geschichtedesagathon-a52de",
+            "geschichtedesagathon-fd9c9"
+        ]
+    },
+    {
+        "id": "197630",
+        "time": "1785540867133",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0082",
+        "words": "101",
+        "elementids": [
+            "geschichtedesagathon-5121b",
+            "geschichtedesagathon-b10fd",
+            "geschichtedesagathon-e5c05",
+            "geschichtedesagathon-fd9c9"
+        ]
+    },
+    {
+        "id": "197631",
+        "time": "1785540873534",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0088",
+        "words": "115",
+        "elementids": [
+            "geschichtedesagathon-b10fd"
+        ]
+    },
+    {
+        "id": "197632",
+        "time": "1785540877927",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0094",
+        "words": "99",
+        "elementids": [
+            "geschichtedesagathon-7d061",
+            "geschichtedesagathon-8c656",
+            "geschichtedesagathon-ac8b9",
+            "geschichtedesagathon-b10fd"
+        ]
+    },
+    {
+        "id": "197633",
+        "time": "1785540879182",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.01",
+        "words": "99",
+        "elementids": [
+            "geschichtedesagathon-0f49d",
+            "geschichtedesagathon-8c656",
+            "geschichtedesagathon-dce59"
+        ]
+    },
+    {
+        "id": "197634",
+        "time": "1785540880539",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0107",
+        "words": "109",
+        "elementids": [
+            "geschichtedesagathon-0f49d",
+            "geschichtedesagathon-4d637",
+            "geschichtedesagathon-efbed"
+        ]
+    },
+    {
+        "id": "197635",
+        "time": "1785540881532",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0113",
+        "words": "109",
+        "elementids": [
+            "geschichtedesagathon-29082",
+            "geschichtedesagathon-a2394"
+        ]
+    },
+    {
+        "id": "197636",
+        "time": "1785540884995",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0119",
+        "words": "113",
+        "elementids": [
+            "geschichtedesagathon-27c8c",
+            "geschichtedesagathon-2d3c3",
+            "geschichtedesagathon-3a82f",
+            "geschichtedesagathon-5624c",
+            "geschichtedesagathon-a2394",
+            "geschichtedesagathon-f9502"
+        ]
+    },
+    {
+        "id": "197637",
+        "time": "1785540886318",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0126",
+        "words": "53",
+        "elementids": [
+            "geschichtedesagathon-3a82f"
+        ]
+    },
+    {
+        "id": "197638",
+        "time": "1785540886762",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0132",
+        "words": "96",
+        "elementids": [
+            "geschichtedesagathon-12772",
+            "geschichtedesagathon-66846",
+            "geschichtedesagathon-79fa8",
+            "geschichtedesagathon-e8ba7"
+        ]
+    },
+    {
+        "id": "197639",
+        "time": "1785540912256",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0138",
+        "words": "104",
+        "elementids": [
+            "geschichtedesagathon-3b39f",
+            "geschichtedesagathon-58991",
+            "geschichtedesagathon-79fa8",
+            "geschichtedesagathon-8c84f"
+        ]
+    },
+    {
+        "id": "197640",
+        "time": "1785540919982",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197641",
+        "time": "1785540948867",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0144",
+        "words": "94",
+        "elementids": [
+            "geschichtedesagathon-3d4e3",
+            "geschichtedesagathon-46274",
+            "geschichtedesagathon-4629c",
+            "geschichtedesagathon-8c84f"
+        ]
+    },
+    {
+        "id": "197642",
+        "time": "1785540970547",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0151",
+        "words": "101",
+        "elementids": [
+            "geschichtedesagathon-38094",
+            "geschichtedesagathon-38bd9",
+            "geschichtedesagathon-3d4e3",
+            "geschichtedesagathon-adeda"
+        ]
+    },
+    {
+        "id": "197643",
+        "time": "1785540996327",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0157",
+        "words": "100",
+        "elementids": [
+            "geschichtedesagathon-2d825",
+            "geschichtedesagathon-adeda",
+            "geschichtedesagathon-b9f44"
+        ]
+    },
+    {
+        "id": "197644",
+        "time": "1785541027364",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0163",
+        "words": "46",
+        "elementids": [
+            "geschichtedesagathon-81014",
+            "geschichtedesagathon-b9f44"
+        ]
+    },
+    {
+        "id": "197645",
+        "time": "1785541037374",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0169",
+        "words": "97",
+        "elementids": [
+            "geschichtedesagathon-40fa7",
+            "geschichtedesagathon-79596",
+            "geschichtedesagathon-8859b",
+            "geschichtedesagathon-af7ff",
+            "geschichtedesagathon-bd8b2",
+            "geschichtedesagathon-ed071"
+        ]
+    },
+    {
+        "id": "197646",
+        "time": "1785541062308",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0176",
+        "words": "108",
+        "elementids": [
+            "geschichtedesagathon-00e2d",
+            "geschichtedesagathon-12a88",
+            "geschichtedesagathon-79596",
+            "geschichtedesagathon-d69ef"
+        ]
+    },
+    {
+        "id": "197647",
+        "time": "1785541085416",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0182",
+        "words": "105",
+        "elementids": [
+            "geschichtedesagathon-00e2d",
+            "geschichtedesagathon-196c3",
+            "geschichtedesagathon-6320b",
+            "geschichtedesagathon-79e44"
+        ]
+    },
+    {
+        "id": "197648",
+        "time": "1785541103629",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0188",
+        "words": "90",
+        "elementids": [
+            "geschichtedesagathon-6320b",
+            "geschichtedesagathon-cdc94",
+            "geschichtedesagathon-eb885"
+        ]
+    },
+    {
+        "id": "197649",
+        "time": "1785541131142",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0195",
+        "words": "101",
+        "elementids": [
+            "geschichtedesagathon-5037d",
+            "geschichtedesagathon-790a0",
+            "geschichtedesagathon-c442f",
+            "geschichtedesagathon-cdc94"
+        ]
+    },
+    {
+        "id": "197650",
+        "time": "1785541153954",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0201",
+        "words": "102",
+        "elementids": [
+            "geschichtedesagathon-790a0",
+            "geschichtedesagathon-8408c",
+            "geschichtedesagathon-9dcd3",
+            "geschichtedesagathon-b2f2e"
+        ]
+    },
+    {
+        "id": "197651",
+        "time": "1785541177540",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0207",
+        "words": "113",
+        "elementids": [
+            "geschichtedesagathon-1ab1e",
+            "geschichtedesagathon-244bd",
+            "geschichtedesagathon-27128",
+            "geschichtedesagathon-292da",
+            "geschichtedesagathon-8408c",
+            "geschichtedesagathon-f2287"
+        ]
+    },
+    {
+        "id": "197652",
+        "time": "1785541201512",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0213",
+        "words": "107",
+        "elementids": [
+            "geschichtedesagathon-1ab1e",
+            "geschichtedesagathon-7a3fd",
+            "geschichtedesagathon-c1135",
+            "geschichtedesagathon-dbdf4"
+        ]
+    },
+    {
+        "id": "197653",
+        "time": "1785541218282",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.022",
+        "words": "86",
+        "elementids": [
+            "geschichtedesagathon-8359c",
+            "geschichtedesagathon-84bdd",
+            "geschichtedesagathon-96e4a",
+            "geschichtedesagathon-dbdf4"
+        ]
+    },
+    {
+        "id": "197654",
+        "time": "1785541347244",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "ofhvD",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page35",
+        "action": "leave",
+        "value": "0.0213",
+        "words": "86",
+        "elementids": [
+            "geschichtedesagathon-8359c",
+            "geschichtedesagathon-84bdd",
+            "geschichtedesagathon-96e4a",
+            "geschichtedesagathon-dbdf4"
+        ]
+    },
+    {
+        "id": "197655",
+        "time": "1785542997991",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "RABAB",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page35",
+        "action": "reenter",
+        "value": "0.0213",
+        "words": "86",
+        "elementids": [
+            "geschichtedesagathon-8359c",
+            "geschichtedesagathon-84bdd",
+            "geschichtedesagathon-96e4a",
+            "geschichtedesagathon-dbdf4"
+        ]
+    },
+    {
+        "id": "197656",
+        "time": "1785543000936",
+        "appid": "616bedbc86c6db87c13bc0012b541b93",
+        "session": "RABAB",
+        "bereich": "reader_geschichtedesagathon",
+        "item": "page35",
+        "action": "leave",
+        "value": "0.0213",
+        "words": "86",
+        "elementids": [
+            "geschichtedesagathon-8359c",
+            "geschichtedesagathon-84bdd",
+            "geschichtedesagathon-96e4a",
+            "geschichtedesagathon-dbdf4"
+        ]
+    },
+    {
+        "id": "197657",
+        "time": "1785584806627",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "vd0f9",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197658",
+        "time": "1785595961863",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197659",
+        "time": "1785595974236",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197660",
+        "time": "1785595984189",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197661",
+        "time": "1785596031767",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197662",
+        "time": "1785596042233",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197663",
+        "time": "1785596114353",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_wallensteinslager",
+        "item": "",
+        "action": "enter",
+        "value": "wallensteinslager",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197664",
+        "time": "1785596115391",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_wallensteinslager",
+        "item": "page62",
+        "action": "enter",
+        "value": "0.504",
+        "words": "69",
+        "elementids": [
+            "wallensteinslager-04c22",
+            "wallensteinslager-1312e",
+            "wallensteinslager-17293",
+            "wallensteinslager-19ce4",
+            "wallensteinslager-1aac3",
+            "wallensteinslager-1d68f",
+            "wallensteinslager-1ec8c",
+            "wallensteinslager-3159d",
+            "wallensteinslager-53da2",
+            "wallensteinslager-5c02c",
+            "wallensteinslager-64466",
+            "wallensteinslager-64f2a",
+            "wallensteinslager-67228",
+            "wallensteinslager-77959",
+            "wallensteinslager-77e86",
+            "wallensteinslager-7ebea",
+            "wallensteinslager-8a535",
+            "wallensteinslager-8b1fd",
+            "wallensteinslager-936c7",
+            "wallensteinslager-a0bba",
+            "wallensteinslager-a7291",
+            "wallensteinslager-ac3b1",
+            "wallensteinslager-ae0dc",
+            "wallensteinslager-b2863",
+            "wallensteinslager-b7f1e",
+            "wallensteinslager-bfdd2",
+            "wallensteinslager-c2dbd",
+            "wallensteinslager-d96e8",
+            "wallensteinslager-da93e",
+            "wallensteinslager-e61b1",
+            "wallensteinslager-e9189",
+            "wallensteinslager-f1b21"
+        ]
+    },
+    {
+        "id": "197665",
+        "time": "1785596115662",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_wallensteinslager",
+        "item": "page63",
+        "action": "enter",
+        "value": "0.512",
+        "words": "74",
+        "elementids": [
+            "wallensteinslager-035ec",
+            "wallensteinslager-0b466",
+            "wallensteinslager-117da",
+            "wallensteinslager-14fa4",
+            "wallensteinslager-32fcb",
+            "wallensteinslager-485fb",
+            "wallensteinslager-56af1",
+            "wallensteinslager-5dc34",
+            "wallensteinslager-5f2f1",
+            "wallensteinslager-6c1ea",
+            "wallensteinslager-9d954",
+            "wallensteinslager-a2da0",
+            "wallensteinslager-dfdae",
+            "wallensteinslager-e9de0",
+            "wallensteinslager-f4106"
+        ]
+    },
+    {
+        "id": "197666",
+        "time": "1785596126106",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_wallensteinslager",
+        "item": "location",
+        "action": "set",
+        "value": "ort-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197667",
+        "time": "1785596133984",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197668",
+        "time": "1785596134937",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197669",
+        "time": "1785596135834",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197670",
+        "time": "1785596155034",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "titelblatt_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197671",
+        "time": "1785596160588",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197672",
+        "time": "1785596181112",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.016",
+        "words": "89",
+        "elementids": [
+            "dieverwandlung-1b5c1",
+            "dieverwandlung-3171c",
+            "dieverwandlung-68749",
+            "dieverwandlung-75a0b",
+            "dieverwandlung-88895",
+            "dieverwandlung-d543f",
+            "dieverwandlung-e07f2"
+        ]
+    },
+    {
+        "id": "197673",
+        "time": "1785596184377",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "location",
+        "action": "set",
+        "value": "ort-1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197674",
+        "time": "1785596186405",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0213",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-3f044",
+            "dieverwandlung-53ac1",
+            "dieverwandlung-a3105",
+            "dieverwandlung-a7451",
+            "dieverwandlung-d543f"
+        ]
+    },
+    {
+        "id": "197675",
+        "time": "1785596187420",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0266",
+        "words": "97",
+        "elementids": [
+            "dieverwandlung-53ac1",
+            "dieverwandlung-84e64",
+            "dieverwandlung-a111a",
+            "dieverwandlung-a52b6",
+            "dieverwandlung-b8cdd"
+        ]
+    },
+    {
+        "id": "197676",
+        "time": "1785596187956",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0319",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-1bc94",
+            "dieverwandlung-5ff77",
+            "dieverwandlung-8d121",
+            "dieverwandlung-9c63b",
+            "dieverwandlung-adbdc",
+            "dieverwandlung-b8cdd"
+        ]
+    },
+    {
+        "id": "197677",
+        "time": "1785596188356",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0372",
+        "words": "111",
+        "elementids": [
+            "dieverwandlung-11e95",
+            "dieverwandlung-5b18d",
+            "dieverwandlung-93c8e",
+            "dieverwandlung-adbdc",
+            "dieverwandlung-b5e0e",
+            "dieverwandlung-c2221",
+            "dieverwandlung-ca787"
+        ]
+    },
+    {
+        "id": "197678",
+        "time": "1785596188739",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0426",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-1fdbd",
+            "dieverwandlung-25918",
+            "dieverwandlung-386a4",
+            "dieverwandlung-43744",
+            "dieverwandlung-56b71",
+            "dieverwandlung-78c5e",
+            "dieverwandlung-97a66",
+            "dieverwandlung-b5e0e",
+            "dieverwandlung-c1c17",
+            "dieverwandlung-fb5d9"
+        ]
+    },
+    {
+        "id": "197679",
+        "time": "1785596189140",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0479",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-1fdbd",
+            "dieverwandlung-66ef1",
+            "dieverwandlung-6b1e7",
+            "dieverwandlung-9d106",
+            "dieverwandlung-bfd1a",
+            "dieverwandlung-d1aa1",
+            "dieverwandlung-f6dfa"
+        ]
+    },
+    {
+        "id": "197680",
+        "time": "1785596189487",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0532",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-08f0a",
+            "dieverwandlung-3785f",
+            "dieverwandlung-3b103",
+            "dieverwandlung-57e3f",
+            "dieverwandlung-66ef1"
+        ]
+    },
+    {
+        "id": "197681",
+        "time": "1785596189804",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0585",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-3b103",
+            "dieverwandlung-43a87",
+            "dieverwandlung-50df8",
+            "dieverwandlung-71110",
+            "dieverwandlung-8219a",
+            "dieverwandlung-d2fa8"
+        ]
+    },
+    {
+        "id": "197682",
+        "time": "1785596190188",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0638",
+        "words": "103",
+        "elementids": [
+            "dieverwandlung-15de3",
+            "dieverwandlung-26445",
+            "dieverwandlung-39d9a",
+            "dieverwandlung-90e11",
+            "dieverwandlung-a78d1",
+            "dieverwandlung-d2fa8"
+        ]
+    },
+    {
+        "id": "197683",
+        "time": "1785596190655",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0691",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-01726",
+            "dieverwandlung-1ec3c",
+            "dieverwandlung-26445",
+            "dieverwandlung-2e0b6",
+            "dieverwandlung-6b316",
+            "dieverwandlung-98054",
+            "dieverwandlung-9b919",
+            "dieverwandlung-b6e03",
+            "dieverwandlung-cc42b"
+        ]
+    },
+    {
+        "id": "197684",
+        "time": "1785596190923",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0745",
+        "words": "96",
+        "elementids": [
+            "dieverwandlung-02bd6",
+            "dieverwandlung-3bb36",
+            "dieverwandlung-98054",
+            "dieverwandlung-eee8c"
+        ]
+    },
+    {
+        "id": "197685",
+        "time": "1785596191188",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0798",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-6d015",
+            "dieverwandlung-73d5f",
+            "dieverwandlung-802f8",
+            "dieverwandlung-dc8ef",
+            "dieverwandlung-eee8c"
+        ]
+    },
+    {
+        "id": "197686",
+        "time": "1785596191422",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0851",
+        "words": "94",
+        "elementids": [
+            "dieverwandlung-3de91",
+            "dieverwandlung-8a18a",
+            "dieverwandlung-aea7b",
+            "dieverwandlung-dc8ef"
+        ]
+    },
+    {
+        "id": "197687",
+        "time": "1785596191689",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0904",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-ac8b0",
+            "dieverwandlung-aea7b",
+            "dieverwandlung-c9af9",
+            "dieverwandlung-e994b"
+        ]
+    },
+    {
+        "id": "197688",
+        "time": "1785596191939",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0957",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-4222d",
+            "dieverwandlung-95c3a",
+            "dieverwandlung-e6f9b",
+            "dieverwandlung-e994b"
+        ]
+    },
+    {
+        "id": "197689",
+        "time": "1785596192422",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.1011",
+        "words": "93",
+        "elementids": [
+            "dieverwandlung-76b1f",
+            "dieverwandlung-78274",
+            "dieverwandlung-95c3a",
+            "dieverwandlung-bed22",
+            "dieverwandlung-dbcb3"
+        ]
+    },
+    {
+        "id": "197690",
+        "time": "1785596192738",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.1064",
+        "words": "112",
+        "elementids": [
+            "dieverwandlung-3d209",
+            "dieverwandlung-417f3",
+            "dieverwandlung-4affb",
+            "dieverwandlung-713cf",
+            "dieverwandlung-76b1f",
+            "dieverwandlung-f01aa",
+            "dieverwandlung-fc390"
+        ]
+    },
+    {
+        "id": "197691",
+        "time": "1785596193172",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.1117",
+        "words": "108",
+        "elementids": [
+            "dieverwandlung-2b60b",
+            "dieverwandlung-417f3",
+            "dieverwandlung-7ff92",
+            "dieverwandlung-9a92f"
+        ]
+    },
+    {
+        "id": "197692",
+        "time": "1785596193421",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.117",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-1e78e",
+            "dieverwandlung-3b2e1",
+            "dieverwandlung-7ff92",
+            "dieverwandlung-80f7c",
+            "dieverwandlung-b6e5f",
+            "dieverwandlung-c7e77"
+        ]
+    },
+    {
+        "id": "197693",
+        "time": "1785596193687",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.1223",
+        "words": "102",
+        "elementids": [
+            "dieverwandlung-4e942",
+            "dieverwandlung-61f47",
+            "dieverwandlung-6ea31",
+            "dieverwandlung-71614",
+            "dieverwandlung-afabc",
+            "dieverwandlung-b6e5f",
+            "dieverwandlung-d09a9"
+        ]
+    },
+    {
+        "id": "197694",
+        "time": "1785596193956",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.1277",
+        "words": "101",
+        "elementids": [
+            "dieverwandlung-0f6ba",
+            "dieverwandlung-2bfa1",
+            "dieverwandlung-400f5",
+            "dieverwandlung-76706",
+            "dieverwandlung-d09a9"
+        ]
+    },
+    {
+        "id": "197695",
+        "time": "1785596194222",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.133",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-2bfa1",
+            "dieverwandlung-8af60",
+            "dieverwandlung-94d2a",
+            "dieverwandlung-a3aec",
+            "dieverwandlung-de94b"
+        ]
+    },
+    {
+        "id": "197696",
+        "time": "1785596194420",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.1383",
+        "words": "105",
+        "elementids": [
+            "dieverwandlung-0c4e8",
+            "dieverwandlung-1014a",
+            "dieverwandlung-2dda3",
+            "dieverwandlung-4d699",
+            "dieverwandlung-4d73e",
+            "dieverwandlung-8af60",
+            "dieverwandlung-953e6",
+            "dieverwandlung-9b9cb"
+        ]
+    },
+    {
+        "id": "197697",
+        "time": "1785596194770",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.1436",
+        "words": "118",
+        "elementids": [
+            "dieverwandlung-2b888",
+            "dieverwandlung-477ba",
+            "dieverwandlung-4d73e",
+            "dieverwandlung-508be",
+            "dieverwandlung-7b5eb",
+            "dieverwandlung-87e44",
+            "dieverwandlung-9e6fb",
+            "dieverwandlung-c523b",
+            "dieverwandlung-cf457",
+            "dieverwandlung-ed3e8"
+        ]
+    },
+    {
+        "id": "197698",
+        "time": "1785596195005",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.1489",
+        "words": "113",
+        "elementids": [
+            "dieverwandlung-0e558",
+            "dieverwandlung-1dd93",
+            "dieverwandlung-350fe",
+            "dieverwandlung-e6e5c",
+            "dieverwandlung-ed3e8"
+        ]
+    },
+    {
+        "id": "197699",
+        "time": "1785596195272",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.1543",
+        "words": "98",
+        "elementids": [
+            "dieverwandlung-1dd93",
+            "dieverwandlung-62455",
+            "dieverwandlung-65a9f",
+            "dieverwandlung-71c33",
+            "dieverwandlung-7e5ac",
+            "dieverwandlung-80f85",
+            "dieverwandlung-b5a01",
+            "dieverwandlung-e5b37",
+            "dieverwandlung-edc10"
+        ]
+    },
+    {
+        "id": "197700",
+        "time": "1785596195506",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.1596",
+        "words": "106",
+        "elementids": [
+            "dieverwandlung-23007",
+            "dieverwandlung-4f7e4",
+            "dieverwandlung-52698",
+            "dieverwandlung-74899",
+            "dieverwandlung-80f85",
+            "dieverwandlung-c397e"
+        ]
+    },
+    {
+        "id": "197701",
+        "time": "1785596195789",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.1649",
+        "words": "99",
+        "elementids": [
+            "dieverwandlung-0a43d",
+            "dieverwandlung-70839",
+            "dieverwandlung-74899",
+            "dieverwandlung-8cbc1",
+            "dieverwandlung-ad795",
+            "dieverwandlung-af839",
+            "dieverwandlung-c6c86",
+            "dieverwandlung-fd160"
+        ]
+    },
+    {
+        "id": "197702",
+        "time": "1785596196055",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.1702",
+        "words": "100",
+        "elementids": [
+            "dieverwandlung-0a43d",
+            "dieverwandlung-5e946",
+            "dieverwandlung-78804",
+            "dieverwandlung-beff4",
+            "dieverwandlung-e3bd2"
+        ]
+    },
+    {
+        "id": "197703",
+        "time": "1785596196328",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.1755",
+        "words": "109",
+        "elementids": [
+            "dieverwandlung-08700",
+            "dieverwandlung-2cc28",
+            "dieverwandlung-b1e3c",
+            "dieverwandlung-b48e0",
+            "dieverwandlung-db3ad",
+            "dieverwandlung-e3bd2"
+        ]
+    },
+    {
+        "id": "197704",
+        "time": "1785596196620",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.1809",
+        "words": "118",
+        "elementids": [
+            "dieverwandlung-110a3",
+            "dieverwandlung-2cc28",
+            "dieverwandlung-2e23d",
+            "dieverwandlung-56d43",
+            "dieverwandlung-5b35a",
+            "dieverwandlung-6826a",
+            "dieverwandlung-7d0dc",
+            "dieverwandlung-8e247",
+            "dieverwandlung-98588",
+            "dieverwandlung-99165",
+            "dieverwandlung-99701",
+            "dieverwandlung-c854b",
+            "dieverwandlung-e0ea7",
+            "dieverwandlung-f9073"
+        ]
+    },
+    {
+        "id": "197705",
+        "time": "1785596198677",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "reader_dieverwandlung",
+        "item": "emotion",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197706",
+        "time": "1785596199224",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "titelblatt_dieverwandlung",
+        "item": "",
+        "action": "enter",
+        "value": "dieverwandlung",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197707",
+        "time": "1785596200212",
+        "appid": "fbc29b54bbad4eb3f59794549bf26e33",
+        "session": "KKB51",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
