@@ -1,0 +1,87 @@
+[
+    {
+        "id": "197741",
+        "time": "1786120252282",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "lhViY",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197742",
+        "time": "1786120252302",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "lhViY",
+        "bereich": "reader_weststlicherdivan",
+        "item": "",
+        "action": "enter",
+        "value": "weststlicherdivan",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197743",
+        "time": "1786120253232",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "lhViY",
+        "bereich": "reader_weststlicherdivan",
+        "item": "page242",
+        "action": "enter",
+        "value": "0.3004",
+        "words": "51",
+        "elementids": [
+            "weststlicherdivan-114bf",
+            "weststlicherdivan-6d817",
+            "weststlicherdivan-6ea27",
+            "weststlicherdivan-7143c",
+            "weststlicherdivan-73eeb",
+            "weststlicherdivan-81312",
+            "weststlicherdivan-8410a",
+            "weststlicherdivan-9822e",
+            "weststlicherdivan-d60d8",
+            "weststlicherdivan-dbf1b",
+            "weststlicherdivan-f2ee3",
+            "weststlicherdivan-f461c"
+        ]
+    },
+    {
+        "id": "197744",
+        "time": "1786120271220",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "lhViY",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197745",
+        "time": "1786120273638",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "lhViY",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197746",
+        "time": "1786120732274",
+        "appid": "16becc9775441429012805b523e24094",
+        "session": "Za8Gz",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
