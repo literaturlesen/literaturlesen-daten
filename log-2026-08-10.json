@@ -1,0 +1,2814 @@
+[
+    {
+        "id": "197834",
+        "time": "1786324610177",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "stV2I",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197835",
+        "time": "1786324610191",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "stV2I",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "",
+        "action": "enter",
+        "value": "desknabenwunderhorn",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197836",
+        "time": "1786324611806",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "stV2I",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page502",
+        "action": "enter",
+        "value": "0.1984",
+        "words": "77",
+        "elementids": [
+            "desknabenwunderhorn-0215f",
+            "desknabenwunderhorn-0dd25",
+            "desknabenwunderhorn-11f88",
+            "desknabenwunderhorn-525fd",
+            "desknabenwunderhorn-6997a",
+            "desknabenwunderhorn-6bfc6",
+            "desknabenwunderhorn-6fc03",
+            "desknabenwunderhorn-75eab",
+            "desknabenwunderhorn-76a0d",
+            "desknabenwunderhorn-79390",
+            "desknabenwunderhorn-9ce93",
+            "desknabenwunderhorn-ab762",
+            "desknabenwunderhorn-acf4c",
+            "desknabenwunderhorn-afcaa",
+            "desknabenwunderhorn-b7a5a",
+            "desknabenwunderhorn-ce931",
+            "desknabenwunderhorn-d13d0",
+            "desknabenwunderhorn-e95f7",
+            "desknabenwunderhorn-f0796"
+        ]
+    },
+    {
+        "id": "197837",
+        "time": "1786324703438",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "stV2I",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page503",
+        "action": "leave",
+        "value": "0.198",
+        "words": "77",
+        "elementids": [
+            "desknabenwunderhorn-0215f",
+            "desknabenwunderhorn-0dd25",
+            "desknabenwunderhorn-11f88",
+            "desknabenwunderhorn-525fd",
+            "desknabenwunderhorn-6997a",
+            "desknabenwunderhorn-6bfc6",
+            "desknabenwunderhorn-6fc03",
+            "desknabenwunderhorn-75eab",
+            "desknabenwunderhorn-76a0d",
+            "desknabenwunderhorn-79390",
+            "desknabenwunderhorn-9ce93",
+            "desknabenwunderhorn-ab762",
+            "desknabenwunderhorn-acf4c",
+            "desknabenwunderhorn-afcaa",
+            "desknabenwunderhorn-b7a5a",
+            "desknabenwunderhorn-ce931",
+            "desknabenwunderhorn-d13d0",
+            "desknabenwunderhorn-e95f7",
+            "desknabenwunderhorn-f0796"
+        ]
+    },
+    {
+        "id": "197838",
+        "time": "1786325017693",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "h7uH8",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page503",
+        "action": "reenter",
+        "value": "0.198",
+        "words": "77",
+        "elementids": [
+            "desknabenwunderhorn-0215f",
+            "desknabenwunderhorn-0dd25",
+            "desknabenwunderhorn-11f88",
+            "desknabenwunderhorn-525fd",
+            "desknabenwunderhorn-6997a",
+            "desknabenwunderhorn-6bfc6",
+            "desknabenwunderhorn-6fc03",
+            "desknabenwunderhorn-75eab",
+            "desknabenwunderhorn-76a0d",
+            "desknabenwunderhorn-79390",
+            "desknabenwunderhorn-9ce93",
+            "desknabenwunderhorn-ab762",
+            "desknabenwunderhorn-acf4c",
+            "desknabenwunderhorn-afcaa",
+            "desknabenwunderhorn-b7a5a",
+            "desknabenwunderhorn-ce931",
+            "desknabenwunderhorn-d13d0",
+            "desknabenwunderhorn-e95f7",
+            "desknabenwunderhorn-f0796"
+        ]
+    },
+    {
+        "id": "197839",
+        "time": "1786325044202",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "h7uH8",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197840",
+        "time": "1786325049740",
+        "appid": "3a6da88cc815d5c2ec81dd4039a50274",
+        "session": "h7uH8",
+        "bereich": "reader_desknabenwunderhorn",
+        "item": "page503",
+        "action": "leave",
+        "value": "0.198",
+        "words": "77",
+        "elementids": [
+            "desknabenwunderhorn-0215f",
+            "desknabenwunderhorn-0dd25",
+            "desknabenwunderhorn-11f88",
+            "desknabenwunderhorn-525fd",
+            "desknabenwunderhorn-6997a",
+            "desknabenwunderhorn-6bfc6",
+            "desknabenwunderhorn-6fc03",
+            "desknabenwunderhorn-75eab",
+            "desknabenwunderhorn-76a0d",
+            "desknabenwunderhorn-79390",
+            "desknabenwunderhorn-9ce93",
+            "desknabenwunderhorn-ab762",
+            "desknabenwunderhorn-acf4c",
+            "desknabenwunderhorn-afcaa",
+            "desknabenwunderhorn-b7a5a",
+            "desknabenwunderhorn-ce931",
+            "desknabenwunderhorn-d13d0",
+            "desknabenwunderhorn-e95f7",
+            "desknabenwunderhorn-f0796"
+        ]
+    },
+    {
+        "id": "197841",
+        "time": "1786367496869",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197842",
+        "time": "1786367496846",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197843",
+        "time": "1786367497848",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.0539",
+        "words": "49",
+        "elementids": [
+            "dieleidendesjungenwerthers-40759",
+            "dieleidendesjungenwerthers-6ba4f",
+            "dieleidendesjungenwerthers-9c017",
+            "dieleidendesjungenwerthers-abe15",
+            "dieleidendesjungenwerthers-d277f",
+            "dieleidendesjungenwerthers-f5fcf"
+        ]
+    },
+    {
+        "id": "197844",
+        "time": "1786367516125",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0526",
+        "words": "43",
+        "elementids": [
+            "dieleidendesjungenwerthers-96f65",
+            "dieleidendesjungenwerthers-afa9c",
+            "dieleidendesjungenwerthers-cf1f9"
+        ]
+    },
+    {
+        "id": "197845",
+        "time": "1786367537597",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197846",
+        "time": "1786367539289",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.0513",
+        "words": "56",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-51513",
+            "dieleidendesjungenwerthers-ace4e",
+            "dieleidendesjungenwerthers-cf1f9"
+        ]
+    },
+    {
+        "id": "197847",
+        "time": "1786367540188",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.05",
+        "words": "54",
+        "elementids": [
+            "dieleidendesjungenwerthers-0df79",
+            "dieleidendesjungenwerthers-56521",
+            "dieleidendesjungenwerthers-c4143"
+        ]
+    },
+    {
+        "id": "197848",
+        "time": "1786367541088",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0487",
+        "words": "53",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-58358",
+            "dieleidendesjungenwerthers-c4143",
+            "dieleidendesjungenwerthers-f5222"
+        ]
+    },
+    {
+        "id": "197849",
+        "time": "1786367542008",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.0474",
+        "words": "56",
+        "elementids": [
+            "dieleidendesjungenwerthers-155f2",
+            "dieleidendesjungenwerthers-4ebc6",
+            "dieleidendesjungenwerthers-71a20",
+            "dieleidendesjungenwerthers-97769",
+            "dieleidendesjungenwerthers-9b233",
+            "dieleidendesjungenwerthers-a569f"
+        ]
+    },
+    {
+        "id": "197850",
+        "time": "1786367542692",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.0461",
+        "words": "55",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a3ad",
+            "dieleidendesjungenwerthers-1e1c0",
+            "dieleidendesjungenwerthers-69f61",
+            "dieleidendesjungenwerthers-a569f",
+            "dieleidendesjungenwerthers-d7930"
+        ]
+    },
+    {
+        "id": "197851",
+        "time": "1786367543276",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0447",
+        "words": "56",
+        "elementids": [
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-374e8",
+            "dieleidendesjungenwerthers-519c1",
+            "dieleidendesjungenwerthers-6238e",
+            "dieleidendesjungenwerthers-69f61"
+        ]
+    },
+    {
+        "id": "197852",
+        "time": "1786367543860",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0434",
+        "words": "58",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-10c63",
+            "dieleidendesjungenwerthers-a084c",
+            "dieleidendesjungenwerthers-c99fc",
+            "dieleidendesjungenwerthers-f982f"
+        ]
+    },
+    {
+        "id": "197853",
+        "time": "1786367544490",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0421",
+        "words": "50",
+        "elementids": [
+            "dieleidendesjungenwerthers-01537",
+            "dieleidendesjungenwerthers-0a0fd",
+            "dieleidendesjungenwerthers-69911",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "197854",
+        "time": "1786367545041",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0408",
+        "words": "58",
+        "elementids": [
+            "dieleidendesjungenwerthers-18766",
+            "dieleidendesjungenwerthers-59bb3",
+            "dieleidendesjungenwerthers-8b5a0",
+            "dieleidendesjungenwerthers-d81c1"
+        ]
+    },
+    {
+        "id": "197855",
+        "time": "1786367545589",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0395",
+        "words": "48",
+        "elementids": [
+            "dieleidendesjungenwerthers-3412b",
+            "dieleidendesjungenwerthers-348b3",
+            "dieleidendesjungenwerthers-4f657",
+            "dieleidendesjungenwerthers-50db7",
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-8b5a0"
+        ]
+    },
+    {
+        "id": "197856",
+        "time": "1786367546289",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0382",
+        "words": "67",
+        "elementids": [
+            "dieleidendesjungenwerthers-570e5",
+            "dieleidendesjungenwerthers-6d810",
+            "dieleidendesjungenwerthers-7eb82",
+            "dieleidendesjungenwerthers-9c1df",
+            "dieleidendesjungenwerthers-a292b",
+            "dieleidendesjungenwerthers-a4346",
+            "dieleidendesjungenwerthers-dbe3c",
+            "dieleidendesjungenwerthers-e91dd",
+            "dieleidendesjungenwerthers-fafdb"
+        ]
+    },
+    {
+        "id": "197857",
+        "time": "1786367546936",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0368",
+        "words": "55",
+        "elementids": [
+            "dieleidendesjungenwerthers-6d8e8",
+            "dieleidendesjungenwerthers-a292b"
+        ]
+    },
+    {
+        "id": "197858",
+        "time": "1786367547790",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.0355",
+        "words": "43",
+        "elementids": [
+            "dieleidendesjungenwerthers-9a461",
+            "dieleidendesjungenwerthers-9bbbe"
+        ]
+    },
+    {
+        "id": "197859",
+        "time": "1786367548872",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0342",
+        "words": "58",
+        "elementids": [
+            "dieleidendesjungenwerthers-6678d",
+            "dieleidendesjungenwerthers-97797",
+            "dieleidendesjungenwerthers-9a461",
+            "dieleidendesjungenwerthers-f5925"
+        ]
+    },
+    {
+        "id": "197860",
+        "time": "1786367549541",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0329",
+        "words": "45",
+        "elementids": [
+            "dieleidendesjungenwerthers-1aa30",
+            "dieleidendesjungenwerthers-5cfce",
+            "dieleidendesjungenwerthers-6678d",
+            "dieleidendesjungenwerthers-83b9e",
+            "dieleidendesjungenwerthers-d7266",
+            "dieleidendesjungenwerthers-f0f67"
+        ]
+    },
+    {
+        "id": "197861",
+        "time": "1786367550206",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0316",
+        "words": "63",
+        "elementids": [
+            "dieleidendesjungenwerthers-19b8b",
+            "dieleidendesjungenwerthers-83b9e",
+            "dieleidendesjungenwerthers-af4cd",
+            "dieleidendesjungenwerthers-ce18e"
+        ]
+    },
+    {
+        "id": "197862",
+        "time": "1786367550989",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0303",
+        "words": "46",
+        "elementids": [
+            "dieleidendesjungenwerthers-0401c",
+            "dieleidendesjungenwerthers-43dd3",
+            "dieleidendesjungenwerthers-56c79",
+            "dieleidendesjungenwerthers-6335b",
+            "dieleidendesjungenwerthers-84261",
+            "dieleidendesjungenwerthers-af4cd"
+        ]
+    },
+    {
+        "id": "197863",
+        "time": "1786367551692",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0289",
+        "words": "52",
+        "elementids": [
+            "dieleidendesjungenwerthers-10d91",
+            "dieleidendesjungenwerthers-289f3",
+            "dieleidendesjungenwerthers-56c79"
+        ]
+    },
+    {
+        "id": "197864",
+        "time": "1786367552277",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0276",
+        "words": "57",
+        "elementids": [
+            "dieleidendesjungenwerthers-10d91",
+            "dieleidendesjungenwerthers-47dd3",
+            "dieleidendesjungenwerthers-a5106"
+        ]
+    },
+    {
+        "id": "197865",
+        "time": "1786367552826",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0263",
+        "words": "59",
+        "elementids": [
+            "dieleidendesjungenwerthers-2e9b8",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-a5106",
+            "dieleidendesjungenwerthers-a9265",
+            "dieleidendesjungenwerthers-e0db2"
+        ]
+    },
+    {
+        "id": "197866",
+        "time": "1786367571733",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197867",
+        "time": "1786367581641",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.025",
+        "words": "46",
+        "elementids": [
+            "dieleidendesjungenwerthers-2a5b1",
+            "dieleidendesjungenwerthers-4ad6f",
+            "dieleidendesjungenwerthers-8012f",
+            "dieleidendesjungenwerthers-82785",
+            "dieleidendesjungenwerthers-aede5"
+        ]
+    },
+    {
+        "id": "197868",
+        "time": "1786367582307",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.0237",
+        "words": "66",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-82785"
+        ]
+    },
+    {
+        "id": "197869",
+        "time": "1786367582802",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0224",
+        "words": "51",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e"
+        ]
+    },
+    {
+        "id": "197870",
+        "time": "1786367583327",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0211",
+        "words": "55",
+        "elementids": [
+            "dieleidendesjungenwerthers-1bd3e",
+            "dieleidendesjungenwerthers-46263"
+        ]
+    },
+    {
+        "id": "197871",
+        "time": "1786367583958",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0197",
+        "words": "58",
+        "elementids": [
+            "dieleidendesjungenwerthers-46263",
+            "dieleidendesjungenwerthers-61ac3",
+            "dieleidendesjungenwerthers-b7cce",
+            "dieleidendesjungenwerthers-fee5e"
+        ]
+    },
+    {
+        "id": "197872",
+        "time": "1786367584841",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0184",
+        "words": "43",
+        "elementids": [
+            "dieleidendesjungenwerthers-61ac3",
+            "dieleidendesjungenwerthers-6fd4d",
+            "dieleidendesjungenwerthers-7c56c",
+            "dieleidendesjungenwerthers-8a97a",
+            "dieleidendesjungenwerthers-ffb2e"
+        ]
+    },
+    {
+        "id": "197873",
+        "time": "1786367585575",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0171",
+        "words": "47",
+        "elementids": [
+            "dieleidendesjungenwerthers-65347",
+            "dieleidendesjungenwerthers-7bfba",
+            "dieleidendesjungenwerthers-ffb2e"
+        ]
+    },
+    {
+        "id": "197874",
+        "time": "1786367586243",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0158",
+        "words": "45",
+        "elementids": [
+            "dieleidendesjungenwerthers-65347",
+            "dieleidendesjungenwerthers-6ab75",
+            "dieleidendesjungenwerthers-e58d9"
+        ]
+    },
+    {
+        "id": "197875",
+        "time": "1786367586974",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0145",
+        "words": "53",
+        "elementids": [
+            "dieleidendesjungenwerthers-6ab75",
+            "dieleidendesjungenwerthers-783e4",
+            "dieleidendesjungenwerthers-8c908"
+        ]
+    },
+    {
+        "id": "197876",
+        "time": "1786367587898",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0132",
+        "words": "48",
+        "elementids": [
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-49171",
+            "dieleidendesjungenwerthers-75a34"
+        ]
+    },
+    {
+        "id": "197877",
+        "time": "1786367588507",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.0118",
+        "words": "52",
+        "elementids": [
+            "dieleidendesjungenwerthers-2d281",
+            "dieleidendesjungenwerthers-47235",
+            "dieleidendesjungenwerthers-71b5d"
+        ]
+    },
+    {
+        "id": "197878",
+        "time": "1786367589024",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0105",
+        "words": "46",
+        "elementids": [
+            "dieleidendesjungenwerthers-01379",
+            "dieleidendesjungenwerthers-71b5d",
+            "dieleidendesjungenwerthers-96ecc"
+        ]
+    },
+    {
+        "id": "197879",
+        "time": "1786367589459",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0092",
+        "words": "55",
+        "elementids": [
+            "dieleidendesjungenwerthers-01379",
+            "dieleidendesjungenwerthers-4b976",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-ffd84"
+        ]
+    },
+    {
+        "id": "197880",
+        "time": "1786367589958",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0079",
+        "words": "60",
+        "elementids": [
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-5019c",
+            "dieleidendesjungenwerthers-54941",
+            "dieleidendesjungenwerthers-a7f74"
+        ]
+    },
+    {
+        "id": "197881",
+        "time": "1786367590441",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0066",
+        "words": "53",
+        "elementids": [
+            "dieleidendesjungenwerthers-06359",
+            "dieleidendesjungenwerthers-0b0fe",
+            "dieleidendesjungenwerthers-193c9",
+            "dieleidendesjungenwerthers-80821",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-877c2"
+        ]
+    },
+    {
+        "id": "197882",
+        "time": "1786367590996",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0053",
+        "words": "50",
+        "elementids": [
+            "dieleidendesjungenwerthers-27dce",
+            "dieleidendesjungenwerthers-61fd3",
+            "dieleidendesjungenwerthers-82952",
+            "dieleidendesjungenwerthers-855c5",
+            "dieleidendesjungenwerthers-ad1a9",
+            "dieleidendesjungenwerthers-b151f",
+            "dieleidendesjungenwerthers-cdfca",
+            "dieleidendesjungenwerthers-f44bb"
+        ]
+    },
+    {
+        "id": "197883",
+        "time": "1786367592908",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0039",
+        "words": "40",
+        "elementids": [
+            "dieleidendesjungenwerthers-54f9c",
+            "dieleidendesjungenwerthers-b1d6e"
+        ]
+    },
+    {
+        "id": "197884",
+        "time": "1786367594391",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0026",
+        "words": "48",
+        "elementids": [
+            "dieleidendesjungenwerthers-8500c",
+            "dieleidendesjungenwerthers-ae100",
+            "dieleidendesjungenwerthers-b1d6e",
+            "dieleidendesjungenwerthers-f0299"
+        ]
+    },
+    {
+        "id": "197885",
+        "time": "1786367641184",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197886",
+        "time": "1786367656641",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197887",
+        "time": "1786367756678",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "",
+        "action": "enter",
+        "value": "dieaufzeichnungendesmaltelauridsbrigge",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197888",
+        "time": "1786367758271",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1eb69",
+            "dieaufzeichnungendesmaltelauridsbrigge-3f02a",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f271",
+            "dieaufzeichnungendesmaltelauridsbrigge-a4b93",
+            "dieaufzeichnungendesmaltelauridsbrigge-f02b4",
+            "dieaufzeichnungendesmaltelauridsbrigge-f3504"
+        ]
+    },
+    {
+        "id": "197889",
+        "time": "1786367758547",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0053",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3bf94",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d6c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-583a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d586",
+            "dieaufzeichnungendesmaltelauridsbrigge-af80e",
+            "dieaufzeichnungendesmaltelauridsbrigge-bd7e2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d503d"
+        ]
+    },
+    {
+        "id": "197890",
+        "time": "1786367798232",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "location",
+        "action": "set",
+        "value": "ort-3",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197891",
+        "time": "1786367808771",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1eb69",
+            "dieaufzeichnungendesmaltelauridsbrigge-3f02a",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f271",
+            "dieaufzeichnungendesmaltelauridsbrigge-a4b93",
+            "dieaufzeichnungendesmaltelauridsbrigge-f02b4",
+            "dieaufzeichnungendesmaltelauridsbrigge-f3504"
+        ]
+    },
+    {
+        "id": "197892",
+        "time": "1786367811452",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0036",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-02d21",
+            "dieaufzeichnungendesmaltelauridsbrigge-149ce",
+            "dieaufzeichnungendesmaltelauridsbrigge-1eb69",
+            "dieaufzeichnungendesmaltelauridsbrigge-8866e",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a488",
+            "dieaufzeichnungendesmaltelauridsbrigge-c088c",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7d48",
+            "dieaufzeichnungendesmaltelauridsbrigge-fbd87"
+        ]
+    },
+    {
+        "id": "197893",
+        "time": "1786367813540",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-01263",
+            "dieaufzeichnungendesmaltelauridsbrigge-24800",
+            "dieaufzeichnungendesmaltelauridsbrigge-5057f",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d999",
+            "dieaufzeichnungendesmaltelauridsbrigge-939d3",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a488",
+            "dieaufzeichnungendesmaltelauridsbrigge-fed5c"
+        ]
+    },
+    {
+        "id": "197894",
+        "time": "1786367814106",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0018",
+        "words": "36",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-00511",
+            "dieaufzeichnungendesmaltelauridsbrigge-166f6",
+            "dieaufzeichnungendesmaltelauridsbrigge-5652c",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d999",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3f98",
+            "dieaufzeichnungendesmaltelauridsbrigge-b391d",
+            "dieaufzeichnungendesmaltelauridsbrigge-baf3d",
+            "dieaufzeichnungendesmaltelauridsbrigge-c7daf",
+            "dieaufzeichnungendesmaltelauridsbrigge-dafb0"
+        ]
+    },
+    {
+        "id": "197895",
+        "time": "1786367835309",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0027",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-01263",
+            "dieaufzeichnungendesmaltelauridsbrigge-24800",
+            "dieaufzeichnungendesmaltelauridsbrigge-5057f",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d999",
+            "dieaufzeichnungendesmaltelauridsbrigge-939d3",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a488",
+            "dieaufzeichnungendesmaltelauridsbrigge-fed5c"
+        ]
+    },
+    {
+        "id": "197896",
+        "time": "1786367912157",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "depends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197897",
+        "time": "1786367934331",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0036",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-02d21",
+            "dieaufzeichnungendesmaltelauridsbrigge-149ce",
+            "dieaufzeichnungendesmaltelauridsbrigge-1eb69",
+            "dieaufzeichnungendesmaltelauridsbrigge-8866e",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a488",
+            "dieaufzeichnungendesmaltelauridsbrigge-c088c",
+            "dieaufzeichnungendesmaltelauridsbrigge-f7d48",
+            "dieaufzeichnungendesmaltelauridsbrigge-fbd87"
+        ]
+    },
+    {
+        "id": "197898",
+        "time": "1786367960709",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.0044",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1eb69",
+            "dieaufzeichnungendesmaltelauridsbrigge-3f02a",
+            "dieaufzeichnungendesmaltelauridsbrigge-9f271",
+            "dieaufzeichnungendesmaltelauridsbrigge-a4b93",
+            "dieaufzeichnungendesmaltelauridsbrigge-f02b4",
+            "dieaufzeichnungendesmaltelauridsbrigge-f3504"
+        ]
+    },
+    {
+        "id": "197899",
+        "time": "1786367995594",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.0053",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3bf94",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d6c6",
+            "dieaufzeichnungendesmaltelauridsbrigge-583a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d586",
+            "dieaufzeichnungendesmaltelauridsbrigge-af80e",
+            "dieaufzeichnungendesmaltelauridsbrigge-bd7e2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d503d"
+        ]
+    },
+    {
+        "id": "197900",
+        "time": "1786368038698",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.0062",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-2deb2",
+            "dieaufzeichnungendesmaltelauridsbrigge-4f7db",
+            "dieaufzeichnungendesmaltelauridsbrigge-61c1f",
+            "dieaufzeichnungendesmaltelauridsbrigge-87e03",
+            "dieaufzeichnungendesmaltelauridsbrigge-df367",
+            "dieaufzeichnungendesmaltelauridsbrigge-efaf7"
+        ]
+    },
+    {
+        "id": "197901",
+        "time": "1786368042698",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "emotion",
+        "action": "set",
+        "value": "emotion-5",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197902",
+        "time": "1786368065770",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0071",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-2deb2",
+            "dieaufzeichnungendesmaltelauridsbrigge-595cf",
+            "dieaufzeichnungendesmaltelauridsbrigge-69ead",
+            "dieaufzeichnungendesmaltelauridsbrigge-975f3",
+            "dieaufzeichnungendesmaltelauridsbrigge-9e9da",
+            "dieaufzeichnungendesmaltelauridsbrigge-a848e",
+            "dieaufzeichnungendesmaltelauridsbrigge-be01c",
+            "dieaufzeichnungendesmaltelauridsbrigge-c801f",
+            "dieaufzeichnungendesmaltelauridsbrigge-db50a",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee104",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee53b"
+        ]
+    },
+    {
+        "id": "197903",
+        "time": "1786368091655",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.008",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-08962",
+            "dieaufzeichnungendesmaltelauridsbrigge-72d98",
+            "dieaufzeichnungendesmaltelauridsbrigge-77eb4",
+            "dieaufzeichnungendesmaltelauridsbrigge-7dc52",
+            "dieaufzeichnungendesmaltelauridsbrigge-a848e",
+            "dieaufzeichnungendesmaltelauridsbrigge-b4326"
+        ]
+    },
+    {
+        "id": "197904",
+        "time": "1786368111700",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page9",
+        "action": "enter",
+        "value": "0.0089",
+        "words": "46",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-646a4",
+            "dieaufzeichnungendesmaltelauridsbrigge-b4326",
+            "dieaufzeichnungendesmaltelauridsbrigge-ceac1"
+        ]
+    },
+    {
+        "id": "197905",
+        "time": "1786368131567",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page10",
+        "action": "enter",
+        "value": "0.0098",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-215e7",
+            "dieaufzeichnungendesmaltelauridsbrigge-4ca41",
+            "dieaufzeichnungendesmaltelauridsbrigge-4dbbb",
+            "dieaufzeichnungendesmaltelauridsbrigge-646a4",
+            "dieaufzeichnungendesmaltelauridsbrigge-7dbae",
+            "dieaufzeichnungendesmaltelauridsbrigge-ad234",
+            "dieaufzeichnungendesmaltelauridsbrigge-e484b",
+            "dieaufzeichnungendesmaltelauridsbrigge-ea182"
+        ]
+    },
+    {
+        "id": "197906",
+        "time": "1786368150920",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page11",
+        "action": "enter",
+        "value": "0.0107",
+        "words": "50",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-40b33",
+            "dieaufzeichnungendesmaltelauridsbrigge-ba5d5",
+            "dieaufzeichnungendesmaltelauridsbrigge-bb262",
+            "dieaufzeichnungendesmaltelauridsbrigge-ea182",
+            "dieaufzeichnungendesmaltelauridsbrigge-fcea2"
+        ]
+    },
+    {
+        "id": "197907",
+        "time": "1786368178304",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page12",
+        "action": "enter",
+        "value": "0.0116",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-2aa9c",
+            "dieaufzeichnungendesmaltelauridsbrigge-7f4a9",
+            "dieaufzeichnungendesmaltelauridsbrigge-bb262",
+            "dieaufzeichnungendesmaltelauridsbrigge-c2786",
+            "dieaufzeichnungendesmaltelauridsbrigge-dccf0",
+            "dieaufzeichnungendesmaltelauridsbrigge-e6102"
+        ]
+    },
+    {
+        "id": "197908",
+        "time": "1786368206638",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page13",
+        "action": "enter",
+        "value": "0.0124",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-038a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-34bd1",
+            "dieaufzeichnungendesmaltelauridsbrigge-63143",
+            "dieaufzeichnungendesmaltelauridsbrigge-7f4a9",
+            "dieaufzeichnungendesmaltelauridsbrigge-bc13c",
+            "dieaufzeichnungendesmaltelauridsbrigge-c1040"
+        ]
+    },
+    {
+        "id": "197909",
+        "time": "1786368228744",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page14",
+        "action": "enter",
+        "value": "0.0133",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14fea",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ab55",
+            "dieaufzeichnungendesmaltelauridsbrigge-7defc",
+            "dieaufzeichnungendesmaltelauridsbrigge-c1040"
+        ]
+    },
+    {
+        "id": "197910",
+        "time": "1786368313577",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "notdepends",
+        "value": "0",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197911",
+        "time": "1786368320849",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0142",
+        "words": "52",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-08378",
+            "dieaufzeichnungendesmaltelauridsbrigge-213f5",
+            "dieaufzeichnungendesmaltelauridsbrigge-23038",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ab55",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b50c",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a75b",
+            "dieaufzeichnungendesmaltelauridsbrigge-b178b",
+            "dieaufzeichnungendesmaltelauridsbrigge-c29a4"
+        ]
+    },
+    {
+        "id": "197912",
+        "time": "1786368340250",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0151",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-213f5",
+            "dieaufzeichnungendesmaltelauridsbrigge-322d9",
+            "dieaufzeichnungendesmaltelauridsbrigge-bdc14"
+        ]
+    },
+    {
+        "id": "197913",
+        "time": "1786368343694",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page15",
+        "action": "enter",
+        "value": "0.0142",
+        "words": "52",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-08378",
+            "dieaufzeichnungendesmaltelauridsbrigge-213f5",
+            "dieaufzeichnungendesmaltelauridsbrigge-23038",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ab55",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b50c",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a75b",
+            "dieaufzeichnungendesmaltelauridsbrigge-b178b",
+            "dieaufzeichnungendesmaltelauridsbrigge-c29a4"
+        ]
+    },
+    {
+        "id": "197914",
+        "time": "1786368345127",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page16",
+        "action": "enter",
+        "value": "0.0151",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-213f5",
+            "dieaufzeichnungendesmaltelauridsbrigge-322d9",
+            "dieaufzeichnungendesmaltelauridsbrigge-bdc14"
+        ]
+    },
+    {
+        "id": "197915",
+        "time": "1786368367029",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page17",
+        "action": "enter",
+        "value": "0.016",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-8d812",
+            "dieaufzeichnungendesmaltelauridsbrigge-a619c",
+            "dieaufzeichnungendesmaltelauridsbrigge-ae53d",
+            "dieaufzeichnungendesmaltelauridsbrigge-b4653",
+            "dieaufzeichnungendesmaltelauridsbrigge-b8df4",
+            "dieaufzeichnungendesmaltelauridsbrigge-c62c3"
+        ]
+    },
+    {
+        "id": "197916",
+        "time": "1786368387485",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page18",
+        "action": "enter",
+        "value": "0.0169",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a9d4e",
+            "dieaufzeichnungendesmaltelauridsbrigge-ab9c4",
+            "dieaufzeichnungendesmaltelauridsbrigge-b8df4",
+            "dieaufzeichnungendesmaltelauridsbrigge-fc644"
+        ]
+    },
+    {
+        "id": "197917",
+        "time": "1786368412293",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page19",
+        "action": "enter",
+        "value": "0.0178",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-4d8d4",
+            "dieaufzeichnungendesmaltelauridsbrigge-4fc9d",
+            "dieaufzeichnungendesmaltelauridsbrigge-6e9e3",
+            "dieaufzeichnungendesmaltelauridsbrigge-ab9c4",
+            "dieaufzeichnungendesmaltelauridsbrigge-d6ff0"
+        ]
+    },
+    {
+        "id": "197918",
+        "time": "1786368440767",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page20",
+        "action": "enter",
+        "value": "0.0187",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-33f1d",
+            "dieaufzeichnungendesmaltelauridsbrigge-45aca",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d8d4",
+            "dieaufzeichnungendesmaltelauridsbrigge-b8d49"
+        ]
+    },
+    {
+        "id": "197919",
+        "time": "1786368468018",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page21",
+        "action": "enter",
+        "value": "0.0196",
+        "words": "50",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-612a3",
+            "dieaufzeichnungendesmaltelauridsbrigge-b8d49",
+            "dieaufzeichnungendesmaltelauridsbrigge-ed9cc"
+        ]
+    },
+    {
+        "id": "197920",
+        "time": "1786368498108",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page22",
+        "action": "enter",
+        "value": "0.0204",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5a2ae",
+            "dieaufzeichnungendesmaltelauridsbrigge-612a3",
+            "dieaufzeichnungendesmaltelauridsbrigge-8daba"
+        ]
+    },
+    {
+        "id": "197921",
+        "time": "1786368524755",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page23",
+        "action": "enter",
+        "value": "0.0213",
+        "words": "42",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-2252e",
+            "dieaufzeichnungendesmaltelauridsbrigge-77f61",
+            "dieaufzeichnungendesmaltelauridsbrigge-8daba"
+        ]
+    },
+    {
+        "id": "197922",
+        "time": "1786368549338",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page24",
+        "action": "enter",
+        "value": "0.0222",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-044d1",
+            "dieaufzeichnungendesmaltelauridsbrigge-3f275",
+            "dieaufzeichnungendesmaltelauridsbrigge-5c21d",
+            "dieaufzeichnungendesmaltelauridsbrigge-77f61",
+            "dieaufzeichnungendesmaltelauridsbrigge-7acac",
+            "dieaufzeichnungendesmaltelauridsbrigge-8de70",
+            "dieaufzeichnungendesmaltelauridsbrigge-c2aa6",
+            "dieaufzeichnungendesmaltelauridsbrigge-cf432"
+        ]
+    },
+    {
+        "id": "197923",
+        "time": "1786368572440",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page25",
+        "action": "enter",
+        "value": "0.0231",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-044d1",
+            "dieaufzeichnungendesmaltelauridsbrigge-1bcd9",
+            "dieaufzeichnungendesmaltelauridsbrigge-8262d",
+            "dieaufzeichnungendesmaltelauridsbrigge-c39b6",
+            "dieaufzeichnungendesmaltelauridsbrigge-dd25d"
+        ]
+    },
+    {
+        "id": "197924",
+        "time": "1786368620364",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page26",
+        "action": "enter",
+        "value": "0.024",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5342c",
+            "dieaufzeichnungendesmaltelauridsbrigge-8262d",
+            "dieaufzeichnungendesmaltelauridsbrigge-d8bea"
+        ]
+    },
+    {
+        "id": "197925",
+        "time": "1786368663111",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page27",
+        "action": "enter",
+        "value": "0.0249",
+        "words": "52",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10187",
+            "dieaufzeichnungendesmaltelauridsbrigge-4a389",
+            "dieaufzeichnungendesmaltelauridsbrigge-5342c"
+        ]
+    },
+    {
+        "id": "197926",
+        "time": "1786368747091",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "notdepends",
+        "value": "1",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197927",
+        "time": "1786368758982",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page28",
+        "action": "enter",
+        "value": "0.0258",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10187",
+            "dieaufzeichnungendesmaltelauridsbrigge-2dfbe",
+            "dieaufzeichnungendesmaltelauridsbrigge-4403e",
+            "dieaufzeichnungendesmaltelauridsbrigge-cf2b4"
+        ]
+    },
+    {
+        "id": "197928",
+        "time": "1786368823177",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197929",
+        "time": "1786368839825",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page29",
+        "action": "enter",
+        "value": "0.0267",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0471b",
+            "dieaufzeichnungendesmaltelauridsbrigge-0917f",
+            "dieaufzeichnungendesmaltelauridsbrigge-334dc",
+            "dieaufzeichnungendesmaltelauridsbrigge-4403e",
+            "dieaufzeichnungendesmaltelauridsbrigge-b790c",
+            "dieaufzeichnungendesmaltelauridsbrigge-cd60d",
+            "dieaufzeichnungendesmaltelauridsbrigge-d0526"
+        ]
+    },
+    {
+        "id": "197930",
+        "time": "1786368859826",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page30",
+        "action": "enter",
+        "value": "0.0276",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-01859",
+            "dieaufzeichnungendesmaltelauridsbrigge-0471b",
+            "dieaufzeichnungendesmaltelauridsbrigge-18745",
+            "dieaufzeichnungendesmaltelauridsbrigge-1ed1f",
+            "dieaufzeichnungendesmaltelauridsbrigge-5526d",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-a63fe"
+        ]
+    },
+    {
+        "id": "197931",
+        "time": "1786368883927",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page31",
+        "action": "enter",
+        "value": "0.0284",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-9dda6",
+            "dieaufzeichnungendesmaltelauridsbrigge-c18b2"
+        ]
+    },
+    {
+        "id": "197932",
+        "time": "1786368903476",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page32",
+        "action": "enter",
+        "value": "0.0293",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-14e18",
+            "dieaufzeichnungendesmaltelauridsbrigge-d596d"
+        ]
+    },
+    {
+        "id": "197933",
+        "time": "1786368954307",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page33",
+        "action": "enter",
+        "value": "0.0302",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-9d77a",
+            "dieaufzeichnungendesmaltelauridsbrigge-d596d",
+            "dieaufzeichnungendesmaltelauridsbrigge-df8eb"
+        ]
+    },
+    {
+        "id": "197934",
+        "time": "1786368977409",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page34",
+        "action": "enter",
+        "value": "0.0311",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-22bce",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b18b",
+            "dieaufzeichnungendesmaltelauridsbrigge-d5ed6",
+            "dieaufzeichnungendesmaltelauridsbrigge-df8eb"
+        ]
+    },
+    {
+        "id": "197935",
+        "time": "1786368998582",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page35",
+        "action": "enter",
+        "value": "0.032",
+        "words": "44",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ecf4",
+            "dieaufzeichnungendesmaltelauridsbrigge-761c1",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b18b"
+        ]
+    },
+    {
+        "id": "197936",
+        "time": "1786369021477",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.0329",
+        "words": "46",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ecf4",
+            "dieaufzeichnungendesmaltelauridsbrigge-a21f0"
+        ]
+    },
+    {
+        "id": "197937",
+        "time": "1786369044501",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.0338",
+        "words": "40",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a21f0",
+            "dieaufzeichnungendesmaltelauridsbrigge-c15ce"
+        ]
+    },
+    {
+        "id": "197938",
+        "time": "1786369067579",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page38",
+        "action": "enter",
+        "value": "0.0347",
+        "words": "42",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5682a",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fdcd",
+            "dieaufzeichnungendesmaltelauridsbrigge-c15ce"
+        ]
+    },
+    {
+        "id": "197939",
+        "time": "1786369081980",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page39",
+        "action": "enter",
+        "value": "0.0356",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0a636",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fdcd"
+        ]
+    },
+    {
+        "id": "197940",
+        "time": "1786369091947",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page40",
+        "action": "enter",
+        "value": "0.0364",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1137d",
+            "dieaufzeichnungendesmaltelauridsbrigge-2c812",
+            "dieaufzeichnungendesmaltelauridsbrigge-8abb6",
+            "dieaufzeichnungendesmaltelauridsbrigge-bb437",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2d8e"
+        ]
+    },
+    {
+        "id": "197941",
+        "time": "1786369164807",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page41",
+        "action": "enter",
+        "value": "0.0373",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-b46b5",
+            "dieaufzeichnungendesmaltelauridsbrigge-bb437",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0bd4"
+        ]
+    },
+    {
+        "id": "197942",
+        "time": "1786369165606",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page42",
+        "action": "enter",
+        "value": "0.0382",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b160",
+            "dieaufzeichnungendesmaltelauridsbrigge-6e0bd",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3876",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0bd4"
+        ]
+    },
+    {
+        "id": "197943",
+        "time": "1786369175824",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page43",
+        "action": "enter",
+        "value": "0.0391",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-52771",
+            "dieaufzeichnungendesmaltelauridsbrigge-5e6f2",
+            "dieaufzeichnungendesmaltelauridsbrigge-6e0bd"
+        ]
+    },
+    {
+        "id": "197944",
+        "time": "1786369195336",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page44",
+        "action": "enter",
+        "value": "0.04",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-4d668",
+            "dieaufzeichnungendesmaltelauridsbrigge-5e6f2",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2f8c"
+        ]
+    },
+    {
+        "id": "197945",
+        "time": "1786369214343",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page45",
+        "action": "enter",
+        "value": "0.0409",
+        "words": "49",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-059a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-51646",
+            "dieaufzeichnungendesmaltelauridsbrigge-54238",
+            "dieaufzeichnungendesmaltelauridsbrigge-d2f8c"
+        ]
+    },
+    {
+        "id": "197946",
+        "time": "1786369235224",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page46",
+        "action": "enter",
+        "value": "0.0418",
+        "words": "46",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-059a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-0a9bf",
+            "dieaufzeichnungendesmaltelauridsbrigge-25c07",
+            "dieaufzeichnungendesmaltelauridsbrigge-46a5d",
+            "dieaufzeichnungendesmaltelauridsbrigge-f6250"
+        ]
+    },
+    {
+        "id": "197947",
+        "time": "1786369247339",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page47",
+        "action": "enter",
+        "value": "0.0427",
+        "words": "46",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-25c07"
+        ]
+    },
+    {
+        "id": "197948",
+        "time": "1786369269390",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.0436",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0436d",
+            "dieaufzeichnungendesmaltelauridsbrigge-25c07",
+            "dieaufzeichnungendesmaltelauridsbrigge-6c0a6",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1a21"
+        ]
+    },
+    {
+        "id": "197949",
+        "time": "1786369329610",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.0444",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0436d",
+            "dieaufzeichnungendesmaltelauridsbrigge-38cd3"
+        ]
+    },
+    {
+        "id": "197950",
+        "time": "1786369332646",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197951",
+        "time": "1786369353895",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0453",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-38cd3",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf2c4"
+        ]
+    },
+    {
+        "id": "197952",
+        "time": "1786369356071",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.0444",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0436d",
+            "dieaufzeichnungendesmaltelauridsbrigge-38cd3"
+        ]
+    },
+    {
+        "id": "197953",
+        "time": "1786369445553",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197954",
+        "time": "1786369453428",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page50",
+        "action": "enter",
+        "value": "0.0453",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-38cd3",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf2c4"
+        ]
+    },
+    {
+        "id": "197955",
+        "time": "1786369482332",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page51",
+        "action": "enter",
+        "value": "0.0462",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1d4f4",
+            "dieaufzeichnungendesmaltelauridsbrigge-bf2c4",
+            "dieaufzeichnungendesmaltelauridsbrigge-c6cd8",
+            "dieaufzeichnungendesmaltelauridsbrigge-e3f8e"
+        ]
+    },
+    {
+        "id": "197956",
+        "time": "1786369483220",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page52",
+        "action": "enter",
+        "value": "0.0471",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-51a62",
+            "dieaufzeichnungendesmaltelauridsbrigge-c6cd8"
+        ]
+    },
+    {
+        "id": "197957",
+        "time": "1786369484264",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page53",
+        "action": "enter",
+        "value": "0.048",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3e60d",
+            "dieaufzeichnungendesmaltelauridsbrigge-4fc4c",
+            "dieaufzeichnungendesmaltelauridsbrigge-51a62"
+        ]
+    },
+    {
+        "id": "197958",
+        "time": "1786369555111",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197959",
+        "time": "1786369574953",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page54",
+        "action": "enter",
+        "value": "0.0489",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3e60d",
+            "dieaufzeichnungendesmaltelauridsbrigge-77c55",
+            "dieaufzeichnungendesmaltelauridsbrigge-84a2c",
+            "dieaufzeichnungendesmaltelauridsbrigge-84c3c",
+            "dieaufzeichnungendesmaltelauridsbrigge-8fc37"
+        ]
+    },
+    {
+        "id": "197960",
+        "time": "1786369609839",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.0498",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-05c33",
+            "dieaufzeichnungendesmaltelauridsbrigge-a3b21"
+        ]
+    },
+    {
+        "id": "197961",
+        "time": "1786369613688",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page56",
+        "action": "enter",
+        "value": "0.0507",
+        "words": "45",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-05c33",
+            "dieaufzeichnungendesmaltelauridsbrigge-a98ca",
+            "dieaufzeichnungendesmaltelauridsbrigge-d00af",
+            "dieaufzeichnungendesmaltelauridsbrigge-ddf0b"
+        ]
+    },
+    {
+        "id": "197962",
+        "time": "1786369615193",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page57",
+        "action": "enter",
+        "value": "0.0516",
+        "words": "56",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a98ca",
+            "dieaufzeichnungendesmaltelauridsbrigge-f2402",
+            "dieaufzeichnungendesmaltelauridsbrigge-f57b8"
+        ]
+    },
+    {
+        "id": "197963",
+        "time": "1786369616110",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page58",
+        "action": "enter",
+        "value": "0.0524",
+        "words": "47",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-59d60",
+            "dieaufzeichnungendesmaltelauridsbrigge-d618d",
+            "dieaufzeichnungendesmaltelauridsbrigge-f57b8"
+        ]
+    },
+    {
+        "id": "197964",
+        "time": "1786369616939",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page59",
+        "action": "enter",
+        "value": "0.0533",
+        "words": "45",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-1c290",
+            "dieaufzeichnungendesmaltelauridsbrigge-4957c",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d587",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d712",
+            "dieaufzeichnungendesmaltelauridsbrigge-d618d"
+        ]
+    },
+    {
+        "id": "197965",
+        "time": "1786369617861",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page60",
+        "action": "enter",
+        "value": "0.0542",
+        "words": "64",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0a0fd",
+            "dieaufzeichnungendesmaltelauridsbrigge-5b7c9",
+            "dieaufzeichnungendesmaltelauridsbrigge-7a834",
+            "dieaufzeichnungendesmaltelauridsbrigge-7d712"
+        ]
+    },
+    {
+        "id": "197966",
+        "time": "1786369618510",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page61",
+        "action": "enter",
+        "value": "0.0551",
+        "words": "49",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10242",
+            "dieaufzeichnungendesmaltelauridsbrigge-26918",
+            "dieaufzeichnungendesmaltelauridsbrigge-7a834",
+            "dieaufzeichnungendesmaltelauridsbrigge-cc08b"
+        ]
+    },
+    {
+        "id": "197967",
+        "time": "1786369619122",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page62",
+        "action": "enter",
+        "value": "0.056",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-10242",
+            "dieaufzeichnungendesmaltelauridsbrigge-11d28",
+            "dieaufzeichnungendesmaltelauridsbrigge-33552",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ee4c",
+            "dieaufzeichnungendesmaltelauridsbrigge-62aed",
+            "dieaufzeichnungendesmaltelauridsbrigge-66cc4",
+            "dieaufzeichnungendesmaltelauridsbrigge-6fb65",
+            "dieaufzeichnungendesmaltelauridsbrigge-e8e76"
+        ]
+    },
+    {
+        "id": "197968",
+        "time": "1786369619878",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page63",
+        "action": "enter",
+        "value": "0.0569",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-39b10",
+            "dieaufzeichnungendesmaltelauridsbrigge-60d27",
+            "dieaufzeichnungendesmaltelauridsbrigge-93b69",
+            "dieaufzeichnungendesmaltelauridsbrigge-c86da",
+            "dieaufzeichnungendesmaltelauridsbrigge-e8e76"
+        ]
+    },
+    {
+        "id": "197969",
+        "time": "1786369621561",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page64",
+        "action": "enter",
+        "value": "0.0578",
+        "words": "61",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-06334",
+            "dieaufzeichnungendesmaltelauridsbrigge-60d27",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "197970",
+        "time": "1786369623106",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page65",
+        "action": "enter",
+        "value": "0.0587",
+        "words": "53",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-13bdb",
+            "dieaufzeichnungendesmaltelauridsbrigge-416ab",
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-e1991"
+        ]
+    },
+    {
+        "id": "197971",
+        "time": "1786369623860",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page66",
+        "action": "enter",
+        "value": "0.0596",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-8bef3",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0dfd"
+        ]
+    },
+    {
+        "id": "197972",
+        "time": "1786369624696",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page67",
+        "action": "enter",
+        "value": "0.0604",
+        "words": "48",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-33ea6",
+            "dieaufzeichnungendesmaltelauridsbrigge-4734e",
+            "dieaufzeichnungendesmaltelauridsbrigge-973bc",
+            "dieaufzeichnungendesmaltelauridsbrigge-bae4a",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0dfd"
+        ]
+    },
+    {
+        "id": "197973",
+        "time": "1786369627945",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page68",
+        "action": "enter",
+        "value": "0.0613",
+        "words": "46",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-132f9",
+            "dieaufzeichnungendesmaltelauridsbrigge-41f65",
+            "dieaufzeichnungendesmaltelauridsbrigge-4734e"
+        ]
+    },
+    {
+        "id": "197974",
+        "time": "1786369628656",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0622",
+        "words": "54",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b25a",
+            "dieaufzeichnungendesmaltelauridsbrigge-41f65",
+            "dieaufzeichnungendesmaltelauridsbrigge-c0fde"
+        ]
+    },
+    {
+        "id": "197975",
+        "time": "1786369629239",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page70",
+        "action": "enter",
+        "value": "0.0631",
+        "words": "55",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-139a3",
+            "dieaufzeichnungendesmaltelauridsbrigge-1e27d",
+            "dieaufzeichnungendesmaltelauridsbrigge-3c5db",
+            "dieaufzeichnungendesmaltelauridsbrigge-c01cb"
+        ]
+    },
+    {
+        "id": "197976",
+        "time": "1786369629872",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page71",
+        "action": "enter",
+        "value": "0.064",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0ce3b",
+            "dieaufzeichnungendesmaltelauridsbrigge-1e27d",
+            "dieaufzeichnungendesmaltelauridsbrigge-9ea0f",
+            "dieaufzeichnungendesmaltelauridsbrigge-ef13c"
+        ]
+    },
+    {
+        "id": "197977",
+        "time": "1786369630395",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page72",
+        "action": "enter",
+        "value": "0.0649",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-a5985",
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704",
+            "dieaufzeichnungendesmaltelauridsbrigge-ef13c"
+        ]
+    },
+    {
+        "id": "197978",
+        "time": "1786369630872",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page73",
+        "action": "enter",
+        "value": "0.0658",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704"
+        ]
+    },
+    {
+        "id": "197979",
+        "time": "1786369631278",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page74",
+        "action": "enter",
+        "value": "0.0667",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-15d8d",
+            "dieaufzeichnungendesmaltelauridsbrigge-b1704"
+        ]
+    },
+    {
+        "id": "197980",
+        "time": "1786369632023",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page75",
+        "action": "enter",
+        "value": "0.0676",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0c325",
+            "dieaufzeichnungendesmaltelauridsbrigge-15d8d",
+            "dieaufzeichnungendesmaltelauridsbrigge-4d784",
+            "dieaufzeichnungendesmaltelauridsbrigge-87c77"
+        ]
+    },
+    {
+        "id": "197981",
+        "time": "1786369632727",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page76",
+        "action": "enter",
+        "value": "0.0684",
+        "words": "51",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-0c325",
+            "dieaufzeichnungendesmaltelauridsbrigge-15296",
+            "dieaufzeichnungendesmaltelauridsbrigge-8d600",
+            "dieaufzeichnungendesmaltelauridsbrigge-a2483",
+            "dieaufzeichnungendesmaltelauridsbrigge-ee0a5"
+        ]
+    },
+    {
+        "id": "197982",
+        "time": "1786369633340",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page77",
+        "action": "enter",
+        "value": "0.0693",
+        "words": "62",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5ef92",
+            "dieaufzeichnungendesmaltelauridsbrigge-75a52",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a557",
+            "dieaufzeichnungendesmaltelauridsbrigge-dbd1d",
+            "dieaufzeichnungendesmaltelauridsbrigge-e9eef"
+        ]
+    },
+    {
+        "id": "197983",
+        "time": "1786369634073",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page78",
+        "action": "enter",
+        "value": "0.0702",
+        "words": "57",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-5d718",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d7c8",
+            "dieaufzeichnungendesmaltelauridsbrigge-801c9",
+            "dieaufzeichnungendesmaltelauridsbrigge-dbd1d"
+        ]
+    },
+    {
+        "id": "197984",
+        "time": "1786369634611",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page79",
+        "action": "enter",
+        "value": "0.0711",
+        "words": "58",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-3b0a9",
+            "dieaufzeichnungendesmaltelauridsbrigge-5d718",
+            "dieaufzeichnungendesmaltelauridsbrigge-a6f6c"
+        ]
+    },
+    {
+        "id": "197985",
+        "time": "1786369638006",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page80",
+        "action": "enter",
+        "value": "0.072",
+        "words": "59",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-41649",
+            "dieaufzeichnungendesmaltelauridsbrigge-845cf",
+            "dieaufzeichnungendesmaltelauridsbrigge-86540",
+            "dieaufzeichnungendesmaltelauridsbrigge-8c8c0",
+            "dieaufzeichnungendesmaltelauridsbrigge-a6f6c",
+            "dieaufzeichnungendesmaltelauridsbrigge-efdc5"
+        ]
+    },
+    {
+        "id": "197986",
+        "time": "1786369648869",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197987",
+        "time": "1786369654078",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197988",
+        "time": "1786369677430",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197989",
+        "time": "1786369782489",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_diealpen",
+        "item": "",
+        "action": "enter",
+        "value": "diealpen",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197990",
+        "time": "1786369783584",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_diealpen",
+        "item": "page55",
+        "action": "enter",
+        "value": "0.4746",
+        "words": "51",
+        "elementids": [
+            "diealpen-21626",
+            "diealpen-6412e",
+            "diealpen-66777",
+            "diealpen-dcfc3",
+            "diealpen-eaebb",
+            "diealpen-ff861"
+        ]
+    },
+    {
+        "id": "197991",
+        "time": "1786369783855",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_diealpen",
+        "item": "page56",
+        "action": "enter",
+        "value": "0.4831",
+        "words": "39",
+        "elementids": [
+            "diealpen-292e7",
+            "diealpen-2e132",
+            "diealpen-627ba",
+            "diealpen-b9fba",
+            "diealpen-dcfc3",
+            "diealpen-fc38d"
+        ]
+    },
+    {
+        "id": "197992",
+        "time": "1786369792831",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_diealpen",
+        "item": "location",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197993",
+        "time": "1786369824646",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197994",
+        "time": "1786369828402",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "gluecksaufschlag-intro",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197995",
+        "time": "1786369831562",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "gluecksaufschlag",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197996",
+        "time": "1786369862717",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "",
+        "action": "enter",
+        "value": "dieleidendesjungenwerthers",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "197997",
+        "time": "1786369863267",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page469",
+        "action": "enter",
+        "value": "0.6184",
+        "words": "56",
+        "elementids": [
+            "dieleidendesjungenwerthers-0a471",
+            "dieleidendesjungenwerthers-92335",
+            "dieleidendesjungenwerthers-97dc8",
+            "dieleidendesjungenwerthers-e353c"
+        ]
+    },
+    {
+        "id": "197998",
+        "time": "1786369863556",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page470",
+        "action": "enter",
+        "value": "0.6197",
+        "words": "43",
+        "elementids": [
+            "dieleidendesjungenwerthers-972e2",
+            "dieleidendesjungenwerthers-97dc8",
+            "dieleidendesjungenwerthers-b0121",
+            "dieleidendesjungenwerthers-d1809",
+            "dieleidendesjungenwerthers-f2fb4"
+        ]
+    },
+    {
+        "id": "197999",
+        "time": "1786369875269",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page471",
+        "action": "enter",
+        "value": "0.6211",
+        "words": "46",
+        "elementids": [
+            "dieleidendesjungenwerthers-19e1a",
+            "dieleidendesjungenwerthers-67c84",
+            "dieleidendesjungenwerthers-972e2"
+        ]
+    },
+    {
+        "id": "198000",
+        "time": "1786369959941",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "mindwandering",
+        "action": "close",
+        "value": "reject",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198001",
+        "time": "1786370041472",
+        "appid": "8e2632517cd755e374fe18914abe4551",
+        "session": "vjF7z",
+        "bereich": "reader_dieleidendesjungenwerthers",
+        "item": "page472",
+        "action": "leave",
+        "value": "0.6197",
+        "words": "46",
+        "elementids": [
+            "dieleidendesjungenwerthers-19e1a",
+            "dieleidendesjungenwerthers-67c84",
+            "dieleidendesjungenwerthers-972e2"
+        ]
+    }
+]
