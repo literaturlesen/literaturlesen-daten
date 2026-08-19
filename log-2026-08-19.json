@@ -1,0 +1,359 @@
+[
+    {
+        "id": "198079",
+        "time": "1787115517006",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198080",
+        "time": "1787115517047",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "",
+        "action": "enter",
+        "value": "dasjahrderseele",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198081",
+        "time": "1787115517623",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page1",
+        "action": "enter",
+        "value": "0.0417",
+        "words": "27",
+        "elementids": [
+            "dasjahrderseele-3d458",
+            "dasjahrderseele-7ebe7",
+            "dasjahrderseele-805a1",
+            "dasjahrderseele-8950a",
+            "dasjahrderseele-9bb22",
+            "dasjahrderseele-c124e",
+            "dasjahrderseele-cfedc",
+            "dasjahrderseele-graphic-71e46"
+        ]
+    },
+    {
+        "id": "198082",
+        "time": "1787115521270",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0625",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1c123",
+            "dasjahrderseele-28a66",
+            "dasjahrderseele-888ff",
+            "dasjahrderseele-a7e4d",
+            "dasjahrderseele-cfedc-2",
+            "dasjahrderseele-e7fc9",
+            "dasjahrderseele-graphic-6d2c8"
+        ]
+    },
+    {
+        "id": "198083",
+        "time": "1787115529963",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "location",
+        "action": "set",
+        "value": "ort-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198084",
+        "time": "1787115532554",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page3",
+        "action": "enter",
+        "value": "0.0833",
+        "words": "29",
+        "elementids": [
+            "dasjahrderseele-21d2b",
+            "dasjahrderseele-690e3",
+            "dasjahrderseele-91641",
+            "dasjahrderseele-b2acb",
+            "dasjahrderseele-cfedc-3",
+            "dasjahrderseele-facac",
+            "dasjahrderseele-graphic-049ba"
+        ]
+    },
+    {
+        "id": "198085",
+        "time": "1787115539985",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page4",
+        "action": "enter",
+        "value": "0.1042",
+        "words": "28",
+        "elementids": [
+            "dasjahrderseele-09d44",
+            "dasjahrderseele-43172",
+            "dasjahrderseele-492ca",
+            "dasjahrderseele-90d19",
+            "dasjahrderseele-cfedc-4",
+            "dasjahrderseele-fee53",
+            "dasjahrderseele-graphic-5b3b1"
+        ]
+    },
+    {
+        "id": "198086",
+        "time": "1787115544186",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page5",
+        "action": "enter",
+        "value": "0.125",
+        "words": "31",
+        "elementids": [
+            "dasjahrderseele-077b5",
+            "dasjahrderseele-1502e",
+            "dasjahrderseele-15790",
+            "dasjahrderseele-74160",
+            "dasjahrderseele-cfedc-5",
+            "dasjahrderseele-dbb9c",
+            "dasjahrderseele-graphic-cb3ed"
+        ]
+    },
+    {
+        "id": "198087",
+        "time": "1787115545352",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page6",
+        "action": "enter",
+        "value": "0.1458",
+        "words": "24",
+        "elementids": [
+            "dasjahrderseele-63761",
+            "dasjahrderseele-8566c",
+            "dasjahrderseele-ab195",
+            "dasjahrderseele-cfedc-6",
+            "dasjahrderseele-ee30d",
+            "dasjahrderseele-graphic-d914f"
+        ]
+    },
+    {
+        "id": "198088",
+        "time": "1787115546138",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.1667",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1a07a",
+            "dasjahrderseele-72cac",
+            "dasjahrderseele-8cd36",
+            "dasjahrderseele-b175d",
+            "dasjahrderseele-cfedc-7",
+            "dasjahrderseele-d04aa",
+            "dasjahrderseele-graphic-deb39"
+        ]
+    },
+    {
+        "id": "198089",
+        "time": "1787115547068",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page8",
+        "action": "enter",
+        "value": "0.1875",
+        "words": "23",
+        "elementids": [
+            "dasjahrderseele-13993",
+            "dasjahrderseele-6c6d0",
+            "dasjahrderseele-a5081",
+            "dasjahrderseele-cfedc-8",
+            "dasjahrderseele-f80bd",
+            "dasjahrderseele-graphic-6335b"
+        ]
+    },
+    {
+        "id": "198090",
+        "time": "1787115547664",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_dasjahrderseele",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.1667",
+        "words": "32",
+        "elementids": [
+            "dasjahrderseele-1a07a",
+            "dasjahrderseele-72cac",
+            "dasjahrderseele-8cd36",
+            "dasjahrderseele-b175d",
+            "dasjahrderseele-cfedc-7",
+            "dasjahrderseele-d04aa",
+            "dasjahrderseele-graphic-deb39"
+        ]
+    },
+    {
+        "id": "198091",
+        "time": "1787115556366",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "ueber-textauswahl",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198092",
+        "time": "1787115565076",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198093",
+        "time": "1787115570582",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198094",
+        "time": "1787115580558",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_antonreiser",
+        "item": "",
+        "action": "enter",
+        "value": "antonreiser",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198095",
+        "time": "1787115581856",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_antonreiser",
+        "item": "page68",
+        "action": "enter",
+        "value": "0.0548",
+        "words": "105",
+        "elementids": [
+            "antonreiser-153dd",
+            "antonreiser-1feef",
+            "antonreiser-a9a44"
+        ]
+    },
+    {
+        "id": "198096",
+        "time": "1787115582159",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_antonreiser",
+        "item": "page69",
+        "action": "enter",
+        "value": "0.0556",
+        "words": "94",
+        "elementids": [
+            "antonreiser-045ef",
+            "antonreiser-0cf71",
+            "antonreiser-1f3b4",
+            "antonreiser-2b1e2",
+            "antonreiser-c1b5f"
+        ]
+    },
+    {
+        "id": "198097",
+        "time": "1787115586293",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "reader_antonreiser",
+        "item": "location",
+        "action": "set",
+        "value": "ort-4",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198098",
+        "time": "1787115588505",
+        "appid": "c042531909ee1fae1a58d78457c73865",
+        "session": "5FoDz",
+        "bereich": "fifty-saetze",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198099",
+        "time": "1787169802133",
+        "appid": "86c672f6d044a9eda47a8e06685ec24f",
+        "session": "ivMyr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198100",
+        "time": "1787169805054",
+        "appid": "86c672f6d044a9eda47a8e06685ec24f",
+        "session": "ivMyr",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198101",
+        "time": "1787169806342",
+        "appid": "86c672f6d044a9eda47a8e06685ec24f",
+        "session": "ivMyr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    }
+]
