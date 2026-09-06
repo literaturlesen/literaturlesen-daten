@@ -1,0 +1,182 @@
+[
+    {
+        "id": "198988",
+        "time": "1788656972930",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "reader_lenz",
+        "item": "",
+        "action": "enter",
+        "value": "lenz",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198989",
+        "time": "1788656972906",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198990",
+        "time": "1788656973766",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "reader_lenz",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.6049",
+        "words": "111",
+        "elementids": [
+            "lenz-190c8",
+            "lenz-1e0ba",
+            "lenz-28e21",
+            "lenz-2aaef",
+            "lenz-2c5aa",
+            "lenz-3f683",
+            "lenz-6a7e9",
+            "lenz-c2721",
+            "lenz-c5dcc"
+        ]
+    },
+    {
+        "id": "198991",
+        "time": "1788656975084",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "reader_lenz",
+        "item": "page49",
+        "action": "enter",
+        "value": "0.6173",
+        "words": "137",
+        "elementids": [
+            "lenz-13285",
+            "lenz-22d6f",
+            "lenz-2c5aa",
+            "lenz-337ed",
+            "lenz-ba6dc",
+            "lenz-cfb63",
+            "lenz-e39d6"
+        ]
+    },
+    {
+        "id": "198992",
+        "time": "1788656975348",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "reader_lenz",
+        "item": "page48",
+        "action": "enter",
+        "value": "0.6049",
+        "words": "111",
+        "elementids": [
+            "lenz-190c8",
+            "lenz-1e0ba",
+            "lenz-28e21",
+            "lenz-2aaef",
+            "lenz-2c5aa",
+            "lenz-3f683",
+            "lenz-6a7e9",
+            "lenz-c2721",
+            "lenz-c5dcc"
+        ]
+    },
+    {
+        "id": "198993",
+        "time": "1788656983358",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "reader_lenz",
+        "item": "location",
+        "action": "set",
+        "value": "ort-6",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198994",
+        "time": "1788656987099",
+        "appid": "3cb28335d9de403ce369349c3a3892f7",
+        "session": "3uaGy",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198995",
+        "time": "1788730144488",
+        "appid": "53e5fa9a7244ab3d88d224dba5541367",
+        "session": "HbCLr",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198996",
+        "time": "1788730144507",
+        "appid": "53e5fa9a7244ab3d88d224dba5541367",
+        "session": "HbCLr",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "",
+        "action": "enter",
+        "value": "dieaufzeichnungendesmaltelauridsbrigge",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "198997",
+        "time": "1788730145273",
+        "appid": "53e5fa9a7244ab3d88d224dba5541367",
+        "session": "HbCLr",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page7",
+        "action": "enter",
+        "value": "0.0146",
+        "words": "118",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-038a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-14fea",
+            "dieaufzeichnungendesmaltelauridsbrigge-23038",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ab55",
+            "dieaufzeichnungendesmaltelauridsbrigge-7defc",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b50c",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a75b",
+            "dieaufzeichnungendesmaltelauridsbrigge-bc13c",
+            "dieaufzeichnungendesmaltelauridsbrigge-c1040"
+        ]
+    },
+    {
+        "id": "198998",
+        "time": "1788730150971",
+        "appid": "53e5fa9a7244ab3d88d224dba5541367",
+        "session": "HbCLr",
+        "bereich": "reader_dieaufzeichnungendesmaltelauridsbrigge",
+        "item": "page8",
+        "action": "leave",
+        "value": "0.0128",
+        "words": "118",
+        "elementids": [
+            "dieaufzeichnungendesmaltelauridsbrigge-038a1",
+            "dieaufzeichnungendesmaltelauridsbrigge-14fea",
+            "dieaufzeichnungendesmaltelauridsbrigge-23038",
+            "dieaufzeichnungendesmaltelauridsbrigge-3ab55",
+            "dieaufzeichnungendesmaltelauridsbrigge-7defc",
+            "dieaufzeichnungendesmaltelauridsbrigge-8b50c",
+            "dieaufzeichnungendesmaltelauridsbrigge-9a75b",
+            "dieaufzeichnungendesmaltelauridsbrigge-bc13c",
+            "dieaufzeichnungendesmaltelauridsbrigge-c1040"
+        ]
+    }
+]
