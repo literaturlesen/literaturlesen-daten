@@ -1,0 +1,68 @@
+[
+    {
+        "id": "199867",
+        "time": "1789338355148",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "gX3ka",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "199868",
+        "time": "1789338355161",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "gX3ka",
+        "bereich": "reader_meinblauesklavier",
+        "item": "",
+        "action": "enter",
+        "value": "meinblauesklavier",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "199869",
+        "time": "1789338355726",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "gX3ka",
+        "bereich": "reader_meinblauesklavier",
+        "item": "page37",
+        "action": "enter",
+        "value": "0.9744",
+        "words": "25",
+        "elementids": [
+            "meinblauesklavier-0728c",
+            "meinblauesklavier-2b85e",
+            "meinblauesklavier-e451a",
+            "meinblauesklavier-e5d2c"
+        ]
+    },
+    {
+        "id": "199870",
+        "time": "1789338356906",
+        "appid": "6bb870a8c71ed6c42bd8e2013945da64",
+        "session": "gX3ka",
+        "bereich": "reader_meinblauesklavier",
+        "item": "page36",
+        "action": "enter",
+        "value": "0.9487",
+        "words": "72",
+        "elementids": [
+            "meinblauesklavier-09aa4",
+            "meinblauesklavier-31cf0",
+            "meinblauesklavier-41d0f",
+            "meinblauesklavier-56be1",
+            "meinblauesklavier-5b268",
+            "meinblauesklavier-65726",
+            "meinblauesklavier-6e8c9",
+            "meinblauesklavier-b20f8",
+            "meinblauesklavier-bbcd3",
+            "meinblauesklavier-c0aec",
+            "meinblauesklavier-d37d7",
+            "meinblauesklavier-e6e61"
+        ]
+    }
+]
