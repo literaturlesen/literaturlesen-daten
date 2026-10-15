@@ -1,0 +1,88 @@
+[
+    {
+        "id": "200841",
+        "time": "1792063804499",
+        "appid": "aff10d57d9f21685e8a32f51753d020b",
+        "session": "tujCR",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200842",
+        "time": "1792063811192",
+        "appid": "aff10d57d9f21685e8a32f51753d020b",
+        "session": "tujCR",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200843",
+        "time": "1792096622299",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "oz9QS",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200844",
+        "time": "1792096622310",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "oz9QS",
+        "bereich": "reader_woyzeck",
+        "item": "",
+        "action": "enter",
+        "value": "woyzeck",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200845",
+        "time": "1792096622944",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "oz9QS",
+        "bereich": "reader_woyzeck",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0196",
+        "words": "84",
+        "elementids": [
+            "woyzeck-57d4e",
+            "woyzeck-5d4ec",
+            "woyzeck-68b45",
+            "woyzeck-9d43c",
+            "woyzeck-cce1c",
+            "woyzeck-f02f6"
+        ]
+    },
+    {
+        "id": "200846",
+        "time": "1792096635776",
+        "appid": "536cad72f0d438934c7721ef7ebdd8e5",
+        "session": "oz9QS",
+        "bereich": "reader_woyzeck",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.0131",
+        "words": "84",
+        "elementids": [
+            "woyzeck-57d4e",
+            "woyzeck-5d4ec",
+            "woyzeck-68b45",
+            "woyzeck-9d43c",
+            "woyzeck-cce1c",
+            "woyzeck-f02f6"
+        ]
+    }
+]
