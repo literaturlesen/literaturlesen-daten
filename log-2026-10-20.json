@@ -1,0 +1,220 @@
+[
+    {
+        "id": "200900",
+        "time": "1792479437223",
+        "appid": "b64626ad8feae3dc91584daba0e1c84f",
+        "session": "qDv4O",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200901",
+        "time": "1792479437241",
+        "appid": "b64626ad8feae3dc91584daba0e1c84f",
+        "session": "qDv4O",
+        "bereich": "reader_diepiccolomini",
+        "item": "",
+        "action": "enter",
+        "value": "diepiccolomini",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200902",
+        "time": "1792479438011",
+        "appid": "b64626ad8feae3dc91584daba0e1c84f",
+        "session": "qDv4O",
+        "bereich": "reader_diepiccolomini",
+        "item": "page155",
+        "action": "enter",
+        "value": "0.5288",
+        "words": "69",
+        "elementids": [
+            "diepiccolomini-04d65",
+            "diepiccolomini-18456",
+            "diepiccolomini-2b021",
+            "diepiccolomini-2b6c2",
+            "diepiccolomini-453a4",
+            "diepiccolomini-4b4b3",
+            "diepiccolomini-4b6fa",
+            "diepiccolomini-4dedb",
+            "diepiccolomini-5272e",
+            "diepiccolomini-77fc7",
+            "diepiccolomini-7c253",
+            "diepiccolomini-90af1",
+            "diepiccolomini-b3825",
+            "diepiccolomini-c001a",
+            "diepiccolomini-cc355",
+            "diepiccolomini-e4b20",
+            "diepiccolomini-ed48d"
+        ]
+    },
+    {
+        "id": "200903",
+        "time": "1792479444908",
+        "appid": "cfb62889b2a87f0b9e5bf36926eaed7d",
+        "session": "nKdAp",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200904",
+        "time": "1792479472212",
+        "appid": "cfb62889b2a87f0b9e5bf36926eaed7d",
+        "session": "nKdAp",
+        "bereich": "datenschutz-bestaetigen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200905",
+        "time": "1792479474322",
+        "appid": "b64626ad8feae3dc91584daba0e1c84f",
+        "session": "qDv4O",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200906",
+        "time": "1792479473817",
+        "appid": "cfb62889b2a87f0b9e5bf36926eaed7d",
+        "session": "nKdAp",
+        "bereich": "fragebogen",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200907",
+        "time": "1792479476877",
+        "appid": "cfb62889b2a87f0b9e5bf36926eaed7d",
+        "session": "nKdAp",
+        "bereich": "home",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200908",
+        "time": "1792479498075",
+        "appid": "b64626ad8feae3dc91584daba0e1c84f",
+        "session": "qDv4O",
+        "bereich": "zu-den-texten",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200909",
+        "time": "1792482198649",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "1VHiB",
+        "bereich": "start",
+        "item": "",
+        "action": "enter",
+        "value": "",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200910",
+        "time": "1792482198662",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "1VHiB",
+        "bereich": "reader_derschimmelreiter",
+        "item": "",
+        "action": "enter",
+        "value": "derschimmelreiter",
+        "words": "0",
+        "elementids": []
+    },
+    {
+        "id": "200911",
+        "time": "1792482199621",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "1VHiB",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page2",
+        "action": "enter",
+        "value": "0.0105",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "200912",
+        "time": "1792482243650",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "1VHiB",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "200913",
+        "time": "1792482544025",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "rc3lo",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "reenter",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    },
+    {
+        "id": "200914",
+        "time": "1792482546875",
+        "appid": "30ab2d0fb6fe0ae9ae598cf69f014532",
+        "session": "rc3lo",
+        "bereich": "reader_derschimmelreiter",
+        "item": "page3",
+        "action": "leave",
+        "value": "0.007",
+        "words": "135",
+        "elementids": [
+            "derschimmelreiter-27236",
+            "derschimmelreiter-682c3",
+            "derschimmelreiter-790a8",
+            "derschimmelreiter-fad11"
+        ]
+    }
+]
